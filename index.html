@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI 智能新聞快報</title>
+    <link rel="manifest" href="manifest.json">
+    <link rel="apple-touch-icon" href="https://cdn-icons-png.flaticon.com/512/2965/2965879.png">
+    <meta name="theme-color" content="#1DB446">
+    <style>
+        /* === 頁面基礎設定 (模仿 App 質感) === */
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+            background-color: #f2f2f2;
+            margin: 0;
+            padding: 20px;
+            color: #333;
+        }
+        .container {
+            max-width: 600px;
+            margin: 0 auto;
+            background-color: #fff;
+            border-radius: 12px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+            overflow: hidden;
+            padding-bottom: 20px;
+        }
+        
+        /* === 標題區 === */
+        .header {
+            background-color: #fff;
+            padding: 20px;
+            border-bottom: 1px solid #eee;
+        }
+        .header h1 {
+            margin: 0;
+            font-size: 1.2rem;
+            color: #888;
+        }
+        .header .date {
+            font-size: 1.5rem;
+            font-weight: bold;
+            color: #333;
+            margin-top: 5px;
+        }
+
+        /* === AI 摘要區塊 === */
+        .summary-box {
+            background-color: #f0f8ff;
+            margin: 20px;
+            padding: 15px;
+            border-radius: 10px;
+            border-left: 5px solid #1DB446;
+        }
+        .summary-title {
+            color: #1DB446;
+            font-weight: bold;
+            margin-bottom: 10px;
+            display: flex;
+            align-items: center;
+        }
+        .summary-content {
+            font-size: 1rem;
+            line-height: 1.6;
+            color: #555;
+            white-space: pre-line; /* 保留換行 */
+        }
+
+        /* === 新聞列表 === */
+        .news-list {
+            padding: 0 20px;
+        }
+        .section-title {
+            font-size: 1.2rem;
+            font-weight: bold;
+            margin: 20px 20px 10px 20px;
+            color: #333;
+        }
+        .news-item {
+            display: flex;
+            align-items: center;
+            padding: 15px 0;
+            border-bottom: 1px solid #f0f0f0;
+            text-decoration: none;
+            color: inherit;
+        }
+        .news-item:last-child {
+            border-bottom: none;
+        }
+        .news-index {
+            font-size: 1.2rem;
+            font-weight: bold;
+            color: #ccc;
+            margin-right: 15px;
+            min-width: 25px;
+        }
+        .news-title {
+            font-size: 1rem;
+            line-height: 1.4;
+            color: #111;
+            flex: 1;
+        }
+        
+        /* === 載入中動畫 === */
+        #loading {
+            text-align: center;
+            padding: 50px;
+            color: #888;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <div id="loading">📡 正在載入今日新聞...</div>
+        <div id="app-content" style="display: none;">
+            <div class="header">
+                <h1>每日快報</h1>
+                <div class="date" id="date-display">--/-- --:--</div>
+            </div>
+
+            <div class="summary-box">
+                <div class="summary-title">🤖 AI 重點摘要</div>
+                <div class="summary-content" id="summary-display"></div>
+            </div>
+
+            <div class="section-title">🔥 熱門頭條</div>
+            <div class="news-list" id="news-list">
+                </div>
+        </div>
+    </div>
+
+    <script>
+        // 核心邏輯：去讀取 JSON 並顯示在畫面上
+        fetch('./latest_news.json')
+            .then(response => {
+                if (!response.ok) throw new Error("找不到資料");
+                return response.json();
+            })
+            .then(data => {
+                // 1. 隱藏載入中，顯示內容
+                document.getElementById('loading').style.display = 'none';
+                document.getElementById('app-content').style.display = 'block';
+
+                // 2. 填入時間
+                document.getElementById('date-display').textContent = data.updated_at;
+
+                // 3. 填入摘要
+                document.getElementById('summary-display').textContent = data.summary;
+
+                // 4. 填入新聞列表
+                const listContainer = document.getElementById('news-list');
+                data.news.forEach((item, index) => {
+                    const link = document.createElement('a');
+                    link.className = 'news-item';
+                    link.href = item.link;
+                    link.target = '_blank'; // 在新視窗開啟
+                    link.innerHTML = `
+                        <div class="news-index">${index + 1}.</div>
+                        <div class="news-title">${item.title}</div>
+                    `;
+                    listContainer.appendChild(link);
+                });
+            })
+            .catch(error => {
+                document.getElementById('loading').innerHTML = `⚠️ 讀取失敗：<br>${error.message}`;
+            });
+    </script>
+</body>
+</html>
