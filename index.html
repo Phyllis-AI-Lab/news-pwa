@@ -8,140 +8,165 @@
     <link rel="apple-touch-icon" href="https://cdn-icons-png.flaticon.com/512/2965/2965879.png">
     <meta name="theme-color" content="#1DB446">
     <style>
-        body { font-family: -apple-system, sans-serif; background-color: #f2f2f2; margin: 0; padding: 20px; color: #333; }
-        .container { max-width: 600px; margin: 0 auto; background-color: #fff; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); overflow: hidden; padding-bottom: 20px; }
+        /* === 頁面基礎設定 (模仿 App 質感) === */
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+            background-color: #f2f2f2;
+            margin: 0;
+            padding: 20px;
+            color: #333;
+        }
+        .container {
+            max-width: 600px;
+            margin: 0 auto;
+            background-color: #fff;
+            border-radius: 12px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+            overflow: hidden;
+            padding-bottom: 20px;
+        }
         
-        /* 頂部導覽列 */
-        .header { background-color: #fff; padding: 20px; border-bottom: 1px solid #eee; display: flex; justify-content: space-between; align-items: center; }
-        .title-group h1 { margin: 0; font-size: 1.2rem; color: #888; }
-        .title-group .date { font-size: 1.4rem; font-weight: bold; color: #333; margin-top: 5px; }
-        
-        /* 控制區 (日期選擇 + 語言切換) */
-        .controls { display: flex; gap: 10px; }
-        select { padding: 5px; border-radius: 5px; border: 1px solid #ddd; background: #f9f9f9; font-size: 0.9rem; }
-        .lang-btn { padding: 5px 10px; border-radius: 5px; border: 1px solid #1DB446; background: #fff; color: #1DB446; font-size: 0.9rem; cursor: pointer; }
-        .lang-btn.active { background: #1DB446; color: #fff; }
+        /* === 標題區 === */
+        .header {
+            background-color: #fff;
+            padding: 20px;
+            border-bottom: 1px solid #eee;
+        }
+        .header h1 {
+            margin: 0;
+            font-size: 1.2rem;
+            color: #888;
+        }
+        .header .date {
+            font-size: 1.5rem;
+            font-weight: bold;
+            color: #333;
+            margin-top: 5px;
+        }
 
-        .summary-box { background-color: #f0f8ff; margin: 20px; padding: 15px; border-radius: 10px; border-left: 5px solid #1DB446; }
-        .summary-title { color: #1DB446; font-weight: bold; margin-bottom: 10px; display: flex; justify-content: space-between; }
-        .summary-content { font-size: 1rem; line-height: 1.6; color: #555; white-space: pre-line; }
+        /* === AI 摘要區塊 === */
+        .summary-box {
+            background-color: #f0f8ff;
+            margin: 20px;
+            padding: 15px;
+            border-radius: 10px;
+            border-left: 5px solid #1DB446;
+        }
+        .summary-title {
+            color: #1DB446;
+            font-weight: bold;
+            margin-bottom: 10px;
+            display: flex;
+            align-items: center;
+        }
+        .summary-content {
+            font-size: 1rem;
+            line-height: 1.6;
+            color: #555;
+            white-space: pre-line; /* 保留換行 */
+        }
+
+        /* === 新聞列表 === */
+        .news-list {
+            padding: 0 20px;
+        }
+        .section-title {
+            font-size: 1.2rem;
+            font-weight: bold;
+            margin: 20px 20px 10px 20px;
+            color: #333;
+        }
+        .news-item {
+            display: flex;
+            align-items: center;
+            padding: 15px 0;
+            border-bottom: 1px solid #f0f0f0;
+            text-decoration: none;
+            color: inherit;
+        }
+        .news-item:last-child {
+            border-bottom: none;
+        }
+        .news-index {
+            font-size: 1.2rem;
+            font-weight: bold;
+            color: #ccc;
+            margin-right: 15px;
+            min-width: 25px;
+        }
+        .news-title {
+            font-size: 1rem;
+            line-height: 1.4;
+            color: #111;
+            flex: 1;
+        }
         
-        .section-title { font-size: 1.2rem; font-weight: bold; margin: 20px; color: #333; }
-        .news-list { padding: 0 20px; }
-        .news-item { display: flex; align-items: center; padding: 15px 0; border-bottom: 1px solid #f0f0f0; text-decoration: none; color: inherit; }
-        .news-index { font-size: 1.2rem; font-weight: bold; color: #ccc; margin-right: 15px; min-width: 25px; }
-        .news-title { font-size: 1rem; line-height: 1.4; color: #111; flex: 1; }
-        #loading { text-align: center; padding: 50px; color: #888; }
+        /* === 載入中動畫 === */
+        #loading {
+            text-align: center;
+            padding: 50px;
+            color: #888;
+        }
     </style>
 </head>
 <body>
+
     <div class="container">
-        <div id="loading">📡 資料載入中...</div>
+        <div id="loading">📡 正在載入今日新聞...</div>
         <div id="app-content" style="display: none;">
             <div class="header">
-                <div class="title-group">
-                    <h1 id="page-title">每日快報</h1>
-                    <div class="date" id="date-display">--/--</div>
-                </div>
-                <div class="controls">
-                    <select id="history-select" onchange="loadNews(this.value)"></select>
-                    <button class="lang-btn" id="lang-toggle" onclick="toggleLang()">EN</button>
-                </div>
+                <h1>每日快報</h1>
+                <div class="date" id="date-display">--/-- --:--</div>
             </div>
 
             <div class="summary-box">
-                <div class="summary-title">
-                    <span id="summary-label">🤖 AI 重點摘要</span>
-                </div>
+                <div class="summary-title">🤖 AI 重點摘要</div>
                 <div class="summary-content" id="summary-display"></div>
             </div>
 
-            <div class="section-title" id="news-label">🔥 熱門頭條</div>
-            <div class="news-list" id="news-list"></div>
+            <div class="section-title">🔥 熱門頭條</div>
+            <div class="news-list" id="news-list">
+                </div>
         </div>
     </div>
 
     <script>
-        let currentData = null;
-        let currentLang = 'zh'; // 預設中文
+        // 核心邏輯：去讀取 JSON 並顯示在畫面上
+        // 加上時間戳記避免快取
+        fetch('./latest_news.json?t=' + new Date().getTime())
+            .then(response => {
+                if (!response.ok) throw new Error("找不到資料");
+                return response.json();
+            })
+            .then(data => {
+                // 1. 隱藏載入中，顯示內容
+                document.getElementById('loading').style.display = 'none';
+                document.getElementById('app-content').style.display = 'block';
 
-        // 1. 初始化：載入歷史清單
-        fetch('./history.json?t=' + Date.now())
-            .then(res => res.ok ? res.json() : [])
-            .then(dates => {
-                const select = document.getElementById('history-select');
-                if (dates.length > 0) {
-                    dates.forEach(date => {
-                        const option = document.createElement('option');
-                        option.value = date + '.json';
-                        option.text = date;
-                        select.add(option);
-                    });
-                    // 載入最新一筆
-                    loadNews(dates[0] + '.json');
-                } else {
-                    // 若無歷史檔，嘗試載入 latest_news.json
-                    loadNews('latest_news.json');
-                }
-            });
+                // 2. 填入時間
+                document.getElementById('date-display').textContent = data.updated_at;
 
-        // 2. 載入新聞資料
-        function loadNews(filename) {
-            document.getElementById('loading').style.display = 'block';
-            document.getElementById('app-content').style.display = 'none';
+                // 3. 填入摘要 (這裡改回直接讀取 data.summary)
+                document.getElementById('summary-display').textContent = data.summary;
 
-            fetch('./' + filename + '?t=' + Date.now())
-                .then(res => res.json())
-                .then(data => {
-                    currentData = data;
-                    renderPage();
-                    document.getElementById('loading').style.display = 'none';
-                    document.getElementById('app-content').style.display = 'block';
-                })
-                .catch(err => {
-                    document.getElementById('loading').innerText = "無法讀取資料";
+                // 4. 填入新聞列表
+                const listContainer = document.getElementById('news-list');
+                listContainer.innerHTML = ''; // 清空舊內容
+                data.news.forEach((item, index) => {
+                    const link = document.createElement('a');
+                    link.className = 'news-item';
+                    link.href = item.link;
+                    link.target = '_blank'; // 在新視窗開啟
+                    link.innerHTML = `
+                        <div class="news-index">${index + 1}.</div>
+                        <div class="news-title">${item.title}</div>
+                    `;
+                    listContainer.appendChild(link);
                 });
-        }
-
-        // 3. 渲染頁面 (支援語言切換)
-        function renderPage() {
-            if (!currentData) return;
-            
-            // 時間與標題
-            document.getElementById('date-display').textContent = currentData.updated_at;
-            
-            // 摘要內容
-            const summaryText = currentLang === 'zh' ? currentData.summary.zh : currentData.summary.en;
-            document.getElementById('summary-display').textContent = summaryText;
-
-            // UI 文字切換
-            document.getElementById('page-title').textContent = currentLang === 'zh' ? '每日快報' : 'Daily News';
-            document.getElementById('summary-label').textContent = currentLang === 'zh' ? '🤖 AI 重點摘要' : '🤖 AI Summary';
-            document.getElementById('news-label').textContent = currentLang === 'zh' ? '🔥 熱門頭條' : '🔥 Top Headlines';
-            
-            // 按鈕狀態
-            const btn = document.getElementById('lang-toggle');
-            btn.textContent = currentLang === 'zh' ? 'EN' : '中';
-            btn.classList.toggle('active', currentLang === 'en');
-
-            // 新聞列表
-            const list = document.getElementById('news-list');
-            list.innerHTML = '';
-            currentData.news.forEach((item, i) => {
-                const a = document.createElement('a');
-                a.className = 'news-item'; 
-                a.href = item.link; 
-                a.target = '_blank';
-                a.innerHTML = `<div class="news-index">${i+1}.</div><div class="news-title">${item.title}</div>`;
-                list.appendChild(a);
+            })
+            .catch(error => {
+                document.getElementById('loading').innerHTML = `⚠️ 讀取失敗：<br>${error.message}`;
             });
-        }
-
-        // 4. 切換語言
-        function toggleLang() {
-            currentLang = currentLang === 'zh' ? 'en' : 'zh';
-            renderPage();
-        }
     </script>
 </body>
 </html>
