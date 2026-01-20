@@ -1,11 +1,15 @@
 {
-    "updated_at": "2026-01-20 13:46",
-    "date": "2026-01-20",
-    "summary": {
-        "zh": "暫無摘要",
-        "en": "No summary available."
-    },
+    "updated_at": "2026-01-20 13:49",
+    "summary": "午安，為您帶來今日午間重點快報\n\n【天氣警報】\n北北基宜發布大雨特報，入夜後氣溫驟降，明日北部低溫下探10度，請民眾注意保暖。\n\n【社會動態】\n中天主播林宸佑涉共諜案，在押五名軍人軍階與單位曝光。趙少康大罷免亮票案，法官輕判拘役並可緩刑，引發爭議。\n\n【政治焦點】\n國防部公開1.25兆元特別預算，將籌購七類武器。高市早苗宣布解散國會，再度提及「台灣有事」。 鄭麗文稱台中市長提名若協調不成將初選，楊瓊瓔則表示回歸黨的機制。 針對社宅議題，四都反駁社宅沒有減速，甚至超前。\n\n【藍白動態】\n不滿柯文哲怒嗆國民黨，小草爆氣怒斥柯文哲講話白爛。\n\n【國際情勢】\n聯合報社論指出，若美對等關稅被判違憲，台灣割地賠款將成自辱。\n",
     "news": [
+        {
+            "title": "北北基宜大雨特報！ 今天越晚越冷、明起北部低溫下探10度",
+            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5MdUxPNkNfMy14Mk5TejVTNkxTcEZtUEVCVUZnNmo2VHJaeGVJQVNjSHk0bi1CbDVQT296U3FvaHkyUlRtYVdfRWxrS19RXzRqY2VVNFlRZDF5ZFhTOVhxT2UzNjnSAWpBVV95cUxQcDR5a1ZkMVZsaDVjcDZPMFhuaFMtbkQya2hlMXFBMnQ0MUlKMjVKcVRFdlVJa0gxb2xWZDQ5RDZacUprUkd4Q0g5S3ZWX09hMjJha2l0QWJodFVfNmVGRW1FM2NqRW1IWndn?oc=5"
+        },
+        {
+            "title": "中天主播林宸佑涉共諜案 在押5軍人軍階、服役單位曝光",
+            "link": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxPQnlXb2FBR1FnaXlIRzFHRmNwWmVrSE1jYmJFeVI4WU5IdWYyczVNdE9zcDEyUFFzR283d3MybzFaTXVrZUwyaWU2cG9qaXh0ZXFfMXZjV1BndnM4UE1aVk1INHFGT3ZxdkxEa1V3YzQ1bTVxdDFaT0xiZ2lNSzJBSGh2RzRxa042RkhMSGs3SXRvQjhjTWZ3MVdPODFiWW9UYlV0Y3dNek15ODBBbWZwbUlCQlhjbG95dU8zSWswUm9rUnhETU9PQVBIVkFFempwVFhXbzN5NTZud2RpZmNOUUd5S3BQM0V2LVpxZEl4VDdoODh6bmstSUNtRUlUVWRiYzhHc1NzUnotMkRCdlozbDJJb3RMNVdxR1ZqcURLLWNrSVZLWUZ0aExXS3QteExXVERNZm9ueWplVjliVFA5bUJEVWRkV1hvS1U3RUJvOEFqOVowbGs2RFQwZXpFc3B2MlFJRXpyVmM4MkE?oc=5"
+        },
         {
             "title": "輕判！趙少康大罷免「2次」亮票求重刑 法官判拘役還可緩刑| 法律前線| 社會",
             "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9KcllZRm1NQWx6aFZ5LTBVLWcyZGxWekJxWWZDNW1JQUV5bHVaNmVCdFVTVlJ5b2dLZEFoaUdLZ1VEOXlsNmNFeGZqdjdoMXc0?oc=5"
@@ -23,14 +27,6 @@
             "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE42UEtDeEVTSHU1dVJUc0JFdmZZS1pmZFg5dHdWZ25VcmdXYU1xZV8tcE1KbFRWc1dwQ1dHLXUyZmdQWTk1UXFGTkdTR1RCSkxzZVZ6cjJhSkVYdzNZTUpOYkVHZTFyQdIBa0FVX3lxTE9GLVBYRjJWTlh1MmtpeVp1U0hmZGlYcGppVkc5NjdMNDQtNkRuYzJWNVZncDRjZGx4X3dhWUxacEdlcDN2b0IyQXA3bTE4TmVteFpzaVZ0bWhIV0dWT2lwME5TbjlQOE5SbWZN?oc=5"
         },
         {
-            "title": "國旅住宿變貴是假象？觀光署曝房價「其實在下滑」：國人旅遊模式改變",
-            "link": "https://news.google.com/rss/articles/CBMipwNBVV95cUxPc0pUZUtCZzFIYzFvam8zcWhBOVhhN25xQ0RrYURBM2puRUxFNHhqTGxuX2toRTN4cVRDY1lKRkV1czlFQzBGUjlkc1NYT2w5dlF4Y3RvU2w0QThZOFp5NWJVNTNVVDBFRkZ0QWoxNW52UDN0cG91T2VtMldRTDVTS1pCM3ZSZXJVYUpKYjd5ZzM2aS15VDFxaHJJZzNLN3NSVzVFVnNMQVJIcldKNFI1SnJheExGbXNzWlQ1enM5UnZIcl9FZEUzUDdSWGE3OS00VnZ0LXlYMUdCTGFSQ0RIOVczSEJoQjN5N1VHNVlvUXpuaDNVQnh4SWVreV8weEtlNldiN2ltMGtFN1l5U0pnZTFIVFZpalhyWkdSb2dKeWV4bTFHSDlEb0RJdGZsQ1c1NVdaeUZvd182UGwzU3I2NGVuVWQ2YjN1dDJPLUx2SXFaTElGTkdfek1NbzU1MWthZmxBSzJBUTBXbENuWm0yeWxSUkRlaHJ6RXluRzRIcTNnU20wNXBPNU5mQ0ZmbG9XWC1uUW5ZS21qUnBnLTVyam1IUWZ3Qlk?oc=5"
-        },
-        {
-            "title": "逆轉！中配周滿芝為中國發展組織 原判無罪改判8年徒刑",
-            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ZOGpSREdRMEQxYUtsR2dTRy1NSXNuMzdOeldfTVNuZUluRlBVbW9vZDZMdUZqSXlxaldnczJvMGxPOVc5Wml4dUNvRjJlc2Y0ZzFkSWVsUW9nVGJjVTR3UU1UYVhuTVNV0gFuQVVfeXFMT2JjMEI3ejhrczQ3RUdZVko2VTF0TmZXOVd5YWhfSjNiMFdaeTdJZDFmeUUtdHgzVnNQWmRFSDVobnJ3ZWhRSUFuTzdMZ21jS3pGT2NoUmZWeW5JMjNZVmFTX25RMWM5SDRzd2tnUnc?oc=5"
-        },
-        {
             "title": "【重磅快評】蔣萬安又被擺一道 民進黨雅量僅及陳其邁？",
             "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9BY3BvS3FDRkd1cDM3YkZzNTVoOUFscGdwb1ZyaEV2WUZ5VGFYVkpZR1JIc0l1VW5xa055N1M1NTF0LWVMbm1menZxQlFGaklj?oc=5"
         },
@@ -43,8 +39,8 @@
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE43VXg4UGtVQktaNVVjaWdSMkllMEVLVmVNV284TVE4eTh3YjlBd2dibnJnaWMwcGFwWTlnSHMxMnU3Z01GQ1c3UWJ2MTRKalpSYUs0cDVEZ1ZTS1lsRmNWZDNselliT244QnfSAW9BVV95cUxNdTNKMkFCeVNPLVNEOEVBeU9GbGZzX00wQU8zU09ZRHpOdHltWWNCYkZHa0dwcUdMeVI3bjVZZnlha0pMblAxVDhDak10ZGZ1Ynd5b0RKZHIydV9pYWw0cm5ma2xOTTdFc2xvMDVMNjg?oc=5"
         },
         {
-            "title": "全台急凍最冷時間點曝 賈新興：探6度低溫 阿里山有降雪機率",
-            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBCT1B3OWJzYmI1TTVoeTJtYWhzcGlkc1lxajkyM2kxRktGZGFDRldZRmZ4d1VpTEtQMFBycmtyZ1gyYXJjYzNTR0t0NmFEREVE0gFWQVVfeXFMTjdjWVZCVkxiZVBwc2p3Q09POTY2Umx4c1dlMWw2ajBjdHkza1M5b2dNWF9fTkprTTY3d1RwQ3Y2WE1ISXNlc3FRMjVEd0U4UU5QejFsRkE?oc=5"
+            "title": "四都反嗆 社宅沒減速還超前",
+            "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQaTg2TDl5ZDRSOXRYaVExN21mVHN5OGxrb1lXblR4Vi1RRkdmTUhSclJnUkNtckphX0xMcHo3YnMyVDVMTWFHcDVLQ3phUFJyTGs0T3Z5amgyVl96MEtBdHlQMEJzdUQxQjF6NjBKUUE4VFJwaTdkazFkQWE5SlhqdEd3bmtVY2F6SXo0QXJDU2k2X0JKUjEwZzFoYWo4dXVNQjlsOFBwaU55a0tkdnVRTDVLUzZHMnRNal9PeFpxUE9RSThuWWRSbDk5TmthbmlOVDR0eFA4QzZhU1lubm5jZFhjczA?oc=5"
         }
     ]
 }
