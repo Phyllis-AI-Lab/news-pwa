@@ -1,11 +1,11 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-專案名稱：Google News AI 智能新聞秘書 (2026 旗艦版)
-核心升級：
-1. 啟用 Gemini 2.5 Flash (最新主力)
-2. 備援 Gemini 2.0 Flash (穩定正式版)
-3. 移除舊版與實驗版，確保額度與穩定性
+專案名稱：Google News AI 智能新聞秘書 (完美排版版)
+修改重點：
+1. Prompt 優化：嚴禁 AI 使用 Markdown 星號 (**)，讓標題更乾淨
+2. 維持 Gemini 2.5 / 2.0 旗艦模型陣容
+3. 保持自動備援與錯誤回報機制
 """
 import os
 import requests
@@ -41,7 +41,7 @@ def fetch_google_news():
         return []
 
 def get_gemini_summary(news_list):
-    """AI 摘要生成 (2026 旗艦模型版)"""
+    """AI 摘要生成 (去除星號版)"""
     if not GEMINI_API_KEY:
         return "❌ 錯誤：GitHub Secrets 未設定 GEMINI_API_KEY。"
 
@@ -59,22 +59,26 @@ def get_gemini_summary(news_list):
     else: greeting, period = "晚安", "今日晚間"
     opening = f"{greeting}，為您帶來{period}重點快報"
 
+    # 👇 這裡修改了 Prompt，嚴格禁止星號
     prompt = (
         f"以下是台灣今日熱門新聞標題：\n{titles_text}\n\n"
         f"請扮演專業主播，以『{opening}』作為開場白，"
         "為我生成一份「分段式」的重點快報，總字數約 250 字。"
         "⚠️ 分類要求：請根據新聞內容自然分類（例如：【政治焦點】、【財經動態】、【社會熱議】等）。"
-        "⚠️ 格式要求：段落之間空一行，語氣親切專業。"
+        "⚠️ 排版嚴格要求：\n"
+        "1. 類別標題請直接顯示，例如【政治焦點】，**嚴禁**在前後加上 ** 符號。\n"
+        "2. 不要使用任何 Markdown 粗體語法。\n"
+        "3. 段落之間空一行，語氣親切專業。"
     )
     
     client = genai.Client(api_key=GEMINI_API_KEY)
 
-    # 💎 2026 黃金陣容：根據您查到的權限清單排序
+    # 💎 2026 黃金陣容
     models_to_try = [
-        "gemini-2.5-flash",       # 第一順位：2026 主流極速版
-        "gemini-2.0-flash",       # 第二順位：超穩定正式版 (非 exp)
-        "gemini-2.0-flash-lite",  # 第三順位：輕量省流版
-        "gemini-3-flash-preview"  # 第四順位：嚐鮮預覽版
+        "gemini-2.5-flash",       
+        "gemini-2.0-flash",       
+        "gemini-2.0-flash-lite",  
+        "gemini-3-flash-preview"  
     ]
     
     last_error = ""
@@ -87,7 +91,9 @@ def get_gemini_summary(news_list):
                 contents=prompt
             )
             print(f"✅ 成功！由 [{model_name}] 完成摘要。")
-            return response.text
+            # 二次保險：如果 AI 還是不聽話加了星號，程式碼強制移除它
+            clean_text = response.text.replace("**", "")
+            return clean_text
         except Exception as e:
             last_error = str(e)
             print(f"⚠️ {model_name} 失敗，嘗試下一個...")
@@ -104,7 +110,6 @@ def send_flex_message(news_list, summary):
     
     flex = [{"type": "text", "text": f"📅 {tw_time} 新聞快報", "weight": "bold", "size": "md", "color": "#888888"}]
     
-    # 狀態顏色
     header_color = "#1DB446"
     text_color = "#555555"
     if "❌" in summary:
