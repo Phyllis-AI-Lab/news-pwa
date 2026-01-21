@@ -2,7 +2,7 @@ name: Daily News Bot
 
 on:
   schedule:
-    # 台灣時間 09, 12, 18, 21 點 [cite: 737, 946]
+    # 台灣時間 09, 12, 18, 21 點 [cite: 737]
     - cron: '0 1,4,10,13 * * *'
   workflow_dispatch:
 
@@ -24,16 +24,17 @@ jobs:
 
       - name: Run Bot
         env:
-          # ⚠️ 確保這裡的 Secrets 名稱與您設定的一致 [cite: 752-755]
+          # 🔐 嚴格對齊：請確保您的 Secret 名稱正確 [cite: 753-755]
           LINE_CHANNEL_ACCESS_TOKEN: ${{ secrets.LINE_CHANNEL_ACCESS_TOKEN }}
           LINE_USER_ID: ${{ secrets.LINE_USER_ID }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-        [cite_start]run: python main.py [cite: 756]
+        run: python main.py
 
       - name: Commit and Push PWA Data
         run: |
           git config --global user.name "GitHub Action"
           git config --global user.email "action@github.com"
           git add latest_news.json
+          # 如果沒有變動則略過 [cite: 762]
           git commit -m "🤖 Auto-update News: $(date)" || exit 0
-          git push [cite: 757-763]
+          git push [cite: 763]
