@@ -3,29 +3,41 @@ name: Daily News Bot
 on:
   schedule:
     # 設定台灣時間 09:00, 12:00, 18:00, 21:00
-    # 對應 UTC 時間為 01:00, 04:00, 10:00, 13:00 (減 8 小時)
+    # 對應 UTC 時間為 01:00, 04:00, 10:00, 13:00 [cite: 737, 946]
     - cron: '0 1,4,10,13 * * *'
-  workflow_dispatch: # 允許手動按按鈕測試
+  [cite_start]workflow_dispatch: # 允許手動測試執行 [cite: 738]
 
 jobs:
   run-bot:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
-        uses: actions/checkout@v3
+        [cite_start]uses: actions/checkout@v3 # 讀取目前的程式碼 [cite: 744]
 
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.10'
+          [cite_start]python-version: '3.10' # 設定 Python 環境 [cite: 748]
 
       - name: Install dependencies
         run: |
-          pip install requests google-genai
+          pip install requests google-genai # 安裝必要套件 [cite: 750]
 
       - name: Run Bot
         env:
+          # 注入您的 GitHub Secrets 金鑰 
           LINE_CHANNEL_ACCESS_TOKEN: ${{ secrets.LINE_CHANNEL_ACCESS_TOKEN }}
           LINE_USER_ID: ${{ secrets.LINE_USER_ID }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: python main.py
+
+      # ✨ [關鍵新增：網頁同步步驟]
+      # 此步驟會將 main.py 產生的 latest_news.json 存回 GitHub [cite: 757, 761]
+      - name: Commit and Push PWA Data
+        run: |
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
+          git add latest_news.json
+          # 如果資料沒變動則跳過，避免報錯 
+          git commit -m "🤖 Auto-update News: $(date)" || exit 0
+          git push # 推送至倉庫以更新網頁 [cite: 763]
