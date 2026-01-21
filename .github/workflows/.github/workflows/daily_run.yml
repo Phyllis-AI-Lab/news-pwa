@@ -1,0 +1,32 @@
+name: Daily News Bot
+
+on:
+  schedule:
+    # 設定台灣時間 09:00, 12:00, 18:00 (對應 UTC 01, 04, 10)
+    # GitHub 的主機也是 UTC 時間，所以要減 8 小時
+    - cron: '0 1,4,10 * * *'
+  workflow_dispatch: # 讓您可以手動按按鈕測試
+
+jobs:
+  run-bot:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: |
+          pip install requests google-genai
+
+      - name: Run Bot
+        env:
+          # 把保險箱裡的鑰匙拿出來給程式用
+          LINE_CHANNEL_ACCESS_TOKEN: ${{ secrets.LINE_CHANNEL_ACCESS_TOKEN }}
+          LINE_USER_ID: ${{ secrets.LINE_USER_ID }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python main.py
