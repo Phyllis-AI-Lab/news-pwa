@@ -2,7 +2,6 @@ name: Daily News Bot
 
 on:
   schedule:
-    # 台灣時間 09, 12, 18, 21 點 [cite: 737]
     - cron: '0 1,4,10,13 * * *'
   workflow_dispatch:
 
@@ -19,12 +18,10 @@ jobs:
           python-version: '3.10'
 
       - name: Install dependencies
-        run: |
-          pip install requests google-genai [cite: 750]
+        run: pip install requests google-genai
 
       - name: Run Bot
         env:
-          # 🔐 嚴格對齊：請確保您的 Secret 名稱正確 [cite: 753-755]
           LINE_CHANNEL_ACCESS_TOKEN: ${{ secrets.LINE_CHANNEL_ACCESS_TOKEN }}
           LINE_USER_ID: ${{ secrets.LINE_USER_ID }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
@@ -35,6 +32,5 @@ jobs:
           git config --global user.name "GitHub Action"
           git config --global user.email "action@github.com"
           git add latest_news.json
-          # 如果沒有變動則略過 [cite: 762]
-          git commit -m "🤖 Auto-update News: $(date)" || exit 0
-          git push [cite: 763]
+          git commit -m "🤖 Auto-update: $(date)" || exit 0
+          git push
