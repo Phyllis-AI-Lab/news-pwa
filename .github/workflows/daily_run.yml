@@ -2,9 +2,10 @@ name: Daily News Bot
 
 on:
   schedule:
-    # 設定台灣時間 09:00, 12:00, 18:00 (對應 UTC 01, 04, 10)
-   - cron: '0 1,4,10,13 * * *'
-  workflow_dispatch: # 讓您可以手動按按鈕測試
+    # 設定台灣時間 09:00, 12:00, 18:00, 21:00
+    # 對應 UTC 時間為 01:00, 04:00, 10:00, 13:00 (減 8 小時)
+    - cron: '0 1,4,10,13 * * *'
+  workflow_dispatch: # 允許手動按按鈕測試
 
 jobs:
   run-bot:
