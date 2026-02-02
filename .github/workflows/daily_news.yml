@@ -1,37 +1,45 @@
 name: AI News Bot Daily Sync
 on:
   schedule:
-    # 這裡的 Cron 對應台灣時間 09, 12, 18, 21 點 [cite: 737]
+    # 對應台灣時間 09, 12, 18, 21 點
     - cron: '0 1,4,10,13 * * *'
-  [cite_start]workflow_dispatch: # 允許手動測試執行 [cite: 738]
+  workflow_dispatch: # 允許手動測試
+
 jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
-      contents: write # 給予寫入權限以便更新 PWA
+      contents: write # 允許寫入權限以更新 PWA
+      
     steps:
       - name: Checkout code
         uses: actions/checkout@v3
+
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.10'
+
       - name: Install dependencies
-        # 安裝 Google GenAI 與 Requests 套件 [cite: 750]
+        # ⚠️ 關鍵修正：必須安裝 google-genai 才能驅動新版 AI
         run: pip install requests google-genai
+
       - name: Run Bot
-        [cite_start]env: # 將 Secrets 注入環境變數 [cite: 752-755]
+        env: # 注入金鑰
           LINE_CHANNEL_ACCESS_TOKEN: ${{ secrets.LINE_CHANNEL_ACCESS_TOKEN }}
           LINE_USER_ID: ${{ secrets.LINE_USER_ID }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: python main.py
+
       - name: Commit and Push PWA Data
         run: |
           git config --global user.name "GitHub Action"
           git config --global user.email "action@github.com"
-          # 檢查是否有變動，有的話才上傳 [cite: 761-762]
+          # 只有當新聞有更新時才上傳，避免錯誤
           if [[ -n $(git status -s latest_news.json) ]]; then
             git add latest_news.json
             git commit -m "🤖 Auto-update News: $(date)"
             git push
+          else
+            echo "No changes to commit"
           fi
