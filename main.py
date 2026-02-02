@@ -7,7 +7,7 @@ import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta, timezone
 from google import genai
 
-# 🔑 讀取 GitHub Secrets 金鑰 (Success Mode)
+# 🔑 讀取 GitHub Secrets 金鑰
 LINE_CHANNEL_ACCESS_TOKEN = os.environ.get("LINE_CHANNEL_ACCESS_TOKEN")
 LINE_USER_ID = os.environ.get("LINE_USER_ID")
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY")
@@ -25,7 +25,7 @@ def fetch_google_news():
             title = item.find('title').text
             link = item.find('link').text
             clean_title = title.split(' - ')[0]
-            # URL 安全閥：防止網址過長導致 LINE 報錯
+            # URL 安全閥
             if len(link) > 990: link = "https://news.google.com/"
             news_list.append({'title': clean_title, 'link': link})
         return news_list
@@ -33,7 +33,7 @@ def fetch_google_news():
         print(f"Fetch Error: {e}"); return []
 
 def get_gemini_summary(news_list):
-    """AI 摘要生成 (旗艦陣容 Success Mode)"""
+    """AI 摘要生成 (含分類標題修正)"""
     if not GEMINI_API_KEY: return "❌ 缺少 API Key"
     
     titles_text = "\n".join([f"- {n['title']}" for n in news_list])
@@ -46,30 +46,32 @@ def get_gemini_summary(news_list):
 
     greeting = "早安" if 5 <= h < 12 else "午安" if 12 <= h < 18 else "晚安"
 
+    # 📝 關鍵修正：優化提示詞，強制 AI 加入分類標題
     prompt = (
         f"以下是台灣今日熱門新聞：\n{titles_text}\n\n"
-        f"請以『{greeting}，為您帶來重點快報』開場，生成分段式摘要 (約250字)。"
-        "⚠️ 嚴禁使用 Markdown 星號 (**) 或粗體語法。"
-        "⚠️ 主題間請空一行。"
+        f"請以『{greeting}，為您帶來重點快報』開場，生成一份約 300 字的重點摘要。"
+        "⚠️ 格式嚴格要求："
+        "1. 請根據新聞內容自動分類，例如【政治焦點】、【國際情勢】、【社會動態】、【財經消息】等。"
+        "2. 每個分類標題請使用【 】符號包起來，並獨佔一行。"
+        "3. 不同分類之間務必空一行，讓版面清晰。"
+        "4. 內容請用條列式或簡潔的段落呈現。"
+        "5. 請勿使用 Markdown 的 ** 粗體符號，直接純文字輸出即可。"
     )
 
     client = genai.Client(api_key=GEMINI_API_KEY)
     
-    # 💎 恢復 2026 旗艦備援陣容 (這是你成功過的名單)
-    # 優先使用 2.0 Flash，若失敗自動切換 Lite 或 2.5
-    models_to_try = ["gemini-2.0-flash", "gemini-2.0-flash-lite", "gemini-2.5-flash"]
+    # 維持 gemini-2.0-flash 為主力，這版本最聰明
+    models_to_try = ["gemini-2.0-flash", "gemini-2.0-flash-lite", "gemini-1.5-flash"]
 
     for model_name in models_to_try:
         try:
             print(f"🤖 嘗試使用模型: {model_name} ...")
-            # 這裡移除導致錯誤的 config 參數，回歸最單純的呼叫
             response = client.models.generate_content(
                 model=model_name, 
                 contents=prompt
             )
             print(f"✅ 成功！由 [{model_name}] 完成摘要。")
-            # 二次保險淨化 Markdown
-            return response.text.replace("**", "")
+            return response.text.replace("**", "") # 雙重保險去除 Markdown
         except Exception as e:
             print(f"⚠️ {model_name} 暫時無法使用 ({e})，切換備援...")
             continue
@@ -106,7 +108,6 @@ def send_flex_message(news_list, summary):
             ]
         })
         
-    # ✨ 關鍵：Giga 尺寸確保手機滿版閱讀舒服
     payload = {"to": LINE_USER_ID, "messages": [{"type": "flex", "altText": f"🔔 {tw_time} 新聞", "contents": {"type": "bubble", "size": "giga", "body": {"type": "box", "layout": "vertical", "contents": flex}}}]}
     requests.post(url, headers=headers, data=json.dumps(payload))
 
@@ -114,10 +115,13 @@ def update_pwa_data(news_list, summary):
     """同步更新 PWA 資料"""
     try:
         tw_time = datetime.now(timezone(timedelta(hours=8))).strftime("%Y-%m-%d %H:%M")
+        # 這裡會生成 JSON 檔案，GitHub Action 隨後會自動把它推送到倉庫
         data = {"updated_at": tw_time, "summary": summary, "news": news_list}
         with open('latest_news.json', 'w', encoding='utf-8') as f:
             json.dump(data, f, ensure_ascii=False, indent=4)
-    except: pass
+        print("💾 PWA 資料已更新 (等待 GitHub Action 推送)")
+    except Exception as e:
+        print(f"PWA Error: {e}")
 
 if __name__ == "__main__":
     news = fetch_google_news()
