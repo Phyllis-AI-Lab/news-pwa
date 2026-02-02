@@ -1,0 +1,48 @@
+name: AI News Bot Daily Clock
+
+on:
+  schedule:
+    # 這裡使用的是 UTC 時間：
+    # UTC 01:00 = 台灣 09:00
+    # UTC 04:00 = 台灣 12:00
+    # UTC 10:00 = 台灣 18:00
+    - cron: '0 1,4,10 * * *'
+  workflow_dispatch: # 允許你手動按按鈕測試
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions: # 給予寫入權限，確保能更新 PWA
+      contents: write
+      
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: pip install requests google-genai
+
+      - name: Run Bot
+        env: # 這裡會自動讀取你在步驟一設定的金鑰
+          LINE_CHANNEL_ACCESS_TOKEN: ${{ secrets.LINE_CHANNEL_ACCESS_TOKEN }}
+          LINE_USER_ID: ${{ secrets.LINE_USER_ID }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python main.py
+
+      - name: Commit and Push PWA Data
+        run: |
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
+          # 檢查是否有檔案變動 (避免沒新聞時報錯)
+          if [[ -n $(git status -s latest_news.json) ]]; then
+            git add latest_news.json
+            git commit -m "🤖 Auto-update News: $(date)"
+            git push
+          else
+            echo "No changes to commit"
+          fi
