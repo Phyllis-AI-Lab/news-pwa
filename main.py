@@ -6,8 +6,9 @@ import json
 import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta, timezone
 from google import genai
+# ⚠️ 注意：這裡完全移除了導致錯誤的 types 引用，回歸 15:05 的成功狀態
 
-# 🔑 讀取 GitHub Secrets 金鑰 (Success Mode)
+# 🔑 讀取 GitHub Secrets 金鑰
 LINE_CHANNEL_ACCESS_TOKEN = os.environ.get("LINE_CHANNEL_ACCESS_TOKEN")
 LINE_USER_ID = os.environ.get("LINE_USER_ID")
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY")
@@ -32,7 +33,7 @@ def fetch_google_news():
         print(f"Fetch Error: {e}"); return []
 
 def get_gemini_summary(news_list):
-    """AI 摘要生成 (雙保險機制：分類失敗自動降級)"""
+    """AI 摘要生成 (15:05 成功核心 + 分類提示詞修正)"""
     if not GEMINI_API_KEY: return "❌ 缺少 API Key"
     
     titles_text = "\n".join([f"- {n['title']}" for n in news_list])
@@ -44,49 +45,37 @@ def get_gemini_summary(news_list):
 
     greeting = "早安" if 5 <= h < 12 else "午安" if 12 <= h < 18 else "晚安"
 
-    # 🟢 方案 A：你想要的「分類標題版」
-    prompt_category = (
-        f"以下是台灣今日新聞：\n{titles_text}\n\n"
-        f"請以『{greeting}，為您帶來重點快報』開場，生成約 300 字摘要。"
-        "請依照內容性質加上【分類標題】（如【政治】、【國際】、【社會】等），標題獨佔一行並換行。"
-        "內容請客觀中立，重點清晰。"
-    )
-
-    # 🔵 方案 B：15:05 驗證過的「純淨成功版」 (保底用)
-    prompt_simple = (
+    # 📝 這裡是唯一的改變：用純文字告訴 AI 要分類，不要改程式碼
+    prompt = (
         f"以下是台灣今日熱門新聞：\n{titles_text}\n\n"
-        f"請以『{greeting}，為您帶來重點快報』開場，生成分段式摘要 (約250字)。"
-        "⚠️ 嚴禁使用 Markdown 星號 (**) 或粗體語法。"
-        "⚠️ 主題間請空一行。"
+        f"請以『{greeting}，為您帶來重點快報』開場，生成一份約 300 字的重點摘要。"
+        "⚠️ 格式要求："
+        "1. 請務必加上分類標題，例如【政治焦點】、【國際情勢】、【社會動態】、【財經消息】等。"
+        "2. 每個【分類標題】獨佔一行。"
+        "3. 不同分類之間請空一行，保持版面整潔。"
+        "4. 內容請用條列式，不要用 Markdown 粗體符號 (**)。"
     )
 
     client = genai.Client(api_key=GEMINI_API_KEY)
-    model_name = "gemini-2.0-flash" # 鎖定這個最強模型
+    
+    # 💎 這是 15:05 驗證過絕對能跑的模型
+    models_to_try = ["gemini-2.0-flash", "gemini-2.0-flash-lite", "gemini-1.5-flash"]
 
-    # 🚀 第一次嘗試：跑分類版
-    try:
-        print(f"🤖 (1/2) 嘗試生成分類摘要...")
-        response = client.models.generate_content(
-            model=model_name, 
-            contents=prompt_category
-        )
-        print(f"✅ 分類版成功！")
-        return response.text.replace("**", "") 
-    except Exception as e:
-        print(f"⚠️ 分類版觸發安全限制 ({e})，立刻切換回 15:05 成功模式...")
-
-    # 🛡️ 第二次嘗試：跑保底版 (絕對會成功)
-    try:
-        print(f"🤖 (2/2) 啟動保底成功模式...")
-        response = client.models.generate_content(
-            model=model_name, 
-            contents=prompt_simple
-        )
-        print(f"✅ 保底版成功！")
-        return response.text.replace("**", "")
-    except Exception as e:
-        print(f"❌ 全部失敗: {e}")
-        return "❌ AI 暫時無法回應"
+    for model_name in models_to_try:
+        try:
+            print(f"🤖 嘗試使用模型: {model_name} ...")
+            # ⚠️ 關鍵：這裡不放任何 config 設定，回歸最原始的呼叫方式
+            response = client.models.generate_content(
+                model=model_name, 
+                contents=prompt
+            )
+            print(f"✅ 成功！由 [{model_name}] 完成摘要。")
+            return response.text.replace("**", "") 
+        except Exception as e:
+            print(f"⚠️ {model_name} 失敗 ({e})，切換備援...")
+            continue
+            
+    return "❌ AI 暫時無法回應 (所有模型皆忙碌)"
 
 def send_flex_message(news_list, summary):
     """發送滿版舒服版訊息"""
@@ -122,6 +111,7 @@ def send_flex_message(news_list, summary):
     requests.post(url, headers=headers, data=json.dumps(payload))
 
 def update_pwa_data(news_list, summary):
+    """同步更新 PWA 資料"""
     try:
         tw_time = datetime.now(timezone(timedelta(hours=8))).strftime("%Y-%m-%d %H:%M")
         data = {"updated_at": tw_time, "summary": summary, "news": news_list}
