@@ -1,46 +1,46 @@
 {
-    "updated_at": "2026-02-04 13:09",
-    "summary": "午安，為您帶來今日午間重點快報。\n\n【國際情勢】\n中東情勢緊張，伊朗無人機逼近美林肯號航艦遭F-35C戰機擊落。南韓赴美交涉貿易關稅，空手而歸，美方擬正式上調。另外，備受全球關注的愛潑斯坦文件已公開逾三百萬頁。\n\n【政治焦點】\n國民黨副主席蕭旭岑率團赴中交流五大產業引發討論。藍營台中市長選戰，楊瓊瓔稱與江啟臣是「接力」。前基隆民政處長涉貪收押。蔣萬安推動無菸城市遭中央拒絕，直批理由「邏輯好笑」。\n\n【社會民生】\n今日連傳多起隨機傷人案，台南街頭男女遭砍嚴重穿刺傷。苗栗狂男隨機砍警，警員頭部受傷，同袍開槍誤擊民眾釀三人送醫。高雄美濃大峽谷盜採案，議員特助海撈兩億元，檢方起訴12人並求處重刑。",
+    "updated_at": "2026-02-04 18:39",
+    "summary": "晚安，為您帶來今日晚間重點快報。\n\n【政治焦點】\n台灣政壇今日焦點頻傳，民眾黨正式徵召黃國昌參選新北市長，為選情增添變數。同時，台北市副市長李四川傳出年前請辭，可能投入新北市長選戰，引發各界揣測。此外，有評論指出台灣僅剩一黨能讓國家走向世界，而美國議員罕見對台灣在野黨表達失望，國民黨也發出聲明回擊。\n\n【國際情勢】\n國際局勢持續緊張，中東地區傳出伊朗無人機逼近美國林肯號航艦，最終遭F-35C戰機擊落。另一方面，更有消息指出前美國總統川普面臨「不炸就自行動手」的逼宮，據傳已有十架B-2轟炸機密降阿富汗。\n\n【社會民生】\n民生訊息方面，十一到十二月期統一發票千萬元特別獎開出十七張，其中一位幸運兒僅花二十三元在超商購買泡麵便高中大獎。天氣方面，明日起台灣將迎來「五度殺」的暴虐低溫，濕冷天氣預計持續兩天，提醒民眾務必加強保暖。\n\n【法紀案件】\n法紀方面，前外交替代役男林睿庠利用暗網販毒，遭紐約法院重判三十年有期徒刑，並將沒收高達三十三億元的資產。而空軍戰鬥機聯隊也爆發貪污弊案，涉案人員因收取名錶、性招待並洩漏招標資料，已有四人遭到判刑。",
     "news": [
         {
+            "title": "統一發票11-12月期千萬獎開出17張 幸運兒花23元超商買泡麵中大獎",
+            "link": "https://news.google.com/rss/articles/CBMijANBVV95cUxNamJZcDZIS3pHVi1WNk93RDlNX1ZNcENIZnRKdnRuYWpuU083bTk0TzVXbTBvc3lURHpaS3BWVWQ1cW9qOVQxMEtGOWowY1VIZGZsLUJBd3BaMmRpdGNuZ3h4UnJBX0k1NVFwYWlvQzk2Q1VBVEdtaTZ4M1MxVkpiQ2doeW5OLVRfYUpHakRtZGNxd042OWFMd3djRm1ORjkxdENGU2JWZDJ6TEZ6V2VNVzN0U3N2RjFsbU1tSTVRWEtYT1pMZU5WTW0zTWdidHoxdXVUYWpiSGlrakNiTmNlRHRKRW45cEVvMWhFemQwdVZxajRVYThsM2xDR0VQQnpJcXY0eUJmSU14QWdLczdTdUJ6Y3RPMy1VRzU2OUd1bl9oVlR0NFVKbk5jeTJ3eEVwelRDYlB3amk5ckNJRXNidkNBOHJBdTYtbUdZZG1PZ3Nab2FNV2piXzkxdEVUSk16S3U1dXVpcVR0dEthQ3Q2TDU3VHRGdG42MmcwSWtTY1JkTzRQNTVlYVJlSE0?oc=5"
+        },
+        {
+            "title": "暴虐低溫「5度殺」要來了！ 痛苦濕冷連潑2天",
+            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1fVUhod0tJdkt0UWdUNUNhbWZFRFVlZXZaUnVKYUNIVmZING1reFVENkFEazRNWVU3ZUJxVjNaTEdFOWRYam8wOU1jbFlkT0pKTy1teQ?oc=5"
+        },
+        {
+            "title": "外交替代役男林睿庠暗網販毒 紐約法院重判30年 將沒收33億資產",
+            "link": "https://news.google.com/rss/articles/CBMigwNBVV95cUxPSEdCaXJISUFJaDFuN0I1UWpYU1VqdUVPQmRKLWJHLVJJNWpnLVFnaTl1UXFfQXZIbHRfVHI4X0k1WnZ4aGpzWGZqRjJUME9YY0lJbHA3bU5EX1Njb1R6akNaRFUzbHVoa0p0OXR2cjl5U3pyMUthNzZBUDlyeGdMaWVjTjIyeEE2VjNWT01tMTFLU05NSWdOaXVELUFPZ1llN1ZRdEw2dFZhallRQ0xaRmpoVWpqRnZnc1p0WENFWk1CeVUwdXVMV1NrM2hUT3hLMTY4TWlfa0x2bjQwMXNNUGQxdDZPNDEzeDRTM3k2V3RoVnVCdWxNeWJJaDhreXR3MjZONHpYS0JvX0VRTDBoVjFFLXU1SU54NWJTRVNWd2ctR1VuUWlxY3J4YmJMbjFqS0dXNTJtajhSTnFfd3JfdHcyY3owSWhxMVpMdDR2a2Z0Q0RMR19vTmtXN0lNbUlDa084ODIyaUt1aXFnZGZKZHNYU0plclJxd25xZW4wSW9rQms?oc=5"
+        },
+        {
+            "title": "新北我來！民眾黨正式徵召黃國昌參選新北市長",
+            "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOd0NkbGxmUEJremIzNjRnWWhXOVQ3Z1ZkOTBIU01xTEgyZFBXTEoxRlo1eXA3a2Y0ZS02aVl2enJweWs1UzNHc3p5SDlhemRTVklzVDVjWmhtQlg4emR3aFVQYWZ3NGI0ZFhXLXdUdkVpOVJPZzE2TmQ2ckw3X2VUX29nVQ?oc=5"
+        },
+        {
             "title": "開打了？伊朗無人機逼近林肯號航艦 遭F-35C戰機擊落",
-            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1uVDJjeUhUWUhMNWx3YWlYaEYtWVAydjh0UGNmYi1uS0dSWDZ5MXlhdkxNZUxqZFhVdmtxVTdsRVlSYm52c1BEYlpsWVFlVDdoc0w3NzE5c3JlUnEwZ1lEUXZsU3FoZ9IBa0FVX3lxTFBDNFhuYTc3NzVQdkZNYmtESFZKT08zMzRyMGdGRkQ2T003d3RjZFA0WUpzVm9RWUxHTTBYWjhqSTYwWTJlU1BVUGRfaWV5LW5vNzJ1NWlNQk9NZlp2OVBhLXk5U1kwcVhFT01j?oc=5"
+            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBMT1paSnNyTURZMDNuMHlneXNHMGlSWnFubk1pcUxBNkpvcG9aZzdLdXU3N3hEd1VJMV9MRnRYVU9aYjRRRXM2WTBqa0g2ejRtV09XdlhUYVJNWUVCLTV3T9IBZkFVX3lxTE44aXlpSkE2SVY5WkJsTzRfUmdkU29RUkJxRFBKNXllUEFVY29DOS1wMGU1SkE1R3VPbHF1WlJNbTd3UmNwZXVWRGR6Skhoc3lROXRkbGxpS25RZHFYYS1heWowSWx1Zw?oc=5"
         },
         {
-            "title": "南韓慘了！赴美交涉空手而歸 韓貿易代表：美擬正式宣布上調關稅",
-            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBlZzdjQTZXdElZM3JwS01zNjhKMVNZRHpUSDZjQTRyNm5qSGFSd25hMTA4TkFSVVF1d0lwMWJyVnNaelpJOWhHOGt4SHBISmluMDVicENzUzJDOU1nUWRudnRCd05Vd9IBa0FVX3lxTE13bkdvZU9TaExaTDNEanFSMy1PU2NQRElaREhQMzFXSkU3WE1NVklnOFY0b1BlTmJickxtVjgtcFBZaGU3c05VeGtXbHQ1bGswX0VOX1kybURkUUYwSXBudXgwVkRfSUV6enJz?oc=5"
+            "title": "逼宮川普！以下通牒「不炸就自行動手」 傳10架B-2轟炸機已密降阿富汗| 國際",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE56ZjBHWUxqb01za1VsQU1wWWRKcDhUNURUakNRRkFKY1RoUjVZUHY1aktmZXZQYkJyQkpReUkzenhRRU5qRk55WTRqampJMHVaQkl0cWo4QkMxd28?oc=5"
         },
         {
-            "title": "快訊／台南街頭隨機傷人 男女遭砍「嚴重穿刺傷」大出血",
-            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9QTVQxcm92VVpoRUhrcjF0RXcwTVRXYXd4b1Y5TFhpRFBwM0pRVl9jV3pKZHBtX01nOHA5ZVl2QkVTekFWS2hWTHN3WWJ2UXc?oc=5"
+            "title": "李四川傳年前請辭拚新北市長 蔣萬安：要過年了考慮我的心情好嗎？",
+            "link": "https://news.google.com/rss/articles/CBMipgNBVV95cUxPRmZSUzRzdndfYmd5V0N6ZlNwWTJjMHJCcXZkeXhITkFqLTViWjY3WG1yeHZjVE1VaWhPWmpRclZXd01mX3NGYXgzSmFPMms0YlFkYVp2R2hKeFlBd1pxd1BzWlZjbjhVX2FXQU45U0k0WmdNZk9WQXktNml1X2dyb3pIWGtCckFxZUpfVEE3RHplYm5KM01uRmo0dmQwTVdTRkRka29IMUt6NUprTDdLRDFmcFRrcDJTWm91YVJQcUJmNkg1R1FGbGZyYUxZNk5vWUp1eU9vQnhGZTk1bXVicmtacVFJby1HRmhtT1lyS093WVV4WFVBYkgteFJ6dmNKNlBVXzQ2SG1PQ0Y2ZG5HSl9oLU9HUGVXMG13WU5QdGZBa2NsUGVwZW1VRjZ1bmtxRjBjZzQ1dUtuUVhuR1ZzN2UycnBJLXVqd2F3R25DdVVFMF9wdlFyaFJKYWxzOXRuYklxcEJsUjlWMnZ1ODZPWHdQR1FNdTVwd2pHU3l3Ykx2TWNrVVg0TUdzOTNOQnBiMmhSX21Oblo1QWpKYV95V3FQdVRBZw?oc=5"
         },
         {
-            "title": "蕭旭岑赴中國談五大產業！帶一堆台灣專家「交流」　他驚喊：氣味不太對",
-            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAybFMtRTJZQk90cm1lZlpSX2psLXlrZGNXS0QxazZCWFRNN0Q0V1lEYnM3M0NUSV9jMzNlTHYwT2RIa09RS2t0Y1ZIbVVFQdIBX0FVX3lxTFBKQmN4Y0JES3ZOUTk0OThvZXFiYlFKQ1p1NHBjdzEtNDFubzBjZEhJaGJCd1hRMVdFQzlxbHRQM3ZXMFRxZjZzZ1hBTHFjQm9lczVLeE04NFpTX1g3QzNF?oc=5"
+            "title": "空軍戰鬥機聯隊爆貪污！名錶、性招待全都要 洩招標資料4人判刑",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9hSV9pekowYmdkV0tyRnRCTDM0QmRaWGMyaWVJNDdST25nS2I1ak5tWE1ycUF1OWlnQVFNdV9ZVmE3dGgxemJUNXdBUjhpZmdWTzVhZEJ2ZmVhdnhBbkE?oc=5"
         },
         {
-            "title": "快訊／美濃大峽谷「盜採地主」議員特助海撈2億…檢起訴12人求處重刑",
-            "link": "https://news.google.com/rss/articles/CBMioANBVV95cUxNWGhiY09LR05fVms1TG51VnY5STlWRUFSQ1VadHB4RDhBYTkxRWtnR0IwVzFOSnZOeGVDSU1BVVY3SmRmMkE3VHZoOGVtWGJqbTVKaGNRbXZqYTVYdUUzUTJYa3ktWGJjQWtlZTVoQWJiZVBJUlpiOGdwR0dWbGV6bF9vYWVrLVQyUDVtaVFzQVlweU1ELWJFOGRETjhuMHU1RnB3ZTlEREJmZWpaSDFNcENjS09mTGJHM3FiUndxbjg5ZFprX0tHODBtRkpIUjVPVWVvS056QlZJU3dRYjhTeUFyaWo3aXVFWlhCQWpWclNuWk00NDh6amNiUVJsZEo4QTBNRzdhUlNIQ09NaXA1QXJtZzZBUEw2ZEdkQ2FXR3JHOEZVMXBCQ0hZZXF3SHVWb1EzbkI1OWhTdjRhT29rUklXaTVub1liR2haQVRGQlQtN29BZFVjem5uVEF3S2lrVTBSOHBnTXJ5UEV0OVdpNG5iWm15Wnc3bEdMaHhoTU0wYTFQVWdJN282NUE4aVdHQzRUbDhwVlpIYjN0M0lyZQ?oc=5"
+            "title": "對比藍綠白今重頭戲 黃子一：只剩1黨讓台灣走向世界",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB4cVc5QVluQ1ZJX0pyLUdPOU9OTS1jdjZ3enFQZUxPTUZCeW9WOHRObjdFeGxPdDY4Sm1PeFF4ZXQwcUlfZVV1Rm5hMTVJdU0wanJzeUdhckJ6dm5XbUJvb2ZoLUhKd3lhcEHSAW9BVV95cUxORDBZZF91S2Z6Y2tYR29CckpUOGtIVG5oNk9LbkF2TTVoWWVvcGNjdDQ4bm5TOGFmVjBfbG9LUjJDVFlYdFZKcEl2WFpfY0U2bWp4czk2X0diakZad2FJRGZpWVREV1J0U09aTkJPSWs?oc=5"
         },
         {
-            "title": "愛潑斯坦文件：300萬頁新公開檔案披露了什麼",
-            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5aNkgwaEhuZHY5S0ZUSE1ua0Z5ZDZ0Q0E3eTY1Yk9DOHVZejZra0ZjNkVMQjRWUThLUmk4dHlKNXgwX2JtQUZFSnlRRkNDRFBYQXZqTlpmZ2ltSUNOWW9hWXY5TnI4QdIBa0FVX3lxTE51OWRzTV81V1RmN1FCeGxFWVJaZE54c3UzYTljVjhuNFF0dnpZWDB6eFYyWXNnLVNycHFmdG5hQ2NPaXZfN3VWU0tlM3c5Qm43cDFGU3JGZDNuaGhxVEZJT0VfV2hPV0RGalZV?oc=5"
-        },
-        {
-            "title": "藍台中市長「姐弟之爭」降溫？楊瓊瓔回應江啟臣競爭不是內耗是接力| 縣市長議員選戰| 要聞",
-            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE42MkxDeXgzNzVwX0d3aGJtekQ5VDVVRWRZWXFqb0RzNkx4UlZzZFRJSmdBU2d0VXFVWWtncE92YmVJT0l1TDVEbzctNWtIemZSNEtV?oc=5"
-        },
-        {
-            "title": "前基隆民政處長涉貪收押 林右昌辦公室：尊重司法",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9TaHB6V0sxVmh0NW5idDRhdFpzVDl6TVUtX1NOSWdmQWFIY0gwemI5WWRubU9URGliS2J1Z0xjWWdITjUyVWZUWDk3M2tpS3ZFNVNPUEtFbDNkYWo5ZjZidXQ1VkpSdHJ1N2fSAW9BVV95cUxNU202Q3EwalVQN3czVWdQdUJKWTI4T2Z3cmU2WV9PNVpiMkFKSmxYbFNYb3R4WnZJa2Q2Q19DeG1iazJzdWwyWjVQelJpeFkwRmVsc1REbzlGNWlLQVl5N01OWFppbzhPZWE2SHozS3M?oc=5"
-        },
-        {
-            "title": "快訊／苗栗狂男隨機砍人「警頭遭劈2刀」 同袍開槍誤擊民眾釀3傷送醫",
-            "link": "https://news.google.com/rss/articles/CBMivwNBVV95cUxPOGRTc0NpOUpyYXltU01uM0xBRmFYQlpybGdQV0dXUGt0clpUc0lyNlNoa1p6MjBlQ3owZ2o1Sk9naXdnY3B6VFBSQm1ydzRGUnN0QUdnandoTjJ4OEg2bExlMlZleE80aG9vZFNKLXBibUcxa0M0RlNscU1pdEdsWU5FZ3FIU196Qk1MOTFlN1llamRkTnVLVGxJMFplamVSMXlVTjl6MWJZUUFEU3p3NmpGMHNsRHBKdUNTUnhGelVrNFRBc0JTXzBBVE9lZkFpLW56N2NKTWJLZUdaeTlxMDZuUTJkVG1kbEE0WXFSNl85MEJ4OTZmaWxBeHBCT0NvUUZLaG1DZ3lnc0xfWnpzUnV6di1DSElHaE9PVUp5TGJHa19VYmQyTmROU2tGaEdhczNWQ2dsYVZhYzZYZTF1dVJ2eEphOUFmX2pyVUM2SXB4YThZMWdMTElFblhVSk5sUVNHSlUxN1ZTV0VTa0IxTHZuM0x5WWFEWnBzbER5bmdwZmNjbmdqcS1Ha0VyQVIyVlVNZXY3RUtERDJFZHd1SDI2VlJqN1BrN3NhYXlTdllIYWRzWlR4WEdjdjROOUE?oc=5"
-        },
-        {
-            "title": "蔣萬安推無菸城市遭中央「這理由」拒絕他傻眼：邏輯好笑- 政治",
-            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9VZkZsWl9kTDF5aFJrWmVLbGtsQm0zYzNtYXhxOUlJYUVxcGtIUHVLY3dCeWxwazU4VEptMkYxX2xXS3hBamVTVmd0bVo1MmxCUGdBMzNrd3hWZjRrM05KZXRzdnJfMDFZVUt6Rndn?oc=5"
+            "title": "美議員罕見喊話對台在野黨失望國民黨五點聲明回擊| 政治",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBCdkJSTlY1Wmx4MzFaaTFJQjU2UzJvb2tNM2hOZzlYb290aGsyc0x3VkdiLW5rQUp4NjVxajN2eDZPdm8zM1ZHYVoyeTkySmFlVEFXOGw4aVRSbGs?oc=5"
         }
     ]
 }
