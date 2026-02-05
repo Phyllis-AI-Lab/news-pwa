@@ -1,46 +1,46 @@
 {
-    "updated_at": "2026-02-04 22:03",
-    "summary": "晚安，為您帶來今日晚間重點快報。\n\n【社會民生】\n苗栗南苗市場不幸發生持刀砍警事件，嫌犯遭開槍制伏不治，有熱心民眾受流彈波及受傷。天氣方面，新一波低溫來襲，濕冷「5度殺」將連兩天影響台灣。此外，交通部預計研議開放駕艙機車，但駕駛需持有小型車駕照。\n\n【政治焦點】\n民眾黨正式徵召黃國昌參選新北市長，而他日前因批評AIT處長谷立言，引發AIT直接回應。國民黨內，竹縣選情傳出「一屍五命」示警，徐欣瑩恐脫黨參選。民進黨廉政會則決議，台北市議員陳怡君停權兩年半，年底無法代表參選。\n\n【兩岸要聞】\n在國共智庫論壇後，中國大陸文旅部宣布，近期將恢復上海居民赴金門、馬祖旅遊。\n\n【財經生活】\n統一發票11-12月期中獎清冊公布，有幸運民眾僅花六元外送費就抱走千萬元大獎。\n\n【文化生活】\n台北國際書展熱鬧登場，亮點包含遊覽車變展場、逛檳榔攤主題區及探索神秘空間等。",
+    "updated_at": "2026-02-05 11:32",
+    "summary": "早安，為您帶來今日上午重點快報。\n\n【國際焦點】\n川普與習近平通話談及台灣議題，中國點名對台軍售表達關切。巴拿馬撤銷港口經營權引發中國痛批，警告將「付沉重代價」。另有消息指出，美國政壇傳出逼宮川普，十架B-2轟炸機疑已密降阿富汗。\n\n【政治焦點】\n國共兩黨達成十五項「共同意見」，陸委會主委邱垂正批評國民黨配合中共統戰，政府無法接受。民眾黨中央委員會則通過徵召黨主席黃國昌參選新北市長。針對黃國昌指控AIT處長谷立言介入內政，AIT回應尊重台灣政治程序。\n\n【社會民生】\n台南街頭發生隨機傷人事件，兩名民眾遭砍受嚴重穿刺傷。此外，一宗102歲人瑞娶68歲看護的奇聞，引發兒孫衝醫院搶人的插曲。\n\n【生活資訊】\n本週好天氣將持續到週五，但週末將有冷氣團來襲，氣溫預計下探九度。而有三位幸運兒在加油時，中獎兩百萬元統一發票，獎落兩縣市。",
     "news": [
         {
-            "title": "苗栗男持刀闖南苗市場砍傷員警 遭開槍制伏不治 熱心民眾被流彈擊中手掌",
-            "link": "https://news.google.com/rss/articles/CBMi1gNBVV95cUxNZDJPMG5lM3JiUmI5R3pLR3Z5enI0UXBvMzlUMWZ6c0pfUUVzQzhvZHlOZTNrOXptbnhiRFV0VTVadXJqcjc5VWhTaW5mOGVNZmgyUWFoSGVXYWNOaFY0SHZ0TzU4S25KQ3MtSndLTXlNR1RFVkVtRXlpcm5PYkE1MlpNZW9tYVZnOHpiak1ueU5xRjYzTVZqWlVoVlN3WDBvNlJNeUNEMzh6LXJCSURJN1dLTlZOOXlzT3RnUy15VU5zRGhzOXJ2dkNxTVJwT0d3NHVvb2R4d2poYTRTZzFPREsxYmxwTTNuV3ZrZUt1UkFYckVyeDhpRGxrTExXQ2w1ZGxNMXBDVjR6NFplYjZXSmxKSEYwR200UG9vT0k5b3RZaGNEOGZwVW1tTWZSRVlFa2pJVjRoa0xncVpHTHZ2RWpwOU4zRGlTb0VCRjRlWUdRNHg3VjRtWWl5R3FfOE5faGhoTWRDSnJ3cnBpX1AxVi1obDR0cmNfWUFUb3ljeUtCc004ZktyZURJMWpLTXpVNWZHaHNxaURRWEhZMHZXMHNmLUdwVk1yZ2poM1RRR2JxeXhHZERMVFAxUXBVdWtKRndad1Y1WXBTUFZ6eGoyVGpEdVo4Zw?oc=5"
+            "title": "川普、習近平通話談台灣！中國點名對台軍售",
+            "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQeG9taGtuLUVDM0laTE0tTk9YWXRKcW5UTExKTDNneWNEZ1V5RE1kTUpnZll3U0dyTjEzVzNMYnU4MjhtS2lSTm14aUJVWUlFYTBzUUFOMmZVOEdrN1JuUDlsRUNZWkZFQ2tmelJWNkthaFdDUDB6MFZwSzRpMHZsMW9KWUVSQkV0cWE2ZjhsUWJvM1R6OFRaN1JFMDJDZl95a3ZEZjNvaVV0VGRQUnMyTEU5RFZYMlhSLUZvZ09VaDItZzE4N1BwQnB6aHNfOTI1SE42MEFUY1czeDNKU2dxQnpqY1hycmtzNGQwOWFFbkhLRDA3Q2VjTnlMSjZuOGdNb2NTN09ndWo0c0dLMDAwLTZySVhBRG1XMFkxRDZtT05wc0FqRVNFWThYNHUxZw?oc=5"
         },
         {
-            "title": "暴虐低溫「5度殺」要來了！ 痛苦濕冷連潑2天",
-            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1fVUhod0tJdkt0UWdUNUNhbWZFRFVlZXZaUnVKYUNIVmZING1reFVENkFEazRNWVU3ZUJxVjNaTEdFOWRYam8wOU1jbFlkT0pKTy1teQ?oc=5"
+            "title": "好天氣到週五！冷氣團來襲 週末下探9度",
+            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE43a3hSSjlON1FJZ1d6ZDBsMXExWlFnN1Z0QlUzWGhxOU5icmg4MXpqUTRSM2ttLWFvbzkzME9NbVljQk44NElMQ3EyeEh0SGVqT3lwb091NlNrU0x5NDdGUzJ0aUTSAWpBVV95cUxNdl9yS0E0RnJReXB1STZRMWhNZFBPYXJjM2NyX0NFWXJnTXpPRFZ5elAzaV82Qk1zNVh2MUpoRnZqNjdibVh5S24xb1V4T3JhOTdZS09aWnFZQlJILUlhX0FrWlkyZ205Rlhn?oc=5"
         },
         {
-            "title": "與中國官媒砲口一致！ 黃國昌開轟谷立言 AIT直球回應了",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5VYlVDQTdzR2NDMzdWVFZDWFFJUDdpZ1JMNHVqQzBWX0hDYXNUbVNmUUQwWXdENmNDM1IycDBzUEM5c1NrLVpGampLd1JxcHJMMXZtdWdMZU12OW1TUlM5MTM2T2tLVllRaGfSAW9BVV95cUxObmo1N3E1QlhtQ0RCWnY3Ynl1OU5VbGNDUmc2c3ZZZnpuY2ZaTjlCdEJIRUFLeDBMMndVNHZ2dVhibUpoVi1GWXRlX0lHOHZLdWtBa1NwVXVkNFl0dmstTERPcHZ3ekF3N1BOa2d5bGc?oc=5"
+            "title": "巴拿馬港口經營權遭撤 中國痛批荒謬、警告將「付沉重代價」",
+            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBiOWNxR3FYVVJQVTVYM3MwX3Z3aGFXUDNDYjI3dWtndmtqcGxpZWcyWmZTRXZfTkJ6VEhfczR6cHNmbElpWS1ZMjlYLWJCb1M4bEgxV1NRSHNqTVgyaWZV0gFkQVVfeXFMUFRhdjZpMG9RUDBGT2pLNE81S214WGVSOElQNDU0WE5jeVVCNFpubkplTHZsVmJLanZWZWxNRkVVLTM5M1pzWWw0TjV3dzc3ZHdnVk5vUkNNU3NrTlBMZEtDeE9vNQ?oc=5"
         },
         {
-            "title": "統一發票11-12月期中獎清冊出爐 最低花6元付外送費抱回千萬",
-            "link": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxOQ2Nfa2pCUy1LS0VpZDZQSnplOHVrMGxvN1B3Rk9OZ2JVbklHT3RMR2FNeVBPLVlJWURhTUdwNVl1M2hrb3VrXzNPMlo5R01nU0c4UmRmRGpGcVBNaklVSXA0T2k5REF2QXVjZWcyZGhEcmtqczdNSDBUZmFKaFVmallTeTJXWWNPMzZkODVXUlRLYS1LOVdUbWJtSVdUWFVlaTVXY01tVE1SSkt3Vk92MUZkTC1Ic3JpZ0V1T1BaYjNlVmgtTjNyVTVkQjA4UUxuRTh3RGpCazAtUVlkdy1LRldEbnZVZW4wbHJPQWYzRGtWR2d2VS1QYTFDNlFLSkdMYjBNX2NkWEdNSXl4VVUxbTRNTDl2YzRDazJDbElGSm1OZTVVdUpsdld0ejM5bm1SZnZOcV9IZzRsVXJxZU9MbF9OZE4yMUw0LVRocS1TUDJoODJqLTl3cjdGRndwc0hNRDNwTkRiMktEc00xeE1qTml2Q19mTHV2am1vRQ?oc=5"
+            "title": "8億102歲人瑞娶68歲看護！兒孫衝醫院搶人…推輪椅就跑",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE82M296NDRacHB4ZGJDendGYmdGZ3JFSmVsWTJuU3AxMThvWDhtMlFiSmRxbDZGNDVweXV2TzZkMjBtY1RnNk1fQ1d5ME5VYk5nXzFpWWRQS2puaXRESHc?oc=5"
         },
         {
-            "title": "新北我來！民眾黨正式徵召黃國昌參選新北市長",
-            "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOd0NkbGxmUEJremIzNjRnWWhXOVQ3Z1ZkOTBIU01xTEgyZFBXTEoxRlo1eXA3a2Y0ZS02aVl2enJweWs1UzNHc3p5SDlhemRTVklzVDVjWmhtQlg4emR3aFVQYWZ3NGI0ZFhXLXdUdkVpOVJPZzE2TmQ2ckw3X2VUX29nVQ?oc=5"
+            "title": "逼宮川普！以下通牒「不炸就自行動手」 傳10架B-2轟炸機已密降阿富汗| 國際",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE56ZjBHWUxqb01za1VsQU1wWWRKcDhUNURUakNRRkFKY1RoUjVZUHY1aktmZXZQYkJyQkpReUkzenhRRU5qRk55WTRqampJMHVaQkl0cWo4QkMxd28?oc=5"
         },
         {
-            "title": "交通部擬開放駕艙機車駕駛需有小型車駕照| 生活",
-            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5pSnhMenVIUTJhU25xaFo2Rlp5blktT19DcGc1UUFxWmRpU0NkbE9ZdHVHYTJkQ0JkZW1mdVl0NlRSMVFxYUZzN2tnZGRvMWg2VVJZckpKR2hEOS1lTWE4?oc=5"
+            "title": "國共達成15項「共同意見」　邱垂正批國民黨配合中共統戰：政府不會接受",
+            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9udUtZeEJZUzZGRXpVejUtVEFCWTFIcUJyYTMtMURQYmRjbHJweGJpYUxwNEtQX1UxVmlsdDZTVzhNLTJGM0VtdGVrVHVqQUZ6djdWWmJLUHTSAV9BVV95cUxOMXBhcG9XbWY2c0hlVGE5Vy1MY3l2ay1vQXJZSENmb1RlRDFuMERiRXM5S3Axc2tBbjlKLWZWcnpMdUk4d1JyT3dWSVpLb09KX3RLLVZ3Y19uX2pFWFpiOA?oc=5"
         },
         {
-            "title": "藍營竹縣內戰「一屍五命」？徐欣瑩恐脫黨參選 黃士修提1數據示警：太不明智 | 張庭維 | 新聞",
-            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4yTkhTbV9jT0RmZWRIWS1DTEhSMkpMSXMxdFp6SFl6V05vQ1lXdWdYYmpEZThhaVNlVVl2NVRxaG9kSVZNMEJjeFNGOFRXQQ?oc=5"
+            "title": "黃國昌指谷立言支持國防特別預算介入內政 AIT：尊重台灣政治程序",
+            "link": "https://news.google.com/rss/articles/CBMiqANBVV95cUxNMEtuUm5oUmp6YjQzazU0UkJFbm5uYTRHZTBzREdvTVhJYUw3MDQwdWZUY0dFU0E0aTF5blVtXzliQ18tQi1XVGd5alJPY2hMUENGYkUtdU1STmVGaUhJZlBNa1VsUllqYnJ3V3pFY0t1SjdPYzF5UUFqWEpfVzFXa2FXSWdpQjc5X3VsUVZldm5oUXZnbWFMb0YyalY4UXkzRWJfd25fQWxGTXpPOU5kQ2hRTHJyLUN3cHBEUGtzZ1YwMVI1a3pfelRyeUdOVjZwWHdzOFR3OENmUFFuXzhtU2ZNNl92aUFTOThVN2xwaXpiWUQ5OUhNZEtXX2xta1NZRFRCcUIxWDZLMG1QajBPR2ZJc2dEVEsxSGM1cTBIZjliRTF5M2tON3RiYXQ3TjJSUThzWWFPT1dZbVFJSmIzbktXSUItVVNtQkxRY3ZjckpSR0oyclRWa2Q4QVhDcHhHR1Q0bjVwRklpX3RQd1JlN3pnWUZtYnpTcXBtOS1WZXVodm1oQ3o1WGszdnd1SHFqejN6X1MxbFA2MkhQaE9FNEV2eXZ4TEo5?oc=5"
         },
         {
-            "title": "國共智庫論壇後陸文旅部宣布：近期恢復上海居民赴金門、馬祖旅遊| 兩岸要聞| 兩岸",
-            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4yeTc5OW53eWFPUVNMSUc0R0ZxREdNZEgtTjZtQ0VmZHpYNDhubEItRnRoemQ2QmpLUWR6SkNOMjB0QVV4NlBYc2NNZ3lQQUZ6?oc=5"
+            "title": "快訊／台南街頭隨機傷人 男女遭砍「嚴重穿刺傷」大出血",
+            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9QTVQxcm92VVpoRUhrcjF0RXcwTVRXYXd4b1Y5TFhpRFBwM0pRVl9jV3pKZHBtX01nOHA5ZVl2QkVTekFWS2hWTHN3WWJ2UXc?oc=5"
         },
         {
-            "title": "綠廉政會決議北市議員陳怡君停權2年半年底無法代表民進黨參選| 縣市長議員選戰| 要聞",
-            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1JbXg0eTMtSFJ2MUtvdkYwSFZEczlnT1RnRTlIWW9KaGNDUV9LbFdSbldLZkZvRGgzTVFuT2h3RVREc0RTbFBzcUJaOFA4OEViVTNZ?oc=5"
+            "title": "民眾黨中央委員會通過徵召黨主席黃國昌參選新北市長",
+            "link": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxOMWNwYlFfSnhSQUhCNkJWYU9kODBPb0tZek1FYXo4RzNYcHJycGJXdU1oTkN2U0tIMTctSFFrdW1NNm5uLXdVeHEwaGtJUElMbjZnZVRvM3cyOUUtckFRdDVwMjBRQnhJOXhpZEZUcVE0eXQxM2xfaUhocVFoaFlIdzJZYVp6OEdjYldCbVRyMUd3S3BsMlE1RC1NZ2w1RGtVZl9iQnpBTEVOY1k3QmtsY25tcmU1X0t2cnJ3czc3MHc3ZFdNQ3V0WVdnWHpiaDROMWtIWUFiR1VqbjYzTjNzbkRtb0VURVVmOW5ZOWp6V0hUUVppcEJ2LTRGUGpTOXNtZDJfTlNoNjRQSjJ4X3pMYVpQTzhya1hHdnZkb01GZmk3RXRYaFd4M2hVaUR0Y014dm1qUVUyMGZ2NktJYUFwTTlXWXFEcU1kVXpmVWI2cGhrVU02TmxPbmtGQ3VCTk9YQkhXNEl4amw5NGlXNUptcFFyQQ?oc=5"
         },
         {
-            "title": "台北國際書展亮點一次看 可搭遊覽車、逛檳榔攤或探索神秘空間【圖輯】",
-            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9BdlRNdkJsallYMGtZVFp5TGpnNFdDZFVQV2luU25ER2RzUUludEk4ODJwcVVoYkJHSHhta2tYUy1sQnRsQmlzdHZFYU14WEE5a2xJbS1ORUgtUFpHTzZv?oc=5"
+            "title": "加個油就中獎！3名幸運兒爽中200萬發票 獎落2縣市",
+            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE16WkhMTzlQX09QRGxKc2tXbjdsUEdiVlFzSWhla2xic1JpUUV6d3h6SmlGUlVFNlBKS1NybFJwZl9PSFJsRUZ4MmtsZFB6SWgxQzh1TA?oc=5"
         }
     ]
 }
