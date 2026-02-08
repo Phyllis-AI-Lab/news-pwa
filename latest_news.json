@@ -1,46 +1,46 @@
 {
-    "updated_at": "2026-02-08 13:23",
-    "summary": "午安，為您帶來今日午間重點快報。\n\n【國際情勢】\n首先關注國際情勢。北韓方面，傳出領導人金正恩的胞妹金與正可能接班，外界預期她一旦接任，恐將採取更為強硬的手段。中東方面，伊朗展示四枚高超音速多彈頭導彈，聲稱可在十五分鐘內抵達以色列，此舉無疑加劇了區域緊張。另外，國人熱門旅遊地日本，多處因防疫拉響紅色警戒，提醒計畫前往的民眾務必留意。\n\n【政治焦點】\n國內政治方面，國民黨內對前主席江啟臣參與台中立委初選的程序引發爭議，黃士修公開呼籲黨中央應還其公道。高雄市長選戰已現藍綠對決態勢，政治評論員李永萍分析指出，民進黨恐將面臨嚴峻挑戰。此外，韓國瑜辦公室主任許原榮正式宣布投入台北市松山信義區議員選戰。台美關係也有新進展，江啟臣揭露台美關稅協議有望於二月中旬簽署，行政院也間接證實了這項重要訊息。\n\n【社會民生】\n社會民生方面，寒流來襲，中央氣象署已針對十二縣市發布低溫特報，預計今天越晚越冷，北台灣低溫可能下探攝氏八度，請民眾加強保暖。南投名間焚化爐興建案抗議持續延燒，總統府接見自救會代表，而縣長則要求中央政府明確表態。此外，高雄市政府也預告，將在未來舉辦「2026 Kaohsiung Wonderland 冬日遊樂園」活動。",
+    "updated_at": "2026-02-08 18:28",
+    "summary": "晚安，為您帶來今日晚間重點快報。\n\n【社會民生】\n台灣社會今日不太平靜。台北捷運大安森林公園站及善導寺站驚傳連續縱火案，警方已展開追查。此外，新北市新莊區因天橋地基工程不慎挖斷自來水幹管，導致新北大道積水嚴重，交通一度受阻。\n\n【國防焦點】\n國防自主進度受矚目。海鯤號潛艦潛航影片首度公開，台船表示，近兩週內已成功完成四次淺水潛航測試，驗證了其關鍵性能。\n\n【國際情勢】\n國際情勢方面，北韓金氏王朝接班布局引發關注，外界預測金正恩胞妹金與正若接任，手段將更為強硬。中東局勢也持續緊張，美國前總統川普被指可能隨時轟炸伊朗，多國緊急撤僑，而中國據報已向伊朗提供雷達與防空系統。\n\n【政治焦點】\n國內政壇方面，國民黨民調爭議持續延燒，黃士修為江啟臣抱屈，呼籲重擬民調時間。國防特別條例卡關也引發美國議員關切，立委鄭麗文強調軍購預算不能代表台美關係全貌。副總統賴清德則低調前往醫院關心住院養病的陳菊。此外，高雄市長選戰藍綠對決態勢浮現，成為焦點。",
     "news": [
+        {
+            "title": "快訊／北捷遭連續縱火！大安森林公園、善導寺站傳火警　警追查中",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBUdXlhRFh5TDlubUVVazBNU2VyQkxGbVV6OXV6TU00UUxCbDFVaHN4Sy1pNGZOcDNuWlNFQmxUam5MSlFWZ3ZuWlA2Z3N6TE1jVnpiblZrQnEtaTBYanfSAWhBVV95cUxObDhsU3ZoazlrUlFZZnNBQUE4YjRuUzhjQ2pxQ1FCU1h1M282cU14OGUwSG5YTGRvYmRYV2tHSGtraHJjVW95UXlXUVB6S00wUWxLTW9rdHZHbjkyN1lRdXYxWXMwMU1VYQ?oc=5"
+        },
+        {
+            "title": "海鯤號潛航影片首度公開！台船：近2周完成4次淺水潛航測試",
+            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ZdnN5bzVKcDA1cV9mWU5jM1QxMnVBWFlWNkdZTDZ0YnFJeDNjOGFOSnRDaDEtUXJpdGFBajg3cVhPSkc3amxYMzM0SXd2anJBeXfSAVdBVV95cUxPNnlOQk1jbUUtSGo1NVc5d0wycUZCd1FJUXBMdVJGYjVpSHZJeUx0U3I2V2ktTzFCc2hGMjI4VWpyaUhaNmFuRmN4bVd0UkJJZU5xY3Y3em8?oc=5"
+        },
         {
             "title": "北韓金氏王朝接班布局！　傳金正恩妹「接任將秒下狠手」",
             "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5scVBOSURXc2tXOU5OREc3R2NUUVBGWVhKWVNib1plUTYwMkpJSFEtZV9hNmliOVZjYTlra01hSjhxcDRlYnpvSk5UMHExb1BxUlhKUUJiajFheUZLY1HSAWhBVV95cUxORHhNazRrSk5qNjdnaVREdzZYRmlGZGdlQmN6UXlTcjJkeG45d3ROMml5R2FQUFg3cWxjSElJQldoUGdEVC1DbjhZenIzYTJEa2pMdWFfQUpVUUhhcW1wa3p2WTI1WnUwMw?oc=5"
         },
         {
-            "title": "台灣人愛去！日本多地「紅色警戒」",
-            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1MeEEzWWluM0xCbmRpWE5BQWc0Rkt3WEJTUUdtV18yTFoybEZ0a2VvWk80dVc0LWdyUjRJYWhuaWJjOFhtOE1ocVlWV2hraFNvdzU0?oc=5"
-        },
-        {
-            "title": "寒流南下12縣市低溫特報 吳德榮︰今越晚越冷 北台低溫探8℃",
-            "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxPNFQzR1JnVHFCX1NxcUZoR1Q3aVRPaHFBTGx5WlJJeG1uTE9SMUxtM2lDWmNPMGlodllxNHROOFVNZzN5R3otR2xhTVVqYmpVRUNlN0JvNzBVR3dkMy1jdy1JUHlvSUgyMUJjamliM3BQVW5WQ21OSWdCM01US2FUc256Q2lKVFNRZGNBc3RJTk1zVTR3ZDNHYmNzVjhyWTJZS01la3FHUHcxU3hZejl4bk16TnF0c3FaY296ZndfcGtvUFVpTzFrRGVXd043OWdESmRPTzhmT0d5ZDhLZU84cDRkUkdSaVRDTHowUEhIZGRwQ25GekFrTW9IYUZsb2tiRjJmajRJejdsN3N1Ty1VVkktbEFnZ2tzTW83Vncyd25LcVdpVzJBS3hOUzRrVWhNekt4bGI4eHJjb1JKYTRQOWNRdjlnVm1PaWdjTms1dk91eFpDSTZWdlR3RWREc3kwWHlFYXBhaW5BeVY1WG1OTnVxWERIYmZzaGl3czR4emFDYVlNVlE?oc=5"
-        },
-        {
-            "title": "「國民黨欠江啟臣一個公道！」黃士修籲重擬民調時間：以為派誰都會贏何欣純？",
-            "link": "https://news.google.com/rss/articles/CBMivwNBVV95cUxQTi1HTUxrb0plV0p5TlF6UkxqczZFMEx6aXdfcXNBdFBIb1U3ZlZLY1kya2I4UXU3ZG1XYjNOOXU3VEVRX1R3cktWRDNydk1VVmROVGFBX2VNRXpJZk42UWQ0cEloeDZGWmNqendXTUVlekRwZmV3N0J6QUVURWV5clQzMXVRQWxSUmJKTHJaUndtdVVsS2hxVWhUdGJ1bWl3TW5WaGdzRDVDaFJBX3doRUNJSGdqekJDUnQtV0FRM3VVanZ3YmZMZkg5RDJXekRNY1FQXzh1UzBJUS02UF90ZlBMVUJOa1ZTOFEzazZpQnQwLXNDMUpsRVByU21PQ1hQay1PakxNM0swQWsweWNxSE1JM3dCamRKSWtqV0pxRmZDbF9VSGNHNGpCal9iQzRaQVIxQlkycDFydzlIYnhqekwzY1RKZW1yeXFkMHFzTVNHNGt2Vy1jbDY5Nm1HeXItQWV3ZUxPb0tZdmhwWmU2M2xwYXRyQzN4TzI5U2IwUEFDN2VlVi1uY2VRZjkwVzVaNHoxcVkzRWJYbGl5anQ3X0hXcER1TFJFRzhhWGk1bTBZTVMtcHU4d0pUMzRYeU0?oc=5"
-        },
-        {
-            "title": "要從防禦轉進攻? 伊朗秀4高超音速多彈頭導彈逾8馬赫 15分鐘可抵以| 國際",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1VaVdheWViRWxaUUlpRXFXeWlKUl9zdXY4cG1yWXY3OWhpS1ZEallOZG5SdnRZbUFuRlNwbWNQaFFvdnRsMHA2aDFDOWltb0VMaEVBNktJMWlQOTg?oc=5"
+            "title": "川普隨時無預警轟伊朗! 美國帶頭多國緊急撤僑中國急送雷達、防空系統| 國際",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5fb1JSeHo4Vmd2cktZTHFmTDdBMkgzWXJ0UDZZbEVsaWN0Wk8yazFGWXItdzdhRmYzdGNrMEpQS0VNZER4U0pnZm9BYjEtNE11R21zclVqLUotUTA?oc=5"
         },
         {
             "title": "2026 Kaohsiung Wonderland 冬日遊樂園",
             "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE92VTBRRXVBR2ZUU1FIb1BONVZqaW1NQThyZzVDbmRhVUIyaktqUXFPNnFXTmJTZzVxUkFXd3FwWV9OYnIwdUJtaUttWHFnNmJ3VjVV?oc=5"
         },
         {
+            "title": "「國民黨欠江啟臣一個公道！」黃士修籲重擬民調時間：以為派誰都會贏何欣純？",
+            "link": "https://news.google.com/rss/articles/CBMivwNBVV95cUxQTi1HTUxrb0plV0p5TlF6UkxqczZFMEx6aXdfcXNBdFBIb1U3ZlZLY1kya2I4UXU3ZG1XYjNOOXU3VEVRX1R3cktWRDNydk1VVmROVGFBX2VNRXpJZk42UWQ0cEloeDZGWmNqendXTUVlekRwZmV3N0J6QUVURWV5clQzMXVRQWxSUmJKTHJaUndtdVVsS2hxVWhUdGJ1bWl3TW5WaGdzRDVDaFJBX3doRUNJSGdqekJDUnQtV0FRM3VVanZ3YmZMZkg5RDJXekRNY1FQXzh1UzBJUS02UF90ZlBMVUJOa1ZTOFEzazZpQnQwLXNDMUpsRVByU21PQ1hQay1PakxNM0swQWsweWNxSE1JM3dCamRKSWtqV0pxRmZDbF9VSGNHNGpCal9iQzRaQVIxQlkycDFydzlIYnhqekwzY1RKZW1yeXFkMHFzTVNHNGt2Vy1jbDY5Nm1HeXItQWV3ZUxPb0tZdmhwWmU2M2xwYXRyQzN4TzI5U2IwUEFDN2VlVi1uY2VRZjkwVzVaNHoxcVkzRWJYbGl5anQ3X0hXcER1TFJFRzhhWGk1bTBZTVMtcHU4d0pUMzRYeU0?oc=5"
+        },
+        {
+            "title": "國防特別條例卡關美議員關切 鄭麗文：軍購預算不能代表整個台美關係",
+            "link": "https://news.google.com/rss/articles/CBMiyANBVV95cUxPYWt6ZUlKRlhaejlJdkhiUmhWTHNwMDFnOGZFWm5sR2l0dkFnMjhtcWY1c0Vidm52ZXNZTkV2WXlwOWk5UTExTlI3NGVDOTdnanM0QjhyZjJYMEkxUmNJbVA3Q3FXUFFFVE1sVlJUdUlrN2VTajZkTmJ4X2t3M015NHppZzM4M25mZEVlbTVjYXFoWndIZXpiczlGWlFrVW5RZE5WbUlRd3A5dTJ4Y2F0bHBkbUtCbWZValZoT1d5ZDBHX2U2TWtsQ2FLZFNWMTlIcVNlcF9zY1dIZFVBZWVHQ204UDR1c0kwX2wxR3hzMHdtbzJFN3RXcW4tekktNi1PVUx5SVExVm50bno2bC1McEowOVVta3VMLW5SQjdKUjRmdjZreDdEWThONG5rSGZDaHdubkdSclN0NHU1eTBiM1ZlMWU5b3RtYXRWX1dMWU91S1k3Smpxem9MaElvZXFoblN6eGRYajlLNWhyS3NoV1ppaFpGaENsemFxNWU2bWlkYy1rQ0NkbE40c3ZEb3ZUeHlFbUFSakUyV1ZmTG5KUFZWNVBQRVlyMDVsTkJKUW45Q2dTdnZaeXByVnNVZVJxck10OEJON2s?oc=5"
+        },
+        {
+            "title": "陳菊住院養病 賴清德私人行程再赴高醫關心",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5saUtXN1hHMnBCWjFGbUVQNFVUR0Q0cFBGZGg2TFhNWW13SDMyN1hnNnBOcGVnUXF3cUF5OUIxamJGRzh0UUdNaWstTFVBcXVQNW1sQnp3MWl4YTJLWHhUR2RWN0lLNlpGZmfSAW9BVV95cUxOY19fWC0xMlRsRGE4OUNVUXp1a2VfQXhhdTluNDlfZFc3LTJwRE5qdlgzNUxvQUZ6MmJrR1E0TmY4bG13cTdtRV9PQXZZeGdxVUFOZUM5Sm15bHN2aFNYTV92dXQxdXhxU0l0MTYxMTA?oc=5"
+        },
+        {
+            "title": "天橋地基工程「挖斷自來水幹管」！　大水淹沒新北大道",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE50SlAteVloVnNXNDhmQ1JtYzdHWkZCUW50b3dEZUYtMlR0VEJWdm4wcGJvSVpDem9EYk1aUnctM3NoZnVtaWhuNHlyeEQ1Yy1vRl9oRnlLY3AzNTh2a2fSAWhBVV95cUxQcnNPdlJPWS1oRkpxcEE0VjN2b3Bsa0NoUnh3Vm03UG5NbFlqS0NVek1MMGVtUUF5ZXNEYU9Cd3hQTXFvNnA3X1N1MVpwbDNFWUYtYlg4eHgtaGZTZExwYmtiMTRGZ1h5Mg?oc=5"
+        },
+        {
             "title": "高市長選戰藍綠對決李永萍揭他死穴：民進黨危險了- 政治",
             "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBrdUs3YmRiZFV2ZXZFWVRBdjJ4MkQ5MWhidkE0dmNMQ3FzNlNrVzVvQ19sZDlHZEJHZmFCQ09xNW53VUNwZ1p5d0NfVXdyeG55cjNfSWJ2OWk0WDEwOGVjcjQ0Y2Z6MVhiZXRieWt3?oc=5"
-        },
-        {
-            "title": "影／名間焚化爐抗議延燒 總統接見自救會 縣長要求中央表態",
-            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB4cmdIaU5USWZNSTNhcnE1cG9hNTZXQ3FWMHRxc2RPNEdHMC0yeWtQVS1kNWx0bVhMcVVnQzZpUGF2WWViLUdOcHhJRHgtTjFI0gFWQVVfeXFMTTQxSUJ6ZnYzRF91ZC14c1NNVE9DVmtneVdvdGtJQUw0SzVTb3pYOW5BWUQtR1NBc25kcjBMVkZvSjZnVDJHVTBuSUcycDJERS1xSnBvdnc?oc=5"
-        },
-        {
-            "title": "官宣了！韓國瑜辦公室主任許原榮 投入北市松信議員選戰",
-            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE10V3YyZDVXc1hlNjRFbnJRT1pVUm9BWHEtejJPT1RFdi1OYWpkNlhXOUJJeGMyalYyT1BUbUduT2J1OGI4V1liMkxGWUJIMmF3bWlV0gFYQVVfeXFMTWFYNUlyNkl5ZzdZWm5ZQllmM0lhRXdfY014MDF2RHZfZ1BvbWQ2MlI3VVFmeEE5bmhuUlgzdTBQbXliZnVVNnBzTEdUY21fNEV1Q3J3ZFpadA?oc=5"
-        },
-        {
-            "title": "江啟臣曝台美關稅2月中簽署 行政院間接證實",
-            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1YYjRjS1hjYThybldTZzZ0N2lpUkpCRGxDbWlsZ1ZkVkFYeUZjR2h1azdmUXQyUVpxMl9ackN4dHI2VFllcXM2MUFBVUJpRk80R0d1RkF4TWphX2VFRi1J0gFkQVVfeXFMTlJ1Njc1S1duTGJVenkzb2xxaTdFLVBYZlpmQloxRlJrZ19QcXYxTThoQ28tNUVsMjJtbGd3ekRpdWhERk1pUDRtbTdwSmsxLWhRbGRMaE1jMkJLNFlJLW9STERvUQ?oc=5"
         }
     ]
 }
