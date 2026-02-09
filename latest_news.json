@@ -1,10 +1,14 @@
 {
-    "updated_at": "2026-02-09 13:27",
-    "summary": "午安，為您帶來今日午間重點快報。\n\n【社會焦點】\n今日桃園機場驚傳德威航空班機輪胎掉落，導致三航班在十分鐘內連續發出「Mayday」求救訊號，所幸均平安降落。北投溫泉旅館情侶雙亡事件，身分已確認，疑為女友陳屍浴池後，男友驚嚇猝死。此外，北捷大安森林公園站及善導寺站遭人連續縱火，警方正全力追查嫌犯。\n\n【國防與政治】\n海鯤艦潛航影片首度公開，總統府強調展現台灣堅定守護家園的決心。立法院長韓國瑜預計將會晤賴總統，盼能化解國防預算卡關的僵局。另有台灣北社發起「拒絕李貞秀立委就職」連署已破五萬人。柯文哲在竹縣掃街時引發基層搶C位推擠衝突。名間焚化爐抗議持續延燒，總統接見自救會，縣長則要求中央表態。高雄選情方面，民進黨立委賴瑞隆喊團結，國民黨文傳會副主委陳冠安則諷刺新潮流袖手旁觀。\n\n【天氣快報】\n最後提醒，氣象署針對四縣市發布大雨特報，這波雨勢預計將持續到明天。",
+    "updated_at": "2026-02-09 18:56",
+    "summary": "晚安，為您帶來今日晚間重點快報。\n\n【政治焦點】\n海鯤艦潛航影片今日首度公開，賴清德總統藉此強調台灣守護家園的堅定決心。同時，台灣北社發起「拒絕李貞秀立委就職」連署，目前已獲得超過五萬人響應。此外，國民黨對美路線的大轉變，亦引發學者熱烈討論。\n\n【國際情勢】\n美國國務院重申，谷立言作為國務卿在台代表，能充分代表美國政府，顯示美台官方互動持續深化。白宮也公開力挺台灣增加國防預算，歡迎台灣國防支出佔GDP達百分之三以上。\n\n【社會民生】\n氣象局預報，過年前台灣將再有一波低溫，年假期間天氣概況也已出爐。北投溫泉雙亡案，兩人身分曝光，疑因一氧化碳中毒。台北捷運大安森林公園站及善導寺站驚傳連續縱火事件，警方正全力追查。雲林馬拉松小編因不當言論引發爭議後已緊急刪文道歉。",
     "news": [
         {
-            "title": "德威航空輪胎掉 桃機3航班10分鐘內連喊「Mayday」",
-            "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOdE5DNS1nb1d5WGg5STFlWFFfdC1YY19YR3JLcUdJbkZtMFZ0QWZuc3NoajJPX0VoMFFUV29hdWxNamwyYll0X19Fa2ZZN1FDa1Q1VjVpdWYzZTF6cHlteWZQNWd3dWZWUUdQZV9ISXZyOVVmRTB2YllyT213TENBNzRwbjBkUE1kY0ZKVFNQaWptRUZHVVM5SDZRU1pVQUdzbUFTUkdrU1p3S2NPSTRTZGZYZl9YMmxQa015R1ppRUo4ODhpbk1WVTdXQ3RMaHhadGc3UlJ2YXo1bVE5WW8xRVhiSW91TktIdkVXSW5rMEhGU2VOQWJWNzJkNUFyWGhqcUZ0eE1mQmU4QXIwN1hsMTZiUkc4X3RSN2wyUjV6cDRqdw?oc=5"
+            "title": "淑麗氣象／還沒冷完！過年前再一波低溫 年假天氣出爐",
+            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBNWUNyY1FBcHg5SUo4a2J3OGR0Nkg5aUM1OXhpUGNKckQ1WWdIMEc1Q0Z4VV9ab3A3dDBrbk84akNGX2dmb0RES0hUQ2FqSy1Mams0cg?oc=5"
+        },
+        {
+            "title": "美國務院：谷立言為國務卿在台代表充分代表美政府| 政治",
+            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5YS1d4RWNKZkhaRU5SWjktNk1SczNRZGJrZGMzQ2JPLVV4aVZweTJUTjFjX28wcm1jcURQYTNNbDBEQktZMk5vOUhCZGlrNkQ4QkZxSHpncTRTNjhfRktj?oc=5"
         },
         {
             "title": "海鯤艦潛航影片首度公開 賴清德：讓世界看見台灣守護家園決心",
@@ -19,28 +23,24 @@
             "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBUdXlhRFh5TDlubUVVazBNU2VyQkxGbVV6OXV6TU00UUxCbDFVaHN4Sy1pNGZOcDNuWlNFQmxUam5MSlFWZ3ZuWlA2Z3N6TE1jVnpiblZrQnEtaTBYanfSAWhBVV95cUxObDhsU3ZoazlrUlFZZnNBQUE4YjRuUzhjQ2pxQ1FCU1h1M282cU14OGUwSG5YTGRvYmRYV2tHSGtraHJjVW95UXlXUVB6S00wUWxLTW9rdHZHbjkyN1lRdXYxWXMwMU1VYQ?oc=5"
         },
         {
-            "title": "快訊／4縣市大雨特報！一路下到明天去",
-            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA3U1ZiNlk1TlYwVC1ET2FFekloUlYwUVFtaGRzLVRLNE5sUEllQ0QzWXhLYVdnUTl3dkM5eDhULVFzQnNBVGlYVkUyR3g1ajVRVUFRNA?oc=5"
-        },
-        {
             "title": "台灣北社發起「拒絕李貞秀立委就職」 連署逾5萬人",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB2R0tqS0E4d3o2ZklLYjhqQjVjUGN0ODU3Y25BMVdfckRFVXduUFhITHYyckI2WGdaZXJ6djhwUGdZOGdmLU5OczREMlFMdUpkQWl1eFZWM1VFQjEycWQxdlZNZHFSMlZsYnfSAW9BVV95cUxPT0czbFNFZmhPLVhEckdmUUZ4dk5jQTZObWYtdmNFVVMyRmdseWJmdDBGWmJqR1FlS2JtWHJkU3YxQnI1RERCcWlTd1N1TVZ0dVhhZ3pFVlFndEc5UG42RzM4R2ZyTmQ1c1pSODdPTjg?oc=5"
         },
         {
-            "title": "柯文哲回竹縣掃街...基層搶C位爆推擠 離譜畫面曝光",
-            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5NTkZyY2JPS3B3eHk0bW9rUDNOS3FfWW5yUEtUeXM2eEJQZTV2bnlzVnRDZ2h4ckk2R0RPWWxkdk03TGR0Xy1jRVBDeU53cUcwWWNB0gFYQVVfeXFMTW54bTl4NGd4WVVoQ05GMW5maUh5Z1lkOU41RzV0SjUtZkF6Y2FGZW1fU2U5bnpnVWt3MUxpU1ZSLUU1LUNzeGRlbHdCejRZU0hFVzB0ODlsYQ?oc=5"
+            "title": "白宮力挺台灣增軍費 歡迎國防支出占GDP3%以上",
+            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBZWXNiTDc2OW55aGJvaTV5NjlYOHdsMkFsR1pVWk1aOVJYNmdVVjAzcXI1UzZZMnJOVXFlR2RDMUoza0I5NW9SRFBlSFJRRDVRRDFLVXBReEJLZ2JrWUdR?oc=5"
         },
         {
-            "title": "高雄恐變天...賴瑞隆喊團結 陳冠安酸2018輸「不就是新潮流袖手旁觀」",
-            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE93ZjBtSnhOd3F4WFJUQXVWZHJmNzJINGFHNnhqY2pXRjZqb1RnbU00VWlOWVJsbW9vdmZoXzhMNzA3NDlhT0YyemsycEZQMkVHS2tF0gFYQVVfeXFMT1ZqR1hldjNQV0IzNVdRT2JocUY0ZzNlZk1Ucy1MZGlldnBOMjl6a3IyUVFpWk9wMG9PZ0xVbHZCU1V6LUhxRjNRZUJKdUE4dlItcGNnZzBGbQ?oc=5"
+            "title": "國民黨對美路線大轉變 學者：鄭麗文「親中、疑美、不反共」",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9DWXltNTJSbWdYb0luWmhNWmx0c0J2ZVNIbUNkb2xhbVRvdElUTHVoQXpoNDFxSlNMb3hHNGpTbFA3aGtZX0plZ2Zoenp1NkhNd1I1NWJWbURuLTFXOGlTTW4taXY0THJXMHfSAW9BVV95cUxOYVV4bThweHlENVFOUjNzUENVTWZRR2NyaHA0ZVpYdU9RR1loU003WjlmNEVoQkIyUlhXY2lNdVZGQjQ0YVdsdl9FeTNKNHh6d2FpZms3Zk5KLW1VVjZDWFdBd3oyeUJQZDE2eVhvY0E?oc=5"
         },
         {
-            "title": "國防預算卡關 韓國瑜曝將面諫賴總統盼化解衝突",
-            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9CMnE2S2g1ejZjWEhnREwyM21vaDRxS3JnMy1OX3p4ZEFQUE11RUNIeGVFQXNYZkdjV0VWbkJUVnpHMnMzU0lxYThEclBRM3FP0gFWQVVfeXFMTlI1cXVkcHFqV294eW5fQnlwNVBKbUF3a2tkdXIzMVFlRjh4SlFQRG9kOWQ2Z2I1M29hX0hCdjl2bk1nRUNRR3l6RllETE5pSHBwNWFrTnc?oc=5"
+            "title": "雲林馬拉松小編開砲！罵跑友智障、乞丐 緊急刪文道歉",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE12MWt6d3lfODhvUW1lZjVyQWZSWjFyZFhhTzcwT29ILUZzT1BINGNscnFMWDUtbWRUZ0FsUGFtYVNFMTVjNFMzT2w2c00ySldyT0ZuRkVB?oc=5"
         },
         {
-            "title": "影／名間焚化爐抗議延燒 總統接見自救會 縣長要求中央表態",
-            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB4cmdIaU5USWZNSTNhcnE1cG9hNTZXQ3FWMHRxc2RPNEdHMC0yeWtQVS1kNWx0bVhMcVVnQzZpUGF2WWViLUdOcHhJRHgtTjFI0gFWQVVfeXFMTTQxSUJ6ZnYzRF91ZC14c1NNVE9DVmtneVdvdGtJQUw0SzVTb3pYOW5BWUQtR1NBc25kcjBMVkZvSjZnVDJHVTBuSUcycDJERS1xSnBvdnc?oc=5"
+            "title": "遊客擅闖北港溪峽谷遭落石擊中頭部 送醫救治",
+            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBKWXdDa2N5N3lEQjE2REhoNk5lbVg5ZFZwcEhrVC1sdGRtNHJpSFRDU1ZELU1JYV9LNi1tS1JYdmFRYXEyNExiSTdRLTg1T09SOWhhSFlHanAzOXBvRXBwa2hya0RiYUY40gFuQVVfeXFMTkdCT2NQdVRDQmpKbWM0UmttODlCRF9tVG1TRmtVZC1uNmZyN0QxNEk4QWVNT25pSThTeHRKbldteG1tVmVtQS1ocWxydDdSNnhfTWNGYUtNYVJIUUkxMnVkMzlqaEhoSUpOVzJWSVE?oc=5"
         }
     ]
 }
