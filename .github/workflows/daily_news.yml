@@ -1,9 +1,15 @@
 name: AI News Bot Daily Sync
+
 on:
   schedule:
-    # 對應台灣時間 09, 12, 18, 21 點
-    - cron: '0 1,4,10,13 * * *'
-  workflow_dispatch: # 允許手動測試
+    # 🚀 提早發車策略：
+    # UTC 23:15 (TW 07:15) -> 目標 09:00 收
+    # UTC 02:15 (TW 10:15) -> 目標 12:00 收
+    # UTC 08:15 (TW 16:15) -> 目標 18:00 收
+    # UTC 11:15 (TW 19:15) -> 目標 21:00 收
+    - cron: '15 23,2,8,11 * * *'
+  
+  workflow_dispatch: # 保持這個，方便您手動測試
 
 jobs:
   build:
