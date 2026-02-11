@@ -1,10 +1,14 @@
 {
-    "updated_at": "2026-02-11 12:13",
-    "summary": "午安，為您帶來今日午間重點快報。\n\n【政治焦點】\n高雄選戰出現變數，民進黨戰將宣布退黨參選。民眾黨初選制度引發爭議，被批不尊重體制。此外，台灣在2025年全球清廉印象指數中，以24名、68分創下史上最佳成績。\n\n【國際情勢】\n台灣邦交國有望再添一國，有台商透露已開始採購宏都拉斯蝦，預示兩國關係新進展。\n\n【地方要聞】\n台北市長蔣萬安預告下午將與輝達簽約，強調年前依原期程完成。新竹市長高虹安則慰問警消，確保春節維安不打烊。然而，花蓮斥資近兩千萬元的「鹹魚燈」引發民眾及跨黨派議員痛批。台中警方臨檢多家酒店，維持社會秩序。\n\n【天氣生活】\n氣象局提醒，明起全台將變天，半個台灣恐遭雨彈猛炸，過年期間天氣變化也將一次看懂。\n\n【健康資訊】\n一項涵蓋13萬人的研究證實，有兩種飲品能有效降低失智風險達18%，建議民眾可納入日常飲食。",
+    "updated_at": "2026-02-11 12:38",
+    "summary": "午安，為您帶來今日午間重點快報。\n\n【政治焦點】\n台北市長蔣萬安將於下午與輝達簽約，依原定時程推動產業合作。此外，台灣在全球清廉印象指數中，創下史上最佳的成績。而在政黨動態方面，針對民眾黨初選制度爭議，有評論指出其公信力恐盡失；高雄選戰也出現新變數，有民進黨戰將宣布退黨參選。\n\n【社會民生】\n林宅血案最新還原，當事人田秋堇揭露細節，引發社會關注。春節維安不打烊，台中警方臨檢多家酒店維護治安，同時高虹安市長也慰問警消，感謝他們同心守護竹市平安。\n\n【健康生活】\n一項13萬人研究證實，有兩種飲品能有效降低失智風險達百分之十八，建議民眾可適量攝取。\n\n【氣象快訊】\n氣象局預告，強冷空氣即將南下，天氣又要變天，提醒民眾留意天氣變化，做好保暖準備。",
     "news": [
         {
-            "title": "明起變天！半個台灣雨彈猛炸 過年天氣一次看懂",
-            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8zQ3E5b01VQ0lDbW92dmxPNHQtMHlWNHN5RF9nMzFLRGppck4wUy1aNTBPTHVsbTJYWEdkM1pBS0dDLTlSMVJ3bS04SXlITW9XVXpVZw?oc=5"
+            "title": "田秋堇第一手還原林宅血案！賈永婕深夜哭了",
+            "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxPbE1rdjN6YkVyNUlWb3RDbzFHVkxGaUN2cXlBQmhlVHJjZ1A4ZWF2amZFZGFXODdGLTJJU1R6amFHeFJjMGF3XzFISUZqS3ZnOS1LLTg4c1I4ZC1RQ2NLd1JISXkxaS0tM3RRaTVaZVBHVF82T25GdmRHSHdBQ25QcFZmOWYzbVF2UDF2YTctMEI0a2toSXBlM1dhZHlnTEplamtuUXc4Wk9haHpOdDh2d3ItTm1UWVdVLWthak1sN3Z3RFA5c1hFekJqNHVPYTVydmdNSEpEeVRXTzFCWTNSX2s1MmRxYjhDUmZNTXYzSVhXVFRSY2IxU3dPbGtZQ2pjLWx2TnJReElBMTBSZTY3RjFUSDVQWlpzLVg4QnpUajF6ZXFBaHMySGpFaEZlUQ?oc=5"
+        },
+        {
+            "title": "7寶媽爆又懷孕！每周不避孕「床戰老公3次」 狂喊：生到45歲更年期",
+            "link": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxPSEo4eDV6bVpyZE0xbFpqN25ZQ08zRTRBTmU5NkxnY3hhMWt0RkVPZ29YX3NqZGlYUVc3OFZmTGNIQ3U1ZW5ibWRFUXE3VlhLRjVtcEVLV1ZGdm9Tbnh5Zm0tVjhFTi1XaEJTSDg4WnBqSEhDNUVjWksyQU0zaFNrNmNGRTJORXV3OEVveXBFemx3bk1vd0kzWU9Cbm1vczVTRWY4cm9ibnZjVngzQk1iRVlmR0RQVUE3NVY2VnNNX0ZtZjJFbmh0emFwMmdqZ2F1dHBtRTkydk94TDBVc1R0czZPd2M5eWdZQUp5dW55TE93N2ZpM0NKbnllTWQwVFNFQkdEdDhveXFITHpoTjczcGc4NFo5bkwzUG9MUW0xMjRuQWxheFRudndBSllRQVRHTjUzWFV0ZlJoTHFXZF9kUTBCRjVia3piRVowa1ZKZ1RiUmk4cWVVUXgzMURaMEdtVjlaSXBaUk1IRGtuc3NRdGJCdDVjckRJanFMTDhB?oc=5"
         },
         {
             "title": "春節維安不打烊！高虹安市長慰問警消 同心守護竹市平安",
@@ -15,16 +19,12 @@
             "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1TZnhFd0R2aS1ZX1g2b0RtR3VmYTNoMm5SMHhuak51Xy1EYlNDQTgtdWNVYW93YTJIQm1qdWlTTVlZVmNBeGw3UXJ6RmE?oc=5"
         },
         {
-            "title": "花蓮「鹹魚燈」砸1980萬預算　民眾傻眼、跨黨派議員痛批",
-            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE81OWNrakh0YjJ0YWMxeXpxOW92b0xQVXBwckNzNkpWMGJWTm5TQ0RUTERyTUI1WG5kTklwZGhPUWFlWXlPYWFjckQ4c2paVUFVVEdibnZQdE1qQWNhNEHSAWhBVV95cUxNNGZZWm9MeUVZNmhJd0dDS2RyOGNnNG5XeDJvM2pVTXEzb3ctZmRGNHlSWlI2Y2pmZFAzeTBwZWxhSjRzMEkxWTFmY3ZLbWpLM1FZQlFVdjZjamtEV2w0RktYU05pY21hbw?oc=5"
+            "title": "又要變天！　強冷空氣準備南下",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE50c2JfdUplLUk3dzVRQ2pCWTV5VnVCQTVTajlqdzNDNzZXVnRXaHVGS3U3eUdBajAySHY3QURpVmZZSFAxSE1jX09TR1J4eDF5WUVFX3hYb3dLZ3BobWfSAWhBVV95cUxQcTU3T0tLOXpUZF9UR3ZlU2p5SkxYelhTZ0RlbExVRnBUa0MwRWxJUUhRQzB4UXRscWNjb252N0lRNVhhY3dObXNaWXdnMVBvTnNlMW0yOXFaeHlVdU5LYWw2a3BHN3RROA?oc=5"
         },
         {
             "title": "萌犬狂嗅「美腿陣」輸了！台中臨檢14家酒店...細肩帶香香畫面曝",
             "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9lTEo0WXNyYV9Zb21lOHVnSTI4WDdkTGRpWXAyWHlzOThsOVBsZzhnd3hrdzdESVFuZ29YdEpzZDdfaEZKWmxxZm9uWHpvMlE4MzlpSEM0U2NVM3ZIeXfSAWhBVV95cUxOeThxWnV3RWhBNGp2ejNSbUZwekZjM3h6VFZfVy1Yc2JsYWVZYi1MR1paenpxUDc2a1pJLUR0X1BFV1VodWw4bGk2bjV2aF9JMU0wV2J3aGZfU0otSEZrQWk5U2V3TEc5TA?oc=5"
-        },
-        {
-            "title": "台灣邦交國準備再加1 台商透露採購宏都拉斯蝦數量",
-            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1VM2lHTHJ5NUdLM1IxblllSnAtWVJQakZYMzRPa2txOUdnR2pOb0kyZ0l4Q3I3WkNsSXg2S1lzWHpCclU2QW93RUdFRHVBbzNjbndqbENGRE1PblVHSHVz0gFkQVVfeXFMTjQ0VDdyUm1OcjdxT09LNjhkNFd0TU1ha3JtbDhmWnJXcmJ6OEZqNUc0ZnpOTUVMR0dnZFh5bDVTYk83cWVEcF9aamhpWTY3cGkwV0JvWXh6Qmk2anU5LXh5ZldwNA?oc=5"
         },
         {
             "title": "與輝達下午簽約 蔣萬安：依原期程年前簽約 大家拭目以待",
