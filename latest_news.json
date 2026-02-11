@@ -1,18 +1,26 @@
 {
-    "updated_at": "2026-02-11 17:09",
-    "summary": "午安，為您帶來今日午間重點快報。\n\n【政治焦點】\n民眾黨團今日點頭，同意將政院版軍購條例付委審查，並將其列為「最最最最優先法案」。另一方面，獨家報導揭露，李貞秀恐因違反兩岸條例第9-1條，不具參選資格將面臨開鍘。此外，立委黃國昌在掃街行程中，面對民眾提問「選上對市民有何幫助」時一度語塞，需黨員協助。國民黨方面，關於侯友宜接班人選，前黨務主管李乾龍洩露了其宣布時機點。\n\n【國際情勢】\n宏都拉斯副總統近日公開表態，透露該國將逐步與台灣恢復邦交關係，國際情勢備受關注。\n\n【財經動態】\n隨著預期關稅將降至零，台灣六家車廠計畫引進美製汽車，預計未來市占率可望挺進兩成。\n\n【社會民生】\n林宅血案的歷史懸案再引討論，田秋堇第一手還原事件經過，賈永婕深夜為此感動落淚。天氣方面，提醒民眾明日起全台將變天，半個台灣預計有雨彈猛炸，請留意過年期間天氣變化。新竹市長高虹安春節前慰問警消，強調維安不打烊，同心守護竹市平安。台中警方也針對酒店展開臨檢，加強春節前治安維護。",
+    "updated_at": "2026-02-11 20:00",
+    "summary": "晚安，為您帶來今日晚間重點快報。\n\n【政治焦點】\n台北市長蔣萬安今日宣布與輝達完成簽約，並將親自說明合作細節。政治圈傳出，李貞秀因違反兩岸條例，恐不具參選資格。黃國昌掃街被問及政見一度語塞，引發關注。監察院也彈劾四名官員，追究非洲豬瘟造成的21億損失。\n\n【社會追蹤】\n新北地院國民法官首例，判處拖行奪警性命的女毒蟲死刑。林宅血案細節經田秋堇還原，感動賈永婕深夜落淚。高雄美濃大峽谷案偵結，起訴106人，不法獲利估計三億元。臺東縣警察局則與義警大隊共同慰問協勤民力，維護節日安全。\n\n【國際瞭望】\n日經分析指出，中國對日犯下與對台類似的策略失誤，反而助長了日本自民黨的獨大局面。\n\n【科技新知】\n台灣「齊柏林衛星」傳來新春賀禮，首度公開高解析取像成果，展現我國太空科技實力。",
     "news": [
         {
-            "title": "民眾黨團點頭讓政院版軍購條例付委 列「最最最最優先法案」",
-            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE05OVpqSXRrTHRWdk90d2ZnN3dJLWFVSTliZXNZRHdOR3ZWbXNpSnh6aU10MVdMY195YzhzV2tIcmxYZU1lVkd0RUp6LXFZU1ZZSktN0gFYQVVfeXFMT2xaMjI5a1BwNDVCczJ0NmVBcmp3RG9ITHVkYk1samhDTEpLUkliQ1VicWFZaElMZ29QS3A5cjU5OHlVdVhGemRFdTkwU19ZeUZ4Mnk4czBtbA?oc=5"
-        },
-        {
-            "title": "預期關稅降至零…六車廠都要引進美車 市占率挺進兩成",
-            "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxQN1IzaXdUZVhfb2lNQ2VyZHRzRkhuNzVwWFdGMVFrTmFkczEtQ2ZNY09URDZsU3oyZWw0S1J3SHZXSTlrT1phT1p2Vjh1YjdEMGlDenA4TUQzbmZyT1F6b0p2OVVTRXZUYklmY3hTTklBQ0xkamF0dVpTY3hWVF9lZ2IwcHc2YUJNTGktend2eWJfSFhJdjFUaEwweXkySnRzUDFKbVNnX1lkbVJFWHJvaXY3Q3JMM0xzZ3lvNGRKaWlIbEZkSnd0LVh6UDZZVkhuVm9yWUdJdU9xTWdrQVliTENLZDN4M29DU2xWeUt2VzhFWDgtdGxxd0ZDdFVHMV9NN3FvQmdrelNOSU1YYnF3eUg0QXViMWJUdE1KWHZwWHc2b0U5M01Pb0JVdkc1U3c1NXp5SG9uVVlzeHVad0pZUlM4WUJaaHE4RFQyYjJ3YVItNDlqU040UExOQUp3X1VQYlBUSXdXX01zdw?oc=5"
+            "title": "與輝達完成簽約了！蔣萬安下午2點記者會親自說明",
+            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9Pc0IyaE9UcERqTWU3UER5WGs1M0twZFpMdnA5QUF1dVZFWnQ5a3hRREpVaEUzWDNmb3BFeUl2SmpuVi1lWkd2VE1UMTFSV3Vq0gFWQVVfeXFMTmhHaEJxVWhjZDJEcERGSi03U2syQXZtVjNFYkNYSE5LN1cwUUVnbXctQzVzNm4wRHdKYzJ3VXFOU0JyR1RLY0ZIQ3pWczRTYzlWX3hwbHc?oc=5"
         },
         {
             "title": "田秋堇第一手還原林宅血案！賈永婕深夜哭了",
             "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxPbE1rdjN6YkVyNUlWb3RDbzFHVkxGaUN2cXlBQmhlVHJjZ1A4ZWF2amZFZGFXODdGLTJJU1R6amFHeFJjMGF3XzFISUZqS3ZnOS1LLTg4c1I4ZC1RQ2NLd1JISXkxaS0tM3RRaTVaZVBHVF82T25GdmRHSHdBQ25QcFZmOWYzbVF2UDF2YTctMEI0a2toSXBlM1dhZHlnTEplamtuUXc4Wk9haHpOdDh2d3ItTm1UWVdVLWthak1sN3Z3RFA5c1hFekJqNHVPYTVydmdNSEpEeVRXTzFCWTNSX2s1MmRxYjhDUmZNTXYzSVhXVFRSY2IxU3dPbGtZQ2pjLWx2TnJReElBMTBSZTY3RjFUSDVQWlpzLVg4QnpUajF6ZXFBaHMySGpFaEZlUQ?oc=5"
+        },
+        {
+            "title": "快訊／女毒蟲拖行派出所長奪命　新北院國民法官判死刑！",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE92amIySU9LN2tDeUZVSThXT2thYmpfcXRTbktSNlQ0WTVOdHYtQTJMeDFXQktYNXpsUlM4MW5TVms2VjRvSDdVc3doTmpLdFpVOEdYdmI1aHZSUUtSWnfSAWhBVV95cUxOLWk0dEFKcHNJRmc4LTQ1dlFCVEQyeC1aMkNQa3dmS2RlMTFheFNOTkQ2aEZvc2Rxb09vTV9TcVNLdTY4Zk5fZXdTWW5PcnNySW1DWXFmNUZzb2c2WXBEb213UFVvMzNIaQ?oc=5"
+        },
+        {
+            "title": "日本大選》日經：中國對日犯了對台同樣的失誤助長自民黨獨大| 國際",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBVX2VRdlljTS1UTEo5eE9MN2UxREUzRDVxb29SYUFNMTVSamNuZWRXVU91LU1LN3AydnJIVkRfQzM0d1BUQ29XdEYwRFRGUnh6elpmMGx3QXBiSGM?oc=5"
+        },
+        {
+            "title": "高雄美濃大峽谷案偵結 起訴106人、扣押43筆土地 不法獲利估3億元",
+            "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxQa3d4QndnczVmcXAxMGlSdlhIcEVKdzluZzlMaFV2MXNkUUp1RUtQUDNOREsyaUVZVXZUaGVqbkZwNVhPNUxfdmw3VGVxLUtjbVVOYXY4c29LRnRMY3hoYTY4NUNiSVVlT1ZBNmVSb1NURGVidWJ1M3NEYkVNeE1fMUYwRzNFem1wd25CbFFvMU9hV05oaTN0VXIxNFdTRWVKNFdseGFDOVhCb3oxMEs2TVNrejFseXprVzk0RWI4Y3FsNF9TbnlXU1A1SXNVV2JrVzk3MmFWXzRwTnU2TTFPbWVFc3pRRDY5aUgwU0NqaE5fV2k1VmVQdkFyTjlabDRUYkdfS0hzZGNkdnRBYjJicGRqcFdScnZBZGlEUURzZDB6QTlUajhHNFhSNnp0STRMbHBIRElsOUpCdW9mT2x0aWNLTXNwSkkzaTJFVXhGN2ZhbUZZZVhNVHdvN1hiRUtabFdkOTdfSGtQaFdhNzVKSGs1X01QSWkzbkg2cl9ia0xhLTFUZkNheFRtaXlJYkdlT3Q5Z1Nn?oc=5"
         },
         {
             "title": "獨家》李貞秀根本不具參選資格將開鍘！官員曝：違反兩岸條例第9-1條",
@@ -23,24 +31,16 @@
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5iWTFUVFEwSGF5Y3BRQ3hleTV1aHljNVI2WWhVMWY0bTVYWHM2Y2hRS3lHV1ZnZHlBclk1RzE0RXJUWG9ULVFWTUJZc3FwdWVtMUFROXF0LXZSOVJydGZuWm41Y1FLSkg3aWfSAW9BVV95cUxQVHExWGZidGtVT18tZXBlWUJtTzZUc3g5ZGptSWJCN0k1MVhlWURQVjRCV19mZEw5V0RydVkzUXVrdG9lcW5YYTJVUkloUm5ZRms3YlNnbEpvWkpPLVZwRTA1SXRYQ3ZyTHJmTGdhNXM?oc=5"
         },
         {
-            "title": "明起變天！半個台灣雨彈猛炸 過年天氣一次看懂",
-            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8zQ3E5b01VQ0lDbW92dmxPNHQtMHlWNHN5RF9nMzFLRGppck4wUy1aNTBPTHVsbTJYWEdkM1pBS0dDLTlSMVJ3bS04SXlITW9XVXpVZw?oc=5"
+            "title": "非洲豬瘟釀21億損失 監院彈劾中市前農業局長、前環保局長等4人",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBsNXBrbk5TZU96emFhcGppRHhmenpCbHloVU1PdkVRamNKMDd5cVRWZkhHb3ZYS1QybVhXOXNwWXllWXVIaklWNDRobEU4UDg1UlM2eTBFTWVPZHhEVXREeU10amMwQmNhVHfSAW9BVV95cUxNOEZna0ZTdHRTanBWTlpRenVMc2tMak9ONTdfY2dlSFpzWDBFVjRXbUdRWUptdnp5dlVSZ29nalVrWFdGSkdQYWsyTldEQllNUjgtWktHMlBya20zd3RNdU9YUkdNNUhTR0xJNTlFRTQ?oc=5"
         },
         {
-            "title": "侯友宜接班人呼之欲出？李乾龍洩底了 宣布時機點曝光",
-            "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxORHIxd1lwVk9zWTJsNnpvWWVJYWhnenBUR0VFOXV6Uno2YUo5U0xUWTlnSzI3Y0JkSTI4WktWVlphSDl5WWFBN1FUS1gwSXIyaDVVVTYwdUxsOTVtRWNlWkxDOWdHTWphQkV2a2lzbG5pYXNuWEhaaDhYZ3hfLXp1Um9Kb1drQlQzZnE0RGZzTUxGc08zN1RIbWpaZWNvbkdPMVZUUnB2UkRtakNpWERIM3lhT19IaG1neVNoVFJ2eHNvUm9xQTNOUDhSb0tveUo0b3pTS2lnY0g5UHZWNkJzSTgxNTJXZUtndUVZX19Kc1BHQW5KT1c2NXB3QVBORzdEc01HbEt3QU9IQkpRMnp1TjNLMmJUcmk3dVVjc29wRmRkTzB2Q0J2TzBScG9PQmVVNGJBV3FrTzZ3T2R3MjdNVnAyN19CYnluVDl3U21RODdhT3FQSDdheURiNk5kTWFteDlSZU51RlJVUQ?oc=5"
+            "title": "太空傳來新春賀禮！台灣「齊柏林衛星」首度公開取像成果",
+            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9MbzlVQnFud0NUazZWWUthWTdEQlZJQXAybGtLT0NTNjctVUN6RWJOOG8tMHRCd3F4TXhxUTNheG9pUUlSWUtZamlkbzZiQ3VNdFBnU211cmRKa1U0bm9kdHhma3jSAWpBVV95cUxNUTJvU01hY2FSWGZURnB3Ylg1dXhtSGtPUVZFTHVyLU5TTkIzLUpkSzRRZndrRU52OFlvN3RmNnRlc0VrTmFjb3MtbHhmajRpdUlkTFg3X1RLX1NKdmV5U0JXa1RtNmtMaGtR?oc=5"
         },
         {
-            "title": "春節維安不打烊！高虹安市長慰問警消 同心守護竹市平安",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5XdTljYXRXVmtWdTJTTEVtbHoyRXhCc2dfSVVuNDZiWWdqV2RJV1hDSEtSV1g3NjVqclRmaEdNX0w0R3F2eWJIYzdJYkcxaWR3eXdQUU9B?oc=5"
-        },
-        {
-            "title": "宏都拉斯副總統：將逐步與台灣恢復邦交",
-            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAxM3VsSm9Tamc5UldFT3VsVFBsRHVzbmY2bkdOZnJqTjU0b1BUQ2ZzTFU3MzhsaUstbnVKM3F2TFZSSkxJV2ctdHgzRlQwUFd0cnFJaU9pcXdBZzRKN2fSAWhBVV95cUxPS3h3MGNMNVkwMU5NMzBNVXB4RmJaTUg0djdKSW9pUXNsM1BCNFM1UHg5dG1weTJfa0ZqeFlva1NQcEh1ODJlNXJ4SnZ6VlpyMzBTdWJlX1VVdlh6SF83UEx0VThjNmlCYw?oc=5"
-        },
-        {
-            "title": "萌犬狂嗅「美腿陣」輸了！台中臨檢14家酒店...細肩帶香香畫面曝",
-            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9lTEo0WXNyYV9Zb21lOHVnSTI4WDdkTGRpWXAyWHlzOThsOVBsZzhnd3hrdzdESVFuZ29YdEpzZDdfaEZKWmxxZm9uWHpvMlE4MzlpSEM0U2NVM3ZIeXfSAWhBVV95cUxOeThxWnV3RWhBNGp2ejNSbUZwekZjM3h6VFZfVy1Yc2JsYWVZYi1MR1paenpxUDc2a1pJLUR0X1BFV1VodWw4bGk2bjV2aF9JMU0wV2J3aGZfU0otSEZrQWk5U2V3TEc5TA?oc=5"
+            "title": "警民同心維護節日安全 臺東縣警察局與義警大隊慰問協勤民力",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5EaEt5TTZMNm9zN2J2VjBPSmQ5WVQ3c05pUm1rRVZsX3hKMmhkeXdZWHRaMWNhd0NwU3hhVERvem5oNjlKQkJKUGgwVWw0TFZHMUJrLXFB?oc=5"
         }
     ]
 }
