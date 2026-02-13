@@ -1,7 +1,19 @@
 {
-    "updated_at": "2026-02-13 12:30",
-    "summary": "午安，為您帶來今日午間重點快報。\n\n【政治焦點】\n國防特別條例審議中，李文忠委員提出五大刪減標準。內政部對未放棄中國籍的立委李貞秀下達最後通牒，要求明天前提交證明。賴總統在法新社專訪中指出，若中國攻台，日本、菲律賓等國恐將是下個目標。\n\n【國際情勢】\n國際局勢緊張，美國再調F-35戰機赴英，中東戰雲密布。伊朗鎮壓示威已致至少七千人死亡。俄烏戰爭將滿四周年，澤連斯基總統擬宣布大選。矢板明夫分析中國對日稀土施壓籌碼有限。另傳出川普可能於三月底訪中，以望延長貿易休戰一年。\n\n【財經動態】\n好消息，輝達確定落腳北士科！台北市長蔣萬安表示，台北將成為AI科技最強心臟。\n\n【社會民生】\n中央氣象署對六縣市發布低溫特報，氣溫驟降跌破十度，提醒民眾務必加強保暖。",
+    "updated_at": "2026-02-13 17:04",
+    "summary": "午安，為您帶來今日午間重點快報。\n\n【政治焦點】\n張育萌爆料高金素梅在會見胡錦濤後，國台辦曾轉交近億元資金，引發政壇議論。立法院正審議1.25兆國防特別條例，李文忠委員已提出五大刪減標準。此外，針對十位立委因議事衝突遭起訴，盧秀燕市長呼籲司法不應淪為國會糾察隊。\n\n【國際情勢】\n立陶宛總理坦言，當初台灣代表處名稱的行動過於倉促，不排除更名為「台北」。而在另一國際新聞方面，中國迅速撤回對日稀土出口限制，國際觀察家矢板明夫分析指出，中方施壓籌碼可能不如想像中多。\n\n【社會民生】\n新北市一名國中男學生遭同學割頸重傷急救中，而相關涉案者竟在社群媒體發文戲謔，稱之為「最美的風景」，這般言行已引發社會各界的強烈譴責與追查。\n\n【生活資訊】\n年假天氣預報今日正式出爐，除夕將迎來變天，部分區域恐有降雨。在消費方面，好市多高雄亞灣店已掛上Logo，傳出最快六月開幕，屆時將擁有全台數量最多的停車位。",
     "news": [
+        {
+            "title": "張育萌爆：高金素梅見胡錦濤後國台辦轉交近億元 張俊傑負責發錢",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5TVHFjaFl3cDdibDdPZXpQWl9pT2o0R0tHRFBnMjlkX1VPSDVPdXYxcGhyNkV1Q1M0VFR2WDd6cDN1WXEtTkM5bGpBQ1ZtV001V2N6T1QzN2Nzd2dVNG1sa3RERkNKZnU0d1HSAW9BVV95cUxQSFdyanNCblhON2FZSG5xekxNT0d2MTJkdnFDT3hSbFU1NnZMbTJoay1ocnE0MzhjX3dJRXgtYkNVNzhlcUd1ZFF4alNhamdQZlFiNnVUUm90VE1nWERJaFdGTmJGd3EyMzRkU3ZmRmM?oc=5"
+        },
+        {
+            "title": "一圖看9天年假天氣 除夕變天降雨區域出爐",
+            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBoRlp2aHZYMVJPdWJWVklUQVZ3QmE4N0NKX3hBbGZNakhLVHZFLUxSa3cySjJYRzNoUklrT285NHFtU2hpOHpna016RGFuQ1dO0gFWQVVfeXFMT3lIc3dQN25lYThWeTIzNXU2aVIwYVJFcXZMQjIxaWpHLVBwZlllY1pXUlZFdHdrMFhjdUp0T3BvZVBTckhfQUhrai1mbVdDNjdjNWp4SXc?oc=5"
+        },
+        {
+            "title": "台灣代表處名稱掀波 立陶宛總理：當初行動過於倉促 不排除更名台北",
+            "link": "https://news.google.com/rss/articles/CBMivgNBVV95cUxNcmstUHBqSHpJeERSeVVLSkIxQTVHaXZSOTNXekMwRzF6YU0xYkhQNGFRdkY1QzRETE9HZHlpZVVfbFRlTU4teXREdlhfdmRhOWtkYnpieVpxczFWZDk1MGNjcUo3NnZEZGY4QVIyZHdhSGZreTZYYk9EeURuZkloa2lMd29aNFI3eGZ4QlN4aUFQcU95TmhUdUszWi1wN190SHhma2xyVWh6OWNVbGdtSjU1Y3hvRktONXdLOGs4WDBrcFNPSnFXVmlxMzNZTnF3RGFSUDNEQnBoZ0NUUFNUVVprU0MwN1dacTNhZWxISzE5NW5BVHIzT3ZBbUlMQWl2N3hycXZSZ0lBSHJLM0VqRmZ6YUF6enoxbS1uSFZyU2Vvb3dPTzVOT3dtY0ZacEQ5YkY0OEp6X3hsMzRZSEZIUHRDZVdQeVRMS0xoLUN1anROaVh0dGxQWlJ3eTlyRWMwR0ZCU2NNZU5xUWFOWjVrQVNMQmM4Sm5rRkNUNndZTmVkS1IyT0NXQTlVZVBzS2didGVHaXVrV1pITHdnV1owQy1DNC1nLWNwZUVEMzNfdWpZbl9GVEZfWnp1RmNPQQ?oc=5"
+        },
         {
             "title": "1.25兆國防特別條例審議李文忠提5大刪減標準| 政治",
             "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB0UnhyYU1kYW5zYjk2cVo5cVlUREthSm5zZ18yWE5GdjNBOHhtRmx2QmlwSTVYWVVjaDM5aHF5QVVUMWVNdVdPZTJWd2s1SjExbkJCcDh6d2h6TEU?oc=5"
@@ -11,36 +23,24 @@
             "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9YbHRvdHhSM3ZhRkd6aWpTaDhMMHpNMkZ3bHVuSnNkbHpqTXNzVWVnaUxocmRjX196aFQ3SDhfVHMxZUQxOUVlanVpcHE0VEFNQVExNllXNm51eEE?oc=5"
         },
         {
-            "title": "賴總統法新專訪：若中國攻台 日菲等恐成下個目標",
-            "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxQbnN6UUpJSlZrOURmTEVVb3pDUGlIbTRhSEJGY0NXX1Nuckh2SGhmZGlid2pMZzRjVkNIY0ZBbGphY3lUeEF0T2ZtSEg0ODBtZi1Cb1NWVXZiLUk4UWtwNmx3bG04dDBsSFJ2SmlJRzdCZ2luR1ZNT2gzVVFuY3htQ08wcEpOdWlxWkswZ09VemZOaFJndkpJSlZEeG9vTTdiRkRqQUxYb1hUaXdMSW41dXNrVmhrQkhnemlWeDlscnRHb1UxclNhVEFLTGk3N25rcU9WbUpQZGthV2d6OGpvOXVoazlMS0dLV1BEQTBTQmdreGFFR0p3c1NFdjNEbDJuU2hJXzBPOFFEWE1ZNjE3VEdHcThvVTN4SWJZN0hTMGMxbUs0QV95ekpJTDVwTEItbFU0QWtVOGF6TnBWeXB5LWJ4T0xKQUxCNmNxaGo4R1NLUQ?oc=5"
+            "title": "原來林宅血案現場近在咫尺！　賈永婕親訪義光教會：我一直活在另一個平行時空",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5udGo4OXJJd2VUcGxmWkZTV3pkTVpKYTRyRnhvbmM5VXRCeFVmU2ZBTlBySE5zVEF4Wkl1TjFSWXdSOHFYckdWSzk0ZW5OeV9HRU81STc1eFlNU3fSAWBBVV95cUxPWG85MDhBWmhnc0NDc1BuRHpKMDNFQ0tic3psY1ExMHZDeW56Ukx3a09Xd0dlSjBpYWlGVGFrcHRKTGNrcGNfZzgzOXNMeHY2czl3R2t5RnB6clNXVmExbWo?oc=5"
         },
         {
-            "title": "快訊／輝達確定落腳北士科！ 蔣萬安：台北成為AI科技最強心臟",
-            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBXS2U5SktlOGVlbmdxdFdXdmNsN2s5UklJVU9LTTBuTFZvZUo5dWkyT2lBVFo3YVJTLXNUelRhMjFjVURaelZleE16Qjh4VjZmWk9WUHNVNGd2QQ?oc=5"
+            "title": "立院肢體衝突10立委遭起訴 盧秀燕：司法不應成為國會糾察隊",
+            "link": "https://news.google.com/rss/articles/CBMijwNBVV95cUxPdGJDNzFnSUxqYkM1d0EtRzNEUHBoTW9weU9DdzlELUljeXAxZGZOZkFuUzZieTNIZFBmc0YxZlFuMDA5VENQb2RCWlE2UWhXN2dWVEpPM1ZyOFltbFBwdTNwQnN3VTdacWlmSlZLTmUyVFdQUjBRSE5kUUFhV3VvdERSWXQ4TFdxNXoxRHpBRzFQV2huelNQM1QzMXJLeUdoMTJISUdnb2VnTWRESmVxOXd2S2R5cG4yYU9tZGpiczA0MG9WdTRmWWR2QnpJZlNYV3NzbU0yWjJZODAwRGd4UW5BZFBLdXY4MXZlSFhoZlNwTW9hSjk2c0ZwOU9Ba1pRbi12eGJJeTZmNVUzeE9iM2FqWE8yVUlseGhiZ29USEtkSzR3NURpbTNDTnkxX2lFWXZnY2tqeEN4OWFOeDU1MzcwRXh6dzJjY0g3MEV0ZTFiNlJCci1rekJuMkIwbk9fX2h2VUZGT3NmV2w5ZHhQMlVaNWdfdnE4b0ZwREJRdjdad0IyX0hfUlNPZU90RTg?oc=5"
         },
         {
-            "title": "內政部下最後通牒！李貞秀「沒棄中國籍」還當立委 明天前須交證明",
-            "link": "https://news.google.com/rss/articles/CBMinANBVV95cUxNb2tvM1FoQzdCOWk3UWU4ODhudG0xWkpuczB5U2gtV1JrWHhrc3dYN2EteWVfbktDenI3U0ZhUXFWVGYzaDNWWGNYRVk1TDlqXzRQcjh3SGN2Wk01eWl4YTB0SXFjR0x5eWZoazlfclpCSUZ5VTJacDhrRnJpLWNOcUI5dFFsSjUyRlBSYnhEdFNDVmZyWVJMbjZnTC1VLWFmLXd5Mnp3WTEwS2pxLTNkSW01S3I2YnZzbUtNSUlmbDNjVmFVTWZiZ2s4WklRLUE3VFFGcXEwNjhyNWhReV83azl1aS1ucVZmU0FVbXpEeUhNQXRpYWl1RUVKQzVxdTFQZzBrQlZLNEpzWjNoQnM1bmtzYTBGN2tRMVlxRDNUMXV6REpFVmRjSGdXSHhOTnkzM3Y0NU8yanMzV2x1ZVRYeko2TUMwNmJabEpMS0R5QVg4bjVHeFJrc291THM2dmZBTExJckJHa2NldWlVaEIxNWFMMnZZeUR4Y0VaLVU1bXhVRkdTcEtxUUdZOUZ6MlR1U25nWnA2NHJTTjI0?oc=5"
+            "title": "好市多高雄亞灣店已掛上 Logo 傳最快6月開幕 停車位數量創全台之最",
+            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1vZmhXSmRjbjFXekJqWXNGYmkyaFRJcjV5VGdLZjJfc3M5aW9mcHdxbEQ3aF91a21rLWVxSE9NS0MzQkR0b0M3TnJHYTgtN2pp0gFWQVVfeXFMTXd2VFd1R3IyY2ZZVkhib3pfTnpWeGlaQy1aSUg4a1RlMzlzSDRuaTZRQkdwaDM4SXhOd0toWmlmVk5LZ3o3aEg2Z1N3YVRaU1hMM3NRQ1E?oc=5"
         },
         {
-            "title": "快訊／6縣市低溫特報！雲霄飛車降溫「跌破10度」",
-            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBUZERHc0c4MnkzaFBuZkVMV3hhVXp1eDFiOHRwUVRJMGJIeXgwTktBWFdPQS03Rjh2bUp4RUEzYm5PcGtVdEtraGFhVlRhYy13Tkx2cjRYQVU0a0dfd2fSAWhBVV95cUxOb2VjSGJzS3d5N05zc1lHV08wMTFoZU1pZnNOWHFSSTFLeUlGcU8zQlJCZVliNktvNnZxNUVKSkI4STFhNGJkYXB5RmNiWDlnVjZ3Q0wwLXNMMU5FLXRiZXZMMTBUUU8zSA?oc=5"
+            "title": "國中男遭割頸急救中！乾哥發文喊「最美的風景」卻追不到IP",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB5UUpVaHhvWlJzdWlqSDlTNHlNQVRodHRocUNwWXBJb24yRHl4dXBSQWFIWnpKUXREajFSYnpJOW5Qb3ViRTF3eVhWcTFXUzNWeFh1bHJR?oc=5"
         },
         {
-            "title": "對伊開戰「野鼬鼠」當先鋒? 川普才嗆派第二航母戰鬥群美再調6架F-35赴英| 國際",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA1cWpJc0JDclp4Yk1mOF9CS0Y5Z2ZBcE5KUVJQWC1kdmJQbTluOXYwRkEzSFhjOGR0RC1rWjVDZjZxMzBPR1c4TFp0aHdZcEh3OXRQbHVpeXNWdzg?oc=5"
-        },
-        {
-            "title": "伊朗鎮壓示威民眾 維權人士稱已至少7千死",
-            "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxPZ01DSWJhaGhFY05kUDhsZG43Z0dHbjVvM3pYWHZsV1JMTm1mUTdVS2FmTXJnUlN3T24xRzI5WTF4WDNlTlprYUhsSEVCNVMyYUdTR1otTkh0WTJabnlUSDZWS1FIY3ZuQmp6bFo5NFNKX1o4MFJNSGpVdDJvOGVXZHFYZjAxdWJXSjFSbnNad0JZaDBMcXpDYTB5SUpjcU1SVXpDS2JWUjdxZnVoV2wwaHhycUhyZkZzMFpBYXI5djV0WkxlU0Z3NWNWWVYwaWlnNkhlc1l2MWFDY2UzTzhUWW1ILXh4N1NuMlFEM09yOFRIYUI0Y3FOaGVyaXBGTEVubU5GR0gzd2ZYQzQtSVp6TjJrWFRlRjJGZUFFOFd1OV9wMmNqNDBpTkJLbWd5QQ?oc=5"
-        },
-        {
-            "title": "俄烏戰爭將滿四周年 澤連斯基擬宣布大選",
-            "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPeDk1SlU0UTE4R29udnVKS1VKNm5JU05jLUhXSnpKMjNvTTduY2dmRkZwcm5LTGgxd3d1TGRwRGg5VFNMSG4tc0N4R2RkTERJb3l0c2pWU3dfWFRoZFZGTlk4dDNlUG5OWHVCYlJWZnZKYWFTN0dVZnBvblRaTk1OckRDdGVXQlpON1dpVTBVSmZ6VE9MVXNCcnA1bEhfcWtsaHhaSUJ3cW50b3kwRUZ6Q0J3R25NeUlLQXhyNXdCQ3lKQjB5aW1UUWhOM2dPZGlCVFVYZktmU2ttQTNYQll5WlVWUEtHa3FMc0ZOQ2l3Q29lYnk2aDNuQ2l2XzgyMzEweHhKRjhzQmhwc0lhN0V4RVhaTlBlRVl2MjlDamJzVkxZdw?oc=5"
-        },
-        {
-            "title": "拚期中選前交成果？南華早報：川普可能3月31日訪中 擬再延貿易休戰一年",
-            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1UVWE5YjI2eVR4TE1hUldOc2hpR2dEV2t1TDk1VDN5cXV4alBKNlZXa0tfcFZqWl9UcXhjVkFjcnlWZTlKNkVRd2tJY2U1NDNBSlJN0gFYQVVfeXFMTnpidVdiUS1KSWJIQWdpQWY5Zk13dVR6cUc1ZndEb3FoY1NnR0FFcnBRQW1fZDZ3T2lmRDF0dVFtU2Vvakxwc1gwSHNtNm4yM3NQTG9ackhYTw?oc=5"
+            "title": "壹蘋民調｜李四川、黃國昌、蘇巧慧搶新北市長，你最支持誰？",
+            "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMHJIb1ZUbDNTNlB4R2NDdDJtT0NNZ00xX1h0REVEVHdIbEQ0RE4tMFJrOGd4Y2h0UVJMM25HV1FvdWRMd3dzRmVSbW5SYXk2OC1hcVlUTTV0Y3IwRXVCSGFUYkxxVHhmZ0txN1RUdkdWamEtQ0hrRmNVTGVtN3ZpWFVRdw?oc=5"
         }
     ]
 }
