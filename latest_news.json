@@ -1,34 +1,14 @@
 {
-    "updated_at": "2026-02-13 07:46",
-    "summary": "早安，為您帶來今日上午重點快報。\n\n【政治焦點】\n1.25兆國防特別條例正在審議，民進黨立委李文忠提出五大刪減標準。此外，國民黨秘書長李四川表態，願與民眾黨黃國昌進行君子之爭，勝者代表藍白陣營角逐新北市長寶座。\n\n【國際情勢】\n賴清德總統接受法新社專訪指出，若中國攻台，日本和菲律賓等國家恐將成為下個目標。國際方面，矢板明夫分析中國迅速撤回對日稀土限制，指出其施壓籌碼有限。同時，美國再調派六架F-35戰機赴英，應對中東潛在戰事。\n\n【財經科技】\n台北市長蔣萬安宣布好消息，輝達確定將在北士科設立研發中心，宣告台北將成為AI科技產業的最強心臟。\n\n【社會民生】\n年節假期將近，氣象局預告九天年假除夕將變天降雨，並對六縣市發布低溫特報，部分區域氣溫可能跌破十度。桃園機場近期出境行李頻頻塞車，桃機解釋單日旅運量預估超過十六萬人次，消化需要時間。另外，藝人賈永婕走訪義光教會遭批「正事不幹」，直球回應名嘴。",
+    "updated_at": "2026-02-13 12:30",
+    "summary": "午安，為您帶來今日午間重點快報。\n\n【政治焦點】\n國防特別條例審議中，李文忠委員提出五大刪減標準。內政部對未放棄中國籍的立委李貞秀下達最後通牒，要求明天前提交證明。賴總統在法新社專訪中指出，若中國攻台，日本、菲律賓等國恐將是下個目標。\n\n【國際情勢】\n國際局勢緊張，美國再調F-35戰機赴英，中東戰雲密布。伊朗鎮壓示威已致至少七千人死亡。俄烏戰爭將滿四周年，澤連斯基總統擬宣布大選。矢板明夫分析中國對日稀土施壓籌碼有限。另傳出川普可能於三月底訪中，以望延長貿易休戰一年。\n\n【財經動態】\n好消息，輝達確定落腳北士科！台北市長蔣萬安表示，台北將成為AI科技最強心臟。\n\n【社會民生】\n中央氣象署對六縣市發布低溫特報，氣溫驟降跌破十度，提醒民眾務必加強保暖。",
     "news": [
-        {
-            "title": "一圖看9天年假天氣 除夕變天降雨區域出爐",
-            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBoRlp2aHZYMVJPdWJWVklUQVZ3QmE4N0NKX3hBbGZNakhLVHZFLUxSa3cySjJYRzNoUklrT285NHFtU2hpOHpna016RGFuQ1dO0gFWQVVfeXFMT3lIc3dQN25lYThWeTIzNXU2aVIwYVJFcXZMQjIxaWpHLVBwZlllY1pXUlZFdHdrMFhjdUp0T3BvZVBTckhfQUhrai1mbVdDNjdjNWp4SXc?oc=5"
-        },
-        {
-            "title": "快訊／6縣市低溫特報！雲霄飛車降溫「跌破10度」",
-            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBUZERHc0c4MnkzaFBuZkVMV3hhVXp1eDFiOHRwUVRJMGJIeXgwTktBWFdPQS03Rjh2bUp4RUEzYm5PcGtVdEtraGFhVlRhYy13Tkx2cjRYQVU0a0dfd2fSAWhBVV95cUxOb2VjSGJzS3d5N05zc1lHV08wMTFoZU1pZnNOWHFSSTFLeUlGcU8zQlJCZVliNktvNnZxNUVKSkI4STFhNGJkYXB5RmNiWDlnVjZ3Q0wwLXNMMU5FLXRiZXZMMTBUUU8zSA?oc=5"
-        },
-        {
-            "title": "走訪義光教會挨轟「正事不幹」！賈永婕不忍了 3字直球回嗆名嘴",
-            "link": "https://news.google.com/rss/articles/CBMihANBVV95cUxQQ0dETlZCdVpjOWdBV1EzcG95c2c5aFRLMUZoVHltc2dHUGl0RXk3QUd3T0hraXVaSlNhNWpQQ1duem9lS3Fvc1g1Ny1rUlZPLXhJb2xON3IxcElMMVFjdWhzU0UyVDVyUjk1U3ktVGIwU0NwbWJwZk1DSk8xeGJ1d3BPaUQyeURnaWg0c2JkUHBPMGdJWng3VUVwNExISGlpdnZpbW55Qnc3aWpQX3NWX0tQUS1NcENMRjdWaTY2U2xObzF2MHlvV3NiQnVPSXFTUV9DcWFNQmNtSGQ5RVVkRGlEX1NVbmY1d0JFMkM4UVBzX2pmNHA1M3BreHJ3UnZVRkdNdFZHbkM2WVBKemEzX0t3aXdJZUJZYlU4QktxN01YSk5GWXBLT1paM0dmM3hwVXpsWUcxWEJnZ0FJVTNId2VvcE9La2tDanlCaTRORnNmeU5OWi1mWFZVMVI3c3lCT3ZKb1pXS3MwM3pRRDM2MEFBeDFtODE3bVoyX3k5R2U4Yktm?oc=5"
-        },
-        {
-            "title": "中國迅速撤回對日稀土出口限制？矢板明夫：施壓籌碼其實沒那麼多| 國際",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9YbHRvdHhSM3ZhRkd6aWpTaDhMMHpNMkZ3bHVuSnNkbHpqTXNzVWVnaUxocmRjX196aFQ3SDhfVHMxZUQxOUVlanVpcHE0VEFNQVExNllXNm51eEE?oc=5"
-        },
         {
             "title": "1.25兆國防特別條例審議李文忠提5大刪減標準| 政治",
             "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB0UnhyYU1kYW5zYjk2cVo5cVlUREthSm5zZ18yWE5GdjNBOHhtRmx2QmlwSTVYWVVjaDM5aHF5QVVUMWVNdVdPZTJWd2s1SjExbkJCcDh6d2h6TEU?oc=5"
         },
         {
-            "title": "李四川︰與黃國昌君子之爭 勝者代表藍白選新北市長",
-            "link": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxNTkJ0NzI5QUx1OUREOXlEN3Q1d1dZS1FMZDJsaU1ERGtmNi1RMWJzTlFQelFrVVc1OFVvb2ZoMXR1d0sxLWpocE55cFkxMG55QXJMZGRVc20wa2pPZ1pobUNPS01ibU94T2tPS2FmbXFqcjFvTEh4ZS1salk4ZXRLRmh2WHB0OXVpLW5kRlRrX0Q3YnJMajN2R180VVdGSDNvcmczZEl0UHV6SF9EbldlQi1pejYtb1RmM1ZuenUxc0lnNlBHQWxKU0F4OUxORXlsZ2FhampEbUw0Tkh3Z1NKOUFyeHlSX0Z2NmVPdDFic2NONE81UjJMWmtzV0NzWmc3SkE0QWpYT0FUMWU0YjBYSWg1OVQ0c0M2S0hYYnJGODZTWXRjWjM3OTJCdXZNSks3Yl9Gb1dNN1U2VUdrSWpjWWZyMnAxcEw1ZnYxMGppUUxIZ3RNckdYak5ab1pDVzc5TkdNSjlrUXo?oc=5"
-        },
-        {
-            "title": "出境行李塞車惹議 桃機：單日旅運量估逾16萬「需要時間消化」",
-            "link": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxNTmFzSjc4UFp0czdGdGVsRlAzVUxlUjduZmgtRnppVXBETGxrTU4ybUVPMWQ0OF9tUk0tSUpXSlZ0c3lNdlpReHVsTnlkZURqMTBfdHFGZmNxLWZjVTRpbERXTjdCS0NMN0NlR0d1QnhCSG1laGhucHloUGVGejBJWlRyVWVfbUw3eWIxZFJCVG5uSkFZMGlKZlJBeWR3SGsxODVUclNCYWVrTTJjeFM4LUlNV1ZYR3QyZnk3X245c0ZhbE1SZ2xobGRJMnhMZGRoZTRwZTB2S2M0QWtuNVVfZks4Rm92UEdCVnM5cTZzaS1uUUJDaXBVOWR2S1VzRnpacEpJUnNKNUVmVnl4VDF6Y25NWHNMbWtCX2h0Z1FJU25ySFVsRGU5dmRtZEpsQjlQMWxpczhHM2dkb3BRNVhPS1MtUW5td3hNNElfS2FqVTFlRl91NjF4Y3AxSkFhTmdEekRCUjg5UGFBOTlvdHpaMjZmSW5QSmN4V2c?oc=5"
+            "title": "中國迅速撤回對日稀土出口限制？矢板明夫：施壓籌碼其實沒那麼多| 國際",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9YbHRvdHhSM3ZhRkd6aWpTaDhMMHpNMkZ3bHVuSnNkbHpqTXNzVWVnaUxocmRjX196aFQ3SDhfVHMxZUQxOUVlanVpcHE0VEFNQVExNllXNm51eEE?oc=5"
         },
         {
             "title": "賴總統法新專訪：若中國攻台 日菲等恐成下個目標",
@@ -39,8 +19,28 @@
             "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBXS2U5SktlOGVlbmdxdFdXdmNsN2s5UklJVU9LTTBuTFZvZUo5dWkyT2lBVFo3YVJTLXNUelRhMjFjVURaelZleE16Qjh4VjZmWk9WUHNVNGd2QQ?oc=5"
         },
         {
+            "title": "內政部下最後通牒！李貞秀「沒棄中國籍」還當立委 明天前須交證明",
+            "link": "https://news.google.com/rss/articles/CBMinANBVV95cUxNb2tvM1FoQzdCOWk3UWU4ODhudG0xWkpuczB5U2gtV1JrWHhrc3dYN2EteWVfbktDenI3U0ZhUXFWVGYzaDNWWGNYRVk1TDlqXzRQcjh3SGN2Wk01eWl4YTB0SXFjR0x5eWZoazlfclpCSUZ5VTJacDhrRnJpLWNOcUI5dFFsSjUyRlBSYnhEdFNDVmZyWVJMbjZnTC1VLWFmLXd5Mnp3WTEwS2pxLTNkSW01S3I2YnZzbUtNSUlmbDNjVmFVTWZiZ2s4WklRLUE3VFFGcXEwNjhyNWhReV83azl1aS1ucVZmU0FVbXpEeUhNQXRpYWl1RUVKQzVxdTFQZzBrQlZLNEpzWjNoQnM1bmtzYTBGN2tRMVlxRDNUMXV6REpFVmRjSGdXSHhOTnkzM3Y0NU8yanMzV2x1ZVRYeko2TUMwNmJabEpMS0R5QVg4bjVHeFJrc291THM2dmZBTExJckJHa2NldWlVaEIxNWFMMnZZeUR4Y0VaLVU1bXhVRkdTcEtxUUdZOUZ6MlR1U25nWnA2NHJTTjI0?oc=5"
+        },
+        {
+            "title": "快訊／6縣市低溫特報！雲霄飛車降溫「跌破10度」",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBUZERHc0c4MnkzaFBuZkVMV3hhVXp1eDFiOHRwUVRJMGJIeXgwTktBWFdPQS03Rjh2bUp4RUEzYm5PcGtVdEtraGFhVlRhYy13Tkx2cjRYQVU0a0dfd2fSAWhBVV95cUxOb2VjSGJzS3d5N05zc1lHV08wMTFoZU1pZnNOWHFSSTFLeUlGcU8zQlJCZVliNktvNnZxNUVKSkI4STFhNGJkYXB5RmNiWDlnVjZ3Q0wwLXNMMU5FLXRiZXZMMTBUUU8zSA?oc=5"
+        },
+        {
             "title": "對伊開戰「野鼬鼠」當先鋒? 川普才嗆派第二航母戰鬥群美再調6架F-35赴英| 國際",
             "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA1cWpJc0JDclp4Yk1mOF9CS0Y5Z2ZBcE5KUVJQWC1kdmJQbTluOXYwRkEzSFhjOGR0RC1rWjVDZjZxMzBPR1c4TFp0aHdZcEh3OXRQbHVpeXNWdzg?oc=5"
+        },
+        {
+            "title": "伊朗鎮壓示威民眾 維權人士稱已至少7千死",
+            "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxPZ01DSWJhaGhFY05kUDhsZG43Z0dHbjVvM3pYWHZsV1JMTm1mUTdVS2FmTXJnUlN3T24xRzI5WTF4WDNlTlprYUhsSEVCNVMyYUdTR1otTkh0WTJabnlUSDZWS1FIY3ZuQmp6bFo5NFNKX1o4MFJNSGpVdDJvOGVXZHFYZjAxdWJXSjFSbnNad0JZaDBMcXpDYTB5SUpjcU1SVXpDS2JWUjdxZnVoV2wwaHhycUhyZkZzMFpBYXI5djV0WkxlU0Z3NWNWWVYwaWlnNkhlc1l2MWFDY2UzTzhUWW1ILXh4N1NuMlFEM09yOFRIYUI0Y3FOaGVyaXBGTEVubU5GR0gzd2ZYQzQtSVp6TjJrWFRlRjJGZUFFOFd1OV9wMmNqNDBpTkJLbWd5QQ?oc=5"
+        },
+        {
+            "title": "俄烏戰爭將滿四周年 澤連斯基擬宣布大選",
+            "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPeDk1SlU0UTE4R29udnVKS1VKNm5JU05jLUhXSnpKMjNvTTduY2dmRkZwcm5LTGgxd3d1TGRwRGg5VFNMSG4tc0N4R2RkTERJb3l0c2pWU3dfWFRoZFZGTlk4dDNlUG5OWHVCYlJWZnZKYWFTN0dVZnBvblRaTk1OckRDdGVXQlpON1dpVTBVSmZ6VE9MVXNCcnA1bEhfcWtsaHhaSUJ3cW50b3kwRUZ6Q0J3R25NeUlLQXhyNXdCQ3lKQjB5aW1UUWhOM2dPZGlCVFVYZktmU2ttQTNYQll5WlVWUEtHa3FMc0ZOQ2l3Q29lYnk2aDNuQ2l2XzgyMzEweHhKRjhzQmhwc0lhN0V4RVhaTlBlRVl2MjlDamJzVkxZdw?oc=5"
+        },
+        {
+            "title": "拚期中選前交成果？南華早報：川普可能3月31日訪中 擬再延貿易休戰一年",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1UVWE5YjI2eVR4TE1hUldOc2hpR2dEV2t1TDk1VDN5cXV4alBKNlZXa0tfcFZqWl9UcXhjVkFjcnlWZTlKNkVRd2tJY2U1NDNBSlJN0gFYQVVfeXFMTnpidVdiUS1KSWJIQWdpQWY5Zk13dVR6cUc1ZndEb3FoY1NnR0FFcnBRQW1fZDZ3T2lmRDF0dVFtU2Vvakxwc1gwSHNtNm4yM3NQTG9ackhYTw?oc=5"
         }
     ]
 }
