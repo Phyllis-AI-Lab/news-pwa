@@ -1,46 +1,46 @@
 {
-    "updated_at": "2026-02-15 07:41",
-    "summary": "早安，為您帶來今日上午重點快報。\n\n【國際情勢】\n美方官員透露，美軍已準備好對伊朗採取軍事行動，預計戰事恐將持續數週。\n\n【政治焦點】\n國內政壇，綠營擬參選人批評王世堅為高金素梅發聲，恐將「台灣派」標準搞亂。林飛帆則強調，面對習近平2027年攻台能力，台灣已無時間等待。此外，台南市長黃偉哲在高鐵發紅包巧遇謝龍介，趣味互動引發話題；台中藍營「姐弟之爭」爆料則遭楊瓊瓔駁斥。\n\n【社會民生】\n春節連假將至，桃園機場旅運量創下新高，單日湧入16.7萬人次。返鄉車潮湧現，高鐵傳出有旅客連等四班才擠上，過來人分享搭車密技避開人潮。公路局提醒，國道客運仍有約67%空位。各縣市春節垃圾清運時間也已公布。藝人賈永婕因發聲挺林義雄，與丈夫的互動內容意外曝光。",
+    "updated_at": "2026-02-15 12:31",
+    "summary": "午安，為您帶來今日午間重點快報。\n\n【政治焦點】\n國內政壇動盪，民進黨內對於王世堅為高金素梅發聲一事引發爭議，有綠營人士批評此舉「搞爛台灣派標準」。柯文哲則針對李貞秀國籍爭議，指責陸委會刁難，但陸委會重申依循現行法規處理。此外，民眾黨立委黃國昌也回應前支持者呼籲，堅定表示絕不走小綠路線。\n\n【國際情勢】\n國際情勢持續緊繃。美國官員最新透露，美軍已做好準備，預計將對伊朗展開軍事打擊行動，此次任務恐持續數週，引發國際關注。\n\n【社會焦點】\n校園割頸案後續餘波盪漾，一名少觀所管理員因對涉案乾哥發表嗆聲言論，引發爭議後遭到調職處分。\n\n【交通觀光】\n農曆春節假期旅運量屢創新高，桃園機場單日旅客量突破十六點七萬人次，創下史上新高紀錄，顯示出國熱潮。\n\n【生活資訊】\n春節期間天氣將有劇烈變化。根據預報，除夕夜將一夜變天，部分地區低溫可能探至七度，開工日還有另一波強冷空氣報到。小年夜適逢週日，垃圾清運資訊請民眾務必留意各地公告。而想試手氣的民眾，專家也特別點名「這款」馬年刮刮樂CP值最高。\n\n【財經動態】\n面對國際市場競爭，歐日系車廠為因應壓力，紛紛跟進零關稅政策，這將對台灣相關產業帶來不小的競爭與調整壓力。",
     "news": [
+        {
+            "title": "嗆割頸案乾哥「有種拿刀捅你乾妹...」少觀所管理員遭調職",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA4YTRCSWlUOFlzRVRfajVQdC1QSGJHY2Y5SS1uQTJ4WGFKTGZjX013aTJyVERCbTJOdGNpU1FjT2hjNVpEUnNoOEFMeTc4a0FST3ZZMUln?oc=5"
+        },
+        {
+            "title": "一圖看春節天氣！除夕一夜變天「2地探7℃」　開工還有強冷空氣",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1qeHpjZ0lUQkt6MXJ5TmltRjJqWDRuV1ZxcXF6VFFBTHQ2THQ4RjhqN190M3M2STA1YkxtM1NvanV4LVg2eWM5cVpaRVVXZHdHRGRlcDRYYTlyVHE2RHfSAWhBVV95cUxPYnJqdGJZUGNmb3ZmU092cW1xbWhtNWY1V1dvV1AwLWhwdmRVUWVGUGdaSXR3ampLWFNpWnByd1dITVl3YUlXempZUnJaSzhNeEZzMmp5al9nOVVNSm16YjlLZE44SEQ1Vg?oc=5"
+        },
         {
             "title": "這次來真的！美官員曝：美軍已準備打擊伊朗軍事行動恐持續數週| 國際",
             "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE02MGJQc2h5UWdzRFZ1cGdEd2tMQ3FzUGlGeTN4VHJsczdiOHVpM0NWWHBTbzdEbkdQY2pzemI1anl5LS1pbnFISV9ITHNwSjVYM0VBd0Q3eTg?oc=5"
-        },
-        {
-            "title": "桃機春節旅運破紀錄 單日16.7萬人次創史上新高",
-            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE55ZDBGYUFlR083MUtnTm5Wc3VSNWU3QXJiYUtHSWZBVGQtOVpTY2NrNVV3cE5udTh5NEtMSHNjcFh0QXppTkdYVGQwUi1fTXhZX0tJ0gFYQVVfeXFMT0pzZldoM2VBb1pyWFFqWHk1ck5QVWU0SHYzYzlPbWxKVmhPWVl4a0dldERCZDc4WkRuTjRaMzN3OEppZWhSXzAyZmw5bjVBQVRmaGlEWDhSTw?oc=5"
         },
         {
             "title": "批王世堅為高金素梅發聲 綠議員擬參選人：把台灣派的標準搞爛",
             "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA1cHl1OFJndGZzTjYxRDBYWl9zT0JUcDNfcHdVcGlabFA0aFdOWEtMVVZFOVBVRmNpQjUyVnB3SWwteDhCTUFMVDMwTVVlYXVCa1k00gFYQVVfeXFMTnJtS2tyeEw3dk9LRnc2T09NWkhzSWlQSHVpeFhLb3B3S0hmT0VJdDM3QUdISFRwTGw4Wjl6N2swY2p3S1pNWGE2ZWpEaE9rNmRTbHcxYWRHTQ?oc=5"
         },
         {
-            "title": "林飛帆：面對習近平2027年有能力攻台目標 台灣沒有時間等待",
-            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBWRUxPbEhvT2NmR0hiZ1pKM0NKdy1ZVEZpaVBOMk1BYzFhb2h4TGp3QjNlZjFZTWxtN2dlRkhhZlpvVVhITnRtWG5nLTVsOXVh0gFWQVVfeXFMTXV0MkVzMVQ2V2Nnc1htX3E3NjVNbnBzU3JGcXpRdDlNRmFqb0JDdTJGR0RINWJxejlQZWRDNTB1a3NPbDFWV0xZdXpRS0JPREJ1QzZaZGc?oc=5"
+            "title": "柯文哲批「刁難」李貞秀陸委會冷回：放棄國籍就照中國法律走| 政治",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE02eDRaWVM1ellVRmZ1TVRYMEJvcFItZ0NnZWtKMDhUX1dsTHlUOTI0cHRXVVdyYmpNd3FBd2dIME9PSXh2TmVaeUVzek01R1lyQ0JiVzA2UGlRYVU?oc=5"
         },
         {
-            "title": "賈永婕發聲挺林義雄！被老公王兆杰罵內容曝光　她下秒反手不忍出賣",
-            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1fNjRXdUMwTi02Q2dCWXFLSnNmczRGQWlPYmhiMmFGeUtqQnpYNm9fTXNyM0NZaktrX1l5djNtTW56dzRzMWN1WmFCN2RTYTFnYjlUWktmRG3SAV9BVV95cUxPbThrT3lhNHE5bXhnN0ZXeTdKTXJzMVRRM2VGdzNtNkpNZU1RbVIzUXFQX0c0NmxjOEQwWU9lYzFraHh5RmtfWXR5V2dDZkFLWXNuQkY0SlI4dTRieGtPcw?oc=5"
+            "title": "桃機春節旅運破紀錄 單日16.7萬人次創史上新高",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE55ZDBGYUFlR083MUtnTm5Wc3VSNWU3QXJiYUtHSWZBVGQtOVpTY2NrNVV3cE5udTh5NEtMSHNjcFh0QXppTkdYVGQwUi1fTXhZX0tJ0gFYQVVfeXFMT0pzZldoM2VBb1pyWFFqWHk1ck5QVWU0SHYzYzlPbWxKVmhPWVl4a0dldERCZDc4WkRuTjRaMzN3OEppZWhSXzAyZmw5bjVBQVRmaGlEWDhSTw?oc=5"
         },
         {
-            "title": "連等4班才擠上高鐵！過來人曝返鄉「搭車密技」：別死守自由座",
-            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1wUy1YQm54cXRKT3JlVzBWX0wxeU1YQUVMNEN3Q0Z6TkF5eTBrc2JHZjVKbHNVeFFBRE1QLWVkN0FKVFVoelRnUU56SjFxRkpnT25NUWFNNWF6WXNQZWfSAWhBVV95cUxOUUtwM2JEckZtMmVacWJ6WTZhWTdpR2VnbDdIS05lUzdKTGJkVXZEdktSVDlyVHJhb2ZBRDA4Tm5oXzFjV2oxS05VSWRLSFBJcjVOTXJNMmpSQWZ0alJnbjBnNjBLSW4wYQ?oc=5"
+            "title": "歐日車跟進零關稅 壓力難擋",
+            "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNZmg2TGY1NkgtT1UzVXplUlR0V05SSFVBck5CMGFlQnBiSl9yNDhnYkdCMXA5emN0OHYwVjFGVGc2WmZRVk5CVGF2SmxWYkdBek1sRXNnZkdPcXBVb0RPWlRvR3FrWDlLVlk3UTVXQ0VSdEpzTnUweEtNRnQ0cl96UXNRVHN5bjB3dUZlZ3E5NlVJT1RHMm5LN1RueVZmMHRIZ0FFV1hTd2pVMjE0QmtJWFZ6dDRtVTJ2ZWxfNnVVYmx1cGlkTjRJM3E5M0lYOWdSTHFHczJYbENzdURJWTdvMWwyajA?oc=5"
         },
         {
-            "title": "明天小年夜將現返鄉車潮 公路局：國道客運仍有67％空位",
-            "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxNNXpUdjVkSnFfWEJKYWp3NzdOWlNjSy1PYW54VUlFdGl4emJtOWpEMjNMU0t6VmdpQUpIZjJlcDRyVlpESk9DQTZ2SVR1VHdhd2JRQTVIMDg4V1E4bXNIVThrd25XRFF2ejFEUjBTMlJSclVNdm54d1dHbmZ4anVndWZsd0dmdFV0eElCcjF2Sld2VUpBYm1lS1lRWml2QWpmTFJNOUhWQzR1QkZzcVBKWDJabGFTcDdpMmJZNnV6VnhLYzc2WGJCMkxnRDByYkpwaUxpM2RxbVZlWVFUcm55ZGQtTmFVUVFxMXhTWHI3Qk9EVENmcHdPSC1PMnNkNkpTelFCNExqTk9KLTJZOHUwcVEtWmVUaWdOdGtrV09KTDdjNExhUkt1SmFhRmZWZlNsZjZFR1NNNlN5RnpMMThHcFQwbTNIVWIwbXhIdWRiYTVIdVNEWkk1M010NzZDVWNaSVE?oc=5"
+            "title": "馬年刮刮樂怎麼選？專家點名「這款」CP值最高",
+            "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPeU5nOFoyS051TG9jc2NCZjhvaTBJNlBxME5WRjZmWWJiN2dLRmNIdDlRc2t6SFlteUk2UmpHbEJkVWVJWHF0bFdqMGYyTld3TTV5bmIxcERMYVNPTUFCRjkyZDhQa1dYd0xKOG5tanY2UTJmd21vM093Y2Qza3Qyblh2RFVORHVkTUVfZndKckxVTmtCcWVtQnF2X2lrb0ltY3hib2o3Si1ZaDJobDZIaVlucUhpcHQwVHdNdUdhdzJjSTRyLXNBMW5yNlhwQnJtaElQUDg3U044UjBhRXNXMWJDWWUwN2w5QjRsUDhNMlJ0ZGlvZDFqYm10NzNjaDhEUHJhdEhSaHhHeGVMNXMza2lfLXgzQTd1RklwRm5udjhEVnlaNlE?oc=5"
         },
         {
-            "title": "小年夜、除夕有垃圾車嗎？2026全台各縣市春節清運時間總整理",
-            "link": "https://news.google.com/rss/articles/CBMikANBVV95cUxOdlRTVTFPTG1OMW5VVGlVeW84MXJUT3ZKT1NhZ0NRaURkdXF4QVlyeFhiZzNpMWpHd3ZwWjRZYjlxcHFIZlRKNWcweGRENkFrLTFtTXpkUkNOZkVQc19vZ29zSTdmdHF4alB5NGtHNDJHR1BzTHktTXNuMnF1ZV9tYUNIVG5ObTRLRXBDYWMtOWJEaVhRQ1hpZEplNXoxTmpJT28zTGhoN1FxdnFZRlRyRmt3elh1SmIyS25ScVBtdHl0ZUdSMWpfZWQxN0ZzYjFzcXJndUN2bkxFTWN0cWVjUFdQRXZtYnBwNVlLb1RQY2trZ1d3T0h6LUlrdFdDSXRGRGNNaFRYN1Q4dVBCZ3g5QW1RSUp4aUJtZG5LLURNRjVLX2o5cGhtcjJvNndDc1RKM2ZYMVF4Y2tnWnk2b0RPR3hteGVvVjdZandrT2lISUpLa3ZYMXRpTHBFYlJScndYenZzaldyeko1UjVBOUhYeFVfU0lUWFk2cnQyU1ZieHhUbFFObVNXM1laMmtObUdt?oc=5"
+            "title": "曾經的昌粉要他找回良心 黃國昌：絕不走小綠路線",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9DeklkMWhoLUhnNm1BWmZxbUNHcFlkckVqWVp3R0lnVEFMa0xUaXlUYlRxMlFvUEtXUGJ4WHF4Z2w0RXBaNjJzeXRJalFlWHc2SC1Z0gFYQVVfeXFMUFgyai0xU2xmeDNFdG04OUFMdTI1TnA3SXpkLVdVaHdSNHNHWUtlOUF5RlZYTFpSblFwRDB3d0t5ZTQ2YWNCVXVTb1RoeXpnM2syVEVOTDFkTA?oc=5"
         },
         {
-            "title": "黃偉哲高鐵發紅包巧遇返鄉謝龍介：叫我市長才有紅包",
-            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE56QkVkOTNHSm15RmRnMlBFSUQtQWY5MExCYmpkbnNHeEdyRGd0b1lFTVM5VU9aczREMEFMV0c5UGpmYXd6Ym9HaGpfYURvUnRMSVY3OHhzQkQ4U2lOR0g2SnNOLWh6NTg2NkV0czZ3?oc=5"
-        },
-        {
-            "title": "周刊爆料藍營台中「姐弟之爭」楊逼江妥協 楊瓊瓔駁斥要求下架",
-            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5jeUpjMHJHbmJaUXlLMkNfOVlTUTJoS2duTnZvTU1TekhMNklXNHdaYkxRUE5PcFltRUlrbTktZGROdkQyT3dkZ3lDdmV0VExmd1hR0gFYQVVfeXFMTVY3RVRFNjB4OXh0ZWdDbkxjcE1CWXRJX3ZaRnYwTGVRYUExaDk4N2VETW9LWmpKRjJObXZCclI4dHpiVHQzdklLZVB4bnVMT1IzcW93VXdOcw?oc=5"
+            "title": "小年夜遇週日「垃圾車有收嗎」？2026隱藏福利：全台清運資訊速看 | 居家生活 | 房產",
+            "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFAxVGlNSHlvU052WVdsZGc0REtWWXN1ejdUcWcwak1xTDUzQmZpN1hLbDdFOG4xM3dCTndMTDB2VDBid2pqVUUyTnkwYUw?oc=5"
         }
     ]
 }
