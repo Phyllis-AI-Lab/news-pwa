@@ -1,46 +1,46 @@
 {
-    "updated_at": "2026-02-16 12:35",
-    "summary": "午安，為您帶來今日午間重點快報\n\n【政治焦點】\n副總統賴清德今日赴嘉義慰勉警察，並宣布自三月起提高警勤加給，預計將有六萬名警察同仁受惠。在政壇觀察方面，國民黨二零二六選情，鄭麗文被視為潛在的重大變數。此外，針對原民立委高金素梅的勝選套路，Kolas提出利用資源匱乏、配合中共口號洗腦等分析。\n\n【社會民生】\n小年夜全台國道部分路段上午已現車潮，時速甚至不到四十公里，公路局特別提醒民眾，下午仍有六處易壅塞路段需避開。春節連假將近，除夕習俗與禁忌成為民眾關注重點。藝人賈永婕近日自責曾誤解鄭南榕是激進份子，引發各界反思。\n\n【財經動態】\n春節期間，台彩揭曉有民眾透過特定投注方式，買大樂透一舉命中七注春節大紅包與小紅包，贏得近一百五十萬元獎金。而對於時下流行的AI是否能幫助提高刮刮樂中獎機率，台彩實測結果也已正式出爐。",
+    "updated_at": "2026-02-16 17:08",
+    "summary": "午安，為您帶來今日午間重點快報。\n\n【政治焦點】\n藍營今日呼籲制定「晶片國安法」，引發外界對於半導體專業知識的討論。高雄市長陳其邁則忙著發放開運紅包，同時宣布新台17線將於明年初通車，打通北高雄交通。而蔡英文總統近日也因陳其邁提出的超人力霸王提燈，展現出趣味互動。\n\n【國際情勢】\n在慕尼黑安全會議上，中國外長王毅發表強硬言論，批評日本與高市早苗，學者解讀此舉為給自己壯膽。\n\n【財經動態】\n自行車產業巨擘巨大集團創辦人劉金標先生辭世，享耆壽93歲，各界同表哀悼。\n\n【社會民生】\n氣象署最新發現，反聖嬰現象持續減弱，專家預估今年台灣強颱及暖冬的機率恐將偏高。小年夜國道上午已湧現車潮，高公局提醒用路人，可規劃下午再出發以避開高峰路段。另外，雙北市除夕垃圾收運將在下午四點後陸續停止，並公布了100處定點收運資訊。新北土城一名騎士，出遊拋錨後轉換心情購買刮刮樂，意外幸運刮中百萬大獎。",
     "news": [
         {
-            "title": "「我在天真什麼！」 賈永婕自責曾誤解鄭南榕是「激進份子」",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Lc2l5dEJ3UDQ2M0NlclVhbl92Smp1T29QNG5kQ0RXUXk2eVZlWmZNRXM4Q2lVTWk5d2RHUXFTSklzNUxscXoxZEVyYy1DWjNIdG9UdTJ3S2hzeURZOEx6ZWJSN0xHb3ozdVHSAW9BVV95cUxQRGVnWkVIU1VzdUhlMDZRT01wb2dpbFBIUHpoY1BUcVczd21mUUZTY2RxZzFwNWpkS1JnV1BVUnNsRzJtZngtcVdlT3ZJOGNwTmdHNHl6TE5VUkVvYVFYOVJTcEJDenVNYmNVMUxxcjA?oc=5"
+            "title": "氣象署發現「反聖嬰」持續減弱 專家：今年強颱、暖冬機率恐偏高",
+            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5VUzFzTFhUSkJLblY5M1dHa1BBWGdEeWRvbEc1VTFCcHhyYkJhaDhVVXZQYkhnWjlhZkdqZVlOcEtwckhrbm9hbnNDY1JPNU5WeDlHc191ZzItUkJpTjBZZzhabGfSAWpBVV95cUxOZC1kSVJLY3BacWtXNEwwSnFGckpXNVZGSzEwZ2lMR0FaNGlQOEk5eFotdm5jbVI2bVBob2xNNzFwdVpMVVBueUt6UUJqNGROeHM4cGVyc1VLTmZodGd6bHAyMWlKenludUVB?oc=5"
         },
         {
-            "title": "小年夜國道部分路段時速不到40公里 下午避開6易壅塞路段【不斷更新】",
-            "link": "https://news.google.com/rss/articles/CBMiwANBVV95cUxPeHlTTUN4VTZzRGVaMUd3WWVzY1VMbEVzeEh3eG5rTWZmTUgzYmE5eWVNUjBSdXVVNC01OGxCRm5YUUhNUGpsbGZRelZ2cEI4SFVyTEJiRnh2cWV4R3M4SjhKWHVMVHpCNURrelR2dkV0R0Rtek12c0k0UlJKYUlrdk0tUEE1dEt0dl8tb3o5eWtWSjR1elgxMnNxdEFpUHVMX2dxTFVNNGQxZ1htUjV3cGNOVC1VaWt1VGlyWk5ZRzlkQmlSYWNFREpBemJiTFU2czlOZmdDcGZVdmlULUt0d1pKVFBoWlFlRjFWNy15a21YZ04xNkVONFg4WmVoME0tOEhhd2hEa2diVWxNZnJJZ1NDWDFLY2pTaU1NZUl2bXVHaDNBRVBDRnRGaGtpMkFnN1ctemdNVzl5LWgxNmg1aUwwWS1DSmp2YmthRGdrdFdXUkg5d0EwQ2dUU1NaS1lld0FIdjlFTFl4NkFYeUlGbWtDems3UGNBMzBDOW1tclJaN1AtSWh1ODZVeWYxbDZ5emJmYnlReXR1MGxrcHZtc3BlYUxWekdhYnVObVA0V2V0aXJTaTZKUDlhTUt6eW50?oc=5"
+            "title": "巨大創辦人劉金標辭世 享耆壽93歲",
+            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE43NU1iYjFfUkVER2N0bkhGMkR3RzVza3VhRkE4dGx5X3BRNHJmaGxrZUtRQ3plcVZudjZFelRmM2Y3TnY4TER5cllVNHZBTjZjLWJQU1owbC1tVmFseGVR0gFkQVVfeXFMTWJEVVRPUVVGWDJtSGxUV3Q5U1lZbnlKTGdicHdTRkxqV0hzaVFwU2ZYTVRNdEQ3NjBFRHh5ajZCcEF4YnNjUDZweklmdnY0cjNDQ2RlSTY0T2NacU5RY1pRclQ0eg?oc=5"
         },
         {
-            "title": "買大樂透中7注春節大、小紅包贏得近150萬 台彩揭密投注方式",
-            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5WYWw1RmhsNU1lOG81MXdselhPel9rV1R3S0M0dE1nNlNUUmZQZVQ5MmhuWGNnamJ6enlTLWtrQUg5Wkt1OHRMM3FRc3BscXNM0gFWQVVfeXFMT1owOWpnWVNFVTg4WG5LWHZwLXh0bGl5eXA4by1weXpGdl9hTEZDZHdlZG5NaEFFYzgxWGpkdGZfZk5lNUZCQXVwRFhqQ3JTcGdaOS1HVFE?oc=5"
+            "title": "小年夜國道湧車潮！9大地雷路段曝光 高公局籲下午再出發",
+            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1RVlU5SjUzQWJXeDdmaUljOGV5QS0xYUNyd3lvblhta3VucUJrWkF6Z2JCTHhvX3k2SlJvTnROS0Jma0xvNldTd0lINkczVlFWeGJaUQ?oc=5"
         },
         {
-            "title": "金馬迎春！除夕習俗禁忌一次看 招財納福過好年",
-            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4xTkxQeWtxVFdpT0JkN0lmbUxNVXJEYmptZ0ZvSVNCZG1TckFCZU9SSlpwYTF6MzJmTjBMNS1ja0pCN29RcEo0b05wb0dRUm5uV2Z30gFYQVVfeXFMTmk2QUMxVWsydTVrODFPTGJ5U1RVX3oxZGlQdERXSlhyckFaaVdxcUVBQnM4NFpsdDlmY0tQbFE5dzQwcXlkREowQWlPcDNBLTc0Y2FxYk5lMQ?oc=5"
+            "title": "「陳其邁又在搞事」 蔡英文皺眉提超人力霸王提燈 近10萬人笑瘋",
+            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1qVjBEVjFzd0lqZUxnTmdxVWtvbGdncjgyNThrWjZvOFpNYXlvV25WUzI2VFlmTUhRV2hrVnJvMlQ5LWRoeXV3RHZXU0RDWU5N0gFWQVVfeXFMTzZUNEstdHlPMTRqNmxtQkdYbUVIQTJjbU1sQ043cjQxR2x6NDlhSktINEdpSGh4WDhWMUxiYW44d3hXS05ITWVJbDZfQ1FrbWtPTmFOX2c?oc=5"
         },
         {
-            "title": "女學生闖紅燈挨罰500「崩潰大哭」…員警遞面紙：30天內都能繳",
-            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE12THVRV0tzdEZSY0RMQ09ZVi1LYWpjcW1RaGNUSVZydlNhalNIa3BGTzdVb3VMNHBYRmVOck0zcWRkNVJ4OUhoWFFjSndQakdNOWdITWliZUpvcDR6akHSAWhBVV95cUxNbGF1UTZOMVpIUkRaTVVoa0hUOVdYOTAtRGZRbHYxanp1SlBRcmZrU1F5c1lsb2l5T1p0eFE4NG5PWHJOOXBOTFgtd0I3R0RoMDlGeV9pNm95dWI1WTRWY00xa2VLZjFiZw?oc=5"
+            "title": "「倖存者王毅」慕安會放狠話批日本罵高市！矢板明夫：給自己壯膽| 國際",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE83d1U3UEtIVE8zZVlZN1J3eEVfRmt1VWRNQWtPaFotcnhvWl9mdlpYVmRfSDlpLXVuT3VvQWcteWtZQmVER2E0N1hlX0JKV1gySi1kSXdRQU42Y1k?oc=5"
         },
         {
-            "title": "分析高金素梅奪高票套路 Kolas：利用資源匱乏、拿中共口號洗腦",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE54V1NObElSTlc2NVZoUGM3UUtKdGx3czEyVE16OTk0SDg3cDh1TlFMb2ZiSi1nZjFrbVVHYkdDR25WcnVNMEw3NlNtbWZ5VjIzaW81VFhFMnBUMWpLel9yeGFCSzU0M3FQSHfSAW9BVV95cUxOZURZMDVDYUVVSWY5YnFvcVVkMTNGVWRya2t2T3BEVl9zV213Q0RZNUV6eEp4djZiSi15d0x6cDJaV29TeXI2dGsxTVVOQVhlU0pIWTd0aVpXdjhHa0xwWVQ2SVBHdDJCZ0RYTk1tNkU?oc=5"
+            "title": "藍營籲制定「晶片國安法」 許美華批：完全沒半導體製程知識的路人",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0yOTlkTXZjVXdKU244aTFoTndCYUhaT2V6cm9YODZnT0hQbXR6TWhZeFIzT2gyaUZqZHY1N0F6Q3F3c0tidGVYbEJaMm5RNVRZaHJIZ3VVQ1MzSmtlaDRkVi1IVFl6Qm5PaEHSAW9BVV95cUxNVGZ2ZFAxTVE0dnpHQ3ZuUDJqTllSYVlzajl5ZFJiNWkyb0hLUmduNVNyR2E4VXltekVuMi1KOTdJUXRwbngyZ2hhMlFmN05WV3VmVWREX0RBRGQ1VlI5SVpMQm9LTmdLRHJqbHY4eWc?oc=5"
         },
         {
-            "title": "聯合報黑白集／春聯的文趣",
-            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9CQjhVTDM4OTZqbzVmQUl3RW15cWhCSlE1QXpOQ1lhY2wwaHRDaEdQTXNQNjZEX2liU0k2Vzlkc29mTGlIR0ItTGZSZ3ZyUzFY0gFWQVVfeXFMUDI0UEt5WlAwZmlhemhCUmlsV0lvNzI5bGNGTFdvNFlqNGlQaXUxSTdlem45US1Fal9tblJ6V0I3dFhKY1cwenZMZWc2bVROLVNPY1dBdVE?oc=5"
+            "title": "陳其邁送開運紅包吸人潮 新台17線明年初通車打通北高雄",
+            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBEZ0Z0Q1UwbXlWcThaNUE2QkVWNWNXRnUzY0RTRWE2Y25KZnpFbHMwSUZ2YnZnamVKMnh6ZXNZUUtOMjFpQS1iX0dqRDJ1amEtWTN4RmpHV1FMNkh1ZnJxUzhVWnBBRVU4d3lqaUV3?oc=5"
         },
         {
-            "title": "國民黨2026選情 鄭麗文是個重大變數",
-            "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPQWZ5YkM1TDVJTE9vRDFTTXAta29FVnVEbjZkLTQxZ01rdTBoRGo5ZTktOUdiT05TTkRkOGx4YXNOOTE1MkpHVDdNNTNVcENrd0t5azIzeDVEVmJVR1p2bjBSUVgzQ25Pa3ZCRTd2TDFFbTZhSXhuMS1kSGJOQmtXSWNnaDVhVWRVQTI3QnRZNF8taDM3elhDcXpURHE1Z001ZXRVN0xadmJ6Y3NJNVozSjV2cWx1NWNERl9oVzc1ajlaVXNfVzNnbFVCV1FQbF9vZ0VkYnhKUFptRU5tbEtwVVIwQ1V6UFM0a1Z5V0hHa09GdVF2elBoOXRTS3lGYmVFSXc?oc=5"
+            "title": "除夕垃圾車到幾點？雙北「下午4點後」陸續停收 100處定點收運曝 | 居家生活 | 房產",
+            "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE00d1YyczU2cTlUcmI4ZGFhdTlQOFNEaXNaa3FPZzFqdERTeEIwUkRXeXBLNGFNUHFaZUV2c05jMVBTRTdJcTdWclRqelY?oc=5"
         },
         {
-            "title": "AI挑選刮刮樂容易中獎？台彩實測結果出爐",
-            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9KNVRoaTVncVFocjFWUDk0TkRYbUg0dmxMVXI0SWFXdU9aeUV5bnluMEdoLVVHVUc1VkFJZ0NKRWxzdTZSUnRIb2MwZ3BQd2dKX1pVRjF5cFJmVy1BdWln0gFkQVVfeXFMUDJPVm1OMDJkYTQ4N3g0MGVMckNDMTJRY2Rzb2cyeFZPbzdVajNYVXM1LS1tRkpBalNhV3VOTElJcmZ3X3M0enhYS201aXFra0NwcXB4YjU5ZGJQWkZ5dHMxRkFsSg?oc=5"
+            "title": "馬年到！　馬蔡賴的「總統春聯」誰最好看？　",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE44b1RLUlE4dWgzWjEzNXg1dTdGY3pPTERQT2JQQ3dSakFDb0dIRnhVb1Z4VE15SWRtYndBTnVTRGpBWWMzSGhMS3NVQXA2WHhrQVZ0dFllNkYtQmFpbXfSAWhBVV95cUxPcmdsOHJRWjBwQlJYam9FRHNIckR0bkw1M1FBa2lma29Yd1FCcGVfaTI0NHlZZ0FlMk9xTVg1X0QtaHVjRzl4c0hXT25EeHBDQXVhZHRkREVBVDhlNXNHSG5aaHZ2dURPNQ?oc=5"
         },
         {
-            "title": "赴嘉義慰勉警察 賴清德宣布：3月起提高警勤加給6萬人受惠",
-            "link": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxQRlZISHF2ZW5NQ1owbXBGM0Yzekk4OGlLY1ZhZm55Vk1jVHpaYUJRTXdLMGQwX0U4M1ZvS2gyaXo5ZlBzeWk5eDAzUEpIazJTLWxyZ1R1NVFiZURsS3pZVlZDLVVpYXJmSVVXQURCTGdfYk9RNGU3Zm5lNFRsZmRkLUlzSkloOGczcU1nRDFhbElLV0RmZkEzR3U0LTRSZlVIeEx3eXZxb0F4VU9hdFhRdmhEZUR6ZS1xZV9qT2VTb3Y2V1ZQOF82UG54NnRMMXRHMGtYTWJCQUEwRmp5ZTNJS2k3TnFWNjlKV3NMZEVqV0ZlOThtVDBPQW1SbzZqS2R5cUpYTGFQdUFjelI5ODdXVXJGdzVYcmduRGJHdkVlN3VjU05SRzZXX1FIRS1mMGp4QU02SGRKc01kUUUxc3B4QzZGVmdUYjRsU1o1QXoyeGZGaTQyMHdqUFU0aWlrR3lZazdKYjBVeUFHOTNla3phSFpxNFMwdkJ0?oc=5"
+            "title": "新北土城男騎車出遊拋錨 買刮刮樂轉換心情竟中100萬",
+            "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxPVGowMFVRcVR5X3J6NnZBY0FQOFFybGpFSHA4RHJaemFYMUlzSERZX3ZNQzNiU3U2OWRZbkF2VjkxRlpNdnpwc1dFV1g4dWZEanczWkh0ei1VWDBsRTNIanNRWGE5RUZhaHN4QzhselZuM0tXUFotWDU3RUg0Zm9vTXlaVXpDekc4anVSVDR1TGV0MDJBa0tsUy1RSHVxMGZnR05CZEV6X2s2aGpIcUlzYkxneHlHTXl6ZUVlYWRUekRLVlNhdzdNNFUzTzZKOVFNY3RHWHhsU01DUlo1SlljRDhIZHNOeG1fVUVGc3FNTGZBRFFBZER1cWR6cW5Va19rV3V1dlJpdG4wMXl1d0w3MzRUcGdRM01aVmUzMURXN2d4d3dQUEJSRUtycG84dzRFVFplS3JSZDhLT0dnTE5HZXQwWGluMEVmTlJqcnhwQk5GQVdsbE5ucm1zcW9xMmNz?oc=5"
         }
     ]
 }
