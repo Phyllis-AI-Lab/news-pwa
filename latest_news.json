@@ -1,46 +1,46 @@
 {
-    "updated_at": "2026-02-18 07:46",
-    "summary": "早安，為您帶來今日上午重點快報\n\n【政治焦點】\n總統當選人賴清德與副總統當選人蕭美琴，春節走春戰袍「冠軍紅」搭「戰貓綠」吸睛，展現台灣精神。\n\n【國際情勢】\n歐洲衛星偵測美軍雙航艦夾擊伊朗，規模專家稱超越「午夜之錘」。中國外長控日復活軍國主義，日方立即反擊。\n\n【財經動態】\n外媒預測台積電可能再投入千億美元，興建四座晶圓廠。紫南宮年度結算，借出四億還回七億，更有地產商借六百元還三百萬。\n\n【社會民生】\n春節天氣預報揭曉，一路到初五後將變天。割頸案辯護人主張善款抵賠償金，引發同業稱奇。基隆-馬祖海運因海象不佳受阻，華信加開班機。此外，有北漂科技男返鄉刮出百萬年終。國道晚間則發生五車連環撞事故。",
+    "updated_at": "2026-02-18 12:30",
+    "summary": "午安，為您帶來今日午間重點快報。\n\n【政治焦點】\n總統賴清德今日台南發福袋，身旁主委突劇烈嘔吐，活動一度中斷，並噴濺總統。立院最快3月12日排審台美貿易協定，藍白陣營若修正恐需重談。另，高市早苗內閣今晚將改組，閣員全數留任。\n\n【國際情勢】\n俄烏日內瓦會談首日結束，親俄人士透露氣氛非常緊張。前美國總統川普啟動美日「超大型」協議，首波360億美元對象出爐。\n\n【社會民生】\n大年初一全聯福袋吸引大批人潮，命理師也揭曉12生肖運勢及刮刮樂財神方位。過年期間，晚輩紅包禮儀引發討論。天氣方面，初二水氣減，北東仍有雨勢，濕冷探13度。",
     "news": [
         {
-            "title": "春節天氣全出爐！一路到初五　這時變天",
-            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5OQWhSV0ZhNmpiRlNLM0N5VjVSNkp6MlV6bVZWRjdhRXVoNTJ6cFo3M01Lc0VyVnViaDhNM2plbjJpSEpiRG1kM1JKb1Byc2JLOWNSeWtpWjZEOFd2MFHSAWhBVV95cUxQYjR2a1ZHd3N5Z0FlNDFCUmhSWnlsMjVlaDBuU3lEanVVcnhERWR2dV9ydnZLMzRxNnVObi1UeHczZFZsVGpmaENZM05ockJlbE1vcUk3VnJ0S0xPbTdLM0U2ZGVGbFdiWA?oc=5"
+            "title": "影／賴總統台南祀典武廟發福袋身旁主委突劇烈嘔吐活動一度中斷| 政治 | 要聞",
+            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE81QTBrUUVHYktIYmZkMG4tUjVrQ1F4T0VZZmE1UnNRS2VLSDVpNVMzZUJwQmVTeEdQb2x2Tm5BR090UjUzQWJqMWpDZWROZlNz?oc=5"
         },
         {
-            "title": "歐洲衛星抓到了！美軍雙航艦夾擊伊朗 專家驚：規模超越「午夜之錘」行動",
-            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1fTUNSUnYwSXpweGJjOGU2NVhtMk5MdkZpOVJIV1pxTVE0NHFSODMyMWU2UGVTNUZDR3Z4cXJOZU12LU5qclc0Y0xVZFU3OVMtdlRYMGlmWDlDcTZPdFVfTmJuMFBDd9IBa0FVX3lxTE0zWkJoRXhaWHBpNERoVzJ2WjhBbV81REthaWJKVlNlRGpYd195WjhzZWVCVW5WYW9jWnkyLVVLTmZDSmo3b1gyTkpIT2s3a3psNTc5NkhHM0RuWGdwa0l6MHdGdEM2M1RrQlFN?oc=5"
+            "title": "快訊／高市早苗第一次內閣總辭 第二次內閣今晚成立將全數留任",
+            "link": "https://news.google.com/rss/articles/CBMijwNBVV95cUxPeWFHTkZXX0VHcERQZFA5eTNCaVJmRkRHeWRvWjNYUEI2M3kyZk5qM1VQMzlBZmdMX2NpN05kaFVKMUgxeVVLejgyc1NQNXpqbWUxMkRyb3Y0cEV0RHBDRWNJR3F2SGgxYTFyWXZrRlhXM25FMnR2U3NPU05uZ0Uyd0REQTJic250VWhldGlldkFNWVFuUloyaHR2WDZWZW9obkVvUTZoYzM2eDZEZWtJakx1Zy1Pak85M0JKV080eVZsSThCUFgtTnJ4TnR1OFI4R2JCV2RMNGhrQTBxVUV5S2hXR0VudktObGpBcXE1VVRBT3NsYmlfMFE3bU16QnNxSEJaYW5oNVdwNHhPbWlvcWppMXZ3and5S1V4alpsLVJRTnJHdDRkQW5mLUlFTWhaNWFxMVQtNmJvOFFkQUxGMjJoOFNxNjJKa0MxV0h0SENxUHpLb3VVeVhhNkJuRWlaTW9MZElmd0E5S0RST0U3bDY3SnBEdzFnbmlTcWlrZDRFcG1RYkFpQUJqcnNGcWc?oc=5"
         },
         {
-            "title": "台積電還有千億美元得砸？外媒曝：再蓋4座晶圓廠詳情此時揭曉- 產業",
-            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB0V0hDbmVERVlCQ1laUVE0OEJSaHJLa1VTSmZ2LVYyd21VbVk5cVNkQ29YaXZjRHl1LU5zVC01czI5VWtRaXVqSjd0UE1ERi1tNUNVdWd6YVJwaXh2VlRB?oc=5"
+            "title": "大年初一「12生肖運勢」曝光！命理師揭刮刮樂財神方位",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1aT2FVQzRjaFFPeTB6cllLX192ZFBURUtlZXdDenhGTHlFTmNCVEVNX1pnV3FMVjF0ZVdNaXJPN1N4ZU5FcmtoUldrbktnUEUyQWcwcGtMb3dpVjE3d3fSAWhBVV95cUxPM01zb2xmNjFfRC1PUXlsUkRLYndfYkhqWkFhYndud2hEMEE2akN0OWloRUxhRGRqVkVVNUV4Y3o0blpUQldYMl9YNGVoaGNlWWRtR0RiTWJWd1ptZEZBcmQ4RXJfcUdraQ?oc=5"
         },
         {
-            "title": "賴清德、蕭美琴走春戰袍超吸睛 冠軍紅尬戰貓綠藏台灣精神",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4wYTRZdnp4NXZvNUFQcGs1WGNyT194ajE0NDJSVUFrZ2kxRTB6cDNLUXlfY0Vld1YyVlpiN3hrNHFKX0lTSk9Pc1FfRldBWWlHZjJud3BnQS1XSnBjZUliWUtqM2tCWS1oSkHSAW9BVV95cUxQLUxZVTNQem9WamEzX2drcE9YV1BDWWlVQU9VNG41aWdLMG92VC0tcGhuZ29sWDdQa0dIU1hQZzZwWWZaOEo1VmIyelliM3pMLWVoWTRlQ21FZGxQU2J4dlN1N1lfYnVlZE5NakwtSU0?oc=5"
+            "title": "立院最快3/12排審台美貿易協定 藍白修正就要重談",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBpUTZBUXQ3NlFBdkdkQTE3M3VuWU15M0FLUU5wc0NCQXRFN1FIeXFrZUE3OUlaY1FQeDBzYWxGM2RpVmNva2oyem1OaXJ2bEdnWFA5ZEd6dWl6T1dlQ3lJZTEyZ1JRWWVpeUHSAW9BVV95cUxPVnJVUnBiN21DWk80b3ctSmNCaVE2VG9sX2ZwME90Nl8wcFBpVk5RWTJmdFAxTmVlRE1sOGdIQkF2NS1oMGdBeEd5dXZqVENRdmRsMTNEQXRkTlVaNG5iNHNqV2hBbjFiTE1zNEVTUWc?oc=5"
         },
         {
-            "title": "中國外長控日「復活軍國主義」　日外務省不忍反擊了",
-            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE95OXpiR3BtS19kaHZ6RDE3anQzdC1HNTNzalhQZ2I2TnVaWk13Y09iVWpSdUlFNkxsdXUxVlliNDUyeENQVUNpeVJkbTdaZDhMRXBPWDRhZVXSAV9BVV95cUxQc2NDM29mNEdHYVVKMHY0M29OcUhELVdYalplNHBvNTFWSk9QV0NlQmY1TUd4OExMZFJRM0VWWWlFSUY4ZlRuSThHNzY2WFRMTjZGS3hnUGxmSkRfQjZnQQ?oc=5"
+            "title": "宮廟主委身體不適突摀嘴嘔吐　噴濺賴清德一身",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9QMGU2QUs5VE1XT2ZlYU4xQnJUeEVfV2lTbmNBQV9NZGJ4QXRyb2s5TjdRUkxjQmdWR1FOUWdZNFZ2VUN1NU5tZW5PMHBFVkdIS1dkMmU5cEpIQ1R3MmfSAWhBVV95cUxQbW1BX1l1bDd5b0ZqVUlnS3J2VXVQSnFYZFM4R0o0YmY2clhqaHN0MzdNdmhYMmVxRkw5OGI3aVRTdzM2TzVqQ3hycE11OHBBcHZ5LU1pLWVkXzhMMWowd0tTUXJpel9Pdw?oc=5"
         },
         {
-            "title": "割頸案辯護人主張善款抵賠償金？同業稱奇：有創意 當律師有點耽誤了",
-            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBka0pqX3RDN0plOGhzSkc0eWtoYW84NzRiSElIaGMwTnQzWWRqejlQcjBqR3ZGR24xX18xajN2elE5SzFNakNkbkloLVc3SWRs0gFWQVVfeXFMT283X09URlpmVkJfV1BDM0F6RGREczNYNXBaY0FNdTNvMks5aVJhX0FGaVpCMFh6WE5Kdm84Y3ItcUtvMU16REJHU2laQmVndWNuZms5VGc?oc=5"
+            "title": "過年最尷尬！晚輩因「1態度」他氣炸拒發紅包 眾人拍手叫好：震撼教育",
+            "link": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxNTkRjMTFWZGliX0V6MTZjYlVESGRzcXhiaU5IVE9ha1RqcDFFeGczNVFUbkVVazVlMlJOLVgzeFN5Y1J1ekRzaV82TjI0a1d3VU5iZkJ1OGhMUmg3aDJNOU5QX2ZCZVEzSjZNd2ptMngycEFMeW9TcTQzU0ljSWdRdy1xXzJaaU45dHF1eWcwNm9jeXNiQjJEWFZCMlQyOVlVNzV6YWNLNVpoMHZna2hCTUltV2I0WXNkc1EwUjNFY2hoaW9oTmEtSTRLdWFZUVN4aEJsRm4tWDV6cTF1TjhTa3B6cEFmUzF1YUlMZ3dzS25LMmtLeVBlSkY0WVgxWnZSUjZaOTIwRzFRT2t1Mm5vRnJfa3ktd2xYWU5DTkdyRjdDMm1raFpuUnZBQVZCTEZxX2NHbXIyRG5LNU5IRFZNU1Fwb1hHLXNwXzBrcEo1TXlrR0xWN3VsQXhtUWh2N21TbmNKOTVGaEJmWnJ2MlE?oc=5"
         },
         {
-            "title": "海象不佳 基隆-馬祖海運受阻 華信加開2架次班機",
-            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1rY1JQNE9IZHJ6NGFhVjJvYVA5OW5OWkVrNGpOZkJQZm9yeFp4eHB0ejJXM1dDWjJsNlVQTGNTa2VzWEFMQzIzZDlyWTJnMmNJ0gFWQVVfeXFMT3FOR1h2N2VyTEFXcnhjYkl4YXBEVmtUd0RVV1FtZ19JR3NYS0pxSTYwWnMtMUhTZVJjLUhnY2laNFMwQjRBYno3cU5WeDR2Q3N2M0syREE?oc=5"
+            "title": "初二水氣減「4地仍有雨」！北東濕冷探13度 連假後段天氣一次看",
+            "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxNdFBiVmZYSlRSUFJ4YzZlMzl3UmhvYjlJbGdDcFFodHpYYlNzSWxXTmY1MEktUW1JVXFiRzd0S2pQc1A0dl93djZZdEJZUnZaNWhTQmZwQUVJaXJ3RERDblZDRWJCV0pVeXpPV0NGR1k2V3ZmcmRXXzh6d2tkUXI5YTJRclNzMG8zYjVmMWVEc1NqRU5jTkVwT2t2LXlONzdUTmJqZGc4WEFwU0ZuMnBXbkpUUjhKY2NhbHUwZnQtbGJ4ZzV5WHVBM2NCMWZqQWRoWlUyd2RmSTlvRXhzaHlwMHJqY2R4UlpvVzJSVzI5OU8yOWctWjlMR2M0OGF3YjI4dmtZSW1kc3VoLTlmeU5mZkl2Z2E0SnhKeTVGcURjMTVrV3hTT1pyNlNlM2pmUzFmNFpKRXcybUVXZ0YtUldqWUFNVW5jb2tDVU9rR3hmQVdBOGhRWENxb2tIamtGYXlzd1NWRnZhYXlFQUZTNENTRg?oc=5"
         },
         {
-            "title": "沒年終不敢回家！北漂科技男聽女友話返鄉 竟刮出100萬",
-            "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxQaHljVWlkVjlBRlJqeXJrVjltWHM5RElqYkVxYkktbUpzVVg2LUt4X1BQeXNVREROdWtOME9hMWJ1VnBFZTY5YWFYQ1M4NHJ5eEZPQmcyYlhfZTNncnRiSkNWZTdZUnFlMkpXY1BHMHZFSTFMazVmZE1rM3VVS2xhc2lsNWxNblNzbkJ1RTRXZFk2VWxqMVctSkJrRUVvTGpqN01hdmdFU2xPeWNhU0Q4MXlFSHpnV2Eyc21IZWI4cGd1VGRLenJKVkQ3UjNEVVdzRk90OWliY1hHVE01aXZuell1UXVBcE0wcl9qWkxJbGEyQnIxY1QxU1ZBRE40UkttNjNMVHFOaW9oX2tfS1dQMUpPalphVUIwSUUzS0N3NEdfTGdmRy1Tb2dvUWxFVkMtazlWT0RiOTdmSGdlYmdsa1puN2hOcnh6WTI3dFFoN29JclRlNjRpckZYLThwaVdOOXc?oc=5"
+            "title": "直擊／初一全聯福袋湧排隊人龍！福袋開箱、價格、福袋大獎一次收 | 聰明消費 | 生活",
+            "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBWdUJxQzNQMzlRRTRUaWdSVHdfNlJqby0xRHk1Y1hiS0doRFU4SzNhVkFRNmlsN2pXU0dTbkY2RXlQY2JYcTQyZ0s1ejU?oc=5"
         },
         {
-            "title": "快訊／國道晚間重大車禍！5車連環撞「疊羅漢」",
-            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBKS3MyeVNyLTF2Y2s1aVVuRGE0WlUzb1ZlWUxDTzROYzlyeTRSb015bm5ZYU9VTWVMZ1ZvSmI5bEVTSXpHZHFqYUM5ME9mZHBUcS0tbUI1VXZVazdhcmfSAWhBVV95cUxPSDgyM3c5akc1UjJzUmhDcEZuVWNTZXV1SmhfSm1iaXFrenN1NjdBSkd0RTFmX2tYTm1jNkZOZ1FHU205clh4VlZrVHVnMDJQVTRXQkJtWndwa3JKNXcwQzUwMHVVZmFLdQ?oc=5"
+            "title": "耗費6小時…俄烏日內瓦會談首日結束親俄人士：氣氛非常緊張| 國際焦點| 全球",
+            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4zcFhUWHVjc2pWczM3UFg1c180UWJFNEdTbTF2VW5SYkdiWjNrWG56a1VoU2RjQ0FzTEF3dXlTeFFOV1IxYjNXYWNReE1nUThI?oc=5"
         },
         {
-            "title": "紫南宮年度結算「借4億還7億」！地產商超狂「借600元還300萬」",
-            "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxNVmpWN3g5bGZOZGNvR2x3TmNVaUY5Y0FDUU9CNTJFYlNqd3lWSldILXlLR3BHZDFEcUJpd1NSek5BeEp5MndmZ1VKdWJJMnUyX0tEeEF6RnpjMWx3UDR2UTNSMi1wTkZFZWt6bjFuZDZMM0NhY2hqY2hITGsxcGlDTDZQcTJOWWs2ZDhFa3R1amdfYV9LWTVYVlh3bzRDQ1hBRWwtQXY5R3pnMWR1WEIyY3FMbU5BQ2hGVUlQRHNLYjB6Ynl4Y3YxZmowV3hRN3VMYlVBdHdQTzJKQTZQVklwVkdmaGYwM0ZqOTFESGoxOXJ3aVhqVnhvQ1VCX250WXFvS0tJWWFMX3U5MlBjaFJNaE10ZXF1Tk1DOTNrS1hENGMzWUE4Y3VLaWo0dUlkb29udDNtT2pmcERwbmpNRGFXcDdwLUx1WGc0UE01T2QzVUk0Zw?oc=5"
+            "title": "沒關稅沒投資 川普啟動美日「超大型」協議 首波360億美元對象出爐",
+            "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9seU1uNm5rdHNJaU54b3pUM3JSTUlIbms4MFJIN0tvT0hVNmU2MU5yQzNrTWU2bXlIdm5RSVpqRGRlMzJWUW5GYnNJYUpaSzVvMHpCeG9jdm5FbWpXYzUyU0FB0gFnQVVfeXFMUC1LRmo2cW5YOUpWaFJkZkNpblItUXhGY3d4bVhUTlFINk4yWU4yejE1eDhHZU83ZU91bUthZDJjdnhlMnE3NklRVWNkU2M4VnllNHdKdlE0ZWdiTTRLVGhObGs4QzZFdw?oc=5"
         }
     ]
 }
