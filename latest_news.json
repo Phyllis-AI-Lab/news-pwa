@@ -1,46 +1,46 @@
 {
-    "updated_at": "2026-02-18 19:56",
-    "summary": "❌ AI 暫時無法回應 (所有模型皆忙碌)",
+    "updated_at": "2026-02-19 07:46",
+    "summary": "早安，為您帶來今日上午重點快報。\n\n【政治焦點】\n\n美國前總統川普透露曾與中國國家主席習近平討論對台軍售議題，引發學者擔憂軍售案恐延後宣布。此外，副總統當選人蕭美琴春節走春，其隨扈穿著「Team Taiwan」貓帽T，意外成為網友熱議焦點。\n\n【財經動態】\n\n受惠於半導體出口表現暢旺，台灣在美國進口市場的競爭力排名顯著提升至第四位。\n\n【國際快訊】\n\n中國湖北省傳出不幸消息，一家爆竹店發生爆炸事故，目前已導致十二人死亡。\n\n【社會民生】\n\n春節期間交通方面，國道將於初三實施高乘載管制，提醒用路人留意管制時間與即時路況。社會事件方面，新北市割頸案的律師費全民買單爭議，律師王至德已對外揭露真相。此外，一則駭人聽聞的報導指出，一名父親在除夕夜因嫌四歲女兒吵鬧，竟將其趕下車丟包在四線大馬路上。年節消費資訊，超商限時推出咖啡買八送八，加十元再多一杯。網路討論則關注一則跨年約砲事件，因情節發展引發熱議。天氣方面，初三全台將明顯回溫，部分地區高溫上看三十度，但預計下週二會有冷空氣接力報到。",
     "news": [
+        {
+            "title": "2026初三高乘載！高速公路管制時間、國道即時路況、塞車路段速懂| 生活",
+            "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBndWRnYlZSZWo4b0FDektudHcxeDZ0MGt1dWhTTXk4blBIMFJMSzJBa3VUT0l4R0VGdnNycEk5czY5M2ZFN0Nzd3NmVzY?oc=5"
+        },
+        {
+            "title": "半導體出口暢旺 台灣在美進口市場競爭力排名升至第4",
+            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBPc3NBcWs1UUFwQjBMZGNvX25IRzcwR3BPQnlaSWo2TEN4UXFDU3k0Y3c2SGtKU2pFR2I0XzZBRnN5elh3Y2JFOVFiV2pLV1NKWktEWDVZcWxBT1QwQXZr0gFkQVVfeXFMT3J6WXB3c1RzemhYVm9sVG1hTTdKb2V0clIwMG1nRDV2Ti1RZWZWMVRhcEN5TEJkMVNMVzc1WHI5U2pncUF5ZEdvSXR5VjhjQ2p2TkxCbU00dWxpZWw3MHRYQlEtZA?oc=5"
+        },
+        {
+            "title": "跨年約砲「單身妹暗示過夜」　激戰一半崩潰！全場噴：不要這麼飢渴",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9CQ3REN0tuMlNHN0xEVlRUQnlKYUJFVWdCZWtib3p0V2x2NG5pbFlTV28zbnFzRks2dTdRdVhjUkVqUUlBSUYwRThOV3dtTGNoeFdDMXZxVU5kNm9QeVHSAWhBVV95cUxON2V5dkhySy10VHNtZTh4RjdYaHNCOEs3MTRRbWRJODh3ejBSUHZmSzNNekdqb3hRXzBQdlJUV25tb3pWaTQzb2h1QjFlaEZNY1JDLWJrLS1MMlZNbTVkOFo2RXJHY1VxMw?oc=5"
+        },
+        {
+            "title": "過年喝一波！超商限時買8送8 咖啡加10元多1杯",
+            "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxPb3NDbGZJTy1YT3l0RFVWOXlvUEFSeC1MeS15RUpmTTdWM2huUGREM2xoVXlHQ3cwakc4Mm1iZ0RxWUItVnVKZHA4N3pqeFZuMXFocl9KLWRRbEh2bHlCZkUxdU9rb2dvQ29zZUg2cFFKY3dQdklIcVcwOU1GZFE5a21PSTI1UDZDSDlndzBOZWdiU2dmOWt0Z1dEOVA0MDhja0lyOW41V29ET0pieXJIMDJZQkwxbUFQQ3RCbWlNNGNDTDVreksxTU5BQldSU1dNQ0pYaEtiQTd0a0IwaVZ3ajJQVmpRWGpHRWY4cldSTmhXaXhqT2pzX21VYUM3X0JKakVVM0s3LV96M3llWnZBM3lpQVFNZk4zMXpMbFln?oc=5"
+        },
+        {
+            "title": "快訊／湖北爆竹店爆炸！已導致12人死亡",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1reklhXzBvSFZVYlUxaFJLUnI5Z1dtWkhnNHZMakZ3SEFacGJzc0lCQ0swS0E3Z09OMC1zOE5Ydm15NFdlVEhpUnhQM0tDNDFlallJa2c1a1FoS2k3OUHSAWhBVV95cUxNZjlDLWpOaDRjaTVhbDNIaTdsbnk5UkI0MXFBOGZHMTZVYlo5WGVLQTNrYzhlNl9jTDZqTEtFY1U5MDY1aTNxQ2ZCSUtFT1Zldmt5akZPbGF3NlpOcG5RNGF6dkkxTlluNw?oc=5"
+        },
+        {
+            "title": "新北割頸案　乾兄妹「律師費全民買單」?律師王至德揭真相嘆1句",
+            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE16YmlWOEYyMGx0UnBkNkFFSkMyTmZvQWRBYlJfOUtVSzJzcy14TEhYSTZzQlJZZ2pzUVQyRWV6QUwxWTM3d3dtOGtIV2o3YkUwMkEyUUdVdDbSAV9BVV95cUxNSjJvUkxZWE9JSko4cWNRUmdIZ215aktrT1BibVo2SkJISURuOGhxdU1jTzBad2RvYlNwMUQ5bFpyeERXbnptRUFoaG5rMjczQWFQU2pmMkxlVmVad2ZOdw?oc=5"
+        },
         {
             "title": "初三全台回溫！連日高溫好天氣達30℃ 下周二變天冷空氣接力報到",
             "link": "https://news.google.com/rss/articles/CBMipwNBVV95cUxPZ21FRVhNaUI2UkUybEI3QWhERTliNUczaEFiOWEyWFo0S2VqTjZDMDY1ekdpTlFUVmk1SFhIZVhETTBoQnd0VnJaaWJEYlZkb1NTQW9xRXBWdkJsNXQ2dzBhWkI0d0k1SkpRZDdEaUNUSmJIRm4xdjRWcGFJZ0x5Wlcyc1ZIdXd5bkl4VDh4WFNlS3FDdGM0am5WYThZMm52Y3pjcTdMOFlaT3FZZWctMzRpanBTdVZjUGJETDlRdXdDc05WUUVDWlFjTVZySWNjaGI1WmxWVWNLYjFiMzhCaFVYVWNFbUdsZkFmbXlmOG5kZmxqVlYyUkhscUJjZzZFVjhTVU9kOExtZUJsenhCcUF6T1Zwa2ZhM0pkalU4ODZfT0x2aG1jZENNWVBPWmNSM0xNbGNOVHRmY1RDUHdwWUdWQS10YU5fVERsdk12TWVUOE54ZFBqd2laX2x2Sk10SE9RdFprSFNhRFVuWU1kdFN4VFQ4S2ZvRUdidEZ5ZEg3SU5uaDZjOVE0Y3NtNDA5NXh0NTM1RldDeVFhYmxxUXQ1QWctbUU?oc=5"
         },
         {
-            "title": "初二下午國道17路段易塞 國5北向恐堵到深夜【不斷更新】",
-            "link": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxOWURVMWloa0xPSG5BVzlXOF9td3M5eWRSSThwMzU1LVFKeDUxNVJtODVVSlA1aW04YXphQWF2TUhmUkdhLTEyaEFLdEF4S3lTVWFfN2k2aGJST2F2WTlPdDUyN1FuY0xxcXY4aTU4YTc3LTdJb3EyRFFqLXdGQ0ZDYk5abWdXMXVCUVNOLTFSSHN2aXlrRE01MkNGbXc5Sjd3TU5FeW1sZm9SbTJUYmZqbm9yM1gxc3BGMXpuc1c0X0R3TE91bUJXZ08taGJsd1RoamYwNHBzLXdoVF9LaHVmemN3V0RjbjlCNWxXaWlHX29yWDAyV05icXZMTVZUNXluSWRlaGJPazNSS2NrVWt5M28wUm1CUmlVc0s5ZXhVMWJGWFNOU25vcFllbjhyZ2JMZXp3STdQTVdKM05RTkh2c1FnRS1WYWo4eFVTMGhhb3dfckZVNFMtdFZpdEVIaGZEU0RLYWkyZjBySG9iYXQ4YVNveDNpM0I4?oc=5"
+            "title": "川普稱和習近平討論對台軍售美學者：軍售案恐延後宣布| 政治",
+            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1TdWEwUmkxcmtCNldrMDdKVy1LbVpYWEVHTjFlcEd4MHZ4bjY4UzljTFRwYjdfdzJDSlI2Q1NhaVo3S081c3lSRndEa2lsaGpQSWpvTnFmOXhUTXo3UUEw?oc=5"
         },
         {
-            "title": "武廟主委染諾羅大嘔吐、粉絲嬤熱暈 賴總統發聲：健康第一",
-            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE03OF9icy1BNHR4QzJTVlk1YUVERkJwWFZPV05VR1V2VEo5MlNMdkJSUzhxTEpQTmtWOWtaZTN2dEdwb0VZeVIyNW9RZkRvTmtL0gFWQVVfeXFMTUJFTmI4NnZpU1JycU9rQUVVTTM4b0hDaUpqeDVhN3RvWnhtVHVDMElMWklweUdNR0FhXzFUZnY2WkZ4RnowZUpBZks2dVZQWkhYa2d5UGc?oc=5"
+            "title": "連小英都羡幕！蕭美琴走春隨扈穿著自製「 Team Taiwan 」貓帽T讓網友都瘋狂| 政治",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4ybzR3QWVyWHlSSllRckx5WEYwbU5BQ3hTZVFOSHJJZHJVQWdvSXJnX3JKR0FZdTE0MmZGRjVZM0VIck1VYTdHaEhJMlRZU0lFeFlCby1BVENPREk?oc=5"
         },
         {
-            "title": "見過491位億元得主 台彩董座過年買法曝光",
-            "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNNEQ1RlFSN0JFRzlseGZ5R0l2VDVfS0x1Rk1INUN5SlAtQzJVRGhoR3BhWlQ4bU5WdHFLMUxERlBPdDVMYmt6ZktJejQ5cU5xOEc4OHBoRm1JY0RlWTRHbjJ3NzlIdTNUTzVOaEVyeHpBUGxQTzZ1WUVVSWhLemRFLUFwMlZ6aUFNbVQwRl82Qm5leHg4aHhSZUxtUUphRUQyT04ydkh3UmFpUENPTWxjenIyRjhvb2g0UllIWEk5WE16dWcwUFFleldLM3RjcnFvVFF5WkxwX3pHM21NY2Z1NE5SSUpUTjR4cmxyZkk3dVQ3cnpJWnc0VXlQeExhanhBSWd3ZVBXckFXUXp1M3Z3VHRnYjJDaklGU21WNjFjVHhBNDVD?oc=5"
-        },
-        {
-            "title": "國防特別預算一拖再拖！矢板明夫曝藍白盤算「代價讓立場鬆動」",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1rM0hqZU5RbWxJRjRramJaQVM2MkdETkJYOTc2Q1RnSTBSSTlZNDZKd1VrbDZCb0M1OUlXR1Rsd1liMlFELXhzT1VvT29iN01PaU9IUHRyTmJUZjBYUVFEVkplU3RRMDhJRXfSAW9BVV95cUxPazZEZmk1dnZrQm9fX18zUDJ4Q2x6TDFhVk4yR0lRdHhOWloxNEYzSFZlUE5uZzlGc0hsS0V0dHdfRkVkdWVHVGIyMDRRdDB1c0dCeV9wcEx0b2R1MDZiN2pHbEFCYkZ0OXZOcjlqMEk?oc=5"
-        },
-        {
-            "title": "財神爺集體下凡來送錢 高雄男見吉兆 刮中頭獎1200萬元",
-            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5DN1lKRjFnQkFZOWd2cW5sQ0t4d01IalpyUk9Odzl5TnNNaUhyS0FBNHMtMFRTdHVMaDVBaDZKUHVLQUtMNThhWUtDRlk0R0JnRThR0gFYQVVfeXFMTmk4UkpMMFdvZE03Nk85OHRFUFdQZ3YxSzhCYXRabnNLRmlFeVUyMWxGaC1qZmNaZzZ3cXhEVUVhTEFaLXMxOWo0akg4eXl0V0x4Yzh3NHBFcg?oc=5"
-        },
-        {
-            "title": "影／蕭美琴初二桃園平鎮發福袋遇「偶發事件」 她一招化解超親民",
-            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAzSGZ3em9lUTN3TVY4TnNOTmcxUHhSaFIzcEQwaUhuaUphUnRhSExOTW9kMFhOV1UzRXJmTHNJdHVua3pCY1d5TUF2ZDhRLWxV0gFWQVVfeXFMUFN2M3ZYbFhqM05rN01jTW9fWmZ6elVyRGZFVlRrMzJxUjB1Q3Q0ZEF0b18xWlpuRUZyZVhMOXN6OGdjNTl2N2NwVDdRMVpaSVhLQ1VYbXc?oc=5"
-        },
-        {
-            "title": "共機也放年假？ 大年初一、初二零擾台 軍事迷：天空變安靜",
-            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1EQVhPVU44VDNvMEJwLU1MTE9oanY2OTgwdXBDVlNVVHQ5N0xWUkNrSmhZWkRaTkcyaEpJWUNWSmRqS0MwOGlKcTFnSzYyQ1MwVlHSAVdBVV95cUxQaFR0X3BTSmdjcHlyNUJrVVBRaVFwNVd3OEltZ0ZzY2kydmo4SUtBbU45WTBtX3JyYXJQY2otZEhsMzYtV3Z3LVFjOGZkS3ZHMS1FYTVRclE?oc=5"
-        },
-        {
-            "title": "南鯤鯓抽到「蘇秦拜相」國運籤！解籤師驚吐4字：這人笑到最後- 生活",
-            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9kU3BBbFBGeUd4UzVMLWdvcDlydzc4MXdoZUxtaUJGN0dCVW1lMjBaWjIxVldQQzk1MU1qei1aS2VxUHo2MkNleFMxZE9BTWNOSktXaTBBdVRIbkRHbWxpaVRYV0JmUWtDM2dyV253?oc=5"
-        },
-        {
-            "title": "親美親中路線對決？杜特蒂女兒宣布選總統 怒轟小馬可仕「背信」",
-            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9CdWFkdURNU0VocVl3Ujc5UXlfTWVYV05LN3B6NFpLTURwU011ZElpdjdHLXV2NUhhclNvS2dGY293OG1pZW5hYjVEN21VbnotUU03ZWl3ZWxRWi1oc3RjT2c1X1V2UdIBa0FVX3lxTE5zVUtxRUFSdHBKRHQzcGZJRk1ONkpjTmRmNEFFQWhVWm5mYVFwWmROaTlSclV1emtkQ1NfeHJOTkV1c3JwZGwwZ01IU044cFpUamNjOFNZZTdqYXlsWEZoalVsNzBlenoxM1M4?oc=5"
+            "title": "離譜畫面曝！除夕夜嫌4歲女太吵　狠父竟趕下車丟包4線大馬路",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5iQ193d1d5NG5NRjR6M0ROQUdhclhuRHRLc1V4WkVSVjRGdGR2SjJuT284NkxPT0dxYXhxZndiekR5VXNYaFJ2ZGxaRUtmY0RIY05Ra29Ndmh2WkliNHfSAWhBVV95cUxNelg1ZFZSUlpzZ05UQmItMHhyMVNUUkZyMHN0S3RYaTJDUDhod1cyV3E1MjdyUWNBZ0xKNjhSZFNtWDN1bE54NEQ2ZzZraGtxb3Ztd2Rma2Y5OTVNNzF3WTVIZVIzbUJ3Xw?oc=5"
         }
     ]
 }
