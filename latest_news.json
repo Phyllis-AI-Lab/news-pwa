@@ -1,46 +1,46 @@
 {
-    "updated_at": "2026-02-20 19:47",
-    "summary": "晚安，為您帶來今日晚間重點快報。\n\n【政治焦點】\n高市早苗第二次內閣民調支持率高達七成三，半數民意期待其能長期執政。國內政壇方面，行政院長卓榮泰初四在台中發紅包，宣布將投入八千零七十五億元建設台中，並力挺何欣純。此外，有學者點名非蔣萬安、侯友宜的「這人」將於2028年挑戰盧秀燕。\n\n【兩岸情勢】\n大年初三解放軍即以聯合戰備警巡之名，派出十四架共機擾台，引發關切。\n\n【國際情勢】\n全球最大航艦美軍福特號預計週末抵達中東，川普幕僚預估全面攻伊機率高達九成。英國王室安德魯王子則因涉嫌公職失當被捕，離開警局時表情顯得驚恐。\n\n【社會民生】\n今日初四，國道多處路段易壅塞，國5宜蘭至頭城、國3新竹系統至寶山皆出現紫爆車潮。台27線發生2車碰撞事故，造成11人受傷送醫。春節期間，醫院急診透過分流措施有效引導病患，就醫人數顯著銳減。另有新北房仲新鮮人買刮刮樂，幸運刮中兩千萬頭獎，喜迎事業好彩頭。",
+    "updated_at": "2026-02-21 07:45",
+    "summary": "早安，為您帶來今日上午重點快報。\n\n【國際情勢】\n全球最大航艦美軍福特號，已於週末抵達中東地區，有川普幕僚透露全面攻伊機率高達九成。\n\n【政治焦點】\n醫師蘇一峰針對前澎湖縣長陳光復病況的發言，引發醫界與外界議論。同時，媽祖籤詩「癡心妄想一事無成」的巧合性，也成為政治圈熱議話題。\n\n【社會民生】\n日月潭水位持續下探，九蛙疊像已全露，碼頭恐步入封閉倒數。詐騙集團春節未歇，上月全台被騙總金額突破七十億元，提醒民眾多加防範。不過，春節期間醫院急診引流分流措施奏效，就醫人數顯著銳減；彰化市民也受惠於便利的春節垃圾清運服務。\n\n【財經快訊】\n初四開出的大樂透頭獎兩億零八百萬元，一人獨得。新北也再次開出第三張兩千萬刮刮樂頭獎，得主身分曝光。\n\n【生活娛樂】\n手遊《Pokémon GO》即將在「卡洛斯」活動期間，推出玩家期待的超級進化更新內容。",
     "news": [
         {
-            "title": "高市早苗第二次內閣民調支持率73% 半數民意期待長期執政",
-            "link": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxNSWhFUk4yT0dIakVnZkQtMV81cHNRNUx4ZE8tUVhKVEVtc2JDMEYxVWR6WDhNLWx6MEJMLS16QTJjd0NVSHpQY1ZLeEtaOXZOX2diem9ZQW9PUjdSVTJmVXFHV1E1NE1PYnpsM2VaSmR6WWwxRlVjYlVlSm1EYTg2UEdZVjdoRzg3MThicEUxSy1NMWlNd3oySzNoN0Z1dUppdG1ka2FNdE9ySHk3VU9TeEhVVlhEeWdCU3J6bkFEMTlxeHRjWWJNM1FaV3FZWUlBTlJpVy1OQzhrRmpEZzl6TXBLdy1ldF9vNndmY2VCNnJTdktlWExhaVYxcjM2YnE3Y0c0ZzB1YmhmVmkyYlk2ZlhyN0VVMGFFbkE5enNvSFJDNjBsMXBEYmpDLTh3clVGX2hfdW5OSXoyQVcwdWRkUmRlX2dzTGlTOXE4QkRCNnc1UFMtUXJzU1UtSUQtcnIxTnpoSWFaQ1l0el9jSjVHNjNhT1ozVlU?oc=5"
-        },
-        {
-            "title": "初四下午國道11路段易壅塞 國5宜蘭至頭城、國3新竹系統至寶山紫爆【不斷更新】",
-            "link": "https://news.google.com/rss/articles/CBMi8gNBVV95cUxPZU9MM0lSVHVQaXZJZWlsb2NPT2w0Q3VRNVNzdXlBUVBGTnloLWNlb216S1NXWlpsc3NLSk5CZ1o4djh0cE5EM240S0pJT3p1eVJmb1k2aFhhMVE5b0M1dU9Za0ltSVl5VUYweUZ4VFFhNFRyWFE2QXhQUUFKajdHX2Z3cGQ1S2FUekJjSXNsN2toQjg1T2dpQkNIeHhMdEF4RkRNbV9zWmxmMWNBcGFJTFMxaG1yQTRHX2tjVUhLVWxKYnR5QW1tTFF2WThLQjFiNThwZnFJckVMVlgxOXFFenVWc0FQSjFzX3QxbDkyb1M5U0tya1NETXp5Vkw4aUhLMjBrc0FvaFRSLU9RUlNPaEp4WjNRUXlhTkVnbGJzVnBVV3BrQ0hrR3VaVDNTTFRkX1hvOE1XNDJmbGplZjg3dVVMWDNnY2lweHo4TGtHck9HZ2ktcVNKVEZfaThoWURULWlxaEk0ZTg2OGVIdXZqU2JlTUU0VW9CaEVheXpGM2NRekRPWEUxYkw2LWJSWDNGaWV2VHQ2Z1dEUHFlU0llR2t0ZjZVcFl1aklUV1BFQjRMWjYwazJIZnF4cXg4Z2pQbWFXYXc1SmxwTUhVLUJ2ZV9CZjFHd3JETHc3WWVhWng5dExCek5QNFJObE9EWnhWcEE?oc=5"
-        },
-        {
-            "title": "快訊／台27線2車碰撞 11人受傷送醫",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5nTnRsZlh3cnFMOHRmc1pCby1sX242UDd4TGFfRnVNaDlRMGpIWFRTTUJEWGlOdl94NHdERVZLRnVfVmJWallrdENpYmZSZGg1MGQzcEF3?oc=5"
+            "title": "初四財神來報到！大樂透頭獎獎落這縣市 一人獨得2.08億元",
+            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1TTDdRNjg0d1JkcVh1alhGYmw2aVpYUVYxNkx3WlR6cWtXVTVVdzhha1RDSU1aY3NKWkwwcXJteGIzZTdLUUZVb2dpcGloZmVK0gFWQVVfeXFMTlBieHlMQUk2Yl9qYnFXNGFpQi1MTlhFNHhueHk4dElPMUcwQXFZVV9OcVU4dUt5VnNYVWNaQmZlOXZRYVVxSEdzUTNTeERhMlE4RDRENFE?oc=5"
         },
         {
             "title": "全球最大航艦 美軍福特號週末抵達中東 全面攻伊 川普幕僚：90％機率",
             "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBzc01CUjc0dUhWRTJrMUhLLUhreTlVeVQ1RFJQUmtxQzV2Q3hHMTB1VGtzcGFIT0k5VnRmWktiUDM0X3gyUVRncDBpOWVzaExHZTQweWdlbjROaWNM0gFiQVVfeXFMTlNqbi1mLXJBb0t2QXVmX2dyWi1EV0dSbzRGbXBRVWVIcnlPcER5N3NEbGd1bUY4MjBYSVh1UTQ3My1HLWlIbFB3ZGdFbklzdktMZGdBYlJoRUtUMnhvS2t6OHc?oc=5"
         },
         {
-            "title": "新北房仲新鮮人買刮刮樂討事業好彩頭 幸運刮中2000萬頭獎",
-            "link": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxOWG9zdG81cWxlbUdFVXp6YXA3UE1nUFFzRWFRdi1sMTMyZE8yNW4zVFhOSHRZNkllWjJIV0U1MTF4TVRKbDhONnh4ZC00RFN6NDBOV3hqX1E5SVpld1duQnNYa3FOQlNVX0htREh6SG0yNUZWYnIwUG8wSERJekxVX21OVDVlWFVDWlVfTUtyemlsVTdkWFdGd0F3WjkxeU9CX3pSQjgxQ0ItVWFlRnlzaFkxc1hZZ2pNdVJHUm5GSWF2Q01jMUNIM2o3c1c0a1g3ck02TjNZemlmYlZROVFJbW5qOGFSXzc4WU5XSjdiNGZHdElLREkycFNIc01hM1RadTNIeGd0MC1LMkdGX2FITTNUZ3dYMC1QeG5Ld2J6Sk5xVHZJd2ItaHk3Vkw5NUZfM19HOWlOcHplQ3V4d1pHRlZTaUs4cXRueU52Zkd0WWIzdjI5VXdkZHBvOVJKclNnYjRtS1FzYWkyV00zdDJyU01HZ0REcEJWYkE?oc=5"
+            "title": "九蛙全露只是開始…日月潭水位失速下探 碼頭恐步入封閉倒數",
+            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1VN3BZZnFIV0Zkek1Td2hXWkRLTmtiV3A1X1dLbmpoRWdYbUluZkhQR1VWUVRDRHVkbVplNjhqVTM2TF9qSVFwVVNHdzB3LVJR0gFWQVVfeXFMTlNLZVJsTnZQazlDR0VFVE0wYTVGNjBGcC1WSkF5M3BfaDY1VHpCTWxRNG9VMzRYUjl4TGVDQ1BxeHoyN21jRWVNMVlGdjU0TW9SS1lneUE?oc=5"
         },
         {
-            "title": "涉嫌公職失當被捕英王胞弟安德魯離開警局表情驚恐| 國際焦點| 全球 | 聯合新聞網",
-            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1IVzR2dFM0enIxSXpDOE8xZDdxTDZ2cEpmbUJDUGNiVUJMOWlSUUV5TzlxMmFlZTA4alZfZG1lUDFWMU9jMVdSa0RjNzh4WTJH?oc=5"
+            "title": "《Pokémon GO》即將在「Pokémon GO Tour：卡洛斯」活動期間推出超級進化更新內容！",
+            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBRTVNDaVRubDJyVXByRmRidl9DX3pxdE83d3dpWG8xNmRYS1B1OGkwSHQwNEN1WEx2bEt2QzJiVWZ3cXNjbVpKVllMOXpNdjJFMThFd2NHZDI5M3FiZjdsWHo3eVFBd2lkZFdMVWpn?oc=5"
         },
         {
-            "title": "迎財神初四發紅包「砸8075億建設台中」 卓榮泰挺何欣純：欣欣向榮",
-            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8zQnBXSzkwSllVcnJvNkZySDFPRjk4VnhMME9SNXNCdWRpYlItVVc4cUY5al9OdFduSVVaU1BLc3lVRHhUd0NDQzBJRjhXY000eUtF0gFYQVVfeXFMUFdmMDNzMHRYbnR0ZWlZeU5OcnlsM1hpUEZrTDJ0ckJSVzZSVDRBNnBpQzNRUmdmclBibHN2Nk1qY0tXNlFyTXNYWXZCS1ZxdFNDazJaOHdETA?oc=5"
+            "title": "蘇一峰發文連喊陳光復「植物人機會高」 醫留言嘆：學長你變了",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9WZlpEdzA3dWE1c2dWTXBWdjM0Rl9wRnVKbnlQOExJUnlxV0J3c3VnOEtGRVRmaEFfMjF2MkJGU2w1RGVsMi04YVFjcTluT09TenFjaEVmNVViczVOdmhDX3drbVYzTEhma3fSAW9BVV95cUxOSHQ0WjdaTGtiWEdySjNLcFdIX3JZOXluUDFmYmF2cHFJYkpxaE03cThxQzIwZ0VRb2ZFNmRDb191RjlENi1LdXZrSEwyUlR4OEg2RDFWTTNBVXdkZlJ5OC1FX2U4MHFMNlpEVzdSNlE?oc=5"
         },
         {
-            "title": "不是蔣萬安、侯友宜！學者點名「這人」2028挑戰盧秀燕：正在伺機而動",
-            "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxPUnNiQ1M5dXZSY1lPRllMeW5BOEtkMEFxeW5XSklqdU1PUWo1Q2k0WGpobWhISUUtSjRoTmhPZTR1WUJScm03aV9HSXY1Z3pUamZxMHdfTUVOTHlzYWhQc19Vd0xrZ3lZbG1DUUxLV2I1OTBld2hIU3ItM0x0eTZxNnVKMGVvSHZaNUoyMXlCZUNhUjB5cGd3bmFXYlRxRW54bmdoUjNmZk9hb192UW5maGQwT1Z0U0pxWi1nclNZUVhYMjFvejhtWEI0VTVTcHNBdTNjSTJXT24tQl8wMTV2Q0pMX2hYeHRBYkt2X05rR1VJRGhGY2JvX1NUU3dITXRYR21iNE9Cdk1qc1BucnEzeDQ4a2Q2eGl4VjBsTS16UFNHRlJzT0wwTGZpRjRyZHpsNVNqeEljVmloME4yaVBrNlBn?oc=5"
+            "title": "2000萬刮刮樂 在新北開出第三張！得主身分曝光",
+            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBqTGxnZUZiRkhTNjNZeWs0dDBvdkJObjMxMy12clRPcVp1OHNDbWhiM3poQWJQU1FyNVNWQUJRUHdudzUtNVkxd3J5SXExcTA3SlJzYw?oc=5"
+        },
+        {
+            "title": "詐團沒放年假！上月全台被騙總金額破70億元 春節常見2大詐騙手法曝光",
+            "link": "https://news.google.com/rss/articles/CBMitgNBVV95cUxOcW81V3owNjJmVzZLYm03SWwtaHhCMVlCN1NqcURKcG5TTk5XVE9IV2dMZ28xeWlWR1VfWXBOSng5b29scW9aTW9wY0U2VTlJTU1fa0JrQ3BNdkdzUGx1cWJrYjBCSGw5d1d2YkFsSTlYNXJocmRHa291R2JyOEVFTW9NeGM4d3dFdXhQMEVSOVNlbGVLWmxsOWI0c09WZldsTzg3VDhfYm5PYnNzU1pyNDh0c05QeThvVnp4d3JfM3B6QlJvdzlPdnRVN3E1UE4zSGFRMG10czNXemw4VmR3d210NWJVQnY5anRoLV81NUhVWFU2V24zMFFWVVA5UDcyTFd1Tmh5RjRFak5hU0xnTkhWa05rVUlzU053QjJSOHRHU2VNTUptVll0RWtLd2Z6d0R6QVdDcVFKd01nUUJ1d21qS1VidHMycjVVX003QnlsMTZ2NE9Ic0xYeGRHR0I5ZkJhRTZCTGlRZEI1LWc1ZUlhdFhfMmM2MXd6dEMzYjRLWDdLaTZJNzM0WERGUDRZdkozT1IxdWNfVExLY2NGVllDTnJwMVlKTUlVb0FqTmIxVFduRUE?oc=5"
+        },
+        {
+            "title": "媽祖籤詩現巧合？示警「癡心妄想一事無成」引熱議- 政治",
+            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAyMDlnZjVBbWFUdWo1dUdSajNOOWFkb1hBcFNzOWE5WFQzczFMbzlKR3ZjdjlGeDZzaUpTeVhxejNRaTZ3S0dFaTAtZVA4dWRHS3UwZ28xeDZrMnczbjdMOFpkTjZuY2NvY29JczN3?oc=5"
         },
         {
             "title": "引流醫院急診病患 UCC春節奏效 分流措施見效 急診就醫銳減",
             "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5qYjRCOHVvZ2FkczY5V3paWGNRcmdWZy00RTRDd2lUSGpFME9NYW5KX2RTMFkwTTlxZF8xTXhJMkNuelZkNUY0VkVwdFJmUWtqTkJCN0FTUmR4YlHSAWBBVV95cUxNR2JPSEZfaEhTSFA1Q011Y1pOa25OYmFpbk5LdC1OY2JnZG9qZGhGcHhlS2hJcDZqUUljaTBfRWNSVkJPbHZNSEs1eHpwRlZDOC16VDdUb3dJWjR3eGRONU0?oc=5"
         },
         {
-            "title": "大年初三就開工？解放軍假聯合戰備警巡之名 派14架共機擾台",
-            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9tZ3pQelJNb09Id3pCSWczTjhYV0Y2dF8xdzRCX0MtRTVQRlFFNm1Ld3pIelpTZHpwdjBDWDdGMWNJNHlzcFNTaXVTU2FQQUVHdnVrVUUzSGVYV194bThIQdIBZkFVX3lxTE9JQzZUR2h3Sk54ZzVlVzRRR0pLWkFXNVZzNGZEZ2tDZWN4YzN1UVJhaE5qX25yTUExNUNOV1RkWTMzdzdnUGVDa2U5SDRrNmJGQW9aM2VuNjFpa3g1V2xXM1RfMUNSUQ?oc=5"
+            "title": "春節垃圾放家裡？彰化市民好幸福 「2方法」輕鬆丟垃圾",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBxa1lDT2g4dFVMLVBpUVB2SGtzTUhfVXdmM25RY3JUQ2dnRF91QjlYRXFuN0ZBUXNmdUw0dEtQbnN4Rjh0RVkwUl8xVXFPMkJhTWpka2dSTWlpbi1Ral9NeFlISjY4bC15UUHSAW9BVV95cUxPOXhURWNyZTNFdExwREhidnBZb0dkSlIycWEyV3RjZTNyYmlzLTZBTVpXcjBhMDh5eGJPTFJoVVYyMHRIdS1wLWg1SEoyZmE4ZEJ3THJObTIzbVpQNUxwVzVjRXRTM1l2UXBWTEM2T0E?oc=5"
         }
     ]
 }
