@@ -1,46 +1,46 @@
 {
-    "updated_at": "2026-02-20 17:00",
-    "summary": "午安，為您帶來今日午間重點快報。\n\n【政治焦點】\n台灣政壇今日多方關注，高市早苗第二次內閣民調支持率高達七成三，半數民眾期待其長期執政。此外，藍營2028總統大選人選已展開學者分析，而前朱市府的「選秀狀元」李四川，也被點名可能接棒挑戰新北市長。行政院副院長卓榮泰今日初四在台中大發「紅包」，承諾投入八千億元建設，力挺何欣純。\n\n【國際情勢】\n華爾街日報揭露，中國國家主席習近平突襲拿下軍委副主席張又俠的內幕，事前已安排指揮官接管北京部隊，顯示其對軍權掌控的嚴謹佈局。\n\n【社會民生】\n春節連假進入尾聲，初四下午國道十一處路段預計將嚴重壅塞，其中國五宜蘭至頭城、國三新竹系統至寶山將現「紫爆」。天氣方面，大台北及東半部今日仍舊濕答答，不過初五起全台將放晴回暖，迎接開工及228連假。醫療狀況上，流感「兩病毒」夾擊，昨日近六千人掛急診；所幸醫院急診引流分流措施奏效，整體就醫人數已見銳減。民眾關心的彩券好運，台彩揭露苗栗、桃園、台中多間彩券行持續開出大獎，被譽為全台「最強運」彩券行。",
+    "updated_at": "2026-02-20 19:47",
+    "summary": "晚安，為您帶來今日晚間重點快報。\n\n【政治焦點】\n高市早苗第二次內閣民調支持率高達七成三，半數民意期待其能長期執政。國內政壇方面，行政院長卓榮泰初四在台中發紅包，宣布將投入八千零七十五億元建設台中，並力挺何欣純。此外，有學者點名非蔣萬安、侯友宜的「這人」將於2028年挑戰盧秀燕。\n\n【兩岸情勢】\n大年初三解放軍即以聯合戰備警巡之名，派出十四架共機擾台，引發關切。\n\n【國際情勢】\n全球最大航艦美軍福特號預計週末抵達中東，川普幕僚預估全面攻伊機率高達九成。英國王室安德魯王子則因涉嫌公職失當被捕，離開警局時表情顯得驚恐。\n\n【社會民生】\n今日初四，國道多處路段易壅塞，國5宜蘭至頭城、國3新竹系統至寶山皆出現紫爆車潮。台27線發生2車碰撞事故，造成11人受傷送醫。春節期間，醫院急診透過分流措施有效引導病患，就醫人數顯著銳減。另有新北房仲新鮮人買刮刮樂，幸運刮中兩千萬頭獎，喜迎事業好彩頭。",
     "news": [
         {
             "title": "高市早苗第二次內閣民調支持率73% 半數民意期待長期執政",
             "link": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxNSWhFUk4yT0dIakVnZkQtMV81cHNRNUx4ZE8tUVhKVEVtc2JDMEYxVWR6WDhNLWx6MEJMLS16QTJjd0NVSHpQY1ZLeEtaOXZOX2diem9ZQW9PUjdSVTJmVXFHV1E1NE1PYnpsM2VaSmR6WWwxRlVjYlVlSm1EYTg2UEdZVjdoRzg3MThicEUxSy1NMWlNd3oySzNoN0Z1dUppdG1ka2FNdE9ySHk3VU9TeEhVVlhEeWdCU3J6bkFEMTlxeHRjWWJNM1FaV3FZWUlBTlJpVy1OQzhrRmpEZzl6TXBLdy1ldF9vNndmY2VCNnJTdktlWExhaVYxcjM2YnE3Y0c0ZzB1YmhmVmkyYlk2ZlhyN0VVMGFFbkE5enNvSFJDNjBsMXBEYmpDLTh3clVGX2hfdW5OSXoyQVcwdWRkUmRlX2dzTGlTOXE4QkRCNnc1UFMtUXJzU1UtSUQtcnIxTnpoSWFaQ1l0el9jSjVHNjNhT1ozVlU?oc=5"
         },
         {
-            "title": "走春身體要顧！流感「2病毒」夾擊 昨近6千人掛急診",
-            "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxOTmQ0Tlc4dUZMOEQzaENhaTFsNFJOc3lCUVBQZ296RHBocHhjOGxGM0tzcUJDWHpORzB3Rlp2ZkdkMTFRUTZxR0tBblVQNU91a1hrc0FLUWRJM0VoMWpZQ3lHQnRTUTZTRzNSM2puRVBfMDZBWlVUVEF0MzRGRkVibGhsRTZEdGVFSEl3ZlhmR3h5WFNVWW1nV0h5d0V3YVhlNWZuSU0wNlVtTHkyZ2pqdk9ZV1dBMjlHVmlMZ3FHSENZc0d6RW1rMmlqVDZEbExtMTQyRVRzQXhZdVB1Sms0dTdiTUZjMjZERzdncUdHS3hpNzBOM3diVWZOVUU2eHNrN0ZLOTkxb0xPSUpEcENVSG5FZ2Izd3Y1VHJHQmNGNTRyWE5nM1p4VkVFTi1NWXkzVUVkdE9fUTFMUUVhMncw?oc=5"
-        },
-        {
-            "title": "WSJ揭習近平突襲拿下張又俠內幕 事先安排指揮官負責北京部隊",
-            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ERVFsRzBoaHNHdHluX09NaG1BZWVFWDZvaFkyaWlkWjB3VVROT0dLcHFsSW1jSS1kVFFyX2pjOExScTB5TTk4c2lwY2h4UFVsdTR5UUpBc18xZkJpTnBjVWZvNC05d9IBa0FVX3lxTE1TaU16RWkzN0hQei1vSmljQy1QX0lnUDk3VGR6WjhTb3hhNGQ3Vkp3U2hJX2hOQjRLaVV2YUJ2Q2lzSkozTk8wWlZVR1F5ZEQybTdGcm9HNGFHdF9CMWhaRzlRU0c5VjZBUGM4?oc=5"
-        },
-        {
             "title": "初四下午國道11路段易壅塞 國5宜蘭至頭城、國3新竹系統至寶山紫爆【不斷更新】",
             "link": "https://news.google.com/rss/articles/CBMi8gNBVV95cUxPZU9MM0lSVHVQaXZJZWlsb2NPT2w0Q3VRNVNzdXlBUVBGTnloLWNlb216S1NXWlpsc3NLSk5CZ1o4djh0cE5EM240S0pJT3p1eVJmb1k2aFhhMVE5b0M1dU9Za0ltSVl5VUYweUZ4VFFhNFRyWFE2QXhQUUFKajdHX2Z3cGQ1S2FUekJjSXNsN2toQjg1T2dpQkNIeHhMdEF4RkRNbV9zWmxmMWNBcGFJTFMxaG1yQTRHX2tjVUhLVWxKYnR5QW1tTFF2WThLQjFiNThwZnFJckVMVlgxOXFFenVWc0FQSjFzX3QxbDkyb1M5U0tya1NETXp5Vkw4aUhLMjBrc0FvaFRSLU9RUlNPaEp4WjNRUXlhTkVnbGJzVnBVV3BrQ0hrR3VaVDNTTFRkX1hvOE1XNDJmbGplZjg3dVVMWDNnY2lweHo4TGtHck9HZ2ktcVNKVEZfaThoWURULWlxaEk0ZTg2OGVIdXZqU2JlTUU0VW9CaEVheXpGM2NRekRPWEUxYkw2LWJSWDNGaWV2VHQ2Z1dEUHFlU0llR2t0ZjZVcFl1aklUV1BFQjRMWjYwazJIZnF4cXg4Z2pQbWFXYXc1SmxwTUhVLUJ2ZV9CZjFHd3JETHc3WWVhWng5dExCek5QNFJObE9EWnhWcEE?oc=5"
         },
         {
-            "title": "大台北+東半部今溼答答 初五起全台放晴回暖迎開工、228連假天氣曝",
-            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9QVm9RU0JLTnFSbjZqdktzbmJZUENOMi1ZX3lSWTN4RGtuMnFyemdDNXNva0lSbGNQM3doczJyNVZsU250YV9Lak1JaUE0emg00gFWQVVfeXFMT0tPVDJaQzVXY0lpdm1Sdk5Pb0wwZEdSZmpZejBoWVF1Y1dHX3lZeDRyQmswYkM0QzVoeC1ONWFwVURIVWpxRGVLeTNYUnFYUk9IQzRyOFE?oc=5"
+            "title": "快訊／台27線2車碰撞 11人受傷送醫",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5nTnRsZlh3cnFMOHRmc1pCby1sX242UDd4TGFfRnVNaDlRMGpIWFRTTUJEWGlOdl94NHdERVZLRnVfVmJWallrdENpYmZSZGg1MGQzcEF3?oc=5"
         },
         {
-            "title": "快去試手氣！台彩揭全台「最強運」彩券行 苗栗、桃園、台中名店大獎開不停",
-            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ZYnRxeGpEWWU3NzdielNoV3VFbG1sUDJidXVqTVd1NkMyN1ZOWXVmM05vUkJwWVBUdERRNDNPTU56QXdFTVc0WTVESmx2SllGZmd4WVAtZGRpUE9YMm5r0gFkQVVfeXFMTVBheW1BOWVoYmpHMGJpcUkzRkZFdjJhZUpKaTNMVmJrRWJHb0hGV1YwR0JCdV9Lb2xGLVFPTGpaMWk2bE0xWXIwZXFlTUhORmg5MVF4RXVPdXBaR3FObTVrSkwxNA?oc=5"
+            "title": "全球最大航艦 美軍福特號週末抵達中東 全面攻伊 川普幕僚：90％機率",
+            "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBzc01CUjc0dUhWRTJrMUhLLUhreTlVeVQ1RFJQUmtxQzV2Q3hHMTB1VGtzcGFIT0k5VnRmWktiUDM0X3gyUVRncDBpOWVzaExHZTQweWdlbjROaWNM0gFiQVVfeXFMTlNqbi1mLXJBb0t2QXVmX2dyWi1EV0dSbzRGbXBRVWVIcnlPcER5N3NEbGd1bUY4MjBYSVh1UTQ3My1HLWlIbFB3ZGdFbklzdktMZGdBYlJoRUtUMnhvS2t6OHc?oc=5"
+        },
+        {
+            "title": "新北房仲新鮮人買刮刮樂討事業好彩頭 幸運刮中2000萬頭獎",
+            "link": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxOWG9zdG81cWxlbUdFVXp6YXA3UE1nUFFzRWFRdi1sMTMyZE8yNW4zVFhOSHRZNkllWjJIV0U1MTF4TVRKbDhONnh4ZC00RFN6NDBOV3hqX1E5SVpld1duQnNYa3FOQlNVX0htREh6SG0yNUZWYnIwUG8wSERJekxVX21OVDVlWFVDWlVfTUtyemlsVTdkWFdGd0F3WjkxeU9CX3pSQjgxQ0ItVWFlRnlzaFkxc1hZZ2pNdVJHUm5GSWF2Q01jMUNIM2o3c1c0a1g3ck02TjNZemlmYlZROVFJbW5qOGFSXzc4WU5XSjdiNGZHdElLREkycFNIc01hM1RadTNIeGd0MC1LMkdGX2FITTNUZ3dYMC1QeG5Ld2J6Sk5xVHZJd2ItaHk3Vkw5NUZfM19HOWlOcHplQ3V4d1pHRlZTaUs4cXRueU52Zkd0WWIzdjI5VXdkZHBvOVJKclNnYjRtS1FzYWkyV00zdDJyU01HZ0REcEJWYkE?oc=5"
+        },
+        {
+            "title": "涉嫌公職失當被捕英王胞弟安德魯離開警局表情驚恐| 國際焦點| 全球 | 聯合新聞網",
+            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1IVzR2dFM0enIxSXpDOE8xZDdxTDZ2cEpmbUJDUGNiVUJMOWlSUUV5TzlxMmFlZTA4alZfZG1lUDFWMU9jMVdSa0RjNzh4WTJH?oc=5"
         },
         {
             "title": "迎財神初四發紅包「砸8075億建設台中」 卓榮泰挺何欣純：欣欣向榮",
             "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8zQnBXSzkwSllVcnJvNkZySDFPRjk4VnhMME9SNXNCdWRpYlItVVc4cUY5al9OdFduSVVaU1BLc3lVRHhUd0NDQzBJRjhXY000eUtF0gFYQVVfeXFMUFdmMDNzMHRYbnR0ZWlZeU5OcnlsM1hpUEZrTDJ0ckJSVzZSVDRBNnBpQzNRUmdmclBibHN2Nk1qY0tXNlFyTXNYWXZCS1ZxdFNDazJaOHdETA?oc=5"
         },
         {
-            "title": "李四川接棒戰新北 朱市府「選秀狀元」拼改寫台灣選舉史",
-            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ZbGZrTGxkeVNHMXhsN2RVanVyT0RWLTZJdDg1YVhRWGsyMWFxb1FLaWhIQTNCajQ2UjB2YUF5WHdrbzZoRW5lVFFYdGViQTg2X1B5T0wtTEVncGc1MXh6bmdjMWVGRVhKZEFqWUln?oc=5"
+            "title": "不是蔣萬安、侯友宜！學者點名「這人」2028挑戰盧秀燕：正在伺機而動",
+            "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxPUnNiQ1M5dXZSY1lPRllMeW5BOEtkMEFxeW5XSklqdU1PUWo1Q2k0WGpobWhISUUtSjRoTmhPZTR1WUJScm03aV9HSXY1Z3pUamZxMHdfTUVOTHlzYWhQc19Vd0xrZ3lZbG1DUUxLV2I1OTBld2hIU3ItM0x0eTZxNnVKMGVvSHZaNUoyMXlCZUNhUjB5cGd3bmFXYlRxRW54bmdoUjNmZk9hb192UW5maGQwT1Z0U0pxWi1nclNZUVhYMjFvejhtWEI0VTVTcHNBdTNjSTJXT24tQl8wMTV2Q0pMX2hYeHRBYkt2X05rR1VJRGhGY2JvX1NUU3dITXRYR21iNE9Cdk1qc1BucnEzeDQ4a2Q2eGl4VjBsTS16UFNHRlJzT0wwTGZpRjRyZHpsNVNqeEljVmloME4yaVBrNlBn?oc=5"
         },
         {
             "title": "引流醫院急診病患 UCC春節奏效 分流措施見效 急診就醫銳減",
             "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5qYjRCOHVvZ2FkczY5V3paWGNRcmdWZy00RTRDd2lUSGpFME9NYW5KX2RTMFkwTTlxZF8xTXhJMkNuelZkNUY0VkVwdFJmUWtqTkJCN0FTUmR4YlHSAWBBVV95cUxNR2JPSEZfaEhTSFA1Q011Y1pOa25OYmFpbk5LdC1OY2JnZG9qZGhGcHhlS2hJcDZqUUljaTBfRWNSVkJPbHZNSEs1eHpwRlZDOC16VDdUb3dJWjR3eGRONU0?oc=5"
         },
         {
-            "title": "2028總統大選藍營派誰參戰？學者分析4大人選優劣勢- 政治",
-            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1HTEF1MU9iZDdZZGxudTBvOW1wSnYtNEdlSlBMcUlTT0VPSXVCWEV4U2Z3TG9RZUVqRU9KRVFaZGI1Sjh0UGFZLS1fc1hSbTlqWEg3N2VRUFdtT3VONmxvdzBlWmZlSGdrbHJoaWhR?oc=5"
+            "title": "大年初三就開工？解放軍假聯合戰備警巡之名 派14架共機擾台",
+            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9tZ3pQelJNb09Id3pCSWczTjhYV0Y2dF8xdzRCX0MtRTVQRlFFNm1Ld3pIelpTZHpwdjBDWDdGMWNJNHlzcFNTaXVTU2FQQUVHdnVrVUUzSGVYV194bThIQdIBZkFVX3lxTE9JQzZUR2h3Sk54ZzVlVzRRR0pLWkFXNVZzNGZEZ2tDZWN4YzN1UVJhaE5qX25yTUExNUNOV1RkWTMzdzdnUGVDa2U5SDRrNmJGQW9aM2VuNjFpa3g1V2xXM1RfMUNSUQ?oc=5"
         }
     ]
 }
