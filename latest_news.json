@@ -1,46 +1,46 @@
 {
-    "updated_at": "2026-02-23 19:55",
-    "summary": "晚安，為您帶來今日晚間重點快報。\n\n【政治焦點】\n國安局全數解密戒嚴時期政治檔案，不遮蔽移交國發會檔案局，力求歷史真相公開透明。德國聯邦議院基民黨團主席梅爾茨訪中前，特別諮詢台灣女婿施益堅，細膩準備台海議題。而台北市政府人事動態也引發關注，李四川辭呈傳聞，蔣萬安賣關子未正面回應。\n\n【財經動態】\n大樂透頭獎再度開出，一億元由一注獨得，獎落某縣市，恭喜這位幸運兒。\n\n【社會民生】\n開工日溫暖偏熱，但本週將有兩波鋒面接力影響，天氣變化快速請多留意。春節期間急診量暴增三成，醫師點名腸胃道疾病患者最多。新北警方則結合教育與民力，全面守護學童開學安全。一起刮刮樂中獎品竟是蟑螂標本，木柵動物園證實為限量收藏品，具教育意義。台中燈會滿地塑膠花，引發遊客失望批評沒看頭。高雄市議員參選人黃偵琳酒駕肇事，判刑二個月沒緩刑，她表示會坦然面對。",
+    "updated_at": "2026-02-24 07:48",
+    "summary": "早安，為您帶來今日上午重點快報。\n\n【國際焦點】\n美國前總統川普對於伊朗在極限施壓下「為何不屈服」感到納悶，外界分析此極限施壓可能浮現新訊號，引發國際關注。\n\n【國內政治】\n總統當選人賴清德感謝立法院長韓國瑜在茶敘中「人還未到聲先到」，並肯定其精闢點題。另一方面，台中市長盧秀燕在任期最後一年缺席府會新春團拜，此舉引發各界討論。\n\n【社會民生】\n大樂透一億元頭獎揭曉，獎落兩個縣市，財神爺大放送。新北警方為學童開學，結合教育單位與民力守護學童安全。然而，台中燈會卻傳出遊客失望，批評滿地塑膠花「假發」缺乏看頭。此外，藝人逸祥、香蕉在好友山豬離世近兩年後，仍過年代其盡孝，真誠互動惹哭不少網友。\n\n【天氣快報】\n開工日溫暖偏熱，但本周天氣變化快速，將有兩波鋒面接力影響。提醒您，明日晚間將有八級強風，隨後天氣轉變為降雨，請民眾外出留意。\n\n【娛樂話題】\n南韓男團Super Junior成員始源因在尹錫悅判無期當天喊「不義必亡」，再度引發政治表態爭議，其經紀公司SM娛樂已怒發聲明表示將採取法律行動。",
     "news": [
         {
-            "title": "大樂透再度開出頭獎！1億元一注獨得獎落這縣市- 財經",
-            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBIZ0s0Rmk4d002OFpGLXpBd3pvRFlRc3gxSEZ2Q1ZURWlCLWV1Um5DelI0Y1duSjRGWmlhYVZjdFpPX3lkcjRDOHhmdUd3Z2ZqU0tENDVzanlxLU5EdmVIbVA2VHJHVXM4WGpBc0lB?oc=5"
+            "title": "航艦壓境限期談判！川普納悶伊朗「為何不屈服」 極限施壓浮現新訊號",
+            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5NX0VMWEVfTGExREVvYjl2OWdqNndGWDIwWnVqb0lYWkhtOEIzb0xRVHM1VzZ0Tmt1RUpLLTY0dl9HdDU3V3hIZjBZUkYyRG5wZW5mZmNOWVpwdFBIM21VOE9uU1F0UdIBa0FVX3lxTE0zX0hsQXdibjczZ0IzdldLN0dONDB4SmxUeUJRejJRYXdCZURUMUNLTm5CcmNqYmNuWC1wVFlwalNPUkVOUnVINUdkM0VZdFJ0RXZTQjZfNElHaDI1d2JwVU02YnFCdWJURGxF?oc=5"
         },
         {
             "title": "開工日溫暖偏熱！「本周兩波鋒面接力」天氣變化快速",
             "link": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxPQm5hMVh1N3V1ZzZfUm5yT1FCM0xnTXFjMXNMeExYTzZPaWVQenp1ckdUUWYtdnhtdXlabVJOR2xQNEdrNjhsYVhmOW9kTWwxaU51VDlnMnRNb2YzQktpQkxmUldZc21fU0NHeHlYOFpUWklVTzJ5dUNxOGl3aGplSDVGQ3NBMVBpbGRkNzVHQVBUVlBPV0ItamZUdThqd3ZwX3ZrUUhoV2pXcm1uT012bGdkWXFxaFRHaEdQZHhWSm9GZUhMaHRKc21kNmtNRktDYTZCcnAzVE51YW5nXzNHeGhJRGp4SElBVVpoc0k1anBUbG82OU8wV04tZlBoaEFzZFh5WDhnSWlUT0E2Nm80X05BLXJZSTFuYUpMVWVROWM1cTFGTE1RLXdQX08wZVptaDg5RUhZLUU3T3piM0IyTXcyMTVrQjktT3VtMTVJN2liRWlhZDlXZ0dhYTdZZmpzMHptM3pXaUJ2eHdYOXZQRC1BQQ?oc=5"
         },
         {
-            "title": "刮刮樂中蟑螂標本！ 木柵動物園：具教育意義限量收藏品",
-            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAtTi1kUG5lVHI1cDdLejJIX1pieVJobEdoSEdfZHI3QVN4VEJrYUVhR2hyXzByaDhSM2tPOE5acER0R1JGd3BJU200c2QxalExMlZWcFpBcjMyQjM3VG5uUUljRjnSAWpBVV95cUxNRFRIQ2FoX2I3aVRGdUhUZnJwRUxFOTRQQjNmeEJRNnpjbzh1MHhsOHJRcXBqRkhCNnROVUJCM3NmRGNJX0s1NVhUMUFxX2V1emswRXJNbUJGYW5uS2I5MWY4M09jb3EtbVRB?oc=5"
+            "title": "SJ始源又政治表態？尹錫悅判無期當天喊「不義必亡」引論戰 SM娛樂怒：法律行動",
+            "link": "https://news.google.com/rss/articles/CBMiogNBVV95cUxOaDM4NWxRTThxMW5IVG5pejNvRHhfZG9CSGZsMVhxNkQxSTJqSF93d0ZwTkR4SU5VdjJNMkdTV0ZaU2VuTFlaYzBXQW43UU16dV8zYkFVYmpwVDB5eElMUWZzdkd5ZUtTQTh1WlNLMkw3bkRUVDI4NGZBM25TM1AyREtFbC1nSV9UYkVFZm1HYUVHd1QzNlpDLWoxbk54U2I4dmt4SEsycnBhYnRCUkl3bE9FcmR0c1Q1ZUlIQ3gwMnUtU004SXgxOEVwcndiLVZycE9JZTYxc0J0bEhFNkw3LXZsWGlWZWgycXFDbDN3YXBqbVRaa2Y0azMxRHJ0SkFzZk0wSWFuTFpoQVhtVm9CUDFJYzYyOGRFSXZ1NVlJTGNKOS1sT0dCLVdYV3JoTlk3NFR4eEFiemtySW1iVUN6VWFCM0ZVRzRvTDB5NVE2MUM0MlNHbEpUSHVvV2dvZld6UWlHUFNrRjhNeW9HWllVUExSS0ZTLVpsOER4WnNJYmVFSVVCTVk1OFlMdmdKQ1lpcmVWRDIxQXlPS1d3RmkwUGFB?oc=5"
+        },
+        {
+            "title": "賴清德感謝韓國瑜「人還未到聲先到」　肯定他用一字點出茶敘方向",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBlR1U3S1J0LTdvUTQ2RjZzV1ltUHpCcmtkbE1KMkR0cXdsYzJYZi14REt5dkQ4UmVaOXQ2ZGRKOXc2VFB3RHFwWUxWdVlxZksxOUhhemJIN2tZQXktOVHSAWhBVV95cUxPNTVYbm1oOTB6dmR1ZlAtakw1TEg2UnFJcmVDcHU4Nm9CVEdZa0ZtbHRqMHFnQXRUQTZ3S3lFUWRoRHg0azc3QXh1ZXNReFhocWZZQVd5dEtBRUJSV0o2S0V5VUpTVVBJNA?oc=5"
+        },
+        {
+            "title": "快訊／財神發錢啦！大樂透1億 獎落2縣市",
+            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1XYXloMjVsSXdleF9iSFZyVnZSOXp1bUFrMDlDUk1SalowZ3FYT0dITTQyYkhoSVlJTEo5OTdGR1dYOTFreGxRSGxXX0xIQTBjWVlwQw?oc=5"
+        },
+        {
+            "title": "山豬離世近2年！逸祥、香蕉「過年代他盡孝」互動惹哭網：真男人",
+            "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxPV1FCX2RTSWh0cTZFejgzcjNKOVZDcEZVX2xaVWlsRWVmTzBiVDY2RHdGTWNBMU9BSjRnZVV6ZEtDOHA0VzVsLWc2T2RsOU9pQi1fNDBpa0FELTN2RU92YnA4blVTcTNoM21OVE9IWGYxdmV1Ql8tSFdKU0VJenluVmJmYUlnQUpZOUtmcDg4NGV5NG1SU3NPQmZpeWdka3ppRjRMbncyYlNYLUkwRmVCSmxlNW9pMGNMd1Z5dk50bEhaZW9IaXBqOTlIbE00dktnOWpwS0pzQ1hoYjRDVUZpU2tGZjF5NzRFcHRfOUNndzZ6OWVDczZ3d3VOX0V2RU1meTBzZEZEaDFTTVJyaTdJVkxLNHpwSlhkbEZaMHBIVTBfLTh0aVF5cC1FTlUtcTM0QWJOYXJ1bkJ6T183aEJYamlDQ0lReVc3MVFXb2syNDRXMW40Unc?oc=5"
+        },
+        {
+            "title": "快訊／8級強風！　明晚變天轉雨",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ERVVRbzlaRXJpRVN1bXNHXzdwZEhOVnFFTXBHbkk4SjNyMW1UNzRiLTlHWWRLZ0lqc0dIVVlMRWozdHlIbWxaWDZ6MDQwY2pmU1I1eHJibjlkTGVLMUHSAWhBVV95cUxOakliUUF5RUxlSE9CdzY4RU10dDFnd1V6R09pTkhCOVpINDRPYnRQZVI5b1pReWVrbWpBQjFyaEdXdjBMdTZiVXJhS211VW5XMXRxb0NsdnZVRHpIR2FubHM0bW9pVGRuQg?oc=5"
+        },
+        {
+            "title": "台中燈會滿地塑膠花！彰化遊客失望批「假發」沒看頭",
+            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1LaWdJY2MtRTVvdmpJUjJiMEc5T29GaHRld21UOWxEUGxMeGNUSTF3b1dKMTZkS3VpTWtzRDNkdFNrTmlNeE9ISzZHRUNvZ0ZLNHQ3b2RXMGswZlhVbXdZRjRZSzPSAWpBVV95cUxOOVYtcldpcWdUTGF0RnhVQ18wUFBBWXVWNDNaNXJpNWtQV2RaWml5Q2FqVjBldzNVVkxVOGQtTC05bHJUc29yZ2hPUHhPSDBtRWxuZWNHTHpoaEYzTEN2Z3dvSXhKal9JbVNR?oc=5"
         },
         {
             "title": "收心開學囉！新北警結合教育、民力 守護學童安全",
             "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9jazRPdkV0RGhTTlk2T1BoUEJtdnVtSzJaZlY2eHJzWThhNkgzOHhHendVMDNNdFM5cjhoazZpMk9NQTI5TjRidkNsb3Vkb3lyN0MzWXdB?oc=5"
         },
         {
-            "title": "梅爾茨訪中前細膩準備台海議題諮詢台灣女婿施益堅| 政治",
-            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ydTgzVUJmOTV0VlI5ZkNiQTdYTm9DZjhfbWF3dVItYm9lTkxIM2cwZkZxNF9reFEwcmwybVhpNmFqMm1BbXQzT19YcGFVb1ZkMlRoek5oS1BBTTZWVjBz?oc=5"
-        },
-        {
-            "title": "國安局全數解密戒嚴時期政治檔案不遮蔽移交國發會檔案局| 政治",
-            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE12SS1iejl6dU1sUGRSUkNaa2ZPOGZrT2FSNGpJUDZ0YkhGb2NTdGNyX0tOTDNXRmwzZVpzSHhEQUZYYWZoRVJJWFhQZ3ZjalNSWDd5Ym85YVR0OF9Wd1lv?oc=5"
-        },
-        {
-            "title": "酒駕肇事判2月沒緩刑　高雄市議員參選人黃偵琳：該面對就面對",
-            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBPMVpqLTBBMVF0Q21LVVNyWkVMd1RwU3RMcFlWSVJtVnl1MG1TYzlGalh1dnU1b0IxLUxrN3g3YVN3QlhzUk9pNzVHVk9falFPZUYxY1NmbGFZNm51ckHSAWhBVV95cUxQMUFwTkV3SDVSR1ROWjgtMnR2bHI2N1d0cHVBOW9scUdfa3JUWDBVdDhnTm5oQUV4cGpVeE1YMFFYam13djA3cGFTSGcxNDFLNGV6YkRnNnhvYXBFY0NjZTV3b2pxcV9icQ?oc=5"
-        },
-        {
-            "title": "春節急診暴增3成 醫點名「這類疾病」最多",
-            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5Db1IzUDNkMFd6bzF0b1NxVlVnajNmOHY5U3VwcVZha1VWLURwazkzYllUcGNTWV9KM25ZQ1cxZlptcnQ2LU5fdEhONUpmQXN6QjNUQUwwUHY4anF4eWVlNWxCNEzSAWpBVV95cUxNakN2Ym9MOU5yXzN3UFk2dnlHY1RxeUZ0aW5FbmlfVGxwcnZHQ1JqbUpsVUlMQ1ZFM0Y0UjBiVUxMZ29ibXg5eEhrN0ctWklMbzRtSVlUSVc1dDRyZXZnYUU3SWRiSGQ3MzFR?oc=5"
-        },
-        {
-            "title": "影／李四川辭呈忍痛簽了？蔣萬安賣關子反應曝",
-            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE02aGI2OWM5S2JwQklFS3dhTTlWc2tDby1GZ09WSGFJYWk2aXV5N0VaUGdlb1Q5VmlaalIyRVNZS25LX2VKNUoxTm5YR1Y1dS1FNTNr0gFYQVVfeXFMTkxoTFRpQ2JkYmxlallYNUU0S3lXeEszaVpDTGJrd2VsQ0xTSXdrWk04YW9TYXkwc29rNmVwYTMxVGU2bzQwSmlLTC1OeWlYbnNyVnVnQ1dzXw?oc=5"
-        },
-        {
-            "title": "台中燈會滿地塑膠花！彰化遊客失望批「假發」沒看頭",
-            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1LaWdJY2MtRTVvdmpJUjJiMEc5T29GaHRld21UOWxEUGxMeGNUSTF3b1dKMTZkS3VpTWtzRDNkdFNrTmlNeE9ISzZHRUNvZ0ZLNHQ3b2RXMGswZlhVbXdZRjRZSzPSAWpBVV95cUxOOVYtcldpcWdUTGF0RnhVQ18wUFBBWXVWNDNaNXJpNWtQV2RaWml5Q2FqVjBldzNVVkxVOGQtTC05bHJUc29yZ2hPUHhPSDBtRWxuZWNHTHpoaEYzTEN2Z3dvSXhKal9JbVNR?oc=5"
+            "title": "任期最後一年 盧秀燕「缺席」府會新春團拜引討論",
+            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0yVThBMzFFS0txd0VTVWhaOFJsR1NqZFg4UVRlWldSZWFnYXE5N2RFSXc4M1UteGJvMFBpbnU1SjgzaTZuc2J5ZHMyN2hsVTF60gFWQVVfeXFMTy04ZHVSbXpZRWUwYTdNbzRjeDZqZlhCQV93b0Fwa2JBaUJXRGpkaEd2MzNoVkNHek1sUXdTUWdQdjlxaXNpajlOQ1U2V2RuQ1BWdnFUTkE?oc=5"
         }
     ]
 }
