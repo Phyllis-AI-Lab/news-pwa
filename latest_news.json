@@ -1,46 +1,46 @@
 {
-    "updated_at": "2026-02-25 12:29",
-    "summary": "午安，為您帶來今日午間重點快報。\n\n【政治焦點】\n\n總統赴立院報告破局，綠委批傅崐萁一人阻擋。韓國瑜則以濕紙巾覆蓋口鼻的故事，警示藍營黨團恐面臨窒息危機。此外，賴清德總統於台商團拜時，稱對岸為「中國大陸」，引發關注。\n\n【國際情勢】\n\n美軍據傳集結等候川普下令攻打伊朗，但將領透露彈藥短缺、盟國拒挺為致命傷。同時，中國已將20家日本實體列入出口管制名單。\n\n【財經動態】\n\n酷澎個資外洩案，拖延88天後認錯，宣布將投入2億元搶救台灣用戶信心。另一方面，台灣有471項輸美商品，目前暫未獲得122條款豁免。\n\n【社會民生】\n\n民眾黨吳欣岱批評北市無菸燈會規劃，建議應每三分鐘設吸菸區。今日初九天公生，專家提醒民眾九大禁忌別觸犯。大樂透一億元頭獎則由屏東彩券行開出。",
+    "updated_at": "2026-02-25 17:09",
+    "summary": "午安，為您帶來今日午間重點快報。\n\n【政治焦點】\n立法院長韓國瑜及副院長蔡其昌，針對總統國情報告形式與國民黨團提案意見相左，認為傅崐萁的提案恐有違憲疑慮，目前朝野尚無共識。\n\n【國際情勢】\n駐韓美軍F-16曾與中國戰機無預警對峙，韓媒報導美軍司令已為此致歉。俄烏戰爭四週年，聯合國大會決議支持烏克蘭領土完整，美國卻選擇棄權。\n\n【財經動態】\n酷澎平台傳出個資外洩，拖延88天才公開承認，並承諾將投入兩億元，力求挽回台灣用戶的信任與信心。\n\n【社會民生】\n蔣萬安市長宣布，台北市家有12歲以下孩童的家長，未來可日減一小時工時，工資由市府補貼。學測成績今日公布，數A五標普遍略升，但數B表現則不如預期。此外，「無良公關」管理員因誣陷徐巧芯，遭判刑六個月、褫奪公權兩年。而備受矚目的台灣燈會，也將由十公尺高瑪利歐主燈領軍，下週盛大登場。\n\n【體育快報】\n2026世界棒球經典賽賽程資訊陸續公開，備受矚目的台日大戰，預計將在3月6日熱血開打。",
     "news": [
         {
-            "title": "批北市無菸燈會「累死所有人」 吳欣岱：走3分鐘就要有吸菸區",
-            "link": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxPVW1lcGF0NUh5a3Y1aTVwRVJ1TkRhVFlpM3JsN3NPVmxZYVBaREhFMGV1SkVudEpxN0JzSEFwV21hR1h3aE1fT1RCa2g2M0s1U1Z0UExQbUVpbXp3NFFaWGZ0TUNWNmJPYW1YRE05cUNPeGJ1LXVOWFdMbHZ4bTczcGw2UkNFb09UMjgxc3ptNlJITnV4YmFoekFlNGRnN2pYcXUyVkVlaTV4RGg4UnlYY3BGY1Z0V2o3YTFBaFNpYnlVbUtYckt6NVFRT3R3dU9SenlONmpUYTU4bXJPZVRfamktWi1nMU11SXlybFpvSkVpM0k0c3JsVmZ2RW5aYWZZcmpHeXZtdE4zbUJJT081MjZ5c3JqMHNTbnlqSkdSRElJaVExZ19PWkJkVkxRU2FYdjYzMUU4XzNuTUFnOGIteTdtZ3ZWTDh2a0t2YVJoM2lZYXNrRWt0NWhsVWZUR0Nnc094dTh3U1dSWDlMYkFwbFNXa3J3SHJ0?oc=5"
-        },
-        {
-            "title": "韓國瑜舉濕紙覆蓋口鼻故事喻藍黨團有窒息危機 軍購條例誤判恐四面楚歌",
-            "link": "https://news.google.com/rss/articles/CBMi1ANBVV95cUxOd200MU0ycm9sWlY4aU5Qa19yYV9zQ1BpX292R3J5d1RiUGxqaFl1YmJyYU1GVXdIVl9qZUxKLXJIUk83blBGV0tLOW9ZWlhlNm11eEJSY01CbDZyNHAzb0ZJRmVPVVJCQzFYTXZ4RU5uVkpiN3JHb0NFNkRKOXFtVTBYQ2dVN09IcHlZQnFzSjV0Y3RBZXk3d1lBa19hMXFsbmp5SnpldTVlb0tGMGJ6N0NFcHh4OHRPa19jU2x2d2hubno2dksycHZyV09wdlNPN1RQS3AtMV9NeW9Tc2dHYzhhRDBYbzU5cE9PMEY0bTd5Mm5pMW4yRGNGdzZPQlJXRFEzUWhlRGY4V2VhTTJkTmhnLTY2SFlnNThBT3ZuRS1MaFRSc0dEUERxaHJpSG9PTkpoZTVaME1RVjV4MlY5NUtUOUM0MElrNmJDb05QbmdlOHE0Y2tjREtZMEhqUXI5Y0M5ZGl4OUthMnBLdUdtbUtJWVhaMHZydXdjRkdjMlAtWHRlV1pKTGtYbGZuLTVxbUNSLU5KOFVxNzF3eUo1Z1NzNEd0VnVza2VjSllIT0VSY1RFREppajN5RUcyX0tKOUdONDVVdE9HVXFRSTBja3BZMkg?oc=5"
-        },
-        {
-            "title": "總統赴立院報告破局！綠委批傅崐萁一人擋謝韓國瑜助安排- 政治",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE12YkF2RWJFNzQxWGt4TGZxdTVTOFdVcTVPQXJFT1JMcGpTVmJ0ODBRZk9qSXBvZ0o1b1pzNkUtOVRLR2t1WEQ0T3FPM2VCbjBfVlE4TG9XaHNCaUhTUXJqbzdVcUtMRDlTWlE?oc=5"
-        },
-        {
-            "title": "初九天公生！9大禁忌別觸犯 違反恐「窮一年」",
-            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBKb0t3TjZaUk9CMENPOUc3NlNBazZnb0duT2NoWjd2R3I5ckptYUR3bjBLVEhBbTZlSVk1U08xMjVELUdhUVVOTHNTRTVqdUF3ZDlZQw?oc=5"
-        },
-        {
-            "title": "美軍集結等川普下令攻伊朗！將領揭2大致命傷：彈藥短缺、盟國拒挺",
-            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8wVDBveTZjZE5KY19jN0lfcmRaVUJWRFY0UGt3ZnVncHBQTW5iblFVX29mdW51RGtuRUY4NGd1Y2pBNnNYWXhKcy0wOXkzekxuMTVsb1FhT3jSAV9BVV95cUxOOXNLZWpRZmpJX1dueC1MLWFUVHhLdFRFdXVwWVJpdXlxeTVfdDFNYURRb3hQNVc2bkd0ZTVNS0dUZEJXMWtVWTY2R1JlV3hJbElQbS1BcDY4bmFHbGVOUQ?oc=5"
-        },
-        {
-            "title": "中國將20家日本實體列入出口管制管控名單",
-            "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTVBMWXY2Qy1VSWdCWlRheWJfWW93V0tiWEhfRDFJNVQ1TlUza0xnZjdsRjQ2QmN5Z2RVZzhiVHNNMXJXMk15dHpORjBGT3V1NjZZcS13ekVtMTVyRXZsZnd2X2U0elZmRWpKcFVUVWpPRVJQTTk3RDZ0Zm5VUXZ0LWJpeXFZT082N1pHOA?oc=5"
+            "title": "邀賴清德國情報告無共識！蔡其昌：傅崐萁的意見「我跟韓國瑜認為違憲」",
+            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE90NzU1RnhhUC1sdlpNb0EycXlzMFpNX1VYSVdsdE9VUnpGdW10N0J0TFhMV0NIT3RIZTNtbUlEUGhibjRqeEJYcEJxNzFVS1BRRWlTb2otVmHSAV9BVV95cUxNMDJFbUNmS0hfREtJQnVjYjkyUGhLR0liMDRodjdfLWJUanRwazJWczdjdmkyV0paY1VYampUMDdSUDAxbUpiNDE4Z3Q4SkhxYXlJWkRpWUVURFUwT0t6bw?oc=5"
         },
         {
             "title": "酷澎個資外洩》拖88天才認錯 砸2億搶救台灣用戶信心",
             "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxQTDNvLTNOSldkZjJFWlJNbU01VXJWWkstNHBFc2FMR1Z6RDZrak1ObGNuakJTYXAyZzNlU1lvMlNqSEFVcHBaWVJvZEhtTzBIalBDNnZha0lFUFpmVU5HakxjM0FDZUJNa3VSbG83S3I2T2hfemR4VHFOQ2tydF9sekJ1UTAwbExoMFFial9fWWt6d3NNLTgtSTdReXlsRktTclZVWDZFdzdrMXJJOE9lc0VGRl9KSEc1WWRHcUZJdXN3aUZmdWctMWJJSC1NZWtKY2lpcXlUcGZmQklDbHZOSDBIdlJtM2lpZWlTS29QWW1PdE84ZmtSS2xrRHd5U0dfQTZOcnNlS0o3eE5hamZ2dVBYUkZsSV9BQjdvamNucUlmZ3FzX3dZS1lkZTRnRDNHcWdILXFnNDY5RVBCeE5tYjRHTG9tY1dTUC1XVHp4YWVqcHpkb0E?oc=5"
         },
         {
-            "title": "賴總統台商團拜「口氣變了」 稱對岸中國大陸",
-            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4wekxUX2pQS3Y3SXRXOC0xVkhOTG5fN1NPS19SQ1FkWFUwSVJNZ3plQWxfY1MxYWRkLVAzM0RpeExjUFBfdVZlcGt0NzFzcnU10gFWQVVfeXFMUEg2UGptZTFWRmc5TWJ2UzA0SnhZRVcxMF9oMU1xb3VZeFhkNlpwbmh4NEFTbzdxT3g1TGJyNEVfbUJTR05yNHg1bWZTQ3pPamVTSWJmUEE?oc=5"
+            "title": "批蔣萬安無菸燈會「累死所有人」！吳欣岱：走3分鐘就該有吸菸區",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBuczJURFo5REJBdE5NYUcyRjBHR0FFZ2hsczZ6Q3lDclR2SjJZcEVwTkJ5UElDcEd0eW93N1V6ZllFbzA0RWlNS3VrY0V3YThOWFU2WVg3bDVsRDZfbmfSAWhBVV95cUxON0NRSXJaT3FVdkppcTlSX1Fyc2ZsMzNUUTJ4VHFkZll2Njh0azE2OWVtVWNYVTh6akFTbkc5aDN5bXJJX1NYYmNMWHpSSjFfN3BUSzhsbTRxXzZOcWFwbW9DSVNic25tVg?oc=5"
         },
         {
-            "title": "大樂透2/24頭獎1億元1注獨得 獎落屏東 百萬大紅包剩140組",
-            "link": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxPMFJHZ2Utb3JDQ1dIQUdqU01IYURTY0F3amNOekZYTUNTbi1fMXlUc1RSb1VxcXdzM0JNclp6WS1VVVFoc1A2c0NZY1E0cmYzMVdCalRDUElMdlJMeVZjWlVET2h5UWFvSERYQ25LNC12OVh3LU9iN2hYTkhaVzFKSHhQSkRiN1F5WE9sUWt4MEFUQ2dxbmFTWWRhSGNxXzJkdnFtWVYtU1BDd1R0OV9yMml2SGNULVFUSjA1MTBsZy1kZDdyUml3MXpkcWw5RFdrdUl1dklrcGRPWGpWNzFHdzBoNk9SQUJMSGpwUnRvSkRQanJraGtCYzA1ZzBaRFJGMllSM2tTQk13RkxGQm5Wc2JWTE1wTGtEZkpLd25veXViUzBFWUdsajhma2hwM0tLR0d0SUVqaF9QQ0pLSmxEMF80SVVkS2pueWN6SThiMVhhNzdCN2M5VjNCZnQ?oc=5"
+            "title": "學測成績公告五標一次看 數A五標均略升、數B表現無預期好",
+            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBDWHdvb3lzZm0zcHJSZEN2cEx1VDFleVpjQlhQaFRZV0hVZnVkNWpkbGFKNTRyM2ZVbWdiXzBPTHFCVnNIdU90d2RYSm1ZZm900gFWQVVfeXFMTUh1ZnVjbDIzSHlaRmN5enJUVlBkMkkwdVJ5MzZfcV9pQzd4cHJEYVR5SU03QloxbnNqa01XRldDbGJUZkpKYW81RjhnOVhUOThPVUhwQ0E?oc=5"
         },
         {
-            "title": "台灣471項輸美 不在122條款豁免清單當中 暫無豁免",
-            "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxQWTd0YlZPVmNvQmp2S0MzYkg4UHVvN2I4RGJPdFJNLTgwTk5BRVVZaGs1SnFpUUtYdUNmNm42N2NpeG1fdEZSa1IzSWU1T1ZGZThUN2N6Y1NVLTZta3M4THI0cmFQWGQtbFBjSDdubWJfMTV2S0pYazRqbnRjX1ROd2pSNFZKcmpBc3E4ZGFXMTh4UnRuTU5CVjUyUDhLc0p6eW5sdTNyY2x1N3RMS2NkZzMxSUUxd2pHLW4zRlRCZHdoU2RqaVNXemh5TmtMeHNEUW04RFJmTjA5dU9QQTBxaTNnNXFFTTBVYmFvRld5VVlWbjl0emZzZE1nVXdWWkhZZnV6cjFXS2hqOVFFdVJ0T09oX2JVbnFyaDRiR3RuU0ZkTVBUd2h4Y09oaVMtM2w3ZVB2YXR2akt5Rnl0MnN1bkJn?oc=5"
+            "title": "駐韓美軍F-16無預警與中國戰機對峙韓媒：司令已致歉- 國際",
+            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBNRG1QcmRiUE5vQnl5WTRIRk1oQjlCNEdvbmNfcy1YVEE3bFhsVTZTUE9IYmh1bFFDOVdYUzY5Q255aXk3VWJPZnNrTmIxbGJ5Wl8yeDRzTHV6OE9XckwzcWZWNUx3dw?oc=5"
+        },
+        {
+            "title": "俄侵烏4周年》聯大決議挺烏克蘭領土完整美國棄權- 國際",
+            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5VUjRHbnFIdHFNQlgwZlRNN0Z4Tjh1Wl9iN0NxWW01M1FZQW1KdksxbmFjLVZKQnBSaS1TblJHNHBtQUZDdC1SWVRmc2RkUTF6UmhVVWlhdGN3NGFQU1ZWWEViQ2dGZw?oc=5"
+        },
+        {
+            "title": "蔣萬安拍板！北市家有12歲以下孩童 爸媽日減1小時工時工資市府補",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBzZXMxdVVCRmJYTFNXWTVpbGQ5WlFhNFlEMHlGMnpid21ZZE9oZ1k2YmNhSFlWbkJ0QlBweUZNY1NyT1FMdE5jTGEwSEpIcVo0V0Uw0gFYQVVfeXFMTUVHNlpYRlM2OEgyLVdfdDlwM3Bmd05VSWlMX29XYmNoVERXR2YwdmxZRFJfX0lEeDBNaVY4S1g0T3ZQcFJGU3dHT2tKZTNXejc4di1aSGpCSQ?oc=5"
+        },
+        {
+            "title": "誣陷徐巧芯組網軍跟拍潑髒水 「無良公關」管理員判刑6月褫奪公權2年",
+            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1maUloZXVXWWo5V0VId01HVWNBUi1hOTUzVzA0QXZST20ycE05aGt0VjVqU1NXRWpjQk1kUWRSa1NpOTI3aHpBLVlwaWlkdHFK0gFWQVVfeXFMTk00blBta1dBT0U3SDJVU1czc1lDa2pSemUweXJBZGRKTWY2NWJNM2VwdzBFTnlKMU4ydmQ2dTlFUmhnTEVRdUZSVGN3RFdJNzA4T0RmMmc?oc=5"
+        },
+        {
+            "title": "十公尺高瑪利歐主燈領軍！2026 台灣燈會 × 超級瑪利歐・星燦嘉年華下週登場",
+            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE53aVRuWE1ubDFIS3lZN0lvSTU2QkFsUzBEZUJsVjhvNHEydGtsbi1RcWk3blB5MnpFVkIzLVk5QU5TOWN1aDQ4VWwwclNVMXl2cW5SZGJ4WjI?oc=5"
+        },
+        {
+            "title": "2026 WBC賽程、WBC轉播！經典賽直播哪裡看？台日大戰3/6開打…台灣隊賽程、先發名單、戶外直播資訊",
+            "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNeU9QMVo0Z1VqUXp0Q0J5M3o0ZUNKQ0FJWFZzcUQ1RjN3NUFCWVpVX0lCOEdrV2ZsRWZBb0loWHhwWGlWUE41MF9nM2d4RGw3RlF5b25KRjh2ZzlweVU0S2tBWm8zZ1gxWjE3VUtENDRlUFZ1c3RaZW9ZVUN1NXlUQQ?oc=5"
         }
     ]
 }
