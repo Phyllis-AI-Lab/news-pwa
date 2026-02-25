@@ -1,46 +1,46 @@
 {
-    "updated_at": "2026-02-25 07:48",
-    "summary": "早安，為您帶來今日上午重點快報。\n\n【政治焦點】\n立法院長韓國瑜以濕紙巾故事，警示藍營黨團恐陷窒息危機，軍購條例若誤判可能四面楚歌；綠營則駁斥「不願落入韓國瑜框架」，強調邀總統國情報告尚未談及具體方式。此外，立委質詢傳出李貞秀二度干擾，陳培瑜更爆料遭威脅「不撤案就繼續擋軍購」。而新北市長選戰，黃國昌坦言若形成三腳督局面，勝算可能不高。川普若祭出關稅條款，對台灣產業的衝擊也引發各方討論。\n\n【國際情勢】\n國際情勢方面，俄羅斯普亭被指錯估戰爭代價，面臨經濟問題加劇與國際聲勢大減的雙重困境。\n\n【社會民生】\n春節期間，阿里山人潮雖翻倍成長，但國旅高昂住宿費卻導致商家業績腰斬，業者感嘆形同「殺雞取卵」。好消息是大樂透頭獎一億元昨日開在屏東，百萬大紅包也尚餘一百四十組。此外，2026台灣燈會將由十公尺高瑪利歐主燈領軍登場，台北燈節也將首創泡泡瑪特與變形金剛雙IP展區。",
+    "updated_at": "2026-02-25 12:29",
+    "summary": "午安，為您帶來今日午間重點快報。\n\n【政治焦點】\n\n總統赴立院報告破局，綠委批傅崐萁一人阻擋。韓國瑜則以濕紙巾覆蓋口鼻的故事，警示藍營黨團恐面臨窒息危機。此外，賴清德總統於台商團拜時，稱對岸為「中國大陸」，引發關注。\n\n【國際情勢】\n\n美軍據傳集結等候川普下令攻打伊朗，但將領透露彈藥短缺、盟國拒挺為致命傷。同時，中國已將20家日本實體列入出口管制名單。\n\n【財經動態】\n\n酷澎個資外洩案，拖延88天後認錯，宣布將投入2億元搶救台灣用戶信心。另一方面，台灣有471項輸美商品，目前暫未獲得122條款豁免。\n\n【社會民生】\n\n民眾黨吳欣岱批評北市無菸燈會規劃，建議應每三分鐘設吸菸區。今日初九天公生，專家提醒民眾九大禁忌別觸犯。大樂透一億元頭獎則由屏東彩券行開出。",
     "news": [
+        {
+            "title": "批北市無菸燈會「累死所有人」 吳欣岱：走3分鐘就要有吸菸區",
+            "link": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxPVW1lcGF0NUh5a3Y1aTVwRVJ1TkRhVFlpM3JsN3NPVmxZYVBaREhFMGV1SkVudEpxN0JzSEFwV21hR1h3aE1fT1RCa2g2M0s1U1Z0UExQbUVpbXp3NFFaWGZ0TUNWNmJPYW1YRE05cUNPeGJ1LXVOWFdMbHZ4bTczcGw2UkNFb09UMjgxc3ptNlJITnV4YmFoekFlNGRnN2pYcXUyVkVlaTV4RGg4UnlYY3BGY1Z0V2o3YTFBaFNpYnlVbUtYckt6NVFRT3R3dU9SenlONmpUYTU4bXJPZVRfamktWi1nMU11SXlybFpvSkVpM0k0c3JsVmZ2RW5aYWZZcmpHeXZtdE4zbUJJT081MjZ5c3JqMHNTbnlqSkdSRElJaVExZ19PWkJkVkxRU2FYdjYzMUU4XzNuTUFnOGIteTdtZ3ZWTDh2a0t2YVJoM2lZYXNrRWt0NWhsVWZUR0Nnc094dTh3U1dSWDlMYkFwbFNXa3J3SHJ0?oc=5"
+        },
         {
             "title": "韓國瑜舉濕紙覆蓋口鼻故事喻藍黨團有窒息危機 軍購條例誤判恐四面楚歌",
             "link": "https://news.google.com/rss/articles/CBMi1ANBVV95cUxOd200MU0ycm9sWlY4aU5Qa19yYV9zQ1BpX292R3J5d1RiUGxqaFl1YmJyYU1GVXdIVl9qZUxKLXJIUk83blBGV0tLOW9ZWlhlNm11eEJSY01CbDZyNHAzb0ZJRmVPVVJCQzFYTXZ4RU5uVkpiN3JHb0NFNkRKOXFtVTBYQ2dVN09IcHlZQnFzSjV0Y3RBZXk3d1lBa19hMXFsbmp5SnpldTVlb0tGMGJ6N0NFcHh4OHRPa19jU2x2d2hubno2dksycHZyV09wdlNPN1RQS3AtMV9NeW9Tc2dHYzhhRDBYbzU5cE9PMEY0bTd5Mm5pMW4yRGNGdzZPQlJXRFEzUWhlRGY4V2VhTTJkTmhnLTY2SFlnNThBT3ZuRS1MaFRSc0dEUERxaHJpSG9PTkpoZTVaME1RVjV4MlY5NUtUOUM0MElrNmJDb05QbmdlOHE0Y2tjREtZMEhqUXI5Y0M5ZGl4OUthMnBLdUdtbUtJWVhaMHZydXdjRkdjMlAtWHRlV1pKTGtYbGZuLTVxbUNSLU5KOFVxNzF3eUo1Z1NzNEd0VnVza2VjSllIT0VSY1RFREppajN5RUcyX0tKOUdONDVVdE9HVXFRSTBja3BZMkg?oc=5"
         },
         {
-            "title": "「不願落入韓國瑜框架」綠黨團駁斥：韓邀總統國情報告應沒談到具體方式| 政治",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5HZ040SDUtWFhRanFfMDNGZlc0eEV1QnFnNFdpNU9lOERrSTZDWnp3UkNZUkt1VDdPc3dzbWpmcDRZNVV5VzNjNXdxOGE2UjV6TkZGdk5RMXVRWU0?oc=5"
+            "title": "總統赴立院報告破局！綠委批傅崐萁一人擋謝韓國瑜助安排- 政治",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE12YkF2RWJFNzQxWGt4TGZxdTVTOFdVcTVPQXJFT1JMcGpTVmJ0ODBRZk9qSXBvZ0o1b1pzNkUtOVRLR2t1WEQ0T3FPM2VCbjBfVlE4TG9XaHNCaUhTUXJqbzdVcUtMRDlTWlE?oc=5"
         },
         {
-            "title": "經濟問題加劇、國際聲勢大減 普亭錯估戰爭代價",
-            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9FYTZ1dzhuOUNEbDItWXlLZDhhLVpjM1pqa3MwY2Z1TUdaVlZPQXZCQnJoWVZIcXFyQVktQjY4QS12YVZkLU5XM3lxYkVtYXYy0gFWQVVfeXFMTml3aFB4WHVzMU9FeERmUEdrM2V0akd2Q1pVNVcwVTRIbmJpN3JlbVpCeE5Dc0JGVWhZWUVDcmZFUTJDanpXUE5Jc2pVMmo5U3ZCTmpGT1E?oc=5"
+            "title": "初九天公生！9大禁忌別觸犯 違反恐「窮一年」",
+            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBKb0t3TjZaUk9CMENPOUc3NlNBazZnb0duT2NoWjd2R3I5ckptYUR3bjBLVEhBbTZlSVk1U08xMjVELUdhUVVOTHNTRTVqdUF3ZDlZQw?oc=5"
         },
         {
-            "title": "談新北市長選戰 黃國昌坦言：若淪三腳督局面「我可能不會上」",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1EYkd0NU5tNGdrbnhLejNwcEtLdmtZV3g4OGxmQkliNloxM3A0UGVTeXU3UUJncjQ4bkV6NlRMTzN2TVN4c3dYTnJMSVFnSTBwZWNoQlBGNDl1c2c?oc=5"
+            "title": "美軍集結等川普下令攻伊朗！將領揭2大致命傷：彈藥短缺、盟國拒挺",
+            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8wVDBveTZjZE5KY19jN0lfcmRaVUJWRFY0UGt3ZnVncHBQTW5iblFVX29mdW51RGtuRUY4NGd1Y2pBNnNYWXhKcy0wOXkzekxuMTVsb1FhT3jSAV9BVV95cUxOOXNLZWpRZmpJX1dueC1MLWFUVHhLdFRFdXVwWVJpdXlxeTVfdDFNYURRb3hQNVc2bkd0ZTVNS0dUZEJXMWtVWTY2R1JlV3hJbElQbS1BcDY4bmFHbGVOUQ?oc=5"
         },
         {
-            "title": "阿里山春節人潮翻倍成長…商家業績反腰斬 嘆國旅高住宿費殺雞取卵",
-            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA2VWdkYm9kUjlTZGJ3akFHdVpLb2xlMHJ3aVlnVnItVVBKQWFyXzhLWHJ1YTJnZ3VRbzdYZXNESzlCSU0tVGNBak9GZm9pdFdT0gFWQVVfeXFMTkZSaTVzdGpYNUZBRzYxeUVqNVhscUFjYjNDUVltSTBFcnFtV2lmYl93RzEzV0J0LVBERDNOeVZRbzhBa1pwbzdFMUpFN0VUNVN1SlBwNWc?oc=5"
+            "title": "中國將20家日本實體列入出口管制管控名單",
+            "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTVBMWXY2Qy1VSWdCWlRheWJfWW93V0tiWEhfRDFJNVQ1TlUza0xnZjdsRjQ2QmN5Z2RVZzhiVHNNMXJXMk15dHpORjBGT3V1NjZZcS13ekVtMTVyRXZsZnd2X2U0elZmRWpKcFVUVWpPRVJQTTk3RDZ0Zm5VUXZ0LWJpeXFZT082N1pHOA?oc=5"
         },
         {
-            "title": "李貞秀2度干擾質詢！陳培瑜曝：被威脅「不撤李的案子就繼續擋軍購」",
-            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1wVzNqaHAyeHRZZFlCUWQ1RWttMUVPMjlNeXRobmpqMmw5MTRQb3VtNm5IUkVmbEI0dmNtd293d1JrLTVLVlVvakRIUUxPZHJISTBvcDlMTzbSAV9BVV95cUxNSmQ4dFp5ekdrYVFrQmV0c1RXVWNzYUtpekxRSGpvTExiQm5sakpLTG85WXF3VVAyNWJPTXh4RVFpUDYwYkdseXE4U0RCN3hDVjMzeXczNHhvRlFoOVZpQQ?oc=5"
+            "title": "酷澎個資外洩》拖88天才認錯 砸2億搶救台灣用戶信心",
+            "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxQTDNvLTNOSldkZjJFWlJNbU01VXJWWkstNHBFc2FMR1Z6RDZrak1ObGNuakJTYXAyZzNlU1lvMlNqSEFVcHBaWVJvZEhtTzBIalBDNnZha0lFUFpmVU5HakxjM0FDZUJNa3VSbG83S3I2T2hfemR4VHFOQ2tydF9sekJ1UTAwbExoMFFial9fWWt6d3NNLTgtSTdReXlsRktTclZVWDZFdzdrMXJJOE9lc0VGRl9KSEc1WWRHcUZJdXN3aUZmdWctMWJJSC1NZWtKY2lpcXlUcGZmQklDbHZOSDBIdlJtM2lpZWlTS29QWW1PdE84ZmtSS2xrRHd5U0dfQTZOcnNlS0o3eE5hamZ2dVBYUkZsSV9BQjdvamNucUlmZ3FzX3dZS1lkZTRnRDNHcWdILXFnNDY5RVBCeE5tYjRHTG9tY1dTUC1XVHp4YWVqcHpkb0E?oc=5"
+        },
+        {
+            "title": "賴總統台商團拜「口氣變了」 稱對岸中國大陸",
+            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4wekxUX2pQS3Y3SXRXOC0xVkhOTG5fN1NPS19SQ1FkWFUwSVJNZ3plQWxfY1MxYWRkLVAzM0RpeExjUFBfdVZlcGt0NzFzcnU10gFWQVVfeXFMUEg2UGptZTFWRmc5TWJ2UzA0SnhZRVcxMF9oMU1xb3VZeFhkNlpwbmh4NEFTbzdxT3g1TGJyNEVfbUJTR05yNHg1bWZTQ3pPamVTSWJmUEE?oc=5"
         },
         {
             "title": "大樂透2/24頭獎1億元1注獨得 獎落屏東 百萬大紅包剩140組",
             "link": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxPMFJHZ2Utb3JDQ1dIQUdqU01IYURTY0F3amNOekZYTUNTbi1fMXlUc1RSb1VxcXdzM0JNclp6WS1VVVFoc1A2c0NZY1E0cmYzMVdCalRDUElMdlJMeVZjWlVET2h5UWFvSERYQ25LNC12OVh3LU9iN2hYTkhaVzFKSHhQSkRiN1F5WE9sUWt4MEFUQ2dxbmFTWWRhSGNxXzJkdnFtWVYtU1BDd1R0OV9yMml2SGNULVFUSjA1MTBsZy1kZDdyUml3MXpkcWw5RFdrdUl1dklrcGRPWGpWNzFHdzBoNk9SQUJMSGpwUnRvSkRQanJraGtCYzA1ZzBaRFJGMllSM2tTQk13RkxGQm5Wc2JWTE1wTGtEZkpLd25veXViUzBFWUdsajhma2hwM0tLR0d0SUVqaF9QQ0pLSmxEMF80SVVkS2pueWN6SThiMVhhNzdCN2M5VjNCZnQ?oc=5"
         },
         {
-            "title": "十公尺高瑪利歐主燈領軍！2026 台灣燈會 × 超級瑪利歐・星燦嘉年華下週登場",
-            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE53aVRuWE1ubDFIS3lZN0lvSTU2QkFsUzBEZUJsVjhvNHEydGtsbi1RcWk3blB5MnpFVkIzLVk5QU5TOWN1aDQ4VWwwclNVMXl2cW5SZGJ4WjI?oc=5"
-        },
-        {
-            "title": "川普祭232與122條款關稅衝擊台灣？張育萌：幾家歡樂幾家愁- 政治",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE16QXpXNmlTTm55S3U0N3VkaW5jUTMzejQ5cEFITnFScVo3a2xodER6d2ZsQXg0Y1Y0LTQzeEZCU0cxX012a083Y2FpODA4NGZWSlZMWFJwbnNyZmVJOWx5b3FNTHpDWHZydkE?oc=5"
-        },
-        {
-            "title": "2026台北燈節首創「雙IP、雙展區」！泡泡瑪特＋變形金剛燈區地圖、柯博文小提燈領取資訊",
-            "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNR1hyRUc5eVRJUE1BSkQ2SDBHTXVCMzA1Vko2d2lWRzdoUGJwUFh4T09mNHdnRC1id0NZRk9SZS1lQ2V3TDY5THpTU25IbTN1SExhWUhJZ19qWTktaDNRb3R1WHE4dTgtWS0ybUduYkdxai1GamI5QldPR05WeWJPR0tjeGdqNXdCV3JB?oc=5"
+            "title": "台灣471項輸美 不在122條款豁免清單當中 暫無豁免",
+            "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxQWTd0YlZPVmNvQmp2S0MzYkg4UHVvN2I4RGJPdFJNLTgwTk5BRVVZaGs1SnFpUUtYdUNmNm42N2NpeG1fdEZSa1IzSWU1T1ZGZThUN2N6Y1NVLTZta3M4THI0cmFQWGQtbFBjSDdubWJfMTV2S0pYazRqbnRjX1ROd2pSNFZKcmpBc3E4ZGFXMTh4UnRuTU5CVjUyUDhLc0p6eW5sdTNyY2x1N3RMS2NkZzMxSUUxd2pHLW4zRlRCZHdoU2RqaVNXemh5TmtMeHNEUW04RFJmTjA5dU9QQTBxaTNnNXFFTTBVYmFvRld5VVlWbjl0emZzZE1nVXdWWkhZZnV6cjFXS2hqOVFFdVJ0T09oX2JVbnFyaDRiR3RuU0ZkTVBUd2h4Y09oaVMtM2w3ZVB2YXR2akt5Rnl0MnN1bkJn?oc=5"
         }
     ]
 }
