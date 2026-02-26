@@ -1,46 +1,46 @@
 {
-    "updated_at": "2026-02-26 12:25",
-    "summary": "午安，為您帶來今日午間重點快報。\n\n【政治焦點】\n針對總統賴清德國情報告方式，朝野仍無共識。立法院長蔡其昌直指，國民黨傅崐萁要求即問即答的意見，連同韓國瑜都認為違憲。而綠委歡送柯建銘合照，則引發藍青年軍「大罷免」諷刺。藝人賈永婕自稱台灣人第一代，也掀起背後政治算計的討論。\n\n【國際情勢】\n輝達公司上季財報表現驚人，營收飆升七成三，其中資料中心業務貢獻逾九成獲利，獲利幾乎翻倍，盤後股價應聲大漲。\n\n【社會民生】\n釀非洲豬瘟大禍，87歲豬農喊冤，其子也接續羈押。台中天價拖吊公司大門深鎖，市府突襲撲空。學測放榜，台南一中七成學子衝上全國前標，數B、英文表現搶眼。全球最佳醫院台灣共有35家上榜，台大、北榮分數曝光。通訊軟體LINE也宣布將取消一項實用功能，請用戶留意。達美樂則搭上2026 WBC熱潮，加碼推新品披薩。",
+    "updated_at": "2026-02-26 17:07",
+    "summary": "午安，為您帶來今日午間重點快報。\n\n【政治焦點】\n柯文哲針對陸配參政權議題，向準閣揆卓榮泰喊話，表示若卓榮泰敢明講，他將會讓民進黨立委候選人李貞秀下來。另有獨家民調顯示，綠營蘇巧慧支持度首度逆轉，小琉球惡霸案重傷李四川的選情。\n\n【國際與兩岸】\n美國貿易代表戴琪表示，對中國關稅將維持在百分之三十五至百分之五十，預計全球關稅平均將升至百分之十五。警訊指出，共機二十二架次闖越海峽中線，並越飛越近，國軍正以岸置飛彈嚴密監控。\n\n【社會安全】\n新北市北大捷運站前驚傳暴力事件，一名男子持刀砍傷前同事，並用腳踹臉後遭到逮捕。\n\n【民生快訊】\n228連假天氣預報，今晚起鋒面逐漸接近，全台各地降雨機率將逐漸增加。另外，高雄市開出今彩539頭獎八百萬元，中獎人僅剩五天可領獎，請把握時間。台灣共有三十五家醫院榮登二零二六全球最佳醫院榜單，台大與北榮分數也隨之曝光。賴總統最新財產申報則顯示，存款及債務大減，並新購千萬日幣基金。",
     "news": [
         {
-            "title": "邀賴清德國情報告無共識！蔡其昌：傅崐萁的意見「我跟韓國瑜認為違憲」",
-            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE90NzU1RnhhUC1sdlpNb0EycXlzMFpNX1VYSVdsdE9VUnpGdW10N0J0TFhMV0NIT3RIZTNtbUlEUGhibjRqeEJYcEJxNzFVS1BRRWlTb2otVmHSAV9BVV95cUxNMDJFbUNmS0hfREtJQnVjYjkyUGhLR0liMDRodjdfLWJUanRwazJWczdjdmkyV0paY1VYampUMDdSUDAxbUpiNDE4Z3Q4SkhxYXlJWkRpWUVURFUwT0t6bw?oc=5"
+            "title": "美貿易代表：中國關稅維持35％至50％ 全球關稅將升至15％",
+            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ldFc5QkxLZHkzbVFWbDMwTXhNeU1EOW90anE5RFdEN2FXRWVXMGhySVFXSnZkeWlWd0hjbGtMZmRKd3BScFQzc3lpdHRaaXJHLWVfRTNyblBybjN0akp3?oc=5"
         },
         {
-            "title": "快訊／天價拖吊公司在台中 大門深鎖！市府突襲撲空",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB0VEoyZXNrZVhkSjlQYmdUcHZHS29zOTVIUk0yZi1fTzJ5UXZQbXVJVFY1bE5qV1VnUWlMS0NYMTlwX0Z1Wm1rSkNaNGdLcm5fRjBDWGZR?oc=5"
+            "title": "228連假天氣一次看！今晚鋒面逐漸接近 各地降雨機率漸增",
+            "link": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxOUE43a29GdmdqVHFQWWRybzUzWHdUWU5ZcHBSVHRicjd4bER3RVFEZTdTdEFvWGJIalVlOWRVdzZFMTRSZE9nM2I5azlDWW1scG96akJYcHNsYlItYXJidmdmVHBpM3V0STdkSU5aVGdzdzEwcEtCdlVPUmg5cm1rQURENjB1V1ZaVDhhVVJwWS1QaHpUbUQ1Mmg1RW96Z01SQXA2Vk1zdENCS2REY3c0WGJOeXIyeS1CaXRPdHNDSXRWSG1xYXJObGdaLUw5MUZvZVNqQm1Lcm1JOUpRZWE1akg3UVEwTHFfNk96MUh0bTNvajd5OTN6MTZXV3ExQ1VPeVBSajczelJYVFQycUR1VkpPVTVEWGFuUzdsN1pCUFdUaHVUNW1WR2hTdVR1YVg2WUZ5TS0tZ0o5elJ2TDE1eEhZMDFzMmQwQWRpNnN3WDNycHQ2aVZLcnZmRy1mTm9hVl9fTmxjSjQ5WS0zcFdsQ2E3aTVCN1Q0?oc=5"
         },
         {
-            "title": "學測放榜！台南一中7成衝上全國前標數B、英文表現最搶眼- 生活",
-            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1VUFQ3MnhqWkFkREJUNktoYWRnbHI5NWt4MFFpU0w0VkdiTjduYmdJcFZoTkpvWjZkVExvMVBqMUN5TEhyaHRGLTJaTUtaRDRlajctM1pIcFQzb09lTWV3NVoxUFI?oc=5"
+            "title": "柯文哲：卓榮泰敢明講陸配拿到身分證也沒參政權 我們就讓李貞秀下來",
+            "link": "https://news.google.com/rss/articles/CBMiyANBVV95cUxOLWR6X091WXlIcDlPVkNvZHlRSnNqZm9yaDYydko0MGx1bTRyMlp6NXlibFJ1S1Q3UERHcGYxUWxVRmRWczRTRkk0VUEzaTNNakdiQ2M1enhzMEUxM0ItU2ZHTC1sajVLUmFEcGNGS3dYM2lQOFRNRDVCMUV3Zm1BUkZyNHJJS1NyNHdLTFVVNGNxS0Q0ZU1zaG52eUVhb3ZwdU1abjNLcE1ta0JSTkpFYTNaOGZ4Q05PV1Z3aV9WR1Q3UzFOTFd1SS14UWg5OUR5RUphVnptNlFtaWdlSnpQZEF5anVqQWRXSUNTc3lBVXdRTkhZc25ZQ0VjSFUtZHh6MHdMc1ZwLVpWU1JMdTZCTVZNcTJfNXQwa1VsVVJMa0VrS2JrRnRXeW1YQl9oS29yVXFCbmpyMW9BUjQ0QU5uZVgyS2J6YVd6ckx4dmtXaTJNcUpldDByV05lbXA0bVQ5TTM3SFQ5OEJSV3JGOXU5M29XOWRvQ0JkcG1HTlFycGdmc0Z6TmZ6dmhRUDVwSlJtb2FZem5DdlozQzFESVRTTXEyZzZXM1BOWGxLVmJVMUI1dTNQMG5HcGZlTGJYM0hUeElXbHVwSTg?oc=5"
         },
         {
-            "title": "輝達上季營收飆升73％ 資料中心貢獻逾9成獲利幾翻倍盤後股漲- 國際",
-            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBGTnc2c1VlYXdic0x6eWIwZFd1c2ljb0JIUVlFWHVvdWRoZDB2dTRDS3Z6TVkzMWtweVc1elAweUx1V2xQbjNjODJla1FnemxzZXFIOWNHUmNPbzR5RE9V?oc=5"
+            "title": "新／北大捷運站前 男持刀砍前同事、用腳踹臉落網",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9tMUk4M1lTc000ZTF4T3MzdU5DWENfUVdGSHRnMUdTalVfR3dFS0RkZkp1clE3R2w5ZlhRUVd5OUdBVzR6ZkZLSmR0ZkF0MTNLYm9mSWNn?oc=5"
         },
         {
-            "title": "釀非洲豬瘟大禍！87歲豬農喊冤：要把我關到死？兒子接續羈押",
-            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9vWlFtNktRWXM0dnVCLVhrZkRIN2lPVGthR3pKMHpFNVlPd2RXWnd6WGhObTRsemFzLXhnY0hXU2VWblp6NWF6MElIXzRaUnB4dXl2R0wwZko4VlE2UXfSAWhBVV95cUxNOFlCYko4QVVHYnI3TEMwU0duS18wN1MwZGV4QVR6d1UwckVnQTUzdW8tYmgtQmJ1N1p6c0xsZ2YwT1JONnFleDA3elBHdnR6UDRlc2ROLWNqTVR6UTE1c1YxMzdVX1E3Rg?oc=5"
+            "title": "獨／綠營民調蘇巧慧支持度43.7%首逆轉　小琉球惡霸案重傷李四川",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA0Vjh0SS1xOTg5U2hlVGMyVU93VkZ2aTgxa1lZUHA5RjZMcG9URW5jbkZBVlRZR3BoSG5VdVp4b2xxUDM2R1pPTVh2XzJzaXRWXzJIVWVDUlV0NEpLM3fSAWhBVV95cUxOVmZsZGZFWlozemVrc3VsTmIwS3ItRkhrTFdxYWcwbTlfVHc3TEZvbTRVRE9SR1R2d1RTZ3RfbVQyU3ZpMS1UQnhEU3FrbnpEWVo0TDNBX25GQ0VKRTB1aU00XzI2cUVTVw?oc=5"
         },
         {
-            "title": "綠委「歡送柯建銘合照」溫馨？藍青年軍：大罷免32：1",
-            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBsbFZaQ2pScUo0c09URGUwcHJBVDQ1aERkbzY0SzFuQnNBZGtmUDduV3NndWNybjM5bTZvc0VZa0Rzem5kaWJISy01VUpQb0RJYUI3d0p6QXZrN2NfZUlOSUpJWFVsa1BqODN0WkJR?oc=5"
+            "title": "警訊！共機22架次闖海峽中線「越飛越近」　國軍岸置飛彈監控",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBXTUM2UkVubkVpOVhpTy1Pek9RVVFYNllqT3VSRHVwSEZYcmlibUpKZnRJdHZ0cTBHMlBwb3hSeUhEZGZVM1JpdW5neXMxa2Vfbkx4UjNzd2o3OVXSAWBBVV95cUxQVkNSNFR2c2VXdldJS0JsT2MxU2NaOTJVQjBYYXlHLUlqTDVKdk9CY1Y3ZjVEVWJzdVkyT1kxMTRiUDRlSnRvaEQ2WE1PTmhkUUh6UVRlZmdJdjdGS1A1SEo?oc=5"
         },
         {
-            "title": "外省賈永婕自稱台灣人第一代粉專揭隱藏背後政治算計- 政治",
-            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9uaGJQNm1tLTFqcE1yUG40aE5OQVRsOGdXb3dab2M2OG9RVTUxbnZkR0VkNkgyYURMQS16Ty1ERW5pMmdJTFBnNlI1YnZyZnV2UEFRcXBibXlzSklZYnNHRm83REVCbDk5WWtFR19B?oc=5"
+            "title": "僅剩5天！ 高市開出「今彩539」頭獎800萬 急尋中獎人",
+            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9paTlkTWNxdGx5Y0Q5S1lkRms5aksyX1lwYVZ0a2VHTjNydzEyV0ZHWG5PN0dLUWlGZXk5a20tN3RZTXpIY0Z1QjdpVm11OFdlTTJTRQ?oc=5"
         },
         {
-            "title": "2026 WBC／達美樂「骰到6」重出江湖！　加碼新品：吃爆4強披薩",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxdlFPTXBOdTlXdzBrOFJUZGtKclJwX1VqTEpTdnAzakZ3WEFLY0hPdjZ6UVl1YTJGS05tc1lJTk5KRlRMcDQ2SDBZd1I0YlVpQjVPeklRS0xsNm_SAWBBVV95cUxPbm4yc2JydXcwR2M5YUgyMC1QX0k1TkkzMmFxNi1yTE1wX0Rvc0xiV0JfaXJBZm83azI0Z3hrTW5WNDAxZHhQblprajVKTFlmcWhVd1FUckFzaUZDU0RmWkc?oc=5"
+            "title": "賴總統存款及債務大減 新購日幣基金破千萬",
+            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5iT3JteV9FZkpPYkR2RjRYNWFjYjFWV0hHNVg2V1NzZnVWLXBLZGFYcE54aTVQc2hVRHo3ckVSQjVhWjlWbE5vQzVMa2tHOW8x0gFWQVVfeXFMTXpmOTBMRDYwbkRpVzhBVmJpb0FiNk1vRTFyT2Ytc2s2ZTc2Z1p0NGtNLXpFc1NfZUNoWjN2djhFWmlzQ2dMZlE0WXNyRjJSbGEwZkNfdVE?oc=5"
         },
         {
             "title": "2026全球最佳醫院 台灣上榜醫院35家名單一次看 台大北榮分數曝光",
             "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5uOHZEaUVQQ3pXRWtRdUN2MEl3ajJOMWY1VUV0eEFlNFhnSTV1dXNBaWZFdlJUQ0hacEFzNkJ6YnEwSnF0NkIxTmtfMmRsUk9H0gFWQVVfeXFMT2k5WldpaF81Zi1TbmRRSzFmemdEQ252NkFBQW9BZnZOZWJJVEJ5SWJKN09SOXNVbnV1dGtfMjFKRzdWeGFiRnJka0tkLTkzMTVUQVUzNWc?oc=5"
         },
         {
-            "title": "LINE重大宣布！將取消1實用功能 實施日期曝",
-            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9aNXUyZEQ1THFMYUJKZDVldXR0a1BOYkl2ajNtSDJ3by14d1g4ZmpuaWplSW1FbG9ZY3JscFd5SDA3MHpmRjRvekJ0b0tnMExkWkg1Mg?oc=5"
+            "title": "他學測成績超極端「成M字型」 萬人笑生錯時代：建議考科舉",
+            "link": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxQYWNteGFaUDJXWEtXbmg3bVZfTWM3ZG5TeC12VS1NcjFxX0tlSkU0ME8zZk1UV2VESXQxd2tQVmJCcmM1bXpvQ29mUHFqWUs2T1I0VzVqZUY0cXprRU9GVVFYR1BMa2FEYVNfS0swcUVab3RFQlV3SHpuclpUTV9BTkN5VVpINE9TejczUG5sVElCazkwbm1YeG13X09ZVWl1TW9FWmhoUi01Z3lmdzlFNWN0OVpKX1c0dzVYalAxRmNuUDJ6S25UZmZNM0sxcG5kX2dpYUxMUmZxZzd4NEJHNWdmLVEtWm9fLThnUm5oR0NFWXIyZUpWS3psdnBSLUdZWFlTZ09nR1o1T3l6TktrVUxmd0ppdlJhVElvdld4bjFONG9lWlMyNWQzdnhKdlpHRE5IUko4U1NlVWNld3EtbE96TC1RS1ZoYzVjeFJMNFJ4M0w3dk5HUWN2U0hRMmhRNzdDT0pwaFBFaEdu?oc=5"
         }
     ]
 }
