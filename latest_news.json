@@ -1,46 +1,46 @@
 {
-    "updated_at": "2026-02-27 19:47",
-    "summary": "晚安，為您帶來今日晚間重點快報。\n\n【政治焦點】\n\n傳出民進黨前立委劉世芳涉嫌收受陸企高管外甥的政治獻金，中國國台辦表示將依法依規查處此案。國內政壇對軍購議題討論熱烈，資深媒體人劉寶傑直言，韓國瑜意識到國民黨當前困境，若阻擋軍購將威脅台灣生存。盧秀燕市長訪美前夕也特別與藍委會談軍購事宜，盼能避免台灣被貼上「美國敵人」的標籤。此外，鄭南榕女兒則在228遊行前夕呼籲追求和平，同時強調台灣主權不容妥協。\n\n【國際情勢】\n\n中東局勢持續升溫，衛星影像顯示，美軍11架F-22猛禽戰機已進駐以色列，傳出美國要求以色列對伊朗開「第一槍」，引發國際高度關注。\n\n【社會民生】\n\n連假首日國道交通嚴重壅塞，多處路段出現紫爆，上午更發生逾30起事故，影響車流甚鉅。衛福部證實一名42歲男子確診麻疹，其足跡橫跨北部商圈及捷運，官方已公布完整足跡，提醒民眾提高警覺。樂透方面，大樂透頭獎摃龜，但春節大紅包仍開出21組。賞櫻好消息，武陵農場櫻花盛開如粉紅地毯，空拍畫面呈現超壯觀景象。而近期引發關注的政治人物周邊新聞，四叉貓爆料一間「惡霸弟暴力公司」地址，台北市副市長李四川則澄清該地址不在其家族持分土地上。",
+    "updated_at": "2026-02-28 07:41",
+    "summary": "早安，為您帶來今日上午重點快報。\n\n【國際情勢】\n美國對伊朗的軍事部署大幅升級，據傳已向以色列釋出開戰訊號，更有11架F-22猛禽戰機進駐以色列，衛星畫面曝光超大規模部署。而中東之外，巴基斯坦與阿富汗關係也陷入緊張，巴方已宣布進入「公開戰爭」狀態，路透社分析背後有兩大主要原因。\n\n【政治焦點】\n國內政壇方面，立法院審議軍購預算案出現重大變化。國民黨立委鄭麗文提案成功，使原規劃的八千億元軍購案大幅縮水至三千五百億元，引發綠營立委遺憾，認為此舉應尊重專業評估。此外，鄭麗文委員先前就228事件的口誤，將其解釋為「殖民者國家暴力濫用」，也持續受到關注。另外，一名藍營立委被媒體抓包，一面唱衰台積電，卻私下大買該公司股票，其回應引發輿論熱議。\n\n【社會民生】\n連假首日，全國國道多處路段出現「紫爆」壅塞情況，上午已發生數十起事故，影響交通順暢。彩券方面，大樂透與威力彩已開獎，共送出45組百萬春節紅包，同時也有一位幸運兒僅花200元就抱走750萬元的頭獎。藝文活動方面，新北平溪天燈節吸引了萬頭攢動的遊客，三巨型「福馬天燈」照亮了山城夜空。而備受期待的台灣燈會將於3月3日正式開燈，高鐵也加開了81班次，相關預售時間已曝光，提醒民眾及早規劃。",
     "news": [
-        {
-            "title": "傳劉世芳接受陸企高管外甥政治獻金 陸國台辦：正依法依規查處",
-            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9OZG01Vm1FSW9xWFpTeHVZSGpEN0tBenhoUzg1NUtBR2l6alRETnhQNkRhT0UyM0xjNzlFTXZRbmZlNXBKVEV3Y0xtZndmV1Fz0gFWQVVfeXFMUE5IV1lXUlhoa2pHM0tDTkhfakRESW55SjVHYXNNNldCSkowbDVFb3JRQlhSUzRNNUYxSTdCeEtVVERLTEFBbGZWelAzcGtDVWRhdVpPc2c?oc=5"
-        },
         {
             "title": "傳美要以色列開「第一槍」! 11架F-22猛禽進駐以衛星曝光超大規模對伊部署| 國際",
             "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1DQ1hlWWZVRTFxVnRBMm0tcjVwX1hSanRLM1ZZUEF0ZDdyWWJrNEdkeTlQYnY4MkVVdFFxQWl3aGF0N3ZBYUM2Mk9KVHFyVC1wQXlKTHZRY0ZYODA?oc=5"
         },
         {
-            "title": "劉寶傑直言：韓國瑜看到國民黨悲慘危機　擋軍購、關稅威脅台灣生存",
-            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1sRW1VNlhhb1pTb3lKN1E5dGlvM1BoYTYxQlplMC11RUh5S0lnYnN1QTQxLTA4eHZ6SlpJcXFBSU9PVmVEd1plMG1GZlJSVW5WMndqN2FBckRVWF82cVHSAWhBVV95cUxOVFJfam9rVHlYT3pYMGVMX3ZDTXNjOVp5THFIVHl4TmJYSEl1ZDlSNkNqNUkwdmRiNkNxVlBMMEhnT3dXZUpKODFBU2ZZOHBWWWw2c2dtcm5Bc1hzR0toYmVNTFpFeWdkSw?oc=5"
+            "title": "大樂透、威力彩2/26開獎了！春節紅包送45組百萬中獎彩券行一覽| 生活",
+            "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9hbkIxMlpZNnNYUlFnZlhSSVJOc0VsNXlRckkwOGppc2VZVlAyQUJNNE1uMEJoUEtqbmxBaHdCOThuMVBCM3g1NUdWRGc?oc=5"
+        },
+        {
+            "title": "巴基斯坦宣布與阿富汗「公開戰爭」 路透：衝突背後有2大原因",
+            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9sOGthejRpZ1p4cEZzU3pHYVZ6amJ6cDFBd29aLXVaX2NGcUpqWjRyVnRuVWVVcmR3MjFncWpnSDl4UmtYeHNlOW9hLW9Ua0hqNl9MLUkwSEV3dXdUeUgzekRhZU1pd9IBa0FVX3lxTE5OWk81UnRBQWZXcU53N1VFQWRqb3JiSF9nX1VPYXp3N2c5ZWNjaHB0bHlWVmg5a25kbFF5bktIZ3h3QmVINmNFNWtOamhTb28td3pLVUF3bC1TaUdScHo4TkpGWThUaTRXRVpJ?oc=5"
+        },
+        {
+            "title": "鄭麗文贏了！藍版軍購縮水「8千億變3500億」　綠委遺憾：應尊重專業",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1wUy16bGk5RWtzajFjQjZIWmdaQk1obC0tNks5QnZackVvaUstbkZ1czVIeFk2eVRERklmTlBtd210X2NUeWlnU1MwS3ZSRzg5aWt2MWNjaGRRc3BYbkHSAWhBVV95cUxQRE9RR2VMM3ZzeFdtZGJqYXBnWmJaNzNGaHBSeEptN0o4OFNiS1dUZ0RLNGR6Rnl0c3lwWUNvM3FDaW5SOS12YkhENVA4cElfUlpXaEFDUjB3NFduZ0o5RWQ1emNxR21MMA?oc=5"
+        },
+        {
+            "title": "口誤！國民黨殖民台灣？ 鄭麗文：228來自「殖民者國家暴力濫用」",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBES2g4WVp1eng2VmJ5eHk0a3ByczZVNXpOQ041QWZRRVZ4TUlxeGFiWjhQLTczYUhFWVdqR3l2bDFaWjQ1TXlZaUVranZWbEFfUDFGZW1GMEUzbTA?oc=5"
         },
         {
             "title": "連假首日國道多處「紫爆」！上午30起事故影響車流",
             "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBzakhTTFpSdGx6RGJrRzhRcjZMa043U0tsQnlFZ0gtMWZZaWp3S2hBOXA5RDl5Z0NaMk0zM2t1U0dMNkt3N0ctRUZrc3YxYjZDVlRNcA?oc=5"
         },
         {
-            "title": "大樂透頭獎摃龜 春節大紅包開出21組",
-            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9qR0pieWRPUFg0eUJ3c1VIMjNJcHl1bVNJN01GZllWVlNHZGNvQXN0Y0c3bm9sRWNlcXFxSUF0S1ZCc0xDYnhQZ05MOEtkWDhTZzh6VG8zN0d6SWZWaldn?oc=5"
+            "title": "新北平溪天燈節萬頭攢動 3巨型「福馬天燈」照亮山城夜空",
+            "link": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxONFpHTFM5dHp1b1YxZ2NlQmo3ZV82Mll2SXlmZDE2Sk5xMUdhVEI3NXhIbHg4UkVVcE1GQkFYNGQ3SmpZZldJOFc2ZTZrXy1wMnB5MDd6bHEzNXZNWVFmNkNVRFVOQll6d0VzTDF3d3BvTU9keE9CcnZiR2JZdHhSUjNUb3ZsdGlqb1VlbFBMNEFTNk82djZ1SHdWZWxybzJrSW90X2xDSnZFS1hjUTVqWlJqS0poeTkwdkhNRUlkcUF1QjhpUGFUVVprVDJXQ0Z6TGZqMEZKZktiSUc0T0FGaV9lREVwbUF4WG5FdnJpakVWTnVUVlZlTWRZV1NseGFsWHROV2NOYXY4cWZyY3pPYVJwVUtwaXpvWlJLSWJsTWh0c0RpWDNGZ2x6bm1lQjZMeFJRTVQ4cFhGdE5KV3ZiWlJmdDR2RGhKdmVDcGdmODFKWHNpMTRXS2ViOTh1U3hDN2FXWnBBcms0anl1?oc=5"
         },
         {
-            "title": "42歲男確診麻疹，足跡橫跨北部商圈、捷運！官方公布完整足跡",
-            "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFA4Y0JvZklKM0lWWW5rVnFuX19tN1I3a2Jia2tReDd2cVRQS3pjbXh5dzFseG5fa0NzaldpVUdTcU1CV0VVeUFYeg?oc=5"
+            "title": "糗！被抓包整天唱衰卻大買台積電股票 藍委翁曉玲回應了",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1YSnZWNi1pbWhWMXVxMUVfMmpzUk1NYmpjR3RpMkZ6RGVxbjZwZ2NmbElNXzN0czNKUmE2U28wQjBpUGpSY1FhTThrSHZTV3VycEZHVFFuLU05cXZicHBGNVZSSFdDell0UlHSAW9BVV95cUxNRW1vdVNpUVlmYnp1dE85aVlOSWtRQkp6UFFtVnZFWWYtS01BamRxeGk2RDczZEFMeEN2VVlHZnpEaWlkNlJwQ0xvTEpHZERTX0xJa0ZWcXJXa21sd3JZVkJJYWNpSW52UVBlSDJwQzQ?oc=5"
         },
         {
-            "title": "幕後／盧秀燕訪美前夕夜會藍委談軍購 盼別被貼「美國敵人」標籤",
-            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1qTy1BNDE3N3ZHTEZNbldiWTdXQWNPVEliV0NJc1QzU20zQ1JKYzhaUG9CYUl3ekRkMEY5VHVHT1JhOGdNUXN1S3JFYzlHZlV40gFWQVVfeXFMTjJhbWZ6T051WUExVDQzTlQ4N01xTFBkR2d1N0ZvVXFWX1lOY2JqTkxhZXo3UGdaaXBIZ2lPMXNEMzFOZ3NZTTJKajZBWVFlbUNwYXo5Umc?oc=5"
+            "title": "彩券「頭獎得主」驚喜現身！只花200元抱走750萬元",
+            "link": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxPN3RRaURIS1RvZDRlVlZxclo3N2N3WXNybnBqMkFES0dFZDZKam9nWmFuY3RHV09xMDdiSzFXb0RiSDdVYXNCVlFZeWQ1eUZNUUpvSXlYWWpNMk5wNmFmVjBGR2F4QURIODI2RVNuaTVhMnhEUFRGeDNxVUxHU3FjOW1hTDg5SzhBTkJrYUtGREJQSGxtRHQ4OWN0OW1ZQVh2NlpWWlR0MmtsQlZxZFB0ZmRPeTdPTGQwYUFrUUFza0pXU0RJU2dXdkpLS0VneFFwS01iT1RjYUtPbUlncC1ONDZKcXlNTlJLQnlDREF6U3RaVG9iR1VxYUJ3Z284dTk1eFQyaTJ5T21WbkhVc0x3dF92UkRBZ0ZrdmkxQkcxM3Z2cEZlRVZVRU40YUdiYi05dEVabHNQNmJTa1l4eDZHZGEwQ3RQc2JEOF9fV1lTbHBBbjA?oc=5"
         },
         {
-            "title": "鄭南榕女兒：228遊行是為追求和平 台灣主權不能妥協",
-            "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxOX09ORDI4QXh1SDdQQktNaTRZZU1pdDVsTjFIek0xbHMzR2NrcF9pb3NhYzltRU5ES3Z3ZmtrOUxQQmhHVmVOWkEwS2c4N29XMlRWWi1vb3QwSzhQTzhCMDN0M2gxc1lEWF9icmZzUTNYblk3ZkNacUxqSHlRQS1NanVOZmtDTkt4dTNGdzdDb1RkTkVZcGpjdXZMY2xPRWJaSTZobm5WZEhIb0txdVNVMlA5NmNsdmx4dGVlSFpjRXpRTC1NYUNlOUd6d0RsTzMwTXF4Qmh6YjhRVmNMSTc0eVZ3SG9pN2xUaVBGVzRIemhuR0dTelBkeTFhYXpIc2lxMW1vR3RtVXJ6Wnkyb0RPaDhCNEhxcm5BMEVGMVZtemJnTjVuMVdBbU5tYlY5VUdyMlVfcEpjdjFBVUtIUm43X1VjMThXeVV4a18ybWhtZng3ZnBYc2lWTnAySElnTzhS?oc=5"
-        },
-        {
-            "title": "上帝視角！武陵農場櫻花如「粉紅地毯」 空拍畫面超壯觀",
-            "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0tc2FQeVpfR3RGQVRBaWlmekZxeDEwblhsaW14YVdiTlhGWTJGNU1lTm9od2FMUWNqYkN4bVYxQ1hSWjBEV25heDZHRklpeUpzLXc5bjVtT3U4TFJWR0pBaVFacXloRm9BRWpYMF9Ca0dCS2lWMmVna1pIVEVsdw?oc=5"
-        },
-        {
-            "title": "四叉貓爆惡霸弟暴力公司地址！李四川曝「權狀」切割：不在我們持分土地",
-            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4tbU4tQ3Vsemlfd0FqbHdfbDJKMnhXT0lWNWxYTUhJR2ZpVmxOMTVsWVl6QVNsY2d1cmZiekVZNFhtZTlHdnpoNW5zc2d1ZVEyUE5IZkZWblHSAV9BVV95cUxNaHF2aTdWZVNJNlktNXpxaHZkay1DTkJDZzNQZDlfc1cyN3E1bHNDNnpkWVVFSUtGNWVFVXhRSWFCaTNBdEpIYmtIcVNvNk1wZ3RISDhZeGZtQ0FiaDFXZw?oc=5"
+            "title": "台灣燈會3/3開燈！高鐵加開81班次 開放預售時間曝光",
+            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5PZVowU0tyWFY2dFJqWThzUWY4UW5nVS1CdjFjcmtWUk5CbWxYOXVqbHpFaVYybjA4M2g4Sk5JQlNDSmdzbklBVVpwN2RrZw?oc=5"
         }
     ]
 }
