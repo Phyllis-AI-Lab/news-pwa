@@ -1,46 +1,46 @@
 {
-    "updated_at": "2026-03-04 19:46",
-    "summary": "晚安，為您帶來今日晚間重點快報。\n\n【國際情勢】\n\n中東局勢持續緊張，以色列對伊朗總統府發動大規模空襲，投擲百枚炸彈，區域衝突驟然升溫。此外，美國駐沙烏地阿拉伯利雅德大使館也傳出遇襲陷入火海，前總統川普已強硬回應。受中東及俄羅斯空域禁飛影響，全球航空業面臨關鍵航線壅塞的嚴峻挑戰。\n\n【政治焦點】\n\n國內政壇方面，國民黨啟動第二波縣市長提名，徵召陳玉珍、張嘉郡、游淑貞分別參選金門、雲林及花蓮。立法院內，韓國瑜在綠委質詢時機智回應，引起外界討論。在國防議題上，有幕後消息指出藍營高層已助攻定調軍購最終版本。針對美伊衝突後共機暫未擾台，黑熊學院示警中共可能進入「省電模式」。民進黨內，賴清德則針對王定宇桃色風波，要求從政黨員應以更高標準自我規範。\n\n【社會民生】\n\n長照服務再受關注，有里長批評送餐模式過於僵化，導致憾事發生，呼籲應檢討服務彈性。此外，天氣方面，下一波涼冷空氣即將來襲且強度更強，雨勢預計將持續一段時間，提醒民眾務必注意保暖。",
+    "updated_at": "2026-03-05 07:46",
+    "summary": "早安，為您帶來今日上午重點快報。\n\n【國際情勢】\n國際焦點鎖定中東戰火，日前美軍潛艦在斯里蘭卡外海，擊沉一艘伊朗巡防艦，造成艦上官兵傷亡慘重，這也是二戰後美軍潛艦首次直接擊沉他國軍艦。美國戰爭部長更開嘲諷，直言是「擊殺蘇萊曼尼2次」。美國參議員魯比歐也向伊朗喊話，警告若不收斂，美國將「放蔣介石出場」。\n\n【政治焦點】\n國內政壇方面，中選會人事案持續卡關，外界擔憂民眾黨6名遞補立委恐全數失效。而國民黨軍購案最終版本，傳出由立委鄭麗文主導，並有朱立倫、盧秀燕、趙少康等黨內大老在幕後助攻定調。此外，美伊開戰之際，黑熊學院示警中共可能開啟「省電模式」，近期共機擾台次數雖減少，但仍不能掉以輕心。\n\n【社會民生】\n天氣方面，明起全台將轉為濕冷，低溫可能下探14度，民眾外出請務必注意保暖。在花蓮崇德外海發現一隻15.4米長巨鯨屍體，疑為罕見品種，將進行解剖釐清死因。藝人張惠妹則甜蜜現身台東元宵「炮炸寒單」活動，與男友 Sam 同框祈福，展現親民一面。另外，引發熱議的億元馬王拍賣案，傳出買家是代標，背後另有金主。",
     "news": [
         {
-            "title": "不能飛中東、也不能飛俄羅斯 全球飛機「塞爆」這條關鍵航線",
-            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE82Rlpwc3J2MWk1Y2JOMWtURTZrU2NoWHBtOE8xaWZDT1R3cGNVM2kwc1BFdnhRRkdtdTBMWmwzTU1SODAzTGQxck9oWHRWYUpGY0ltT2FjbFNFVzV3ZGZJ0gFkQVVfeXFMTmpTS1c4SDM2NnVkSXZrd1o2OGwxdUtVQlNDMHZmbW81anhiLWREWTdremtqYnlDNGZBbldnX2JHcGJUZTVBblZLUUF1V3RtVHdXY3I0RS1STjByNkRVN2w2Yy1SaA?oc=5"
+            "title": "魯比歐嗆伊朗要小心「我們要放蔣介石出場」？ 典故源自於麥克阿瑟",
+            "link": "https://news.google.com/rss/articles/CBMivANBVV95cUxPcmFvSWxxNGYyRklJZzlwSXVZaWZLeVhlVE13WGdLVXJSYm9kZC1FQ0NITHBBbGY4a1g5YnFvTk5kd2tZZVlMLUJuYzFCZk1IOE8xb2JFUmN6SHRsS2JuS2FtT2tQcHBHdWlKVnIyRDJpQTRPTktxZlUxTXQ4eEI0M3VqajRjZHR0RmZZWThDNFEtcEZTQklMOGhDZTRaYjd1aEZuNzJoY1VpQ3p4dll6UUlyVUY3LVlfT3l0dDFKYTZJU09adzJtUmN6NEM4Uld6RG13cUpWN1JLVkMxMncySE9UVEhQaXdrd0tLdjVOdm5HbXNBVFZFaFNCUDVQQU5WNnVmMnluRmNCUzRrYjkwQkEweDBoUDdGZDRxaTMtalNoRWxUaklxN0tCal8xOVRRSEk3YkR1U21tY2RnekF3U0pBLXB6aWRvZThybWVyNnJKdUM4azBLeUViMHJiSmcwUS1tM21iejFnVlhUVElnRFdBUElTQlpKUEpsQkdWN25oT1M4eHpMbTdodVQ3dVRhaXR6NFNBeWthUFZjdzJIeVZFcURGb1VpemcyX3lTdUFOS0gzUlkwcXZxT28?oc=5"
         },
         {
             "title": "幕後／朱盧趙相繼出手 鄭麗文主導藍大老背後助攻定調軍購最終版本",
             "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5sS0M2X09RX0RxZHp4WXVGSTZrSjZmVG1QTEVGaGhNOVB5bS1BT2ZOLThfY3V5Vng1WVZybG1vbUZvU1hBVDFJUWdTV3gzQThJLVHSAVdBVV95cUxNVi1LX0lJUFZkMktleTVZWjlyRU9iMVVSQ2xnUnZHMko1aXZwcTNsclA0QUg5U0ZjLVJFaW1SNm9OaVRzWm16NE1mMUlDNE1tSGJLenJvSVk?oc=5"
         },
         {
-            "title": "新／以軍空襲伊朗總統府！百架戰機狂投250枚炸彈",
-            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBMTm80Uk1aOHlYLVV4Q0pFajdFQTB3Zmx3NVo5TkFfTXQyclgzZE1sUzRiRGI3d2ktTXJpUmdNRzhJVnpISlNzdHFLTFpHeExLY1U0?oc=5"
+            "title": "伊朗巡防艦在斯里蘭卡遭美軍潛艦擊沉180官兵恐僅32人生還| 國際焦點",
+            "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0wR05YMFZvR1IyMXJ4WG9wNlFtOW91QWZpNTZwMEJwa1dtbnJ3M0x6Um95aFVQazJBdkZfQ0UzbktQd3JtMjZSa09Da29ja1RyWXJra3pfWEFUTEtt?oc=5"
         },
         {
-            "title": "綠委質詢突轉頭問「以關稅談判團隊為榮？」 韓國瑜機智回一句",
-            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1LYmtTdVNoLVF3STRKQ3JLSXFoeUpOWWlyQkRTZHlnNkhsU2pIOHotSE1Sdk1haUdqSjhXMzY1a0FvN2tfUDdLV0Y5dFlYN0U5RHEzVWtOMmFxdXpoVmVmZDBJWTYzTmN2VXRqZGhn?oc=5"
+            "title": "謝老闆爆是代標！1.35億馬王「背後另有金主」 本人首度回應了",
+            "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxNYnJ4WUhPZnNsbGtXT0E3V2dDb05TQndlRHJxbGdiTHpwRU9sa2M2M2R3ZHJBWGlkbzd0cm9PaWVGeW42QUxfamJ4SXlnQ2lhYi1xRFJNUEtXVklNbmZTb2ZYdVFmQzRvdjV2RVVjQXVuYmdoaWRxQ1lqalJLZWdwXzZkdFlvaGhsQVAxZWttVFhRMGlEcEdoaEpKUzNQOThsQVpsaFdkSWJVZlJjWHhrVlRNSFhNeElXQ3NTTzNKVG02OEZTYXQzTTJyVVl6b01rY2JndTZ5UEJUYWp0MVV1VjdEVTF4UHJ4LWNHSU1ENndwcmgyRWVDYUFDdmllaHhYNlFMc1BkdUhlcGE3dEJ1UWw1RThIVzB1YjZZWTV1TmFqNG9ycndTbUQxaENnc3ZWTHZ2dl8yNnhabUZsWmdnTWxHUnNzNENCY0xYcUNKZ3NkbFg1a25lSE84T29MakxSS3pIZ3B0czNmRTZpcXNvdA?oc=5"
+        },
+        {
+            "title": "不斷更新／二戰後首例！美軍潛艦擊沉「伊朗軍艦」 戰爭部長開嘲諷：擊殺蘇萊曼尼2次",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5uMURrVHZVRWc2V0tsaWk5UFBMNFU3UkpXc1lFd0FwMVA1UDhPUExyeGVmajlIb1dkRWNWemlVdXpjeGI3cE1vQ2NIWlRkb01Pa3lz?oc=5"
+        },
+        {
+            "title": "雨綿綿！明全台濕冷低溫下探14度 下波東北季風時間曝",
+            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5RMnMtWVRwMUlzbDVRVklFWkxHV3VzNE9mTWViTUtkOE95dmFBSXQ1SzhzLWJIMnFNWlAwRURaalRkWGxESEFTVFcxaUtXSkxGcm1Rb1NSSk5SbER1Wlg2dGxjSULSAWpBVV95cUxPeUpKS1dQWmx3TEY5UV9BdDNjS1hRemJZMTM5WjBlV3NULUlxVVY4blg3WTZnbWdUSW5SbE1zdEVsZl9MMUsza1l0U2JuUHFpRERBdE55cmxmQVNBdTRIWlNvUmFNRTZsUEJB?oc=5"
+        },
+        {
+            "title": "中選會人事遭續卡！防李貞秀被告？他示警：民眾黨6名遞補恐全失效| 政治",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5Qa3NFWTZ0YXN0OUptTjB6eEVhOG1aNFMyMlp0dkt4cHplZ09MZEFXRE9PMnlMbkZKdFhrbWxZbWtNcW42eDhOUFBZZkFWSnZ3d3NJSGRkVUxIXzA?oc=5"
+        },
+        {
+            "title": "張惠妹現身台東元宵！與男友 Sam 甜蜜同框「炮炸寒單」祈福 甜開直播喊：不怕鞭炮",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1tOTBRR2lyal9YcENqZ0VqU3Q3eVNPTlNQOU5sWS1iS1VfdW5PYW1IUkc5TVo5RXdfWVh2aFJrQ195ZExTamdCVG1TWXRqU3RQMko1cFNsVmJIQdIBX0FVX3lxTE5LaUJIalRTem4zMEREZVNzbHI2Sms3c1p1b3FndXBnLUk4ai1ORVRBUFBmUWlUV3hMZ2RzZGNDcGRwekJzUk1mLW96VEpIb2lraWZwaXVGTzRidXNWcnRj?oc=5"
+        },
+        {
+            "title": "花蓮崇德外海15.4米長巨鯨亡 疑罕見品種 將解剖釐清死因",
+            "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxOZjF1YUxITDlBN29UUVVqNDFHazl4bVdHNjFjYmhOT19pMUNxRHk1R2U4Q1N3cnZnb3RrMF9GaWkybzRhbTh6b1NJaUJwZXFZbUZyOTdtVTljeVlxSGU2LXFvYXVUR3pSVEY3M3lvMkw1c3JTSkhJSmNfb0NKQlg5UGpicWd0ZE9jRzlRd0VUOHJROW1sOW00VDc3OEtLcDl5dElNMExYbjNjeEE2M3lmekJTbFdBeUdPNDdsVjNzaWNJUzUwZkRaOTVKblI4Ykh6WW9nUHV3eXRrSC04a2lwb2lKRUdpRWVmV00xUERKT3gtbm9idlZHaUY5RDBUQzlsRUdPcWwzM1JyUzVkbFN0d3BMUzBpMGtTQjA1aGlyU1c0RFpMR2xDSENLS0lGYl8xd1dKbGhkTENrbjFBU2U2UGE3VlZLbGFORzd1TGhIRDlNeXg1YzF2WmxrU1RYUEM5R3JHZWprX3JzVzFDb2Zr?oc=5"
         },
         {
             "title": "美伊開戰後共機不來台海靜悄悄？黑熊學院示警：中共開啟省電模式| 政治",
             "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9EdVhhU1V2cV9LeGxKZlp5b0IwdHI4b2Vvd2NxWTNYajExalQ2UTZITFJ1c254TlNpX3dDLWRCR296SmxaTUZKXzd2YUFHTnN4TVB3VU1iOVhka1U?oc=5"
-        },
-        {
-            "title": "美駐利雅德大使館遇襲陷火海！川普強硬回應了",
-            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5zcHN1Z2M0eFJVRkx5YWlHd2tmSVd0RUpFeFd3dUp3Mlp1NFNWb2lBbXEwamI5SVVjSHAxT2NsS0VUZGxla2pDTVpsZHJKcnJYeEc40gFYQVVfeXFMTWJ6VUYtRVdzRnh4SDN0bWd3bi1SbjNZSWxIZzZ0WmNuZ1BhUG5LNEtMSjF3S0FBM296QnFTT0JPY2FSdjNEOG1YWXlITk9CZEo5ZmJkQTR3SQ?oc=5"
-        },
-        {
-            "title": "國民黨第二波縣市長提名 徵召陳玉珍、張嘉郡、游淑貞參選金門雲林花蓮",
-            "link": "https://news.google.com/rss/articles/CBMi1ANBVV95cUxQaVZwMFVIQ3B6T1ktUVN0bEszYmpzeWp6LXRyWFFBNkRueHZYNHdFOGhKVXh3b2VTOFpwMVpnV1NzYWJ3amNVN0FhdVdERU13T2xkdzl1T19pZ25yS1NURnMycW5DeGQ5YVB6enpCZlNVcEdFam5idVpwR2l3YnlIbU1yaU1mN1FJSzJxSC05cjJFRlR2MkM0ZmtKNnF2U2VHbmFVUWpGVnpOcmV5MDVkd1gtNDNGZjFaMTBYVGFUZk4zZ3NGbHRXT3l4ZXBPYjVsRnU1QTc0TnVOTm93UUNiVnV6UDZpRnloTXdXY3JKZ212MzlGYzVBa0d3MlExeW1fNWZFemVxLVdQNFI4YlhwSUEtVi1mVEtXS0dZak9CYXhYaXhxcnJWZlJvYzAyQWJwUlF5UjdDQXFRWWtoZjdaeThiSWRIcktoM0xjN3V4RjZ0REtSMGJ4YzB1QVVJTFhLVTM1QmtHenVHcjFUX1pKNXhCOXAzOFBTYi1XX2NkZTdXc1p0RXhkZEFFMGRKTUtjN2FJWTN2ZmpaQlktMTlBVVk2eDV4SldpbWhWa1ZzX09YVXR2Um9LZkhCTU1VTllOaE8zdVdYemtzSDVSLWlXcnlKei0?oc=5"
-        },
-        {
-            "title": "餐盒掛門口⋯婦亡屋內 里長批長照送餐不能像Uber",
-            "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxOMFNVTkNlUklaaExvNFZkZGFrZDFXbkxQZ2tQUzVMckRWVGFHNnRPZlRUVHhsQWx3ZjE3cm43MkhGNE0wNHlrM1dEQW1nb2RiZWQ5ZWVUc2FpS0cyeGItUk4yT19nUVp2MFpYVWdtemFnV25TalpBVmxjWVJWVVJjVXd6Nm1QTThsNmlqeUtMQmd1eEZLczh0WVdwRExvVHpUQjI5Zkh6QUYtZjZyTXZyZjBlS0ltb045cjVQS2NibHRSUUxTc19pTDd0YmViV05fTnk1WEh5cktTaThVb1h0UXFrZGY2LVhRY2Rxd2dqRXpVWFVNelVqczdqcF9BckNjZFo1Y2RLUHM1LUtFR3U0LW1CSU9hN3pJLU5sSVNQWWVrTWpPeXlzblEwNUFBeGMwdDBhT25hdFJtQnl3VHlxa0lTSmhxYnZSa2c?oc=5"
-        },
-        {
-            "title": "王定宇爆桃色風波 賴清德：民進黨從政黨員言行 應以更高標準自我規範",
-            "link": "https://news.google.com/rss/articles/CBMi4gNBVV95cUxNZS1OWVVDZ0RFc2dQYjlFbWNLWkc5Vzl1UWM1R0IydlhrRTJBZVBmbmR2Z3NwZjd3Vk0taEVwUFBDcW8za2FEOWV5UE40djR6YnVwM3FTWFRyWEc5djdVYl9Pb0lkbDIwZVNaZ3FYZklZRTExWERxc1dEdUZQVmlLdHBLRkh5YzlDZGFxUU1YaXZldVVKOVRmd0NDUjBMYmlCSWlyWVF5ZndJUFd3ZHZjU1hmaGhpTm5ZQU9QUGtlbndsWE9VSnFyTW9QUXAtZXdUNzRvUUR5S2dlX2hVSHpMcE9LMmFWQzJtNEVRbV95algzYV9HTWtsampDUFZEVHVTaXB1cm5rbmFCV3BjVVpPblQ4VWg5TWxqZ2NJb1JxRzE4bXgtOW04YVNXWkg2YXB0VTBKVmx2ZF9GNy1kaHY5Qi1VUjNldXVKRklVeEtBclUxaFJlMVdMQjR0Z2VNQzdlQWQxTl8wOW4wQTJYVDR2aDExOXFHMnNTaU5Yc1ItaGFGWFVGZXBSeGVqckJ3MU95dWNqMGVXTEtUeFBWWTVDSHZKaGxKaWRtalZwbkJCLVJwaWNZZXJzSEI1T1RJNmktejJfMnNibjJkc1VhN0o0UUpfTzdJM3ljWDAwUlgtQ1pxdw?oc=5"
-        },
-        {
-            "title": "外套別收！下一波涼冷空氣更強 雨下到「這時」才停",
-            "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNSEExUmtQMkRBeHhYSFFrRmI5ck5QVkpnQldxcjA1LVJoUFRRZ05mZ1g5akMwdm40ZmRwQzRtdFFvcXhWd2NsQ0Nlb0RvY0hNVlpfbEZxMWNWdHY1dnEwbklHSWFzN1dtc3dYMmlKZ3RWSTRFNG5nZllOYlQ0YTVraTYtNzRsRzdsQ2M2YjllMXl0OGNPaVNOYVI4UVdzcTAxRGNjWFUzdXRBc0Q0ejJGY1pHOHFoTG9lODh2ZTQtWFVtWGhSdHNqbUVBc0hKNUNiN19yOTJvck1tTFh6TlNFMDQteW5jOHY5aXdkNzJZbUFIeVBOanFCcmpJZGkyT0l6ZUh5YzNOaHp5Z3pDV3RjOHc4VjFCNUxBR0RWdVJQZmE1dk9v?oc=5"
         }
     ]
 }
