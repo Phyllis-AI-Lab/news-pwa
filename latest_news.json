@@ -1,46 +1,46 @@
 {
-    "updated_at": "2026-03-11 17:01",
-    "summary": "午安，為您帶來今日午間重點快報。\n\n【國際情勢】\n中東情勢持續緊繃，美國總統川普對伊朗撂下狠話，美軍稱摧毀了十六艘伊朗布雷船並公布爆炸畫面。同一時間，伊朗革命衛隊則宣稱發射了破壞力最強飛彈，指這是開戰以來最大規模反擊行動，區域緊張態勢升溫。\n\n【政治焦點】\n在台灣政壇，台北市副市長李四川遺缺傳出將由現任秘書長李泰興升任，借重其財政專業。行政院拍板一點二五兆元軍購特別預算，將納入中科院研發的八百億元飛彈與無人載具。此外，國民黨立委謝衣鳯面對弟弟謝典霖態度，表示尊重個人情緒，強調自己將參選到底。\n\n【社會民生】\n在社會民生方面，網紅486先生因在松山指揮部合照引發爭議，恐面臨違法罰鍰。天氣部分，清晨雖然出現九點三度低溫，但白天將快速回溫，不過明日起又將有冷空氣再度南下。此外，台灣總人口已連續二十六個月負成長，二月新生兒人數創下新低。海軍敦睦支隊抵達馬紹爾，海報設計在網路引發討論。而梁為超與許玲玲的感情風波則持續延燒。",
+    "updated_at": "2026-03-11 19:48",
+    "summary": "晚安，為您帶來今日晚間重點快報\n\n【政治焦點】\n行政院副院長人選曝光，秘書長李泰興因財政專業獲升任。立法院長韓國瑜裁定，應尊重立委李貞秀身分與職權。花蓮議長張峻宣布參選縣長，強調花蓮需翻轉。國民黨出售舊中央黨部被追徵11億元案確定勝訴。國防部長顧立雄為卓榮泰解套松山機場軍民合用爭議，立院外委會明日將考察松指部。\n\n【國際情勢】\n荷姆茲海峽緊張升溫，美國總統川普撂下狠話後，美軍稱摧毀16艘伊朗布雷船並公布畫面。伊朗革命衛隊則宣稱，已發射破壞力最強飛彈，進行開戰以來最大規模反擊。\n\n【社會民生】\n今日清晨最低溫僅9.3度，白天快速回溫，但明日起冷空氣將再度南下。網紅486先生自曝搭松指部專機赴日，引發特權爭議，引發網友質疑。台灣總人口已連26個月負成長，二月新生兒人數更創下歷史新低，僅6523人。",
     "news": [
-        {
-            "title": "開嗆有什麼好奇怪！486先生「曬松指部合照」反遭炎上 違法恐罰15萬",
-            "link": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxNTU1nRlVsUnlKSjlVcTVPTjkzVkpFVVh2cFBETG5sMjlZcG9kUlUzU2hxbmY3UkI5SGlDRTB0T0JFdDh1dS1rNjJzT1BraktzeS1jSUhpcVZ0RmxremJDREhXamVkUWVyMEY0aDJCR0I5N1ZvVE9rc3ZCV0ZYOHJzZHptUEVkLWRlbXhtd1djODNJRW9GbmJmbms5Z1FWbXVCMUpSQ3FDSjF3Ulp6YlJETl9ZVG9GS3k4ek9GcEU2RTRuS1FFMFRNRE5TN2pqS0gydmhUbkk2bURoclRQZzMweGhYT1kzUHRsZGw2RnBXaW5kNjBjb2IzaHJkU1UwNTB0QTNVYi1uMXhaWko2ZVl4MElMUDVXOFpmMEdPWUZyX0w4UzAydGJobEhpNzB5b2ZzZGF0Qy1sWFpNazN6alNQS2hlM01tSXZsS2IyQWNFRElNcng2N1NYTnNSdGJZaHgzRWd0dU9adjBzWjFjdGRUVDlSdEhJTGpIZWJEMW4zWTd2OXd6UzhYdE9aUQ?oc=5"
-        },
-        {
-            "title": "荷姆茲海峽緊張升溫 川普撂狠話 美軍稱摧毀16艘伊朗布雷船公布爆炸畫面",
-            "link": "https://news.google.com/rss/articles/CBMizANBVV95cUxOS0haZEhQeUZSTUI2TmtzVlJHd1o0YnlpeGlmV0JQVEM3UnpXSmlTYlNwNUZlckFQREM1WW1QTjM2dTdMSkp3OWVTLXNtWGhSM05HNGxGdk90dFk1WFNtdU1qTVJKN2tUb2xLNmpoeVBhelNZTXhsMy03c1BHckJvN21xVmw1VHg5eml1MlVnWW4zVUdmS3E3ZWp1RTBIMVNLcDFkUk5PbDFzWk1ycU9JZDgxV2ZFUTFJenVnVEczaUhHbDNfNW13SWw0eWpPb2YxRzB1VXZxTzR5NzAyc1NwOXhXLVk3aGc1X1lIN19qaHVwYk5vV1pBZjQydjBxWVZBamE1MG5wbDE0TmZaZGFJWW1NaGdHOHNCLUFCWnpmYkFNTWpMZzEzaFJMeE8yMlN2YkRzZVl3YmRiVktxZXB1U0VwUE1FbHVPZGE2b2lRNXM4TDlyVlFja3NRRF8yU3dncDNsX0JHdllNY3VlQUVRNGRoZ2dYTkl0am5lWGxhOWlPSWRYZlhSMkRWV2VHMXNQM1VtYWhicDlOanpycFBjLWRnNnJnYllzeTI0SWRaM2J6M2VuZHhoMHg3MDBUeTZRYTBGX0JVbUMwNlp6?oc=5"
-        },
         {
             "title": "清晨最低溫9.3度！今白天快速回溫 明起冷空氣再度南下",
             "link": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxNX1RTa1NXM1RySW1jUk14dzNMTFI5TktYMWl2cm56cUxSUUlLZnlfUUZXNUVNYmhlLU9UTDFpZjJhQmN3SGQyVmpMV0dWNWtNeHQ3V254UnE3bTNtMmZqeU12ZEp3TE1rTVlrTkxOY1p3QnNzcndjeUlQSjNEUVlBTHRjM2RtcFFmWFM5QjBwY1RMSzR6Z3dnemc0bE9EMlVzellfUnVQVGREMDlsWk5sRHYwUllxRUFZb3BiRGtiTkVXV2k4czlLZ3lHbUlfaGtzWnllUVRsNks5bER1TWlKWGEtTjlzMi1PbF9XR2o1ekk1ek9YZGdFdWNWa1N2SzZleEgzN2NRTHQ5bElPTmplVUlVUVNrVDdxSE10eGVyMm9EZHFjZ2JkTEkyQWo1QXZiWHhDcUNaVnBMbjdkeUYybFpSUExncGpqNUVnZ1p0NGF1Vkl2Qll0SXZXdlBiZ0txOUJjY1hneGZZRlE?oc=5"
-        },
-        {
-            "title": "伊朗發射破壞力最強飛彈！革命衛隊宣稱開戰以來最大規模反擊",
-            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBuTG45VkgtOHBhaC1TTU9TbTQtMXU4ejQwY0gzY1h6dHB0cWhwZUZYUlVRNXhyLW5ObjNFcEtOVlN6SWZ4SHo0ckNxNlFoYnh5N2tQSlRYdzM1eUVKTkY2Y2dYVm9KZ9IBa0FVX3lxTFBROVlWLTQ1N3R6VlMxR3ctUlZham40ejlnLUw2cUxLMnRnLWx3WjhZZVY5M2NZUGl3eGZnYUM2WjFiMFNWRTVVYjhia01XYVB6dTdLNmVnc1lZMXJqNGpidU40Z2dRZFlyMWdB?oc=5"
         },
         {
             "title": "李四川接任人選曝光！秘書長李泰興升任副市長　具備財政專業",
             "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8xeHRENkU1OFhmYmkxYnFNM0RoSzkzUWxSVkkyeUUyNkJNVHhhdW1mSXdKUlEyUUM5TmNtNTJzZE95R1VkVkYyVDJOMXdqakV1R1dfWGlVNXrSAV9BVV95cUxPMTYxTVd0Qm10aEtMenNmcnR1Q3VUY2JDaWowR0thUUpUOXFESEZjVEVnVEpQNzVmT2llWGN0QWlFLVdaYWFjQWRadDlqbjhoQ3B3bDh1RlNfaFd4ci1UMA?oc=5"
         },
         {
-            "title": "海軍敦睦支隊抵馬紹爾！網友見海報驚：12道光變5角星 哪國國旗？",
-            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5FSDFlN0ZKYnJfVE9GWEYycTdjSXBRVldENHBhODhRNjd4RlFMODlDRk15QW5iSnBxc21VNnZNTU9rbGF3QUh2N05qZGFEZmFldWfSAVdBVV95cUxQZzZxcThTR1h6ZmxtMXBQckF0ZUdnbHEwdEtSalB2MDRaS3BlY1pjSDJlYUZyU3d6X3FtalRjYzBqay1SU2pXc0Z2SXpQUGhDV09GMmxlWkE?oc=5"
+            "title": "開酸卻翻車！486先生自曝「松指部搭機赴日」打臉特權論 網揪疑點：能拍照？",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBmWV91NFhSSUlxdV94aUVRWDFoVmN3NUZUV1lqOTJsT3JpWWlqQ3dzQmp0cGdTd1diZDZuc1VKckl1dmdCa2QyRUpHYkdORnRocDJR0gFYQVVfeXFMUG5hY0ZqQXNiLXZSMjZVcjRmNGhIWDdjQmY3TWRVem10RHdLaUpPSUxIeDE0SDlxYXhkWkI4SnhmSUtmNFJkUEJpQkVmOXJNdnVKRDlqWi1BUw?oc=5"
+        },
+        {
+            "title": "快訊／沒共識！立院協商李貞秀資格　韓國瑜裁定：應尊重立委身分與職權",
+            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1JdzlKdFZOZmRRWVR4TUJWeURGTlR5OEFVMUJKd1lEWVNmOXZQRjVJZnE0R3ZiRHQyUndtMV9kTk1vWldqUVpnZlNpckdQbU14eEp4OGFuY0XSAV9BVV95cUxOUmNUaTNqR3plQkVDMl9kNUNvTXZOa0NzeDNleWc5MUtlSko0WlBoYWlPUFpyaC05SUdZLXFtbFZfUGlFRWFmT2NDLXFaNExSVElVYmZMemZnUXhldWhqSQ?oc=5"
+        },
+        {
+            "title": "荷姆茲海峽緊張升溫 川普撂狠話 美軍稱摧毀16艘伊朗布雷船公布爆炸畫面",
+            "link": "https://news.google.com/rss/articles/CBMizANBVV95cUxOS0haZEhQeUZSTUI2TmtzVlJHd1o0YnlpeGlmV0JQVEM3UnpXSmlTYlNwNUZlckFQREM1WW1QTjM2dTdMSkp3OWVTLXNtWGhSM05HNGxGdk90dFk1WFNtdU1qTVJKN2tUb2xLNmpoeVBhelNZTXhsMy03c1BHckJvN21xVmw1VHg5eml1MlVnWW4zVUdmS3E3ZWp1RTBIMVNLcDFkUk5PbDFzWk1ycU9JZDgxV2ZFUTFJenVnVEczaUhHbDNfNW13SWw0eWpPb2YxRzB1VXZxTzR5NzAyc1NwOXhXLVk3aGc1X1lIN19qaHVwYk5vV1pBZjQydjBxWVZBamE1MG5wbDE0TmZaZGFJWW1NaGdHOHNCLUFCWnpmYkFNTWpMZzEzaFJMeE8yMlN2YkRzZVl3YmRiVktxZXB1U0VwUE1FbHVPZGE2b2lRNXM4TDlyVlFja3NRRF8yU3dncDNsX0JHdllNY3VlQUVRNGRoZ2dYTkl0am5lWGxhOWlPSWRYZlhSMkRWV2VHMXNQM1VtYWhicDlOanpycFBjLWRnNnJnYllzeTI0SWRaM2J6M2VuZHhoMHg3MDBUeTZRYTBGX0JVbUMwNlp6?oc=5"
+        },
+        {
+            "title": "伊朗發射破壞力最強飛彈！革命衛隊宣稱開戰以來最大規模反擊",
+            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBuTG45VkgtOHBhaC1TTU9TbTQtMXU4ejQwY0gzY1h6dHB0cWhwZUZYUlVRNXhyLW5ObjNFcEtOVlN6SWZ4SHo0ckNxNlFoYnh5N2tQSlRYdzM1eUVKTkY2Y2dYVm9KZ9IBa0FVX3lxTFBROVlWLTQ1N3R6VlMxR3ctUlZham40ejlnLUw2cUxLMnRnLWx3WjhZZVY5M2NZUGl3eGZnYUM2WjFiMFNWRTVVYjhia01XYVB6dTdLNmVnc1lZMXJqNGpidU40Z2dRZFlyMWdB?oc=5"
+        },
+        {
+            "title": "「花蓮需要真正的翻轉」 議長張峻宣布選縣長",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB3cDlNT0xSSThLS2RYN1BKelotbTc1WXVrQnZwTFQybU1mejNyMkJIRm4wS1BRaWVyT1pWbHo2WFBXVHBqdEh0eDl1eHlsWjVNM2pHOGs5RVhrcXEzVDBiOGtESklKUVNDemfSAW9BVV95cUxOaFJ4MzJYcEJTdUtFZVdicTk4S2xKdWFpc2IwdE56T2RSSzJ3Sm5fQUhyRVVmRXlFbnE5VUVSeFZWTmZvWlRFTjFNVFk4dlZrRTBGblFLUmlSa0YteVI2UFBKR2oyNnBteklVcDNVN0E?oc=5"
         },
         {
             "title": "台灣總人口連26個月負成長2月新生兒6523人創新低| 政治",
             "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9aajRvOVdiNmdLYTlqX0RVOTFDUUp5MjhLcVJxakRJYkhYbkpQdnhkaURMcHliSlBwc0tyT3dfb3IxbXJjc1RiMmE1S3NFN1drNmNQZnMyWlZPX3Jkd3g0?oc=5"
         },
         {
-            "title": "政院1.25兆軍購特別預算 納中科院800億飛彈與無人載具",
-            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9HT2RjNzAzd3d3WFRpNFFBdkJZNWs3Um1COHZXTVZqTm9oYzM1U3JWanhrejB3LVpMcHlqSXlRY1VRSkItRkE2ekFXYU81OXZsWHfSAVdBVV95cUxNOUp1WUN1NGxRdm1kbG1PbFdVNHY5NEFFT2NadnhiM1NkaEk4X09WRzNGVjlZd25ZaFM1bm5tYk0zYzVOaGwzN1dYcklZNGw2VzZpTzJoak0?oc=5"
+            "title": "國民黨贏了！出售舊中央黨部被追徵11億 請求撤銷勝訴確定",
+            "link": "https://news.google.com/rss/articles/CBMigwNBVV95cUxOMnc0ODNyeldHQ2gwWHh0cXBaeDBCWlFrSC1ucVE1LW4wSWFnc19oVXp6UXg1S3hIWDNpb0tlbWVHMXdndXVDdm5UVEhlWmNKNFdYT3BiUUVQRFJFNEZWdkhYX1lUOVVwdVU3bWNYWEhqejZZcERKQk9QRUF5eVBmN19abGVxVUl1cGFfeWpucDYzai1SQjdzeDJPLUtsUFdiY2pXaTgzOUFtVVFxWDBETEdXYWI1cU1YQmJvVFFiVnEzc2dIXzlINFVRQmRWRTB0aVhGQURrUU1ldm9YWkxhbGpyZmhIdGc5Y0R3OEVRZ0xvM21TbnBsU2dwTWpNcHc4cXVKVUFUT1E3OXhZYjRhMlRvdEJBNlpiZTI4RFdoOS10Tk52LVhBY29PTEtQS0thZTh5Sm95U3VVMmY0VmhnUXBncVU2TFBzbXdMX0ZFQUI2c0J2ckdVTHRUaWVrZzd0c0pxWldwSzJlb3dqOFFaS2dyRl9RckFGZWplNHdldW5UOGM?oc=5"
         },
         {
-            "title": "謝典霖不挺姊姊？謝衣鳯：那是他個人情緒、將參選到底- 政治",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5aajB0Rlh2NXh6WkR5VHhZbThKUmpDQnZBM2JuMWFYdjFtQTVPNktDSTM0b1BCOFFrNXZzVEd0X1drN0cxTE9kLWpIZzBIQnlaUXhvbGpTT0E0bHNyUFZoc2xvR1lVRVQ2NFE?oc=5"
-        },
-        {
-            "title": "梁為超許玲玲感情風波延燒 詹江村：假富少捏造故事爆料",
-            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1tZVRxYjZQR3hhbE5vSV9MMUJiNlY3d0tIQ3lITVZSaGtHcW80Q3hYSEQ5N0ZXVHFLM3ZDT09LZHVkWXowZ3lBSFlXWm9hZm5fZUlr0gFYQVVfeXFMTjU4MkE0c1d3TVVCYU9rMFlPeUM1ekJtQkdYdEIxeGcxWkhBem5VeXpKTmdSUXBBU0Q4YkpGdTFSM1BPZVo2bUY2bUN0Mzd4N01kdU1LMXJ3eQ?oc=5"
+            "title": "顧立雄稱松山機場軍民合用為卓榮泰解套 立院外委會明考察松指部",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9XWE1WNHVTbG1nMUltOWdHc1NCamZlc21MTHdHQ1ZfWF96Qi04Y3RPU1ZZVHJncFNUV1c4VE5PczFTaEpBTU5EbVRwZTdaR1hRb29F0gFYQVVfeXFMTWtyMXIwZU9rMDQ2bGUwXzNqUkRMNTlLbzBDc0x0RlZmNXVkT1BYQUcwNGdWdmxjNGg0LU5XMFNqR0FGRjZ0Wi1KYVVWYnc4Y0hjVFMzMks3SA?oc=5"
         }
     ]
 }
