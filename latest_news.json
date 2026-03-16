@@ -1,46 +1,46 @@
 {
-    "updated_at": "2026-03-16 07:45",
-    "summary": "早安，為您帶來今日上午重點快報。\n\n國際情勢\n\n近期共軍衛星群頻繁活動，每十分鐘偵測一次，引發日本高度警戒台灣情勢。在中東方面，美國前總統川普呼籲盟友軍艦護航荷姆茲海峽，並稱美軍已對伊朗哈爾克島進行史上最強轟炸行動，同時向外界急求援，各國反應引發關注。\n\n政治焦點\n\n國內政壇，行政院長卓榮泰赴日行程遭藍白陣營攻擊，謝長廷大使出面澄清，表示若非私人行程日本也會翻案。賴清德總統批評國民黨，引發立委翁曉玲質疑其身分。此外，民進黨桃園市長提名浮現法務部次長黃世杰。民眾黨主席柯文哲則就黨內人士赴日事件發表看法。\n\n社會民生\n\n天氣方面，台灣將迎來兩波春雨，其中一波降雨規模最大。今日下午亦發生有感地震，台北地區搖晃明顯。",
+    "updated_at": "2026-03-16 12:49",
+    "summary": "午安，為您帶來今日午間重點快報\n\n國際情勢\n澳洲表態不派軍艦護航荷莫茲，成為首個「打槍」美國前總統川普的國家，理由曝光引發關注。\n\n政治焦點\n林俊憲諷韓國瑜護航李貞秀引議。翁曉玲不滿賴清德批評國民黨，遭勸讀書。法務部次長黃世杰回應挑戰張善政傳聞。蕭敬嚴道歉後，再被要求退選。卓榮泰訪日的牽線人與條件也曝光。\n\n社會生活\n飛南韓旅客留意，同班機多個行李被上黃色鎖，恐拉長等候時間。六福村週末沒人坐，遊樂園陷困境，僅靠畢旅支撐。台灣燈會接駁車「洗腦」引導，工作人員背景曝光。\n\n天氣快報\n本週兩波春雨來襲，其中一波將是降雨規模最大的。",
     "news": [
+        {
+            "title": "首個打槍川普的國家！澳洲表態「不派軍艦護航荷莫茲」理由曝光",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB0dGd4dTA0NU5oLWlWVkNncVNISXpRVWdqT0NGWDYxaEFCajZQYlZyWVF2MnM4d1YxUUZGTVJZdUJ4VDRNUEt5YVpPMHBWNGl5SDZV0gFYQVVfeXFMUEEtR2FNemxmRUJvekJBVU5VRXU4R2gtMzNRWU5zSVJIVlNUYWVoMmNmTFJkTkpCNFlaeFl4ZWpTR19WNEhYLWowUURuc0llbG1VZ19fNklXRA?oc=5"
+        },
+        {
+            "title": "「原本像個人了......」林俊憲諷韓國瑜護航李貞秀 謝震武笑翻",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE53aUowWGdjaVpISlA3QnEtX0Vwam5tUWs4T1c3enNuXzRDdXVzN1R1c3B1RDNGamFtSkQwOExLS1JFd01SVnQtQlpobDlrVDk2QlhDMDA1R2dsTWNJMjZHcHI5ZGFJeUhjb0HSAW9BVV95cUxQOXV6RDEwS2gzT2JCQUVIN1BxbU9qNXVqR2NjdFhJUVBOSnZfRF9NbTNOSTZVc1REZTdNOExFUmdWSnVsREtVRTRfTUVRS0NvM1VuZGV3eGI2MVdfbW1Qb2x5YmJHWkZ6ZTFDUmtodFk?oc=5"
+        },
+        {
+            "title": "翁曉玲不滿賴清德批「國民黨對台人比日本差」張宇韶勸她好好讀書| 政治",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1QT3dpWmNndV9hMHYwX29TMGt4amsxWlgtQ3Fpd0s1cTk4S3hYenZUYWpRUDhGMXZyOTBTemwwdWlNc2Y2YlEyTFI1SV9jMHdzQVdSQ3BhSUlaa2M?oc=5"
+        },
+        {
+            "title": "飛南韓要注意！同班機多個行李被上「黃色鎖」 專家曝原因：等行李變久| 生活新聞| 生活 | 聯合新聞網",
+            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9KWVBKMHRYaVNoY255Q2NxZVd3YmxDRVVjb1Bzc0M3SjNLNTFXUGc3V0NaY0I5WkpHREM4aElhZFd1eG5hZ21RZjFtTlc2eVRK?oc=5"
+        },
         {
             "title": "春雨！　2波「下最大」",
             "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBpMWFfS2tRUU9qUXl5ZjNLSTZhMFJOTUNHTzJDaEhKa3pDUms4NmdCcnQ2ZzJtWXRtREdyWjMtQi1sQnJQOWFJZGFiUFc4Q2N4ZXV1MGNMMnM3WFpKcVHSAWhBVV95cUxQRW9wQkdTM3lrSERILXFES2ZiYzhvRzVJelI1X3F5ZUQ1WHdUNjRMaElOdVlYNFZFdW1XVzNhUGc3MmlreWNLYVFNZmJBWTg4T2w4clJwLXc1UXhFenBBVlpxSV9nVGxtMA?oc=5"
         },
         {
-            "title": "每10分鐘1次！共軍衛星群被抓包正在幹這件事 日警戒台灣出事！",
-            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBKZkRFNGFUcjQ2aFptQmwzd1pRQ2RCZmhMX1ljbzNPSWthdnllb0RrSW44M0ZRUER5cFl5bERpRzlqUkFtR2ZKZHYwWG1zV25yTEpxb19uS2hMTkhoS2kyVnF6cGZoUdIBa0FVX3lxTE9fTGpCLURfS0Y1NUFrOVNHV0FNaE81TkpUdmJCQzNPX2ZqTkNtUmVnSjBQUjVhTDl4bU05YktqVEdMQ1J4VEYyNjVFa2pURVZTbGhIX1hRQTZnNm9JVGlQWEhObV9zT0llQnJn?oc=5"
+            "title": "周末驚見「大海怪」沒人坐！六福村只花1.5小時就玩遍 網揭遊樂園4困境：只剩畢旅在撐",
+            "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxPNUMzdXpsak5STTc3Q2Y3OHdPS3dfN2FSV0h1T0wyUl81UE5hd2RfYzR5LTA2VDllVlhVT29BS0Mxa1Q5OXBrckQ5OENZVkJHTVJ1SVRGMHB1Qjd5UTRoeVY2NzZEWXBUNmtaUHFCc3RLdFFfaW5RSmVjYlhkTkRzWWpoaWpXNTcxTldxZ1MwbFhrQUd3RUNxVmVwN1hOZjRiRjdkNXRrS2tfOG1heTRWc3ZSQzVCZFZyVnN5Q1FXZHdFS1R4aFBwRVFJSGp5SGxoTWhjYmp1bzE0Y05XaFFfMHFvcFdIWkdNcXFiNG1oY2RraTFGX25LeU5iODJBdU1fcUdUdW03ak1vZDNNb3ZSbDdOTUpMcy1UZHdpbWRWZGhBc05fQXQ4c1BCUmR0UkoteDR4ckxjQUtjQVFJcS1fMGhPYmdVYzVIY2U4?oc=5"
         },
         {
-            "title": "川普籲軍艦護航荷姆茲海峽 5國反應一次看",
-            "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPUU43a2Z0YXlZdE96RXlUMFNRNkRDaElKcTZtbFgyMkh1Sk84VmdxcGtnT1JrSE5XaWhyLVBUOFlqS3lTZnBfby13QXRoVmhxb0haWmJGMHpVUmVEV1VBc093TEZxS0VpV2VjS3RZOXFyN3E4R01XSElKZzBTWTVDbS1VUGdvMTh0dmRCc2xidU5mUVNFbXZQa0lnaUUyekZibGRuSlFMSXZUbmlCQ01FdlVsV0tnLXlzVTV3eVJJUVpmai16LUhLZF9iUjlrMlNPU2xlSWVFbTFKMFYxQUdDeUxDRUU3SE1iNUNlODBLT1lYNEZJTkNyTk0wWnZMeF9GbXl6ODJ0RDlfT2xvaTZVbTl2aG5sc3pqRWhFUUdMTHRQekU?oc=5"
+            "title": "蔣萬安同班同學挑戰張善政？法務部次長黃世杰回應了",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBKVVFYTWQ0aXhIVm1DaHF4OWVJbWRXWVI3UC1LS2s3NUVCamVpNmx4UUxmYzczRTYwWU54ZEpYczBSS2tDSllzT1FoRDNrNzVlWjJLa0VrT2xsX09HSzhRZE5aYUtUX2JiVEHSAW9BVV95cUxQV084UDNicThEV1Q1aURIUkx1bVBKUnRqLTA4VEQ0TE5UYzFpS0VrdzNkRmxCRURJT2dRNFNtSUROd1g1NUppX2ZYNFRIZUh1S1pBdXEtX0FOWVQxQ0l6cFFKWUxpaFhPUEtlX0JncUU?oc=5"
         },
         {
-            "title": "急！川普向外求援",
-            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5lMllQZlR0c2Q3cHpxLThycElEQ0xPR0p6ZVU1TmNIOER5Ynp2VVM3ajhha1MzRGZzUWlkLTVscnVsb3EzMTg0NjZGNm4zbUxFT01B?oc=5"
+            "title": "蕭敬嚴發文道歉！他再開砲：真正反省是退選",
+            "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxPbFdKcDZYS3h6emtnOVdrcGh1NmRjaGZ0RTFoa2tNUGlnbTZrMXlLT2t3blpxN2FDNVZhODg0bzZCUVkxX1Q0QW9NU3NlNE9YVjA3YmJmRHdLX204MWlNQTV4aFdKdHhJX2kxRkt0RE1sVnBMVkNVQVY2Z1JGOTFHR3ZVajVTeGQzZUdPOVNoSGkwQlZKbHROZDE2SGdYMlY1Ykk4SnJ6UWpURHQwRlpsNmQ1Wm5abTZzRDdpcnRpLVB3dFQ5MGhacjI1TDhvQUFHZllWbFNjdklWNkpLTVVZV09rZmxrdWh1UGZTTzFBaFJBYlJBOFVsOG5NY1QtMHg5Z3Vha1kwVEJTa1JhYmt6eWVmWDNMd281UEpTX3FJcTYtWjhxZmxVSWpjT2FnZw?oc=5"
         },
         {
-            "title": "卓榮泰赴日遭藍白攻擊 謝長廷：如果說不是私人「日本也會翻案」",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9OUUJPbFUzUmRxTms4TUN2bjVHUHhLTFlVbW1QOXFMei1yejBRX0lUV0pPbkItM1I3eEpKMkw4S254V0o1Ujgzc2I2LVpULUh4bExFVWlPajlVY1U?oc=5"
+            "title": "卓榮泰為何能順利訪日？ 她揭牽線人萩生田光一向卓揆提出1條件！",
+            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ORDRxS0RhQWVyU1E0VEhzclMxbGl5R1cxWEVCYjFrQ1ZsdFd4bkRvbklEbmRxWHVyY0tucFdsMDcxV2V4cmFyMzdFWlVrMFFMRDZ4ODkyUU14eHFUUkF6VTZvQThMd9IBa0FVX3lxTFBSYlF3Qkl6UFhaNFlVUGIxTm9Cek94YmdSNnpUMGF0V2F3ZWk0cHk0QUlVR2JqZFR0aS1rU2k4TlZJY3pjMkp2RVVWZUY3Wm5FSjNNT0dBU2ZkRWdiSWpOZFFVUTdHaGM1Ty1F?oc=5"
         },
         {
-            "title": "川普稱中東史上最強轟炸行動！ 美軍攻擊伊朗哈爾克島影像曝",
-            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9KZk9NM2FNWWdHaEtPOWs1YnF4SHkxOW4zZUMyTFB1X2lyQlk1TlRHRGQtYVJnM1NESkdwM01TaWRjcHJhWFRuNTlLZnZCTlRnd2cwam9INW83aFlXdWxEd1dMLXhHZ9IBa0FVX3lxTE1vVm1ZWjRiNVYxR09DbHdLMHZZZlBLdkhWLWN6WHJMWi1zOHZvQWZ0aXRaT0M5bm01WWZXNFlaYjB5R0pQUXhUODZIU3J1ZVUxODhmSlhGTjd6NzNxUGpLX0VlVGswNVJZdTJN?oc=5"
-        },
-        {
-            "title": "賴總統批國民黨對台灣人比日本殖民還差 翁曉玲懷疑：賴清德是日本人在台後代",
-            "link": "https://news.google.com/rss/articles/CBMi7gNBVV95cUxOTGp6MFRFTHVHNVRBdURBNktiLV9xMFBZYWt6dnJ3QnZTdVZ2a0xqRTBWdzZSa0FNaU1idmRoVG5zNHNPNm1CRXlNUGlOd3dOWk05bGhSSW4zVkpOUDJXU082Wk9iRk1BS0ZMTk10azFNUVFoSEcxbmRsQTVMejJZcWRYbjRMLWdtODN4aENmQU43N3FIc0dBbXVCTEs5ZUpIemgyd0RwQTdJeDFRN1k1VldkQnlvNG5tSXhWZjhjT2djTGZTNTk5RVM1d1dZVFplUlVzNVhpYkM5ZmMtYVdqRUxwNl96bXNSZWdXRkZvUWhialBOVV9wMVRGalhCeGQ2YmdpVlluSWRka1Nmc19LV0hTbTJvWVZEOWFJY09UQ1duWGg1VF9rX2RkR2IyQXJnN2FLaHVLV3BQN3N0dGVDUDJPNjAtdE9yYWwyNUhiWEJyZkNLSjdPQTYtbUk4N3JFblppcDREME5tTTc3TkhaTTRfdlZFRTZKSlRvRXFieWxTMGlpdGtEcThLZTd3SzU5N09wT1I4ZWFqM2x1QmNsR2lhVGdXbHR5bnBLYmlKMERsMEFsd0ZEakxGclA5U1FGcTVmUnppM09kY3V2ZmkxRzhfdEFHMXhDN0ZnSDBIeTlEQ3NKWHZpREowT25RUQ?oc=5"
-        },
-        {
-            "title": "民進黨桃園市長提名有譜？ 法務部次長黃世杰可望出線| 縣市長議員選戰| 要聞",
-            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE55WWxBWVU5N1NrODV6YUROOWM3SUdiVVR4bVA4U05hSEJhcUs3MU1jazdmX2pXZDMyam1RbmVpaWJDUW9fRlA2OEtRV29zVzduU2FJ?oc=5"
-        },
-        {
-            "title": "「橘子被我罵不爽赴日」柯文哲：是我也不會那麼白癡回去給你們關| 政治",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA3YjNlSVk1TlZIT3JCb2Y2VF80Q0F2ckNaTVZKTEdfZWllRkpHa05jWjJGbzZVSWtLRzlyVjRfQ3BMV0JfeWlhemJxNWExVl9uTTZlVjEtaFRpdlU?oc=5"
-        },
-        {
-            "title": "地牛晃動！16:14發生有感地震 台北明顯搖晃",
-            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0xNkZiLUR1YThrU19SdXlYTEdMTEFTTmJPZWlOZ1NHTGRSd2tIRDZPN29HMlRkQnpDendlSnZkMl9nRmlEUWR6YWZ6bG00NmZD0gFWQVVfeXFMTnlNbUhHYnZhU21RNXZSS2ZfaHU5TGl3QXA0MkVKWXFjb3QzQ2hiYWJwQWdpMTlZZmkxR0tZeGQyNUVPSElER0FRZDdsYjhMWENDa0gxVWc?oc=5"
+            "title": "台灣燈會接駁車引導「很洗腦」 工作人員背景曝光",
+            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5VeVA1bHJzWDZtWjdMeXFkNnpqbnFfUXdBNlJJSUpTVTNmeFU1RUxBSVNZNks0aGt1Z21FUldOV1lSclhRMzFtcWtBYjMySzh4Yll1bVlkS0hBNVpyVVk5dG8zbnnSAWpBVV95cUxOdTN1XzZyMDB4THhsRk1JdkxFdHo1bWNRQVJPM3l3ajdRb055MnZnY1lKLXdTaHJ4Tm9lckpwTE1kU1JYU2ZBQ2NhdzJaUjEzNlFoeXRoWTc5eXJhbXZnYlNCeHZjWFZzdmNn?oc=5"
         }
     ]
 }
