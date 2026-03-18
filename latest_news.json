@@ -1,18 +1,22 @@
 {
-    "updated_at": "2026-03-18 20:00",
-    "summary": "晚安，為您帶來今日晚間重點快報。\n\n【國際情勢】\n中東局勢持續緊張，傳出美軍以重磅鑽地彈攻擊伊朗沿岸飛彈基地，伊朗議長隨即發出警告。此外，曾是伊朗國安核心人物的拉里賈尼也驚傳身亡，為區域情勢再添變數。\n\n【政治焦點】\n國內政壇，藍白兩黨已拍板縣市長選舉合作協議，未來將回歸民調機制共推候選人。立法院則持續針對非法陸配居留問題，引發藍綠立委激辯。\n\n【財經動態】\n台灣對中國投資比例狂跌至3.7%一事引發討論，有作家指出此數據可能未揭露實情，呼籲國人正視。\n\n【社會民生】\n台南今日發生一起死亡車禍，一名機車騎士不幸命喪砂石車輪下。大學繁星推薦放榜，全台共缺額922個，其中醫牙學系報名人數呈現下降趨勢。另有橫行多時的「拖吊蟑螂」集團終於落網，預計受害者恐達60人。\n\n【氣象生活】\n氣象局提醒，明起全台將明顯變天，氣溫預計瞬降達六度，請民眾務必留意保暖。",
+    "updated_at": "2026-03-19 07:44",
+    "summary": "早安，為您帶來今日上午重點快報。\n\n【政治焦點】\n台灣與韓國因入境卡爭議，我方擬反制。柯文哲預測年底部分縣市選情恐藍轉綠，並與民進黨就京華城案持續交鋒。蔣萬安批賴清德勿美化日本殖民。同時，有學者呼籲台灣應主動表態協助護航荷姆茲海峽。前澎湖縣長陳光復也宣布將參選到底。\n\n【國際情勢】\n伊朗前國安操盤手拉里賈尼身亡，其權力之路宣告結束。\n\n【社會民生】\n北部將迎鋒面降雨與降溫，氣溫再現一字頭。大學繁星推薦放榜，共出現九百二十二個缺額，其中醫牙學系的報名人數有所下降。",
     "news": [
         {
-            "title": "美軍5000磅鑽地彈重擊伊朗沿岸飛彈基地！伊議長突發1句話警告",
-            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAzTWRydWVuOTVuSDBCY1VsMVhKZkIyemQ3Q19lUjNSWFBTOXkyTE9nX2ZIbXE0TVpPUXJRekdaYkRkd0hJZDBURkNRNVhRbk5TSl9J0gFYQVVfeXFMTkprVUVydTV4ODM4LVBwZkczRGVaZ2lPcFhLbURvVnpyVVgzSlBBUk1VbmpjaGFTazlmTlJzSWJMOU1FX0VvMnRPRFdORDZLMHdsQ0Y5RW1SMA?oc=5"
+            "title": "要變天了！鋒面雨將至　北台灣轉雨降溫再現1字頭",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9yazRYdFlsTW0zZ0VBLWhIUXJTTjZ0NmszaVlHaU9VWkx1RkphbjZDS2lzcHlMM2VCSVphNE9iUGNLUmkxZTVDaDBvTTNPa3RBYkdXWVRXc0w4SUlMOFHSAWhBVV95cUxQNFM4WkN0OFhLYk80QlotX1d2eWhZRGF2ZFZPeFhxNF9JX0FNUVY0ckExUTEwQUljZXBMZGVQa2FyOEpWMDR2U3lNY09QLXJqYzB4SzFMT0h5YUE3Y0gxN3hNbmFaOUFaRg?oc=5"
         },
         {
-            "title": "淑麗氣象／明起變天！溫度瞬降6度 回暖日期曝光",
-            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAxSE5zd3BqcS1Tby1BNGRKYk9qWE5UaTdJNDgtVm16VVVOdlMtZWtsMFdrUWQzTHpILVNnUEJoWml6ZHdoUVhqYTlkcUhnakZkOEloNw?oc=5"
+            "title": "韓國入境卡錯列月底前若不回應台灣入境卡擬改南韓反制| 政治",
+            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1QMGc1VGlIbVkxZjFiSnQ5amhzWlA1czRGU0hWdWxDUXNMNmhlV1QzRGdvSlRndEhOUnptYXRRX1BSWWlzRzh0OV9ZMUZpdWgwWTVlazR5cVRxaFZNMTBv?oc=5"
         },
         {
-            "title": "快訊／台南陸橋死亡車禍！機車騎士捲入砂石車底　命喪輪下",
-            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1BekZURmJ4YnZURzB1UTBfeEdONTJocU40SGp0ajJwTzIydmpRV2FlZ1dsb3Z4QmtOZ3N0aEJzRldWYk5FbE40Q2ZRNURNSHVRd0U4dTRxd1BwTzBBRFHSAWhBVV95cUxQa05Pd25hbFVBSFJDTnpWVTJXV3lKMTlaY0hLS1RnazdKTXk2ODZSQ3hVdHBtYm5sTjllRmZxR3NfcVJ0bk1wZl9uc3dyREVFaHFMLW9jTlUzU1pKaWRhczZabDhCZzFnRg?oc=5"
+            "title": "柯文哲：宜蘭、新竹、彰化年底恐藍轉綠！「不知道國民黨為什麼如此樂觀」",
+            "link": "https://news.google.com/rss/articles/CBMiqANBVV95cUxOQlpBTzhZdTNPb1ZFb0Y5YTNlYlVmY0drUGZtcEwxaGZ5QkNkQ2RZQmxFaGxLVTJYeTdzb1ZBZmtzVEYxT0dQdHhrdy0xY3lwQnRpWWJ6UEVvS2NiVXBVYUZyTEhxdzhxTWFPaTh1ZGJYMmNWa25CUE82WTVrUWZLdk5mODc5SUhrSDNRYkw3OTlaS1U2b2RNdXBSX2VFeExlZUhOUUJoWTY2Tzgtejl2T19pelAtdmVOcFB0UEZSVS1RUkpiM2xzWGVuRVNFTVhiX3pKQ0dWVjVrdjlDSGlXUXNVU0JLT3N2TFphckdLVU00Xy1lTEhfQlFRWmZFYzhVSnJ4b01rR2xWRmc4dHFxYWVFaVgxOERTMUZCWGM2RXF0LUdaRGRMcWx5NUFpVkluRkJpLUJDZkVFTmh6ZEQyaDFueC1yeTNTR2I5LU5GOVh4T0t2VktkVE1LRmI3VkZlQnVkY2FiYzdRQUFhcUk0ODJfZW5ndXJOdk9wdnZMZ3RxLTNiX2lkaVZ5UWFmOXZDTW9VeXlvZXJjMTFoNzRIRXBYMzd4MDBy?oc=5"
+        },
+        {
+            "title": "川普籲護航荷姆茲海峽是機遇？矢板明夫：台灣應主動表態願意幫忙| 政治",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5HUC1fczJ6R2NaS0pGLUFmcHpMWkFlZTZpWUY4YlhubHlya3loS3VEVERiYV8zMGtLcHVMM3lGVDU4N282d2w0SlNTSDNvYTFQbzlLWUphZldCUWM?oc=5"
         },
         {
             "title": "拉里賈尼身亡權力之路告終曾是伊朗國安操盤手與核談判核心| 國際",
@@ -23,24 +27,20 @@
             "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1sYUJlRzZwQUxpa1VlS2J0RjlEZDI5OUF5bEhPSkMyQnRpUHktXzhsMjBzbkxWb1U2TW05aG02ZExmNDZzajhodTlWcjEybVNM0gFWQVVfeXFMUEM0UVluTS1yWXozUGliQU1MUlpzRXUyc0M5M29nXzNuQUU3N2dESmFUZE8zQ0t6dWRyNmthc3h3WmpiRE9jd0J2R1UwSEowdFRZdmZXQlE?oc=5"
         },
         {
-            "title": "終於落網！「拖吊蟑螂」漫天喊價 受害車主恐達60人",
-            "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxQUXVLc0FkSU5XeXQ3Tk1yc190aE9pNnlDU0FOb2llLVJWbTc3ZHA0b0R0ODRIMGlqaFA3emdrZjhrSlZoakRpdkZYeHNlWVJYa21SMm5HTjF2NDdhRnZnbDBOUzFOS25KMjdpS1dkZ1pWWS00VmhSa3NyNFlVaklBRzQ5S0N4UzdDUGludHdsNFhYYUVnVVE1NkNzX0dIZm1kX1NrUEwyNWpsQkdaOEZ5MEhOV2NtTUhYODRidGdzUTZxQ3NwRHJjYzVQWGlvSy1LNDRWN0NNR0pjclhVX1RsSUpQUTNWRG9ZRHNHelJ0QkZtTWR4bFZsQVE2OTB1c05fX2FVdUg4dzNrMVZCbV9DdERkY2pCODhSR0dtZ3ZZVm44UlpiRGRSS2o5Z0xYeDdOR1YwR0pJRXpGdHRGSVE?oc=5"
+            "title": "蔣萬安批賴清德勿美化日本殖民2.2萬網友震撼表態- 政治",
+            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBid1RQWG9RRDczNkpaSzJMQ3RkSEhSOGRZVWk0VGVYdVBIVHFwbXBybkNZQ2hGZmhKdXBXVnRYTGVtWFp5VjZValpjbFJXSGEyZ1cxSUtla3ExdlBiVHBJUzFKeHBudnRYbk13SFh3?oc=5"
         },
         {
-            "title": "藍白縣市長合作協議拍板 回歸民調機制共推候選人、選後聯合治理",
-            "link": "https://news.google.com/rss/articles/CBMisANBVV95cUxQOWxhSG5CQWNkY3B4dndfLXoxRlQ4ckNpTERqMTJBb2hUZVpRYXBDWTU0RzNBbFBGeE5nQkdOaHYyc3VrOEw5QnJrd254aFlLNDJfYUV4QW9ZckxBNURBZTFjbEh1MGtEOTlZZ3gtdElMMzBlVkVVMXpKZURqZEpNNWdaN21ucE9CNF85cVo4N1E5NHhJcXZWUjRfMGs4Njk2RnlCdXJ0a2xHNXotWUQ5ZG5jdXAwUmNvZUNLZ2FIbjRnZEJyMTZRSVNIYldMUzZKTGlTbnhCYmh2UEdBcWNrOFlpUGFJVGJYU3JTbWVYcVhRWlpBTmJVOUtfZjJtTWRfOEV5cm9valgwb2RsVVZyTjk0RlR5ekJXUC1XWWdiUE5HOW1PS2szWFpYOWRweV94bFdzMGhMTlNpQjdRNzBkaFdoaVpMa0c0UkpjdUNGVF9OY3o3eldFQjE1N3NzTm5iOGdGQXJsQXhUeEZadUxIemh3WmJkT3JzczYzYjIyTTRIcFVVUkJRSHczaEdrMWN2eGV4RDlMcmxNd2FUaDVJLUtlNnhFRWU1UFA5NUpwUnQ?oc=5"
+            "title": "「頭蓋骨才剛裝回」 陳光復不服輸發文要參選到底！",
+            "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUktkUEJSWWdYMEZJVHBsdlowXy1JX3VsbnpiRmthTzQtZ1lqOWdFaV9QWlAyNmFsVVozSV9sNVBVanA1eHFJamJZaTlxZG1FTGRyUlBwbEtWTlRVTlpVVEU3bHBjLTVBZGFUZWwySkkxb3FoelRPX3FrdU9pUVJTSFVSRQ?oc=5"
         },
         {
-            "title": "馬文君要求尊重李貞秀 劉世芳嗆：別包庇非法陸配",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9oWUZiT2R6U3RvTU5aRmVvbkx3bmFuZE1nSGhDcDVpSXFhMFpwZ1EzcGRWUUVzTDhQZnlYeFFVQmFHNlBrNTd0WXBnalZGeWRobzJkcktiMEZicnBCR0VyQWUwVXg2WlZ4Z0HSAW9BVV95cUxPb1RIZVY3ckdEX0F2aVRqWGJ6Q1VXZ2s4NW93WUEzQ3FaMWFPT29lUGlveUpXaVJtZFpjQTYwZnhHOWVDekZtR0MxX21uMGwxM19yNzBBRWNDUm1Wa2R5WDFXdVcyQVdNdUQ1Q2JyTVU?oc=5"
+            "title": "柯文哲扯賴清德追殺政敵 民進黨：檢舉京華城案的是國民黨",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5LZWpIQ3I5QmtveGNoWDcyQ2JDQUdGS1gwQ2dwZ1E0SkRqeVVoMzFjU1luOUZTb0Rxc28zTjhVYXBBT3ZFMHFfWjZMSTUxcWwxRVNoTnpHb3JNM2VLZzVDX0Z5VUFBbE5nQWfSAW9BVV95cUxQbk1TZFlwOFRCNmhpYVo3ejRvQng4TnJCOVZnQ3d4VWEtMnJlYTdHZlp1a2JqWHBDRTFUYktvdmE3RGdqTXVkcG1oUzU3WEhXb3JoVGY5OGZQVXR3VDdiT01uV1VFU2ZXSWpjTGNsdVU?oc=5"
         },
         {
-            "title": "國民黨對台灣人日本人差？美國媒體「1946年報紙證實」 他1點打臉藍營",
-            "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxObWp6dlhIcGROYWYxZmlTTENjdnA5cTBfbXF5WWtXVERDS1pRMXprVVJiZnZjTktxTWF0ZWV1dkxoaFRicWJzTFJQY042NzVGZlE1eUVORDlJYXJ0WVp1bm81WkhTWG5DdjY0SXdYdnpaUHpLMVlfVGx1d215dFZCTWN3T2NSRV8tRVdDQl9PMFBRdWJfWUo5NF9SRXVWdUZOdk1wUmJZYzU2U0wtNDF2QnZXdEs4UnhibjJOYU9pemtxd2VDZkdIRE5YLU9XYkk3a3BQRkRWa2ROa1dxZk5ZMTJDdkxmOXlXSnFobnZzYWFCc0Q1ZWdaTi1wWThlV1hYdzNOZFpTSnRicUtIczhveGlMTE1XRmxnNVFlRVVmeTQ0c2NPdVlyeVBSR3ZkeW5BeFRvZEM1SVdsVXJrbkd1WFZXX3BXOWc5Z2ctaXVsS2pTLTdsNFlxeFJwN3hZVlFyblFNNXU5aUJtSWRUWklRVWp1SVMyXzJKU2poVk9Cdm9Bb0taTFRwUzh6QmxXNEltT2JteENR?oc=5"
-        },
-        {
-            "title": "台灣對中國投資狂跌到3.7%？作家爆「賴清德沒說的事」：掩耳盜鈴、唬弄國人 | 李瑋萱 | 新聞",
-            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE80UWtZLWx4bEJVQ0lXZFdBcWxfcGoxdVZJcW5FSWRodUlTZkZVd2VsY3R3SDQydFRLTmY4YWdpZmtnQjlsUWZmeDA3R3FhUQ?oc=5"
+            "title": "李貞秀質詢遭疑「雙重國籍」 國台辦護航被綠委怒嗆、網友嘲笑",
+            "link": "https://news.google.com/rss/articles/CBMigwNBVV95cUxOMVJmd00zSkZCOERaT2FqLTdDNlZqOFBMY253cWY1dy1jYlZIM1d4SmU3eUhscU9ncjdlUTJwUmRwWHdhbUVYSlJoT20zRWZaZXNmQko4VjRyd2tGSWRaX0puZ2hFNjhMS25XZ3lBODlrU055dDcxNU05UldtOWVteEVHY2s3RVlCblUzaFRxc1I2ZWNPMW5rdE5KUXlrMWJhZEF1ekNOc2JXbE5YdFpZZGdTaWZ3eVB4c0hrSElHSWdPeXZ3MV9WYk5nZmNWbzJ2eVlxazRkY0dPTFRGWHZaeU0zY2dZLUZqTERMeHd0MVA4Qlh6U2hxN05sZllmS2VJcUY2bEx5UmlDZ1VFTWMtdmtSbmY4XzdmaGxGbmRNNWlnczRndmIzRE9PVmFlYWdtM2pwZ0tFWkhPV0VGLTgtVTJ6UGJVNWctMi1iTnlhNk51TmRWQ0ozeFAzRGoxck14T1M4cmdoVEpFcFhGYU1KYWhrNldTOHZnczl5Q0JISE1xcFE?oc=5"
         }
     ]
 }
