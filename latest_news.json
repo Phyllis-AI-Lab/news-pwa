@@ -1,46 +1,46 @@
 {
-    "updated_at": "2026-03-22 19:39",
-    "summary": "晚安，為您帶來今日晚間重點快報。\n\n【政治焦點】\n總統賴清德拋出重啟核電議題，引發反核團體質疑，有聲音稱總統可能早有此意。行政院長卓榮泰則因油價問題發言「經過加油站應跟中油說謝謝」，並稱油價原本應漲十五元，引發討論。國內政治人物爭議方面，被爆雙重國籍及未當兵的李孝亮已公開承認並表示將負責任處理。而針對陳昭姿的「一邊一國」言論，也引發評論員的犀利觀點。外交部則傳來好消息，南韓官方入境系統急將「中國台灣」修正，顯示我方反制奏效。地方議題上，川伯提出大巨蛋選址條件引發批評，江怡臻反擊戴瑋姍「無知又翻車」。\n\n【國際情勢】\n中東局勢持續緊張，伊朗飛彈重創以色列南部兩城，造成超過百人受傷。國際社會高度關注，二十二國同聲表態願意出力護航荷姆茲海峽，並以最強烈言詞嚴厲譴責伊朗。美國前總統川普對伊朗說法的髮夾彎，也被《紐約時報》分析指出，是因他面臨三項意外，且認清德黑蘭是另一個層級的對手所致。\n\n【社會民生】\n迎來好天氣，明天起全台高溫將直逼三十度，民眾外出請注意防曬與補充水分。不過，氣象預報也同時指出，北台灣及東部地區下一波轉雨時間，提醒民眾留意天氣變化。",
+    "updated_at": "2026-03-23 07:45",
+    "summary": "早安，為您帶來今日上午重點快報。\n\n【政治焦點】\n賴總統拋出重啟核電議題，引發反核團體質疑。行政院長卓榮泰談及油價，稱原本應漲15元。另有副市長李四川被爆與天道盟成員會面，以及立委陳昭姿護航李貞秀國籍問題，皆引發關注。\n\n【國際情勢】\nG7對伊朗發出強硬喊話，要求立即停止攻擊，並準備守護荷莫茲海峽安全。同時，以色列南部兩城遭到伊朗飛彈重創，造成超過百人受傷。此外，台灣反制南韓入境卡標註，韓媒指出首爾正受雙邊壓力。\n\n【社會民生】\n天氣方面，明起將有三波冷空氣接力報到，請民眾留意未來一週天氣變化。社會事件則有女兒心疼律師父親遭甩巴掌，哭整晚的事件；健康議題則關注前議長因一摔臥床十年辭世，醫師揭示「72小時生死線」。",
     "news": [
         {
+            "title": "明起3波冷空氣接力報到！未來一週天氣趨勢一圖看| 生活",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1keHFwUzEzMVpRVDJfWjBuNmVyNW1laU5qT0tPYlpYUjg4OUpCUnBqT09GU29TMnFRT2NzUmZKQXBHRDZuQXA0V0llcHoySExMYWxvRDV6X0hMY1E?oc=5"
+        },
+        {
             "title": "賴總統拋重啟核電 反核團體：可能總統以前就愛核電…只是沒讓大家知道",
-            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5VTVVVeUpHaHl5aTgyYU83WnNYVXc3NUxlX0VEMk9fYXZQU290TFlVOTJCWXpvRXEyMFZWaGxaQzM5WUVRQkpTU3dTY1lsYTZ0aVlF0gFYQVVfeXFMUHE1cUJIMVZQNFRRbFhQdnk0NWc3bjkzQzJrUThlS25obTZvZjlWdkxuM29PdWdVd0VzVGxzQkFlOE9LTXhUYjdwbkhyNzk4LUt2Zi1CLU9oZQ?oc=5"
+            "link": "https://news.google.com/rss/articles/CBMivwNBVV95cUxPVlJ6R0tuV2F6RmVqR0xUT0NhRThvNmcwZFBUcWVRRnpRejNRcXVqRFVzYW4ycGdGU0VZVzVPOS1hN2gwVXQ2TlJLU1Zlb0xDRUh5UThJdDBJNGdTejBmN0RtVXJzUFJxNVBmdzFma3JQN29nNHdNSDF2dzByMWVySzFpWXdYZmtSZnlZR2xQbThBVmwyb09mRlRZX3Z4YU5DYnY3dmZ0M2lEUEVzU3U5cUdlb3JUTkxhYlE2V2N6TFRaSnk4TG4zM3drR3YwTnowMU9zb3hmejljNWl1NjljUEo4QlIxdWQ0c1o5ZklTMEI5R3dGNzhCVWsyd0p4ZHhpWXJzR0w4a3ZTbnd1NXFNT3lyaU9UV2tfTk9yRmJkS0dQMEpOeDVrNnJ5QWR1OC1wTEZLZDMzRmFfQzVKeXNXWkFqZ2R6U0pEUmNVcGZPZmdsWUg4Wm43cWh0M1ZkMmVwb1B1eExJR1Z4N3ExTVBMdnh2S3ZJVVFUV2w5ZnJLMXdBMjFXQWpSM0JKT0VWVkJWbWhDM0lVR2o5aDI2T3ZwclMxdGNWS2ZkdTJma09lWU9CeDF4QU9kR1FjcTVzZFE?oc=5"
         },
         {
-            "title": "影／「經過加油站應跟中油說謝謝」 卓榮泰：油價原本應漲15元",
-            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBHQlhielRXbExnSXFrTGxMbEJTQkZwT1pwdThwLVdHVEV2VHd1dGVROWx2anVUWHB6NzZPaEpXRHNhU3dUV2dZYlBBeXAxR2Nw0gFWQVVfeXFMTnZhUThIM2k0dEg1bGxmamxzaVlwX1JwX3U3MVdCUHljWFRxMjdHRnFhWmdaODYteWlnX1VCZGthOC1WbXlyOVUybHFSYWFwc0kxR0JwUGc?oc=5"
-        },
-        {
-            "title": "迎好天氣！明起全台高溫「直逼30度」 北、東下波轉雨時間曝",
-            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5NV0xrNVB1aUJHR3BWQWpDeW1NZTVTamhBUlE2Njd2UW5RSTBPNkpKa2VLR0s2d3BGV1dJU0xfWm1tcTI2N0RkOEk5c1FrY1c0NmUtV3k5VGVQVzBGVWVmNUtGTGjSAWpBVV95cUxQMUprcm9EVmltUGZrc1VJalhTS2VvYnd3ek9zdXVXdDU0SC0tSWtiV2ZwdTFqaHlGOHpadXVCU0tHaGYwZWtTY1VZRjdLNEphaldIRzlXM0ttaHRvTURJUWpyVU9kWXVMLUpB?oc=5"
-        },
-        {
-            "title": "22國同聲表態｢願出力護航荷姆茲海峽｣! 以最強烈言詞嚴厲譴責伊朗| 國際",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE53ZGJQaHE2Wl9BakZUN01ESllwMlNReXZtSGV4MmhzaThhNXlsd1JROUwwSHpOTF9OVWUzQ2xuZUhaVVVpV3BHOU1uLThmNWlZbWtleldaX01GVVk?oc=5"
+            "title": "G7喊話將出手！要求伊朗「立即停止攻擊」 準備守護荷莫茲安全",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1nOUx2V3dYNTg4dHExdFFoQkNUeEdzb3JYZ29QS0hBY1J3VnRfWnlrNWJBdWg2enZpRkEzT3lEeUxVdEU4WHJWNzcyNWZpS2ZjSVc00gFYQVVfeXFMT21FN0pYUU94STl2a3lGb2JsTGVMX09JV0hxc0ZDVWNSZkl6cnhNa01DLUJGWnB4Q2o2UDFCVFR6UmRMblYwRE1OT2VMb0JXVHlhQ0hlS2U4dw?oc=5"
         },
         {
             "title": "以色列南部兩城遭伊朗飛彈重創 傷者超過百人",
             "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxPZnFBcVlycThoc0diZnV6UXptOHBHTkFUcm5kRDIta1pUZXlhaHBxWGtmRHpUeWgzVGNjZ19ISnVManlKcUNwb0kyZVVmNFhDaS0tUHhYbV9GaVFjTlVDQ0tvUEdwTGljd2VCR1E4eDE1Z3E4UnZ3X3NZdTdYOGl4TE45eno4MGhURG9ET2FxcmdJV013ek9NNUdGWC14a0sxWkVWNVpDVmNwNnQwSm02YWRmbk80WjkzdEttLWU2ZDJGOFF2VVl0ZnN1XzdabDVhVjd6aFBmX2JlMUVQN19lWUhieUNLdEVCUWdYaGw0V01ZNGxKMHNFOGxUR05XV1J4Smo5N21CcWxYWGZZWFQ5VU5zZEdydTFDMGY1WlU2SVh5TExhWkdEZGpUQTVGUFA5ZUdfTEUzSmQ4NS1mRERRTkRfckU?oc=5"
         },
         {
-            "title": "為何對伊朗說法髮夾彎？紐時：川普面臨3意外 德黑蘭是另個層級的對手",
-            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1FYUNhOEpSRmhfUG05cVgtWFZ3ZW5tNU5YN1dVeGxhcmQ5WE01TlBWb29YM1NTV202UUJIZGtVcy1fdHQ4M3ItSF8zMzM0NXB6QVhr0gFYQVVfeXFMUHpGTWxscXNFWjVQTzFnVm5zaVhKYkRJbHlJWUFoVmZaUkh3dUlSMmw3N3hHRm5KdDVtWTFPNUp2cGdZXy1Xel9ZN2k2Y1lER1ZGYzk1ZjdBZA?oc=5"
+            "title": "影／「經過加油站應跟中油說謝謝」 卓榮泰：油價原本應漲15元",
+            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBHQlhielRXbExnSXFrTGxMbEJTQkZwT1pwdThwLVdHVEV2VHd1dGVROWx2anVUWHB6NzZPaEpXRHNhU3dUV2dZYlBBeXAxR2Nw0gFWQVVfeXFMTnZhUThIM2k0dEg1bGxmamxzaVlwX1JwX3U3MVdCUHljWFRxMjdHRnFhWmdaODYteWlnX1VCZGthOC1WbXlyOVUybHFSYWFwc0kxR0JwUGc?oc=5"
         },
         {
-            "title": "遭爆雙重國籍+沒當兵 李孝亮認了：以負責態度處理爭議",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBxemxqN1otczU0ejRTMkV2Y0ZWUWR3WGhXS2MyU0dXVkdJWWtfeU5CdWpQVVBoRnVIbFdFRzhpZkZpell3ZGhZdkZzbk96MlpkaWpMRU4xZ2JJbzVqTi14S0dGeWtyWmtmWEHSAW9BVV95cUxPTWxrU1NSRUpfX2E1emtBTmdKTzlhUW53VkVMTGUzbW5JWFNRa21hWlBJcE1SUFNVaE9jZVJteVRpSWNHVjhWNEJYM0tPQ0xURzJCcUUwQ0lWOFJYQTBva2hZdk1zeXpULTJLd1N3MUk?oc=5"
+            "title": "台灣對南韓「入境卡」標註反制 韓媒曝首爾受到雙邊壓力 「要被尊重必先自重」",
+            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBoYUZyakpQSEU1VGNLM3BzbGVCMC1ZbnFFSUF1cUx5TG95alBONmhQUm5hYURjenpiTmQzX3M1WEVwX2h4S0dSaTVsZkNEQ2Eyb0pxSW01cnd3Z1VaR2N30gFkQVVfeXFMUEJzZUdCWHp5VHRsNFRCM2t1VnR0V0hSMzFWQkd0aUoxS1FkX2h2bFBmNmlLRURsZy15aENfQ1lXeDlpYnFQQ0NLZHlkZWhkYllHMkwxSW5Fd0tPYXJYQkU5emY3ZA?oc=5"
         },
         {
-            "title": "管仁健觀點》陳昭姿嗆「一邊一國」是反串？還是失智？",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBqb3RUUXRJZ2E3Ql9pVlRZRzl2QkJOYjAyZWpFYU5EdWEtekZtT2J4QktGMWNnWHF4WkhDZ1UzTEl6c0xkSzFxVXhjQ0N2Z21sYW96UXNIQkRDckE?oc=5"
+            "title": "「拔拔我不當律師了！」女兒心疼遭台中惡女甩巴掌哭整晚 吳中和發聲",
+            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5vNk1zZk1EOUdYVmFha19kZUppaW00VXpIQ2VHdzlBdlY0RV9mRlpSNU1HWnlzZjVUaXRxTFdtM1hqRVlOa2x2cGZRRnhKMkxPUHlpaTBpczdIWWJnclU3RUZqUk4zbHN40gFuQVVfeXFMTkZnT3JUMVJURGtPUlBJVkwzVnotMjFrWHREdlVHaW1MOHB5dU0tLThWVjlvc1lrZnVVZnk5bGFRSV9ibGJIY0xNalVuWXpDelFJNGFmQU5hNEYtV2pkSFhlVFVhUnptNkVPMHVUMXc?oc=5"
         },
         {
-            "title": "外交部反制奏效？！南韓官方入境系統急將「中國台灣」改了",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBHYU9MMkR2WjBnNklLZ2oyVXVhQTlHQ2dNQ0ItbXIzLXF4M1gwYlRTUXdURU5yQmlmYkdINi0weHJiWkJUWmF0LVBXcnNxblRnSUttWV9MTlp5cWlqRVR5Y3VPdklHb3hfc0HSAW9BVV95cUxPYzJJcDJrMVhUTC1RWllQcW5rZXNYaGU5UG1xVHlnRTN5cU5JLTJyVDRpdFN4eVQ1aFdPNHd6LTB0TVkwYm5CVXNhYW9VN2tKUzRLNnI3X2o3UjZuaTYxbEJIQ2p6V2RmcWJfellhcHc?oc=5"
+            "title": "健康網》臥床10年辭世！ 前議長一摔成關鍵 醫揭「72小時生死線」",
+            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB4Z0hLRi1Kc21MYWowMURmekR0UUNjRjVmYmdjUGlvZnc2WEFPelZPX0NsOGs5RHM0MkFOcjF5dzlZNDh0ZU9WMUhLVmVZdUpQaTZhTkU5ME9rQlhFdkh6OWRRSXnSAWpBVV95cUxQOVBTcmFUSHlldEU1NVF4dVBxeFpJX251WXNYYkJyT0RtcnlBVEtqVkdPNFBWZS1uWUxQUjVSY1A4am9teFpZRndtQ0haT2RObU5VR2dqTmozS2xvUkVURnpwWTFpeHhjczJ3?oc=5"
         },
         {
-            "title": "川伯提大巨蛋選址3條件挨批 江怡臻反擊戴瑋姍「無知又翻車」",
-            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1vZFdoVWJaRW1vbWQxT20tbEkybUljY0huSk1GY1haOWxZTWZkTkx6cmVyVXd6aWRPNTVlYUJqV1BJN0RFWE15SUUwY0V2cHNzbExNMFlLdW1ZZjE0SkJ6M0NRN2NNX3FpRlc2RFhB?oc=5"
+            "title": "李四川爆合體「天道盟天和會副會長」　不公開行程意外遭曝光",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ZeFFMbDRFalVKLTB6MVh1a3p3NENFNEhNaERxMHVTNEEtWl9xTU94QjAyd2dSRWhSaEtLTjJUQWgzeTVnT0NiX2ROXzJwTTVoLVhlTEY4QWVMTFHSAWBBVV95cUxQSmltWWNmYUtUbjBmbFc1c3dFYk41UFFhSHhXdW1nUEYzYWpLTkR2Q050cFI2MlU5VFNtUktkaV80RFRGSm1weEgxalVuMktfd0pIYTY0VVlmYWc3Sk40b0I?oc=5"
+        },
+        {
+            "title": "陳昭姿昔喊「一邊一國」今護李貞秀 謝志偉諷：那李雙重國籍「無疑」",
+            "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPZnZXbmdNYjFoY18xWHJ2TDdkWE41SmluZnpGNE1La0R2MHJscWtIUzhPT2FmMkNLVUNSMXVRdjBnU1J5S2QxcjcxRTVyZjdiNWdyTm5JVUpHMDVfa28tamd1cFVfbHBONWxuS3lVVVZFTENjOEhXYlpIeWIybFBGZE9iV3lFT0x6UjJNZTVKUUViXzg2UWdRdjVHSlZlWG9FUnF5VmRzbWFRZU5GZENreGxOTTRiM2FJMDNvMXlSZW55TDBocWNIeUVhdXdYUjB1NmUxY1Rpb19oZDlLZExzUjctTHg4OS1pWDg1bGplbUVXWXRFYTFxZ0hwZjFjemVQTXFrclBzeUxRdFBJSGN4SFc2RGRyRFRZ?oc=5"
         }
     ]
 }
