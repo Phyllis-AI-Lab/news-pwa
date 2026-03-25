@@ -1,46 +1,46 @@
 {
-    "updated_at": "2026-03-25 07:48",
-    "summary": "早安，為您帶來今日上午重點快報\n\n【政治焦點】\n京華城案宣判前夕，柯文哲相關爭議持續延燒，沈慶京突發文引發關注。金溥聰證實奉命驅趕馬辦人員。蔡壁如護航李貞秀國籍爭議，以及賴清德重啟核能的政策辯論，都是政壇焦點。政院對美關稅談判重要貢獻者顏慧欣病逝，表達萬分不捨。\n\n【國際情勢】\n紐約時報披露，美軍擬調派82空降師協助陸戰隊奪哈格島。另一方面，川普點名伊朗戰爭「始作俑者」，讓特定人士成為代罪羔羊，國際局勢波瀾再起。\n\n【社會民生】\n前中油執行長徐漢涉貪，拆除電子腳鐐潛逃六天後，已在台東落網。同時，涉88會館案潛逃的「賭王」林秉文，驚傳在柬埔寨遭狙殺身亡，刑事局已證實。",
+    "updated_at": "2026-03-25 12:29",
+    "summary": "午安，為您帶來今日午間重點快報。\n\n【政治焦點】\n馬英九前總統就洩密案發聲，表示心痛並願接受司法調查，但幕僚蕭旭岑稱馬前總統對細節有所遺忘。卓榮泰院長則指出重啟核電是為防範共軍侵擾，此說法引發討論。綠營台北市人選未定，周玉蔻嗆聲若提名特定人選將扔雞蛋，王世堅則酸言回應。此外，獨家報導揭露中共官員關心台灣中配立委接班問題。\n\n【國際情勢】\n前美國總統川普點名伊朗戰爭「始作俑者」，將其形容為「當場」變成代罪羔羊。另一方面，紐約時報報導，美國正計劃調派第82空降師，以協助海軍陸戰隊執行奪取哈格島的任務。\n\n【社會民生】\n詐欺犯徐漢在台東民宿被捕，他聲稱上金針山休養，逃亡期間甚至教導老闆種花造景。微風集團接班人廖思惟以單親媽身份，有底氣地面對生活，並分享了她理想的職業。中油LNG船是否進港台中引發居民疑慮，台電則強調供電穩定無虞。\n\n【生活健康】\n最新研究指出，太早睡不等於健康，反而可能增加短命及心血管疾病風險，研究也同時揭示了最佳的睡眠時段。",
     "news": [
-        {
-            "title": "紐時：美擬調派82空降師協助陸戰隊奪哈格島| 國際",
-            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9BdHlUUnkxS0RjU0g0WS1McWlIaHZ5V25KWGZUandKcTFGQ2UtRlBtdFNCNkdndWdqZGRvZGwtMV9VcWtkd2pNM28xNFBmVVh4c0FOcXRRR0c2OFMwX3Fv?oc=5"
-        },
-        {
-            "title": "柯案宣判前夕 沈慶京突發文：萬惡要怪他",
-            "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE56aFJDTW40VmlDQVpJWEY2RFNxa1BIekZSRGxxdzdiS0x3SC01Qzlkc2xpSTYtaWhnazFYN29sMVB1UGFBWkFSZERpc1Y0NWNDTWtZVEJ3QQ?oc=5"
-        },
-        {
-            "title": "率眾到馬英九辦公室驅趕蕭旭岑等人 金溥聰證實：我奉命行事！",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5kTWVZSFRNX0U1Y2J1MTRSb0R0RV80bWJLalo4NzEwOWxwSGdHa20wZklqMkxNM3pSb2k4ek5LUGRUN0ZrTEx0RjJucGNLZGRwTTJuNU9fSzF4REU?oc=5"
-        },
-        {
-            "title": "前中油煉製部執行長徐漢涉貪 拆電子腳鐐潛逃6天 台東落網",
-            "link": "https://news.google.com/rss/articles/CBMigwNBVV95cUxOSWZ2cTNMMWpwdmFnQVkzODlQLVFhc200QWtVVTl0alRiZUNMbjB5ZE1lNG85YkJOZjQ4MHlJVGo3cl9jQ2dMRkFEVUVQZVE2R3JQYXZXSTZlTGJHeVg4RUNYSmdfQlpTeWU5amdhdWdEclE4YmNhZnpvdmc3NWZNMlJXc3Y5eFhQczVBSm9lM2kzeDlRQXNiMFpoaTZ0Sm5YdGMxN1hNTXdwTWV2cHBGZ1F0QXNFb1BsQk5GZmFZQ3gxMUVMUEU3c2ViTFhIZno3cEZfT1lqdGJnVUUxeGE5azlwQXVCYjgwNUY2aVpEampqR05LcG9aTEdXUW9NZm1CUm5nNlRlTnJ2bUZmRFBseUw0TVNzTGtWb3JNcTRqQ2tfcU5ONmp4bG9DcDMzaTRMTHBFbWZZOS10VXl0UFVzcWZyTC1VaEZ1c21qN2o3SjVJQndlMGxuMDVCUm9hQ2E0WTQtaUJLNGI1bzkzLXF4VHNmdkE1eWJXRmtnVlZ5WTNJQTQ?oc=5"
-        },
         {
             "title": "川普點名伊朗戰爭「始作俑者」 他「當場」變成代罪羔羊了",
             "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBDcHBWZGszRDJNa0c5Smh6dDdjQWFpQmY1ZDdJdXgzc2RFcldHczVRYWR1X3pQbWttNUZMa2ZWN1RZYmNvNDNtQk80LVZRa2g0ZlRfby1mS1Z5aTFudEh30gFkQVVfeXFMTTJlMnYtZVdnS3lTMTZGWDBNNTdBUUVJUF9zOHV6dWJELWhuTExzYk9Nb2Rla0VaVUg0WWJJcG5SMF9vOEdhVnkwSmE2c21nQVZQcGpvWnZGOFdyNHBoRUVwU1ZISQ?oc=5"
         },
         {
-            "title": "蔡壁如揪1點跳針護航「李貞秀沒有中國護照」？他秒看穿「荒謬」：站不住腳",
-            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5wWFo1djdBLXplZU8zclFnd283R193TjczTWFVWERVZlU4azNCLXJBdjVxZTVrQ2pZS3oxWWwxcUV3QmxDZjVUdGJESmZRb1VQUHVMbE9FazhFM0d2TUl3cg?oc=5"
+            "title": "馬英九流淚心痛發聲「送司法調查」蕭旭岑：馬前總統忘記了很多事| 政治",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4zVUFOM0RjcnRlT0RFYW5YZjBybDlDQjFwT3k1alhpWHd5T1JoeWNnck03Wkw1cHBhdE5HckJvN0syVnFSTlNHV1dQUTRkcmpzODNycjNKdGMyQVk?oc=5"
         },
         {
-            "title": "賴清德重啟核能拚2028？劉靜怡酸「依法行政」根本北韓法學派：反核鐵票不會跑",
-            "link": "https://news.google.com/rss/articles/CBMixgNBVV95cUxNd3g1ZjlYd1c3MlJuSU45TGtoRmc2OEt3dnJfaTNCT29DeXdEbEwxLXdGR2RQcFRObldCdHNNZnhpMFhHUUQtb2VNUnhWakl4SGxUeTRva3BkYVk1TkJEdnM4MWF3UXpja0lLbnhweUR2M0RIVGlTYUhFb0p2RnFmRWsyM2ZnXzhKZC1pMGxmMl9NNHJXUzdsMG9rQmxxdldSSWJnVXJQcnkwcmlLOFAwSG9ZT2hrOE9zMG9pajJkaDc3MW9ENnFmcS1aS3NUNmY5TG5LNUtEbnpwcmdRclN4T3pVenNhTlh6Vld4VWI5TlBuQmkzTGl5ZUl5QW8tMUdkSGVxZW01c3pOcWNjZWp2ak1YX3I5UC1EaE44SGd2YUhDUGRqQlVETGI4a2RvTFpXcW0zT3NwSXNkazYweTVIbi1uSkQ4b05oaE00d1haWmtiOTdqQ014YnM1UG1LNFBGZkVMU0RLdzhEOGJ3TGJNUkZsYnF5a1NVblk0TXNtQkhOOElHbkx3SGJ4Ym9pZzNEOXVmbzV0Mno4QXlydnFlU2xQSVlPNWJ0cU5YODdTaVhIckVnRTVjRjJVMWxuNjQyc3NWN09n?oc=5"
+            "title": "徐漢藏台東民宿被捕！稱上金針山休養身體 逃亡時還教老闆種花與造景",
+            "link": "https://news.google.com/rss/articles/CBMivgNBVV95cUxOb1ZRM0htSWYxbWg4MHBBaFNUVFRqUGwtcUt2Nm5GeEZvYWpOWlJvNHpUQlUtTlBIZGtXRE8tZTRIWGl5N1lncWJ3V0xRdG1nSVFoMGZWaWRBNXNvNXhmZkFfOGNXOU9HYTBVRmFST1dQSDZ6V2ExaWRIbkNIWDc5aXdla2p1YkIzdHA4QWFEWVUydGw0aXVNZi1aTUt3OVMyVnhtNXVMYWdUSnZZN2F3a2xacllWUkMxWjlKcnZ1cE1aSkJ1WnU3WUZaM3F6U2JQOWlsbmlaejgyZDZST2FLRVNLN3c1WmZzYXlpMWppMHpzRGVuZjB4Tkx5dGFBdnQtVGdzWUFwR2s3QlFlU3FqTDNSbnRTMDF3ZjlmY0YwN0F2SVdmTEpoVVpxN0xBdk5fVUZSWS1vRE9UemwtREFjanNtUzRYRVJ2WWZVcnRZenZjaTdjUHczUkJjSkJCSjIxUnhnYmZDYVRkTXkxQV9uMlVsVUtKUTV4MVRfaGdKdWxZWmd5bWswUHhocTNtU1k5cC1IWS1YTmRCZlYtWG05dXAyaF9VQkhaYUNLVDd5YkxFclloVkVtY09mV2U0dw?oc=5"
         },
         {
-            "title": "【重磅快評】京華城案判決前夕 柯文哲找到務實路線？",
-            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB2cldWZXV3ZjdpcXduRDRZNkt6UzVRV1otd0pSSnFsY284SWRrUHhOQWx1dWdWclFfUzJSUWpJdzZzNFFkR1BGSUFTTjhJSW9HUUNn0gFYQVVfeXFMTUg3U1pvWlZXdWNYbjhxUXlrb2RnT002Tm15Z3ItUHFLQ3BMaHZFUzRkbkVXcVJyUjRYb1pPOUFoSmsyT01kNElIZVJCYTdQcC1SWmk3RDhnVA?oc=5"
+            "title": "40億接班人！微風小公主當單親媽有底氣 廖思惟自曝「理想職業」",
+            "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxNTHphbVUzeWpEUXpGQUFMWHZ2anBZYmR3UktKNDFDRjJMOWo1WUVQZjJqdFgtNERnSDh4eV81N0JHR0RzQW9qQnliX29wcklQS0VERENGNXppTzhBeFBFVl93RWgzem1xUGlzb2tyYXBRSWJsQWIxYjlVcWlGTWhXclhiZld2WHNOM1NsaWhhU2lnVzA2eUxTTlN2aTN1M0FENHVSQzFnc25mZWhvWHZkS3JGd0NTZks3dWl1UlZObGp4Qy1fYzFyLS13SEVsR19JTDNqQ29tTXcwMVdWWV9KY2txeVl6UlNhWE5adXlNam4yY2FiaU1SVTZBZ0pfNWFVeEhRY2JSTFB5cU5XV3I2UVAzWXREb1dxSkVSMV8td2dKWmNsaWwzT1BNS1lmdkNyRUZRWjRxeVRsamg1R3NXWlZkejd0bVFmOHJyb01lbXhBanhQdGJQcnJBNy1XSFU0RG9ZWm9neG15a2RLbW9OUFBoVXdNTkJ5X1dLbDJmRDF0WEp1RUE?oc=5"
         },
         {
-            "title": "顏慧欣病逝政院：對美關稅談判戮力貢獻萬分不捨| 政治",
-            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBwX2FYUmx6SmFpZDVyUFEyc19XZzltZHIwNzJjeHBETEUxSmJxVFRNWnJoNXk5bmZXU2VQTkIyaEJLSU12ZmdCU19VdWhDRnFUM2Y0a3VBel9KWl9hOUZn?oc=5"
+            "title": "紐時：美擬調派82空降師協助陸戰隊奪哈格島| 國際",
+            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9BdHlUUnkxS0RjU0g0WS1McWlIaHZ5V25KWGZUandKcTFGQ2UtRlBtdFNCNkdndWdqZGRvZGwtMV9VcWtkd2pNM28xNFBmVVh4c0FOcXRRR0c2OFMwX3Fv?oc=5"
         },
         {
-            "title": "涉88會館案潛逃　賭王林秉文驚傳柬埔寨遭「狙殺身亡」！刑事局證實了",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAzNFlvUDlaalVpSHZmOWVGbEdnRXNyMkxaQV9sSURJSjBVbXd1WEhOYk5yellPUDVqMENxVVQ4MHEzYUd4b3JVYlVRZ3VzZ3haa2lZRzFjVW43UWvSAWBBVV95cUxQbUcyRV9WelVDYk9COHpyT1JmVmxLNW10VmpSTW0xbUZPeDBldlVwX05LVWF1UWhXSVl4LVVrZGVmUnRtc0xZVGtadC1tUFZMaWdkVVQ0djFYWVJXY18zSzI?oc=5"
+            "title": "太早睡≠健康！恐害短命、增心血管風險 研究揭「最佳睡眠時段」",
+            "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA3YkxMNllZVkFJRksxZ05iaURHVUtKVjRHUFlXelBleHNKbmUxc3FTMjNhZTNXbnh6LXRTcEQ3c0dBdUlFdWlsQVhqaGo?oc=5"
+        },
+        {
+            "title": "卓揆稱重啟核電「為防範共軍侵擾」 粉專：打臉范雲",
+            "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQdHA0SXhKRTNhRjk5cXFycUhRQURLWGZ5dEpwdWM5TkhxZ1cxcmVrVmhiNkxhb3RrUlFDQVFid08tZDBYaG1LZ2lWSTE3dmJkamw4UzBocW9FNFZDSlRKeGFXVEVuRjJBanBadU52TUdlaldiMkdjSXRNUjM1T1E1OVhreDk1TVQyeE1xV18ybGpyb3VDMk9Yd0U1RWJTdXpSM3EzZjlqVFFJNUMwQ2FvX01KelBJaUxoX1FzMTZsZkY4MjRGYnl4blFDNGtJWUQyQXRDd3d3V3U2ZGZSRWxDeUlEWE1IR2o5MkZRVUtwWVZ1UGw0ZEhQcUdOMTJxVUFDNE02dGw2dFkzTkEyU2pGT0FCVHB4QnNwbm1OOWtwWVBzbkNNOVEycHd1YXNlQnlZRnh4czhaRXYyeVUyNTAxLW1uc2R6cUU?oc=5"
+        },
+        {
+            "title": "影／綠營北市人選未定周玉蔻嗆若提名「他」要扔雞蛋…王世堅酸回| 縣市長議員選戰| 要聞",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4zYjFqQ3RQWEEzY0l2dWlfb1F1dVhmV25WbDNZUURJeUtNcjhaMXEwN0NRa19icFZJNzhkMFRjVnZWcFkzRjFaQjU5dDU2TC1iN0lz?oc=5"
+        },
+        {
+            "title": "獨家》中配立委接班！中共官員問徐春鶯「李貞秀沒問題吧」？",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBlNXlwTzMxNjFGd0dGakJHcV90NUc5UlRJYXQxRTN4NUxYOW9CSXhQd3BUbmxEYi1qUkRQNHB5RHVvVHZ1LVozTEh4ZXlZVm1ENXNkWFdDd2NPc1pTcURiM0pBTFhkUklleFHSAW9BVV95cUxQaWRvd2poVjR1cFZDcXlFYmhQZzZ0R3U3LThPbUZ1X05SUGRNbXVMTm9ZNm5ocFVtdVJ2OXRhLV9WOXpWMlBrYmJBbDd4VWxSUGVNcG5mZ21FOHVkeVhzV3AyVGFqNF9rT0I3RWc3Y0k?oc=5"
+        },
+        {
+            "title": "中油LNG船未進台中？台電稱穩定供電 居民：航道遠看不到",
+            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5iME5xWTdvTEFJTEp4c2loVzVGM0hTVVl2UjBmMmpPWXVWQm81WDZaZW1kZmo1RWh0a3VVMEZkdmwzSlZWa3pnTmFSTkFKY0RuTGRRUFVZWGwxVDhEeVZvdXBoZ2zSAWpBVV95cUxPNzBVU3lrd3IyMnF5YWgzNXZJdncxYV9rQlo3T01HbERHS2d5ckpCQlIxTG9RYUxzZjdGQmY4cWNQTEFESmtvdk05RjcwajRGNTFXalRKd0ZJai1qV0hwdDNaZXNGeTEtRi1B?oc=5"
         }
     ]
 }
