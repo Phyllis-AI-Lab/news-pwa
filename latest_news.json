@@ -1,46 +1,46 @@
 {
-    "updated_at": "2026-03-29 12:45",
-    "summary": "午安，為您帶來今日午間重點快報。\n\n【政治焦點】\n政治界持續熱議。李艷秋與許美華就國民黨與柯文哲的合作議題，掀起道德底線的嚴肅辯論。同時，國民黨御用律師葉慶元也分析了柯文哲案件的關鍵判決理由。而在地方選情方面，新竹縣長選戰，徐欣瑩以微幅差距擊敗陳見賢，將代表國民黨出戰。此外，針對國防議題，立委馬文君的言論引發爭議，遭王定宇痛批其唯一得利者是解放軍。\n\n【社會焦點】\n社會治安方面，台中發生一起駭人聽聞的街頭砍人案，一名金融男因求復合不成，持雙刀砍死前女友後遭收押。交通安全警訊，則有一名大學生在人行道上遭公車輾壓，下體傷勢嚴重，正在加護病房觀察。\n\n【生活資訊】\n天氣與交通資訊，清明連假即將展開，氣象局預告期間降雨將會是最大，提醒民眾外出留意。而今日上午南部地區發生有感地震，請當地居民保持警覺。\n\n【國際焦點】\n最後一則國際要聞，享譽全球的華裔名探李昌鈺博士，因腦瘤平靜離世，享壽87歲。",
+    "updated_at": "2026-03-29 16:59",
+    "summary": "午安，為您帶來今日午間重點快報。\n\n【政治焦點】\n政壇今日持續熱議「藍白合」的可能性。國民黨趙少康坦言應從大局思考，但同黨的鍾小平卻擔憂，若只為白色力量選票，恐將流失中間選民，猶如丟失整片阿里山森林。另外，針對柯文哲案，翁曉玲委員嚴厲批評法官「憑微笑定罪」，直指法治與人權已然崩解。國民黨新竹縣長初選也備受關注，徐欣瑩最終以1.2%的微小差距險勝陳見賢，將代表藍營角逐縣長寶座。近期延燒的顏慧欣辭職風波，黃士修則點出，這是民進黨操作悲劇卻不幸翻車的實例。此外，行政院也發聲，指今年度總預算已長達213天未獲審議，高達98%的預算被立法院丟包。\n\n【國際情勢】\n中東地區戰火持續升溫。美軍陸戰隊已抵達當地，同時傳出美國正準備發動地面行動。沙烏地阿拉伯境內的E-3預警機基地也證實遭到襲擊受損，顯示區域衝突已達關鍵時刻。\n\n【社會民生】\n在台灣，今天上午11點12分左右，南部地區發生有感地震，請民眾多加留意。氣象專家也特別示警，清明連假期間全台將有大雨來襲，提醒民眾把握最後的溫暖陽光。",
     "news": [
         {
-            "title": "李艷秋嗆國民黨挺柯文哲「敢喊清清白白嗎」許美華：逼出道德底線| 政治",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5zdW5Yd0NHUzBIOENDX2g5UjFsRFBaNjRpS3JuMWk5blF1UWlLYXNvSDNXU3F6MTBTNkYxLW0yOEhLdGVsTHpjQUZITHp6cGJhUTRaR2xIRExFS3M?oc=5"
+            "title": "上凱道挺柯文哲只為「藍白合」？ 趙少康坦言：應從大局思考| 政治",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5fdTNsa0U3ZC10RjVfTmNiLUx5WXZKMXA2c180Z0FDb0p2S3ZJYTVRZ05zaXBuQ3NMY2lqMWdlNGtSMENWbjg2MVdpU2d5ejdXajlKcjZxRmppNWs?oc=5"
         },
         {
-            "title": "台中雙刀當街砍死前女友 金融男收押！求復合過年衝她家「蹲著哭」",
-            "link": "https://news.google.com/rss/articles/CBMimwNBVV95cUxQcGNULXNyN01WcW5KVlVidWFuWTBTbFJRTE1RTFpHMHhFQnBpTXVGSko5NFZySUM5MXVOVXhHUTJpRWZ3bjBwMTlrZXFHVWdwYVFTVU1SVXI0V2I0OHk3M3BOMUx6cFNxUUdPa2F4WVB4RzdFeGE5emx1THRoVEY0b09Vb0NTeVRTZi1XWGRzcU5KVGxBbkxra2FvRVhLZjB3dGdENG5hcHY4V29TZkJoUmoxQ1ozYkR0V0pzNjdway03cmwyODJMX1JScWp6Z09MQ3RHX2hBYWM0dlBXNFBQYll5YXJISi10VG9NdWYyTzdKYUM1YllGWmg5eU9HeFk0N1ZTLUhWZXo2cWJ6ZE9tNktkOWJZY0JVc0d1eXU0bVI3amNoODRnNVR3eF93bFZSOXZBTG1LM2RMM3NNekdSOUozbUc0Y29XdThsblUtN0RzS2RDVVd4NHZpdmlOR2VSY3dfelJJaHYzWmtPRUdTRXQtbWZ0NTNscFVIOUY5SFN4Q3lwWTh2M2ZLWGhVYzZleGh3VFRmMVR3YVk?oc=5"
+            "title": "翁曉玲批柯文哲案法官「憑微笑定罪」指法治人權崩解",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE14Y2hfU3RpODBUSUpzM0ZpdUxvaWNYQWdscmxJb0N4RFdvV1JBR19OV3d4dHFtUzIwbW1nQWFhdmRQU1YxaVcwNGdSdjlVNEtzVE9z0gFYQVVfeXFMTzhqVEFZbU1xNWYwc2hLYVNocU55eENnWlFCQ3lIRTNQdGpUS1dWdmRLdUk1UHh0aTVnMk5UdkNVZ1pWMENERmZOZmFaY3gzWGpiUnhkdkFRYg?oc=5"
         },
         {
-            "title": "要放4天了 清明連假「雨最大」",
-            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBSWWRsbUs2SXlXNWhic0UzaVhsUmZZNjVCT1pNX0FQejQ3bGs2aVJkcmhxY1FoYTl4STMwa3U5X1FKOVFhZnhTNVVkVjU3dmtZNmpmWi1OcWo3UlpkTXc?oc=5"
+            "title": "美軍陸戰隊抵中東E-3預警機沙烏地基地遇襲受損| 國際",
+            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1RQ092TGlKSkloQk45aEs4VjNUbnNEWmtkandVQ2RoZlh5Vk96Q2dHdmRGUldTdUJrRml5RFp0RTVCTGFVal9QY1A5ejdDLWhTMmU2QVRqcVZUVEtSZWJ3?oc=5"
+        },
+        {
+            "title": "中東戰爭第29天》美傳準備發動地面行動最新發展一次看| 國際",
+            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1XZ05ObDY2ZTI5Y2RqNVZ0WVhlLWdBd3ZieWp3UDY3M0Zvd2h1aUY4aHRjalpiRDBvVzJDNmMxaFVSS2VvRUp3dW5lbmJuejFWQ2t0Q0F5RkhaQ0p1cnJV?oc=5"
         },
         {
             "title": "地震速報！ 03/29 11:12左右 南部地區發生有感地震",
             "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5pRmJ3MVc3VFNGTHdPaFRJdGROR2Nuc0RfRmJ3X2xnTE9NWWEzOVp2aldfQ21DUDBpQTZjS3dOOWxhbWkxSjNUNTNseVFKX05jdVR5VA?oc=5"
         },
         {
-            "title": "20歲大學生走人行道遭公車輾壓！下體傷勢嚴重進加護觀察",
-            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1WOGtSUTJIcXZ2UVViU3BNWE1fQlZaQ1BxMUlMelZwQlMyNG1GYy00YjN3aWxmdVFWTUVpbTByV1c5ZXBibWlmOFF0NS1GNmFqbzVuWnNDZ3V1VGwwd3fSAWhBVV95cUxPOHBzVDFncGtiZDFka0FhX1BPdllSODQtY2JWaHM0VjFzdHdBV0poN1YxcDBCZV9iRHpFUkZKZk1NM1V1Sy1UV05mbjZuZzZiRmloME5mT296WXk3Qm9ySHZ2YzJZTVlXbQ?oc=5"
+            "title": "把握最後暖陽！專家示警：清明連假大雨炸全台",
+            "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxNeGNNd01YOUoxMTM2N1lyMHItTENGNnRNSFR5QWplUVUtOVlELVl1NUlTak1ZeExMUUh1bVBING83dTJJU185bS1lbThpRFVPNkFQMkVyZC16R053MURoQU9HSVBhbDFfYVd5X3lHZUxlblJoNWhSb3BQbVRMYVZsRkhmeUZKYVZLc09IRjVqLTRsdDdjeTFabzMweEZxNkRBWmI0cTBybzMyOXNYbFpHYkR6UFNmSHpaenEyU25LSVdKdUY5RG9QUHk1ZE4zWnc2ZXphdFVFM1lxcXNZYi1HUGxYUUpaRFlkcktzb3k1bnd2UHR1OTJtMU9ac21jVDAtX3BHTXBabWgweFljNmRLMElyc1luRmFOWmdRZk83MFMwN2dvckdfNDA1SHNhU3hoTUx5ZncxR2xKdw?oc=5"
         },
         {
-            "title": "平靜面對病情…「華裔名探」李昌鈺腦瘤離世 享壽87歲",
-            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5vN2kzeDBocjFqeE05SVY3SnJ3aXM2TDBGY3piQUpYbUR0T3I5X2ZCZnVzLURHN2ZKQ2FPMWJsaU5mM2V4Y1FucVE1ZDIwZ0xL0gFWQVVfeXFMTjFTc1BPTG50RmhmXzhHbWlja3NxeWVZaWZQa202SFZWcHF3YUNUUjQzeUFibFUtMGVZZ3Q0dE5Pamp4dnNvRnBMT3E4YTJxQVZscDBORkE?oc=5"
+            "title": "不去凱道集會 鍾小平：為了白的票丟掉中間選民 宛如丟掉整片阿里山森林",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5wNTRlQnltM1ZvOG90dHdZZjFZR0ZqTGdpTVN6bWRsOGFSMGJmWkpycGZTRzJ1cWJZWktYMjdCU3AzOGMxbUY2ZG1pVVdOS0F5VlVVbW81QUEwckNzR1JtWDJjQms4S0lqd2fSAW9BVV95cUxQb3VVb21VSVZrQ1JBZkhabzZEeVNaRnd2a3B6V1hleUMxQTJrdk5LemJCcUtrWHZCRHlscVlWbnhBRGVNQjNQM3JCNjAtWThTMjJQaFpHbTh4TUJza0czdHVNMHZIdWhFb0Fqc1ZkUTA?oc=5"
+        },
+        {
+            "title": "顏慧欣辭職信戳破「暗黑內幕」 黃士修：民進黨操作悲劇翻車實例",
+            "link": "https://news.google.com/rss/articles/CBMijwNBVV95cUxORVAtbzMxQkREeThSbjlwMGs5UlZ5NkVEaVdHQy1UWE1FU2ljU25odENZaTFjT0lURWJ0NzZpMUg0MFYzWGg1OW9pNFpSSnVmRTNaYlRYSWV3Rmx2TDZHQlp3cnNSZXNVVWxSMFl4V0pOX0hiV3JPcWh1NEtaYlpGUDVtZm1wWHFsdTdRNVlLTGI3N1NrNnBXM0VoZHhTQWowd1U3R0VqVlhseXdLclhPSFlfRk9IdWFncVdReEF3NXlsMENOWTRtRFdRb2JzVko2MEY5a2JVc00wVnE5SmZ0Tk4zOW5DRkJySGxiajMzNllCenk0RnFLd0dqRnk3TXhWSlhKYUVGNWdyQzkzZVVRNU5SVW5wYkZuWGd6YnhNdktjODJsWDU2WFUzcGtHR01QTm1rbURzTFlFN0Q1SFZ5c2c4dkpHMFpWTmVXQU1CWTNQTjRBVC1wZGRBUS1FUjlfUUZ2d00zX3FlQWNxRkd6VWF3ZDBXRUIyOFVzMEVrMnRaM0lMdFlSRS1zZmUtSmM?oc=5"
         },
         {
             "title": "徐欣瑩哭了！1.2％險勝陳見賢將代表國民黨出戰新竹縣長| 政治",
             "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9vVzVGY0VGaHZVdm9HRWEwU0MxbkIweFNJT25VR1FTUmM1RXprbDdwUE9EMWhFR19kWndjU2F5SGVsUHZZeUp1ellBT0FEaGtEbmxxLTBzY2VTQ0U?oc=5"
         },
         {
-            "title": "可理解柯文哲重判！「國民黨御用律師」葉慶元揭柯市府站不住腳理由",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1zTnFwRG80VDdLejhWejBON1BmZFl6QjhkbU90RVV5bkJQa0NRN3AwMXpKemZ1dm1ZMXpORU1rSHdGN2wyeHRXbU1yRzRQRHVRUkc3YWV2X1lTd2RSQnFZQnR0V3JlTWxjdFHSAW9BVV95cUxPbHJyTkIzVWRlZGE5U1hwektCbF9JbVI2MW1aSnlJQlpyVWtFczJ1S2V0eTBaQ1BpaTZueVJpbWxHQkZwcnhQUGwtYkNkVS0wcEF1NlhaTDNnQ0JYWHNELUEwdW83bWdGNWpvT2dWZWs?oc=5"
-        },
-        {
-            "title": "金大鈞觀點》國民黨的道德勇氣不如一個小平哥、更對不起郝龍斌| 政治",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1BeklWRlJUcmZsR0VRczdtSFlFS3pkU1o3bDBYZUd0OUhTVkZwek4xclU1SGpZdEJJQUdjd3dCUTQwOFlxbTFQdTR5dXFNNThZQ1R5NGpZelNodTQ?oc=5"
-        },
-        {
-            "title": "將軍哽咽！馬文君竟喊「別演了」　王定宇痛罵：唯一得利的只有解放軍",
-            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5sUVNfemVKR2ZqTkJQWXVEaWQ3MjgwQzZSazh6LWYwS0dYLXI0azJRbTdLbDNzWnFKTl9XSFJObkMybHZBeURSZHU4MXdDQ0VvQ01pVjRTZkXSAV9BVV95cUxNQ0pveG11ZDdMZnhVZUdxU2I5TFVBWlN0WlVhWlo3Q04tbUNoQ25WbDc3Yy1HdVR3VlhoZDNuT3lJQkd0UGhUSDluRURrdGRCWnN0QjFCOE9oWjBGbWJiWQ?oc=5"
+            "title": "政院：今年度總預算213天未審 98%的預算被立法院丟包",
+            "link": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxNM1JzcnBpQjdIUW41aDRSMUhrS3FlRVVGLWhlcFdvSXMwS3VIcDRodUNzMUlDcUlWSEhqUG4xS0dsQUJocXRSVTJCM0dsU3UzWldRWFdnM1p3ZWNBVGFMNW5iS0F5Y1FTNnp5aHpUWXVZZWNvRzhuYWxiaGZzcVJobkVfMEFVRnVMQ19lSTFnTlZlX3hPekhKVi1vZXhzdzQyLURNaUhRV1plVTNhQ3N2bFFwTGM2UU15dnNxR21PZVM0ZEZhbmVJMnI1MkFTY1o3c0lyMzFSOGNSMWFSQXZNaUZ3OFQxYm1JdHdjeEhIYU5XdmpTdzBfYU5RYzFXR2tLTWNMT285bzFtNXZSVzRFZDJCTDNVNnBKTW5FLW9XNEFaMVNMRzhIeFRNZmpFN0ZxeTg1UEpXcW0xM285Y3Z4NXRXMUZFQkplR0RJZ0xzZjRXdGdtTm40?oc=5"
         }
     ]
 }
