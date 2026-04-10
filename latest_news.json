@@ -1,46 +1,46 @@
 {
-    "updated_at": "2026-04-10 20:01",
-    "summary": "❌ AI 暫時無法回應 (所有模型皆忙碌)",
+    "updated_at": "2026-04-11 07:53",
+    "summary": "早安，為您帶來今日上午重點快報。\n\n【政治焦點】\n\n兩岸關係是今日頭條。習近平在北京會見鄭麗文，提出促進兩岸交流的四點建議，並歡迎台灣農漁產品赴中銷售。然而中共隨後宣布黃海實彈射擊，民進黨質疑此為演習而非迎賓禮炮。此外，一份判決書揭露，法官認定柯文哲曾指示相關人士出境，涉嫌干擾偵查。\n\n【國際情勢】\n\n國際油價再度衝高，因荷姆茲海峽受阻，導致230艘油輪卡關海上，油價預計將突破100美元大關。中東停火談判進入倒數，伊朗代表團已先到場，美國副總統范斯也將抵達，現場警戒森嚴。\n\n【社會民生】\n\n白沙屯媽祖進香活動的「累了請上車」服務，因警方取締趨嚴，許多駕駛選擇退場，導致取消潮。政府引進印度移工一事持續引發爭議，已有近九千人連署要求立即中止，勞動部已對此做出回應。在人口方面，台灣總人口連續27個月負成長，不過三月份新生嬰兒數出現了小幅回升。氣象方面，辛樂克颱風預計將生成，初估路徑可能出現大迴轉，且有機會發展為中度颱風以上。",
     "news": [
         {
-            "title": "鄭習會過招！習近平未提「兩岸統一」？鄭麗文當面直言雙方制度不同，願打造「兩岸命運共同體」 | 楊騰凱 | 新聞",
-            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE54ZTREdVJpdmFpZC1oNFdHeWdWMUZKN0pYaDVoUnJfbXlFRVFXeUh0S2VhMVg2RXY3NWhWTnlYeFc4eng4TlVNR01QSmVMZw?oc=5"
+            "title": "在北京見鄭麗文！ 習近平對兩岸關係提4點建議：歡迎台灣農漁產品赴中銷售| 政治",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA4TWtKVTdJanpOV29Ha25lQV9kaEVVUk10ejdpbEoxUDdjWF8xTzVoM05mUnh2ZHQ4U0k5eVpiN1NlWFFmWVpuYnJqSUpKYjB6RjF1YnFRd0hfak0?oc=5"
         },
         {
-            "title": "柯文哲判決書爆關鍵！法官認定：柯指示「橘子」出境涉干擾偵查| 政治",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9WQ2d1MWZxWWVTX2F4SGZLMkVWZ1VIaWNmTnhZM2hDLUFJQ3pndTBkY1hiSUZwWDNIUVkzVmxrZVVCRktIMU5URjNoMkxvWHpsRlJKS2pWZEZaX2s?oc=5"
+            "title": "白沙屯「累了請上車」爆取消潮！警方取締趨嚴、駕駛「心累」退場",
+            "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxOdk1aZ1VYWnE4UFhOcmg1VGV0WDNRejFOazdCeHdSUWJ4aFNINjFZWm5seHlBekVqX3k0QnV2dkRtVUZGVkJxUzJlRUkxTVVuQW5pTEEtUDZfeUhldEJVUVd1OWN2eXJsZ01ickJiNVhFOHVKdElsODdaWFdBMlgzMmdCRDdzeVNFa3o3NzM2XzdPcGsyd0NyeGVKSHNsZDBqSkxKWXpJand4QUpOem1vRUlIOEE0R2FuNlYzUUJfTUtjeE1udExUbmY1UDFucEhIeUxHd0JvaTZLSmZmc0k5VXp0Z3dyRkdONUVoY1YwWDNpb1lmUVFidnExeGJQdGtXWllxeElwRUFvSDhJcDVLanJLa2J0QnVzZTIyWWp3LTlZc3lBUGptVTVuQk9CLWlMN3VWbHl5bW9vdjZxVHhrN0FRczN6ZGVE?oc=5"
         },
         {
             "title": "荷姆茲根本沒開、230艘油輪卡海上！國際油價再衝100美元",
             "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE90akVEV0xYTlZ2dWRjQjlqdFpSSDZyTk1JVE5OeDN4amhNT2U2aVZITjQyQUVHWko0VDZ5ZkFrRGdMTWZaZU44RHRkYmRhZ2s?oc=5"
         },
         {
-            "title": "白沙屯媽祖將起駕！「累了請上車」1行為踩雷 恐罰9000元",
-            "link": "https://news.google.com/rss/articles/CBMizgJBVV95cUxPVzlhVDFtTHpPMFd2NEJPeWI1OHVta0JrNlF3S0MyUUt5YnZlX05PcHowSWo4X2pTTWMyTHBCeXQzemlNNG02SGQwTWk1ZnNFUkM4TnRJaUFmQUxaMVozUTZZbzBGX1lWcjlyaE9hY1BNcjlUcVlobHlvbWI4cG8tb0FoVFFvOFhObkwzQ1JrOS1VZWx0M1BnTVV4b25ETEZiNW1zX0pjeFZobkFrdWt2SnFMa21pYlBoSmpjWDVuNF9PMVYzZ2ZVbEdTSElsMHNLU2VfWG8wNmd2aGhoTEJNMm43LWM4Yk1BS0NtNlY2ckNUaDFTMGdnRk1JRHIxNHRhc0Z3ZzZJWFVUZVY3TnBnaUlDWDBIX2J4S1N5eU5tbmxqMWZIUDF4bGNLbEE5TGVZLUZtN2pXY05Lck9XdDlINjNidEtyc29LSzdEMkNn?oc=5"
+            "title": "印度移工引進惹議！2天近9千人連署「立即中止」勞動部回應了",
+            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1tRmhWY2FnY3AtQ2k0NnRBc21hSGxLVDBHVjItbUtvZE9sM3ZzbkRwWEpBQXRsNzBiXzI3VEQ1WDFmcmFsc29zN09ZQlZJaDQzUXU0d2x3U0g1QVBxY2Nv0gFkQVVfeXFMT3RWdHhhNHpVdVlEcmViUHd2MVB1V1ZsVTh5SDlKRVg0WFZlR2ZZZ2hXM21fM1JVOElLZE0tMmlrODdlV3dKemVIS290bVdITW9XQ0VkOEhNODlWbDVWdVhESXRZdQ?oc=5"
         },
         {
-            "title": "今彩539頭獎開出 800萬獎落「這縣市」",
-            "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1KWlRuczl3RkNDLUp6bk9XZnlFWTBGNGFPNWJGZVd6WEwxMm5FWHRreE1nS2JBZDhjSWxuRDFGMnNuamJSVW1rQkRCMVBpcHFROEQwUTl0bw?oc=5"
+            "title": "停火談判倒數！伊朗代表團先到場、美副總統范斯將抵　警戒森嚴",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5kTHNtcXJLS3FDWWRwVlV5enlvSlFSczdQRDN0b1NTZVRPRm0wdTJEQU9EMzBBTlZZSjRybVJjZlMtSmFaeEprSWFKQlZIM2o5RVp6WjZKc3gzdUk2akHSAWhBVV95cUxOSXNmWGNHdHQ3YUZicHpTeXREZTN5NjVMX2dqTk5BOUJCZVBUMVQ0YVNGNTFwWG1YOGE2ZWdyZW5XLV9rN0xISzhIb1B0N2NpRGltZVQ2UmZoSEZqVWtPNmFXVmNOZW42Sw?oc=5"
         },
         {
-            "title": "停火只是暫停鍵！德銀：中東地緣已徹底重塑 它將成為受益者",
-            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1FUGc1akdNeVpqbTZreHJIY2xrclBXUzZnb25GVVp1dHU1WHlzcHdMd2JWdktFbUMyTDU5UG9xS2hiUExBdDFUcnV3ZXBGc2RDRG5BazhOMm5IT0RPU2000gFkQVVfeXFMT3NKLWtyWFo0Q0Q4RVBrNUZQSFdyaHN4Y0FDREg1NkxKVFp5UXZQMWtVX3pRWU9PMld5bUpNQ1ZYV1paa3dZeEtqejVkcExVVlBFTG5lUTZuMGdVVUxWR3pRb0JTVw?oc=5"
+            "title": "獨家》鄭習會「大禮包」 中共最快明公布買空賣空「惠台」措施",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5FOWMyZ0U4bUNkRXl5NTN3ZWxFMk0wdGZHVGRpM1ZPQmMwWnFHTEhLdDdoaGZXbkJqQllZX2Q0TEZtMmsyc0lfdDhIWUVpZDNEUXBESS1sSU5laS1xVzBYZGw1VXFzQnVZYUHSAW9BVV95cUxPSlY4eS1iRC1QUkhMc2dDNjB6UlBMOXJqbVZTel9SY003NG5VLUVSVW5IT3JrSnNTdk1YZTZSakh4RFpuTVByNEZ2aEJybHQ4emdoNlpHclZEd2VnZmxkcjk0U094Y3NYc1pUclFtSmM?oc=5"
         },
         {
-            "title": "台中最大百貨「漢神」今開幕！市府祭交管壓力測試",
-            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB1WklIY2VKOG1vbm10YnlMNzFQZnZvcEc3WVJYRGtZUHZYZ1hzZ21sT3FYX1BtTlk0c2tyRlRaNTQyZE9LQnB5b3VQdVVVWXVGem9lME9wWC1GbkVialhiUjk4WlfSAWpBVV95cUxNSjlPLUxiUDJ0RlpJMzFiRWhUVXR2MDhVejBTakYySVlSZHZ2ZWlCWExNd2N5NWpWZW1QY0VzWjhqYjM2VEJNY09nekYyZ2FxS1JQVEVMUlVSQUVxSGQ3ZDB4MG9rdE1lLURR?oc=5"
+            "title": "柯文哲判決書爆關鍵！法官認定：柯指示「橘子」出境涉干擾偵查| 政治",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9WQ2d1MWZxWWVTX2F4SGZLMkVWZ1VIaWNmTnhZM2hDLUFJQ3pndTBkY1hiSUZwWDNIUVkzVmxrZVVCRktIMU5URjNoMkxvWHpsRlJKS2pWZEZaX2s?oc=5"
         },
         {
-            "title": "買房要背債快27年！專家揭密年輕人為何不急著還錢？",
-            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB2MDFsZVhmT2RmYjIzbjZwOTdsZnFDb0g0Y1JKSjRtUlIwNjZxakNvRGNCcThzenYydUFwY3dJREtkOHlwMndyN3VJWWFTbVEx?oc=5"
+            "title": "辛樂克將生成初估路徑「大迴轉」　飆速成長恐達中度颱風↑",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE54S1lHZ0szaXNHZm9VbjRvWFdTWF9Mc1dRSW1BRGxfMXoxVHRJRkZIc25aSkNaVmZVMndHZjU5aXFLcTFKc2VXUzl4Um0wMlEwRzltZmhtWWZ6M0Zha1HSAWhBVV95cUxQZlY4UkxyRXdObXZXSzhOTXFFWUtlOHllWjFEcS1fbXpLVHhQVFg3SDFibHhWajVvUGFlaWxSRnludDVMX1lPV0RtenV5WjJ6WG5rZzZvdEMwUjA2YXhTQzFpV0V5YVpXNw?oc=5"
         },
         {
-            "title": "宏都拉斯哭了！ 臺馬ECA大突破「它」賣贏白蝦",
-            "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5Xa292MWFpTy1hUVJ4MDFrVnZsV1RXZzVDNnNpdTlRZEs5R1VsSlcxVDduU011QmtSazJFbklTUV9XNXJOdGxIbkNZSQ?oc=5"
+            "title": "台灣總人口2327萬568人、連27個月負成長 3月新生嬰兒回升",
+            "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxPQmFTc0tXaDI2MHJMcnFJTThwOHVoM2wtMXJnLXp4NndSUkstbzFzZVU0eXBNNjdSLWMwSFJFVUszSWVCdGxvdUUwUkh1VUVhVUJCZkxxZU5NWEdkcloyVmdMdTRpc0xYcFo0Z2ZIU1FzeFlKbnJjbk5MM2djNTFmY21tbU5BcWZTeTNsZ0ZmM2tLWHl1c2s2ZTFucnhsb2w4c1ZrWDh4TUh2dG8zNXptVnUydTlSV2U0Y3JDRWpEOUhSWW14cDRrMzRzMmRzNFNhSlBmeEFsOGVUMXRYblFLNXZ5Y0Z3X29pT3Z1TFlqS2VIQUd5STVOcXEtRmRPaWhVVUV3QkMtVV9NQ256LXFXNF9PTHVac1ozUDl6MEtuWm9WcnJIZGw1T054WTJjQ01PX3AwSzdYbFdWTVJTcmptWnVfUndrV1NKVVd6YUxZR3AzdkVndkVPUjJFNXVhZw?oc=5"
         },
         {
-            "title": "滅國危機！今年新生兒估跌破9萬 醫師：以後恐沒人繳稅當兵（壹蘋10點強打）",
-            "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5SVHNvY1pWNW9wYkdlM2VLT18yb3R4VGNHX2J3eTZOMkRwc185MmE3V0tVeHoxeFo2YVFDUTIxLWY1ZHBJMGx1RVZqZVV6MGtqaTlxMHp6Mk9MOW9XZmVfQ3Uzd2FHdGQzVE9yUXFmV1V1WW45YkZISTk0UjNTUQ?oc=5"
+            "title": "鄭麗文狂喊和平「中共今宣布黃海實彈射擊」　民進黨：別把演習當迎賓禮炮",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9Dd0JzT0o1ZmhkWm00MVJsbGUybE1BQUNYUGJjdEg1Y0lFQVhDdzk2NlMyT2hyTDl0V0xSZWsxVHlvUFlDUjh2VHJWWTNLUVFSMmV6b2prSUpVQlXSAWBBVV95cUxPUnF5RDlfemlmMDNwNFNEdzJCNkRlY3JsR21rcHJIWTZuSG1ZcGE5eWZHd2VpZXpocGNZMFl4cjdnRm1OZU1WY0pTa3h6ZXdINTQzV0dKQnAxeXpWb282MmI?oc=5"
         }
     ]
 }
