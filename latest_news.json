@@ -1,46 +1,46 @@
 {
-    "updated_at": "2026-04-16 20:10",
-    "summary": "晚安，為您帶來今日晚間重點快報。\n\n【政治焦點】\n今日政治圈聚焦追蹤器疑雲，總統府呼籲國民黨盡速提告，國民黨方面則透過尹乃菁表示雖有證據但決定暫緩。另一方面，政治名嘴李貞秀在節目上與于北辰互嗆，對於是否批評習近平表明其立場。國民黨新北市立委初選民調引發爭議，蕭敬嚴與何元楷雙方皆稱勝出，黨部已就此發聲。民主基金會強調不贊助涉統獨活動，國民黨立委鄭麗文訪中費用目前尚未核銷。鄭習會後，陸國台辦副主任現身兩岸青年活動，呼籲兩岸交流往來正常化。\n\n【國際情勢】\n國際情勢方面，伊朗首度傳出明確退讓，擬開放荷莫茲海峽阿曼航道，但設有一項前提。此外，日媒分析習近平願意見鄭麗文，其目的可能在於掩蓋中國軍方內部混亂。\n\n【社會民生】\n社會民生方面，近期香燈腳活動引發亂象，街道與農田驚見大量紙碗及垃圾，令志工們氣炸，感嘆每年宣導卻仍舊無效。日本京都殺子案家庭背景曝光，37歲繼父偷情扶正後，竟在棄屍後冷靜上班。而備受關注的剴剴虐童案，追究女社工刑責部分，陳尚潔一審判決今日出爐。",
+    "updated_at": "2026-04-17 07:59",
+    "summary": "早安，為您帶來今日上午重點快報。\n\n【社會焦點】\n「剴剴案」兒盟社工陳尚潔，一審被判過失致死等罪，處有期徒刑兩年。同時，今年白沙屯媽祖進香頻傳負面消息，引發外界討論與分析原因。\n\n【政治觀察】\n鄭麗文訪中費用引發民主基金會補助制度亂象，黃揚明揭露綠營也曾獲逾千萬補助。另外，同台交鋒後，江和樹表態力挺李貞秀提告，並稱費用由他負責。\n\n【國際情勢】\n伊朗首度傳出明確退讓，擬開放荷莫茲海峽阿曼航道，但有其前提。美國前總統川普則證實，伊朗戰爭已經結束。\n\n【生活氣象】\n中颱辛樂克與鋒面包夾，準備大迴轉帶來雨勢，最新下雨時程已經出爐，請民眾留意天氣變化。",
     "news": [
         {
-            "title": "香燈腳亂象！街道、農田驚見大量紙碗、垃圾 志工氣炸：每年宣導也沒用",
-            "link": "https://news.google.com/rss/articles/CBMi1ANBVV95cUxOVmdUcEVYbnEwbkwtVWw2VHAxdnh2cG1CR2RzdEJuSlpEMlVwS0JjRjduU0J5RVVycVpseVFrNlJ1eXRNb2FyUEhoSGlDTThZQ3VsTUpoNmlxM2d6THJTWXlEc2E4SzlYRkJUa3EzR1UzWGw1dk9ab0hyS2ZlelJBb2tmbnVqMHhnQ0pTZ2JIek9PSmVGN2RfTFVBNEgyRlVUdUNva1FjV2tUNU9DQUpJbkpveTdnNm05dGdXU2RUQlBjV2NZVFpzZ25VLXdtVy1PYXlOT0RkZklvNVBuOTdWRHJFTFFIOUl6dzlUUHdiZ3BudkJwbEtiQ3pyTmVXSXNiZGdyOXVPWlJBV09KXzhhTDZUSS1JTnhiTXJqSGVma0lwSWVIY2g1aXVpRmhxWjdJdW5uRnFHa1Q0SXJUb1l2YkRjR0FmV2toTldId3VZVFhsUUFjZHJnNHdJQWdfeF95eVFodXBHVGNGYWNob2lKVlp6TDVvQmlxZFRtMGN1bGxEc0hadWd0ckUtQ1Z1MUlCeHlZbjRRbjcteF9oYWloTGI5Uzc3ZHZzN3F3T2x1c1l1V3JBWHg5bWJCTS1nZnBhVTdfdG9pS2FuUDUwa2h2TkhMYmo?oc=5"
+            "title": "「剴剴案」兒盟社工陳尚潔犯過失致死等罪 一審判刑2年",
+            "link": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxPS1BWaW9teWc5cWRpbV9JcElOTDEyQTgzWjhVaFczUjdiR2ZNX3hEY2RnYVBEeFJxVXIxMjRZQmRRcm5YMGlRc2xmZ0dIRWxGQ2MyMzB3U0VzbEExaE5hVGh0Y1VYTTh5S1JsdFNXSzFsZGQtRmJHZGFWU3pkOWJsRWxVN3BGd2tHTzZKMVoxd3NzdHZRZVRsVFd2LW0tZzI0UnJfbmZZSnpULVJBdExqOUN1Wjg3ZkIxUkl1ZGdfendtQ01oREtVeVU3REZXTWtZc0JkVERZTTJFdjBGZDBMM29BQ0NubTREMURMYTk0MGpYRlppcEpjb3FSZFYwclF5MzlFdWtqS3d0Tlp5RnZRTXlmZTRrOGowSGh3cDBuLXktb0RzNVdZWkRSOXdNUFlrZEZYaTZiWWRpLW1RdTNrcmptMlRER1dBZDExV0NxdG5oc0hadk1taFd0Zk1XUWw0QWladVR3TktySF9wZkxIU3Q2LVNfQQ?oc=5"
         },
         {
-            "title": "追蹤器疑雲總統府籲快提告尹乃菁：國民黨有證據、但算了| 政治",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0xSTFsV2ZCckhfSnhteVVQcVFiV0xHa1FiT3FVeU5saHlidVBLRXVzU0h5S1EtMEctSG9oaE52cWd4bk9jcnVkRUtkejQ3ZDAwdzJVQ3FUbXdlQWs?oc=5"
+            "title": "解密鄭麗文「女版中山裝」！來自廣東禮服公司 曾為多國元首訂製",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9fREF5YzZMbkdLc3NoZ1BseUM1bE9TX05tLUwwTGVBZm4wY0xHWnBhVWYweXhCUUhfYk84VzVlbUxzRlQzTUxwUVM1WjRTbE1YNXVJ?oc=5"
         },
         {
-            "title": "李貞秀上節目與于北辰互嗆！拒罵習近平：他沒得罪我",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE45ZmxZRWlwSVhkTWNEcm44OW1UYTNMS2ZOaTJqQ3RYclRvVnRSaFFGUnJLU2Q1MHpZUU9hOGNXWHZEdndmdEhVWWtYTjRYc0dodW5hNGxvTHljaEYyMzE3WGl0cE5jSmc3ekHSAW9BVV95cUxPUFZMT3M1NnNabWxVblg0NUVnYUpSLU93OFFGQUdnYkZ1MXgwSXMtYXJHV2dNYVZTSXliNGdheUZzZlc1aUp6N2dxVTN2MHd2TGd1ZzFzdGxRMTVyOE8tMkRzZ096M0M3SDNuQmJXU0E?oc=5"
-        },
-        {
-            "title": "京都殺子複雜家庭背景曝光！37歲繼父偷情「外遇扶正」　棄屍後竟冷靜上班",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE11TWd6WXh3QlFJemYyRUE2M2Utb1Fvcm40Z2I3V3hxRklQWHNGMTV2cHVISl9kU2RKZ3F2Rm81TDdOTHc5QldXc1I1amJKNkxKU3FSY0RMbDdNY0HSAWBBVV95cUxQWXI5Tld1VXJZR21icmh2aUEyLUhQaU5UQlkyOUctTm9qNjZSU2hacGp4UHFYTjFZQVNUZGpJZll1SFVFNlRmMG9ZMTNHUFBVdzFYaEtORVJPRVc4ZDVEZm0?oc=5"
+            "title": "同台火爆交鋒江和樹挺李貞秀提告：費用我負責| 政治",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5TSnUweFhWZ3VacmNaWjJvYWxFRHZZVjJGUzVwLXN3LXRHb0pWOHlYcXMwUEtXODlDVHZNNEYwam9PWXZZZ1UtVUw0ajFZSmJyR1IxaklWY3pRSTQ?oc=5"
         },
         {
             "title": "伊朗首度明確退讓！傳擬開放荷莫茲海峽阿曼航道 但有1前提",
             "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBtVi1lWUNkMzJNUTZERWpnWjk1VDNscWRGckVlQnY0cHFPT1JHSTBva2FJUTF0enJCX3g5NUc1bkNReUZVeFpHZFdUQ2tab1M4RlFj0gFYQVVfeXFMT2t1RWxOZHRHUy01VTlPZHVEbnpZbTBiTzZ6cFZEUnRGVTEyWVFMNFd0NFlSTmZiX2RVM2pxdURSQW5PeDhucE5SWmlfNnVxRkh4Z3EwVnpLaQ?oc=5"
         },
         {
-            "title": "習近平為何願見鄭麗文？日媒：掩蓋中國軍方內部混亂| 國際",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9yaWxMZ0lYUWgzOXAzMDh0OUF0alpiX2JDamFDWDFVb2dhYkJFNDhBNjZad190eVlsbktHcDlwMFZJU3JqRW9qOFctWjVrNi1xUWFlNHZuN3oxUFU?oc=5"
+            "title": "他有感今年「白沙屯媽祖進香頻傳負面消息」過來人分析原因",
+            "link": "https://news.google.com/rss/articles/CBMilwNBVV95cUxPVlNSZkJmekJaamQ5Wkhibnc5Uk5vTjNQZU4wa29xdlVDV1E2UUhNWkg2T1p1OFlnbWMwazlhdncyMTFSX29WSGtHcGlvd1pnakhQMnlIOTh2cERRTEp5SDVUbl9pbmx2R1hheVdaLURqeWw1SDZCMnpmTll5YXF6NHZVX3NQTloweVdpQlNTZWtTUGp3TFdsbTdjbGE3aHJEanVBSGFSLXZYWkVuNXhhWnFUVGl1anNvb2daMlRRRUN5cWV5QTlkWjcwQklJalpxenlVUnNJTXhZUzNnMGFMOEo3ODJ5dW9hS0RFZU5sbVdEZmhuTnY3cUp4SjdyTU5lY090cUhuRUI4SjJwRUtBcmN3MzRpYlFoUEQxQ2pRMTdRMlZ1REhtZmdEYUpwZV9lVGY5NVh3N2h1ZUNVcEhoblFKb281aVNjY3dXZGh2V190ZUFvZUtyLUlHTTRLamhraDdlUFE4T05tMElRd0c5S1VMUmNHbHJiNm5kX0EyWWpTT1pHRnFQdFpaaXF3WGxDSXJhV3d6UQ?oc=5"
         },
         {
-            "title": "蕭敬嚴與何元楷都稱民調勝出 國民黨新北市黨部發聲了",
-            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9GemItVDl4NFh3UkxwN1BBeThGYzdVb1lIX0lZN0JGcUhvY1dfWnM2T3RYd0t4bnoyQnJVNjdZQy1mUEtBMjFwY3NqQWF3Q09iazdB0gFYQVVfeXFMTmtKRzFSbHFrcXNIc2hzX0cyd2hpVFhYcnpGY19IcG5FWDRTa3hMV0VMbWV6aC1NdlMxZl9aR3I5WmduVjFOOVNZMjlPWF9FRXBWWmNiOHk2Mw?oc=5"
+            "title": "「這2天有大事發生」 川普證實伊朗戰爭結束了",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9CZWJueHlZdWx5eDZOUTRwQVVxMGcxTEdvdUhfeFFUejBvckpyOUhDRlNhUzc2U2U2MVI4ZFdCSWVNeGpEMzBlTkR2VlExSXc0bmY4?oc=5"
         },
         {
-            "title": "民主基金會：不贊助涉統獨活動鄭麗文訪中費用尚未核銷| 政治",
-            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE16N0xabDhzS0VvcXJYQUVjYnhMWUFDTk5Mc1VlLUxvREl1UTcwal9uSHVlZlVzS1BUcTlpTmxXOHpwR2ZwNjZ5aW1DeXJ3Zm93ZmVsMVpyMjNtTXpiMUFV?oc=5"
+            "title": "李乾龍座車疑遭裝追蹤器　先問老婆：你要抓小三嗎？",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAwR2FrbkE0amo1enA0SnhEOTNsdlg5X3A5UWM1R1V0dk1Bby1SNENEdElHVGVkdktrc25vS0NnbFRaZEhsTjBLOURfX1hDZWxvUkVMY1ZVSGhhQzTSAWBBVV95cUxNSll4M1JLc1lRcGcxaFpyZmJqWTNRbzNCSF90TGpTVFEtdXdTd3RRNDVQOFAzNGw2b0Vvc1B3cHNHcmQwS01JajA5YlcxLVZmMUIyWTRIb19rbEgySk00OEQ?oc=5"
         },
         {
-            "title": "快訊／剴剴虐死案追女社工刑責！陳尚潔一審判決出爐",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE92UENjNVV2bGozTXZrRlJNc1M4WW00eTBtR0RhWkl5Zm5fOGZTbUhhTVdOMGRVZG8yNEJSSkNNQzdLLVB4dzNRT3hWNWRNLUtoRHUzUU5R?oc=5"
+            "title": "鄭麗文訪中480萬全民買單？黃揚明揭民主基金會1制度亂象：綠營也拿逾1300萬補助| 張庭維 | 新聞",
+            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1rZTgxRkxyVU93Y1VLQnBJZEE4dDdHRWtsZ2xoMjF5MnRtQTFLRWcycy00em9SamlkUjlnazlhVzdjX2dSeU5KY29hZ282Zw?oc=5"
         },
         {
-            "title": "鄭習會後…陸國台辦副主任現身兩岸青年活動 喊話兩岸交流往來正常化",
-            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9ZdjF4al8xN2tDZTVNa2RQT1NXVFQxbzhEcVlpUS1idVdIeXhwNldPbW9iQzdUMjZ5VTFrTG84YmJvUVdqSVQzZmFBc3ZacGkx0gFWQVVfeXFMTUotUnF2d0NoSjB2eTVILWI1OEpBcDZmQUJiQVpmTjBIbFFhak53MDJjRWQ5XzEySGQyY2R2UGkza0JJOW9RSUpfeHVaYWkxaGFBY0JDelE?oc=5"
+            "title": "柯文哲跟白沙屯媽祖8天「吃都不用錢！」 認了：這是我最快樂的地方",
+            "link": "https://news.google.com/rss/articles/CBMikANBVV95cUxNSmdkV1h1ZFNCNGNjMnFSYVdYc0ZlZ0ZNSk42SmlPd1VFN3IzTWczOUc2MER3dkhQc25lSXFGZFVvVU9tQWNEU2ZJSnIxMUdXa0xHLUtsdndyRHQyeXpuemlzM2RaNVlZMlh6WlZfOWxkcl96dGczYmRMM3VGb1kya2NiTDYxWXk0OFFsNm4tZFprWnNFWmx0TmNwWXJkRDRDZkxOa2pmYnVpVXVCNjJTaENrRl9ESUEwbFJWdUFDeXlPUVg0MVpZdWdjcFpWbk94bUwwY19UODhiaTlwXzlhMDJyM3hSazNza01TcU9UNExkMmhMY3hBUklkZ2tfaF94dkdfakdxUDNkQTZBQ21ESVZfREVVY0I1SjRyazdKQUtMZVhpLUZibEJSa2hJVzY2UHF4RjlfWl85NnRrRHdTbThKS09hTnJUTHlnQ0RoNWdfWVRWLXh5OGZhYWhmb2oxaC1xZENHTk04cGR2RU4tbXFqRnlxRzhIQ1ZuWkFxSnI5NFhxTldYZm1PMmVqUnRV?oc=5"
+        },
+        {
+            "title": "鋒面、颱風包夾！中颱「辛樂克」準備大迴轉下雨時程出爐| 生活",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1PLUlJMjJadWJ0ZGEtdlFGODFnWHM4Vk8tdEoyZnJHaFJfdDlwa21CZzJYUzVWbllYQ0lyamkxYjNDTnBoQmF2VXhEZUx2bllERjZZOWk0SHV0OUk?oc=5"
         }
     ]
 }
