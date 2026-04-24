@@ -1,46 +1,46 @@
 {
-    "updated_at": "2026-04-24 20:07",
-    "summary": "❌ AI 暫時無法回應 (所有模型皆忙碌)",
+    "updated_at": "2026-04-25 07:57",
+    "summary": "早安，為您帶來今日上午重點快報。\n\n【社會安全】\n台北市忠孝東路中信銀行發生搶案，犯嫌已遭警方制伏。此外，台南驚傳女高中生放學遭預謀襲擊，嫌犯意圖性侵，警方正全力偵辦。\n\n【政治焦點】\n農業部研議「發芽馬鈴薯輸台」政策，立委王世堅怒批政府「只學皮毛」，當場請官員下台。國台辦指稱台灣「沒有總統」，媒體人黃暐瀚評論這顯示中國的九二共識根本沒有中華民國。另有立委王定宇爆料美方威脅韓國瑜軍購審查，徐巧芯則反嗆對手先顧好自身感情問題。\n\n【社會民生】\n氣象署發布四縣市大雨特報，提醒民眾防範積水。三重一名女警自然產後大出血不治，家屬疑有延誤，婦產科表示將配合調查。台北市長蔣萬安騎YouBike遭質疑擺拍，更因違規被檢舉。\n\n【國際情勢】\n美、伊第二輪和談確認流產，據稱因「關鍵問題」導致代表團遭訓斥，和談陷入僵局。\n\n【體育娛樂】\n中華職棒樂天桃猿隊主場，特別邀請到NASA太空人林琪兒前來開球，引發球迷熱議。",
     "news": [
         {
             "title": "北市忠孝東路4段中信銀行遭搶警方制伏犯嫌| 社會",
             "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9scFhGX2E0STVZUzdlQ09jQlZ0NTlBaHVDTmd6VndlZ1dDbWVFZGFzc2dzNHVoYnNsc1dHUnByV2VIcHM1VkRCUGpqWjJaRDAxaGRrTjM3VFhPTGltN09n?oc=5"
         },
         {
-            "title": "北車商場易主1／微風廖鎮漢痛失北車「金雞母」　昔日商場創新王下一步該如何走？",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9qZFRqdUlXQ2lzR3RPVFp1alc3a05UVTdYcFVSWFA0S3NqMFNLMkQ2QlNWZkZkTFFwNXN2QkN6RXN4cmQ1R3RqZHVmRlNrdlBIeC10U29yQzh6RkHSAWBBVV95cUxQbnVVV1l6XzVXY3Rnc1BkTTZuY2lZWmgzcVI5U2FJUXpLVnhKMXJZUmJOb2FTTGdJX2pTdUlhT29uTFBZUUlsSkxnZS1id0otLW53LUVSSFRvNExVZFZ4VjE?oc=5"
+            "title": "快訊》大雨猛灌！4縣市大雨特報氣象署：防積水| 生活",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE05ZkxsdW5CZkotbWhkeVctTU5hSXlmdkpMc281UVZDYTdTQmlpNTMzSEN0RExfZjRGSm1FMmktSUdlWDh1NlF4WjJwN0c5cnM0SmFlcXVDTEk0MEU?oc=5"
         },
         {
-            "title": "外媒分析台灣危險了！ 伊朗間接造成的",
-            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1DRHBWSE1BcTJoOXhuVjNfRDlOSEhRSTV2cVFQZ0ZrZnpRVzBJU05Va040RXE5d2p5UTgyVXpFekwtNG5aZFdGcXZTOVpUMGExT1Z3?oc=5"
+            "title": "美、伊第二輪和談流產秘辛曝光! 為了「這問題」 代表團被訓斥遭留下| 國際",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBveEJYWmMtSmF6YUs3WGVoRU1ZbnRFWGhkWHlfcFdTenJacm1XcTV4OFJzLUtmaEhYZDVBMlhqSkhIQ3R1QzB5eHd1aW9RdXJMNjluU29TM0RQOUk?oc=5"
+        },
+        {
+            "title": "「發芽馬鈴薯輸台」比照日本？王世堅批政府只學皮毛 當場把農業部官員請下台 | 蕭宥宸 | 新聞",
+            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBUV29rc2RlNzdVZURwRnphMDZwVWd0Yjd0djBWOElTcUdmc01QMnozLWhma2daU3VRZHl0ZnZvRXlUOGp5VGFONW1vb2tydw?oc=5"
         },
         {
             "title": "台南女高中生放學遭襲擊 警：嫌犯預謀犯案企圖性侵",
             "link": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxONXJKMzQxOGhGQ0RDZVpkNkxodkFTOUZPSnBUOGVBRWpwR2JicmptR1JhWGh6XzRsREVNblJfLVRoemZEblVUeWtWWmFfS19wRzE5RFRybGw5bVJ3RE9RbllQMjdHVGYzM3RkMmhLX240RjFWM09lRlN6d3dET2N0REozdDdaUDc0N3NMeXJBNFNtdzZaTzViRnZBOVFGMHRDd2pWT0ttQTVaRmVIR3pSU05vNHMyMEw0blpka3ZkeWdkSjNRSDZ2Z2o5akFUYmJ5a2twdWRKb0tvem83ZFFOZTNNTFNjb0VmZHV3OUltam0xNmdlSWs0UzlDcUtybk4xLUFMU2FZZTNLWHNTYkRsWUR3RUdmSzRheGt1aG52dDZFU0JrNWF3ZWVpeHhGcVNFaW04TWFyeVFnNUpqT0RqalQ4RGx0YXZ3QlBVV1NDM0FqVjlyblg2NUNRV0U2WFVsTDlkNXZkQXo?oc=5"
         },
         {
-            "title": "獨／顧立雄震怒沒用？教官持槍「連射」士兵8槍 手臂彈孔傷勢曝光",
-            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5xVDBVbks3Q1VaUVRYTHNDLXlkUzVUWjBOYXNya1BNZi1La3lUQ2NsSnNfcVIxcFgyOHlrZHZaMEFOVERUbENzdWI2TTcxXzNrRFc0?oc=5"
+            "title": "國台辦嗆台灣沒總統黃暐瀚：中國的九二共識是不讓你活！根本沒有中華民國| 政治",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE01dnJsNGQtX2IzaXZGZHJmWDh4WGNpVEY2eEk2UWE0aFRVMmNuTm5fX2JGRGZ3Y2F0M0trM2RkT2hrZHEzT200NC1WQXR6Zk5wTDRORl80MEpoTFE?oc=5"
         },
         {
-            "title": "報稅必看！房貸利息、香油錢也能扣除？錯過會心疼的7個抵稅項目一次了解",
-            "link": "https://news.google.com/rss/articles/CBMi4ANBVV95cUxQT3djX2RYOXNEV2FnRmt5ZXlzYmQ3MHprbjNvQjdLT0FHTWhaaUpuME5sWVE0SjdrOWlyTk8zWWI2SVpDNDFUTkJBRkg3S3YxUDVVbE82WDJFTFdMVnJZTHFZTTRkY0lZUWhDRXRqWWpMdlRxZEtqQjlPU3BtOGhmRGxDdjU0VFd1Y2I2aXBwZVJ1d2owQS1nMHRoMERPcjhjRU9Ib3VZZjkyZGlLQWpPbnFOcXRQNjVFeDYtYVBmSjBQX0hzdlpYZFNDamY5RmQyaUpZVmRHWmpaS3FsZmoyNzBBckFsNjlXblNMQ3Fyd1lHVl96dWc0S1JtLUh5T2xvYlRBVnRtaFdhR2U2bkZ5WWNwdnA1aGJ3aS1JRTNxZHVrcVdOMlFSNFFRUHE5SWlabjlRbExnMEg0ZEtwby1sWE1zcFhEUDZzVmJVaGMxQ3FWam5STmJpT0V5aXlqOU82bmQ5UDQxcnd1MnhKRmdmTVJTczhtVmVieEhMY3dDeUozYndfTzVzbk1BTzhKVVdHVVJEUkh2a2R5eUxBOTdrVmM5aGxPcngtRHdOSmRjeXlKajZPd2ZoQzBDQnZKR1FjS1BCR2lac1VTWFd6TnNXcUJ6Qm02bEI5OF9FcGxma0U?oc=5"
+            "title": "「你們將付出慘痛代價」？王定宇曝美威脅韓國瑜審軍購徐巧芯：先管好你的感情問題| 黃芊昀 | 新聞",
+            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBnOTJVVVdpbjZOejNtR3haSEU2ZWNPWm5zNFlMRnl3dWJMUzI4NkdIamFEYmFDN0R4b0YyV1EyYnB3MGQ0bkVLdkIzYVE0QQ?oc=5"
         },
         {
-            "title": "賴總統出訪遭取消飛航許可出現羅生門？張競：模里西斯稱從未同意申請",
-            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAycWRVQkM3NEpJRDYwbXlIZ19MclNkZVFDMmxQYlJ6T1FBZjFmaGVYNjZJdHRPdDdEclZULTFDeFVvMFJ1V3VtY3RPVVpjWXBJemU00gFYQVVfeXFMTUoxbXJkZ0tGX2pCcm1KNzRJQkFVQ2RKb3ppdFZvMEI1SDVIa1NFajd0UjFNdnkyNDFDTXRieW1BYlBFaXRfSWE5azhfandxdVlucU94ajhNSw?oc=5"
+            "title": "蔣萬安西裝騎YouBike遭酸擺拍　還被檢舉結果大翻車",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB6SkZ1SmZVeFBiYm5QVzRwR0haVWtGSlJNQVNNX1pZQW9rSWV1a1piZzFJYmsyRlhKN2o3NDltRXpZNHVQdjY3dV82cDJzSW1FVXRra3dmWTNXZlFvQWfSAWhBVV95cUxOVE12Zmlldm42Wm44OUd5UGw5VVZvZ0NabE82dTdKd1hreERPX0txQnJVM1QwYzdrVy1MQVR1UGl0TlY1bk9WRlE2ZlRuTGkySzUwLXRMUGhwZlZuN2tSdGRGSV9pVGNhcA?oc=5"
         },
         {
-            "title": "高雄屏東大雨特報 慎防大雷雨、雷擊與強陣風",
-            "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxQM2FlTUttWWtSNlZwbkdPQ3E2dzJWdzBrVEVvZG5FdHhMRGdxNl9RQkhfVXJiMlBmZWZIZFlnSjlDcEUydEc5R0xva2pZaU9kOWdIYnZETVJ2SVI5Q0otV1l0R0Y3SGxzb1JGRXctRkQ4RjAzcWRRWnctblp1TWhpTFhJVVo1VWZGRGcyY2JkRzd4MlVGWFJ2b3IwQkVEVU5CODhwZDF0M2VIMWl2aDZKS1FRX2NabVZoYW5sRE45S05Lb3NYZ3oxeTRxSjdMRkxDOXdLT0RNOTd4akE5NmgwMlgwV2dSbUxpdlpoTUVhSjNGWjM3WXRsMVpLZnNUMUFHMmEwbF9vYmw4SmRJd2xPUkN2b3hmTDJ5dWRsQUwyRklJSjZPU2J5b0VmUVlCY25sRFplN0NhZTUtMlVwdlh0Q3hGMUg?oc=5"
+            "title": "中職／NASA太空人林琪兒降落樂天主場開球幕後功臣是桃猿啦啦隊？ | 棒球 | 運動",
+            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1RWVU3RDhPd1pobEs3aDE3QjRkd25pTWdReU83OENZU280aDZvOE1sMkI2Y19ZOGt5eHRTTl92ZGVjX2xtc01tRVc3VDBXRHJx?oc=5"
         },
         {
-            "title": "女警產子失血過多離世 接生診所疑延誤就醫！劉世芳：家屬要有個真相",
-            "link": "https://news.google.com/rss/articles/CBMiswNBVV95cUxNUnZhQ3NJdzNmQmFnZmtNbTY5SVM3aWQxcHpiZ21OWTNKVlVpa1g2Vk5IckxhcEtnc3NXS2lraW5lMk5FeFpnVS00bHktOWx0Nm1VS3dfMVlkemp6MUhBaVBXM1RBSXR6eUdwZHJUdkYxOEpBNTdaQW9jQkdwRHlBYVItS2YyZmxIOV90ZjFwMDNiVTExOGF3SGZCN3hleDJZbUZKU1RUVUk2UzlCR0Q4RmZ6Rmc5WUE1OVdyQllhd1BlYjBMRDJOMnRFVVJFdHNYa05EVGZsd21tLW5VLUlkSlNwdVZ1eXBsYXRNcU5EZG1DNEV1OXVUUmJicXljeDNiUlBSRjhaV2J4MWRxbFFNVmdYLW5faFJCMjk4OXdWWTM0dmg2aU5BTlVZU0JlTDFibXR6RVVpYnlXb1V4N2F5WkxuME82ZEZyN1ZHYlZubGpRWEswakl2R1ZtV3hHRE16VHlrZ1VOc1FwTzFNanBpQ2FDWFhLYWdMeVpVbWpPaFQ2R1BCMXRYYXRVUlc1UU4ycGtrQVhJSzRwTmI4ZUZ6c25BOW0xZ2hrNkJ4ZU5wRDBDSHM?oc=5"
-        },
-        {
-            "title": "遶境大雨變晴天！大甲媽祖停轎宏仁醫院 白袍醫護扛轎為患者祈福",
-            "link": "https://news.google.com/rss/articles/CBMipgNBVV95cUxNUTM0ckJHRE9oRlRPZERNVTktUWlqMExJUnZYMVYzWV9PRm9RWmtpSVhMbHpiVVYyZnB4NUhVUnhFSF95RXp6V3FYZWE5Zkk3ZWZ5OFpBQVF3R18yN1l4SERMYWRuTGd4dnNKOEk2M3ZVWXRKU3FQeVFVakFkVzdROGFQbUI5SDNQVGJJWklrZEtrbXU5QWFHTlRiZGx2TC1ONGNkc0REQVNXM2s4MlVzblFkNWp4N2JLTU05ZzdEV2RyR1pabmlnVkJvT0Y5OEhLWG4zMmItZ1hTb2tDc0RzQzF0RTVWbmJXMG16NXRHWU5mck5sMXpNTFhKbDZxUUlVcGdzbFhlSHJiQUI1bE5fdTBJMko0V2o4ZGNkZWZkQ3l6M011bnltZm8ySnNWdWR3UlZmSlByaFpaNHVLUGZRMUVOZzI2bUlZODdESEdCYlk1ZzR4X3NwemtTWXNuSUxDUFhXVFJqSUNMMl9RdmNEa0VtWnVFNFhodmM2T3U4Mnh4blc1aEdJNHhFT0NidVRmaUV1enZHRWlNYlI3OVJDZXBXa1lsZw?oc=5"
+            "title": "女警自然產大出血不治「家屬追查疑延誤25分鐘」　三重知名婦產科還原情況：全力配合調查",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Tc3ptaDJCY0lEQWNrYjNFMnVaS1dBN1FCSTFGR3p4ekItbDUyWEZiLXB1TkpWTkd1WUFMYWNuMEVwZWFKMGhvQ0dyWnVCZmdlUTZwU2NOUW5pYzTSAWBBVV95cUxOWTFIYmpocUQwX012NkRsY0JRemNxbV95NWNZNG9halFYLXdPLS1EbEF3aU42NW5MeUpOZFVjRGs2azRyZ2hUQTlGTHMwREdOYWYySEtGUUJiRjZqYktLcGU?oc=5"
         }
     ]
 }
