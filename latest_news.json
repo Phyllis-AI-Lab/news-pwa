@@ -1,46 +1,46 @@
 {
-    "updated_at": "2026-04-26 07:56",
-    "summary": "早安，為您帶來今日上午重點快報\n\n【國際情勢】\n\n前美國總統川普突發快訊，宣布取消與塔利班的停火談判，並指示代表團無需前往巴基斯坦。\n\n【政治焦點】\n\n立委沈伯洋赴慈惠堂扛轎，引發藍營質疑其過去反統戰立場；總統特使成功突破封鎖，代表賴清德總統出訪史瓦帝尼；國民黨鄭麗文委員呼應中國「民族團結」相關言論，引發羅文嘉批評恐對台灣造成傷害。\n\n【社會民生】\n\n菲籍女童來台旅遊首日在北車遭踹受傷，父親現身說明傷勢；苗栗龍騰派出所長赴陸旅遊遇巴士翻車，導致親屬不幸罹難；淡江大橋通車前健行活動湧入十萬人潮。此外，大甲媽回鑾與「三媽」世紀同框，吸引萬人爭睹；馬鈴薯抑芽劑使用引發專家對食安的疑慮。\n\n【生活氣象】\n\n民眾再忍一天，全台降雨預計明晚趨緩，週日將迎來回暖的陽光好天氣。",
+    "updated_at": "2026-04-26 13:21",
+    "summary": "午安，為您帶來今日午間重點快報。\n\n【政治焦點】\n總統賴清德原定出訪計畫傳出受阻，將由總統特使突破封鎖，前往史瓦帝尼。國內政壇，藍營盧秀燕、鄭麗文各自領跑，而綠營賴瑞隆選情則傳出內部緊張。此外，沈伯洋赴慈惠堂扛轎，也引發政治人物李永萍的公開評論。\n\n【國際情勢】\n美國前總統川普近日表示總統職務是危險工作，並透露白宮新宴會廳將加強防護以應對子彈與無人機威脅。中東局勢方面，美伊第二輪和談因關鍵問題未能達成共識而流產，內幕細節已曝光。\n\n【社會民生】\n全台將迎來春雨，梅雨鋒面帶來雨彈，主要降雨時間與五一連假天氣預報已公布。不幸消息，某校園園遊會發生意外，一名女學生燒燙傷送醫治療。此外，苗栗縣一名警員的家屬在中國甘肅家族旅遊期間遭遇翻車事故，其受傷妻舅不幸不治。台北車站也發生隨機攻擊事件，一名40歲男子襲擊一名3歲菲籍女童，目前已被檢方聲請羈押。",
     "news": [
         {
-            "title": "快訊／川普宣布「取消停火談判」！指示代表團：不用前往巴基斯坦",
-            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ON2g3NmdETWhCdzh3MGk1TGpKMFp1SXo0M25sdUJXVHBSWXpRNU9lQVdpa0E1QzJMWmpyYUtDTlZrV245QkJydTY3eXVYT2pBbGtoOVFQNFB4ZmZOc1HSAWhBVV95cUxNSm9EQ3BnNlFDWmxzNHdqOHI2M25OTTl0SkxKYk8wS3kxYnAzZkNHU2RKUG1nR2Y4bmU4dVNRWG9ldW1QOG9OaGFmNnRDYXZlU1dWTDlzc3B3cGQySjF3NHlVZGRkNlJCZw?oc=5"
+            "title": "川普：總統是「危險工作」 白宮新宴會廳防「子彈+無人機」",
+            "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxOQk05MlE0bzRJV1ZuWGdYNm1Zd05fZkJnUlczRXRfcHJpMlgwUnF6Q1FtOGgyU3N0ZXpRVW9Md0ZZdmVRZi1PWVNaZGNYdXlFdmlDMGhTQjNPNGpaQTRBWVpQN0NCU0FkVkpRV3Fjdl9hcGdLeXU0TW01VU41eUZFaTE1ZXMzbWlKSlJVZnFseHRCN1ZOX0dWc2tPT0JBSl9MQUpMWVYxSEhhYW5mcXkzZVVfczVVS3g2QjRJcFc5aG5rX2t1UjBsdzlKLVNlNHNhMWJySmdpR1hETk9xVTNoYVJ6eHp5YWVUTTRUNC1KR0hfdjdwVmFIbEhRbTJxa3pjN1hRWFhrekVkUy1GaVZjc1hvTnFoZlhNbWdzbm5ITEFhY3VwYmJkbmpyS3phRVo2?oc=5"
         },
         {
-            "title": "來台旅遊首日在北車大廳被踹傷 菲籍女童父親現身說明傷勢",
-            "link": "https://news.google.com/rss/articles/CBMijANBVV95cUxNSUhmZTgwaGVsVmY0VjNncWhmeFZKd3dUTFFVemhhWGVxZHBqNXFqcXRkMFpncnphUGh4UEJNUkgxMXVkOTU3UmQwSUpubWRXSURWUWZWSnpaZ1NWdVpicXlDQmtIVDF6eEFZOC01M2VIMEdYVXdQME5vV1oyTERiR3M3bW5qNG01Sjl5Rjd6dEthUUZ2VmFRS3k0b05zcHFGbUJmTE5lVmFMdGFKQzZjQXVXbVh6R01MdmRSSlJCaTJkMlQ2QW55S2EzdU5hRHdxOHRfVEtiRE45Qi1QbzJ5YlctYWdWd0t1c0VuQVY2UkF3RUVzaXBKV2VJRGhVbWU4Q3AtajJ0eDd0UXdCOUFZbkxmZ0VPX3YyWHlhQmtZdTdERU04Z2RlTHNHblpvVEt2V0JIOG92WmcwS1NKVVZoRWFpdEdCeEJCMGJlc1JzQ083ZWJQVWI4aVZnc2F0aTRhengwam42QzVHbV9aT2h1U2tvSWlxNmJWaUlFU1hJMnJGNkhjcHEwdEMwUXg?oc=5"
-        },
-        {
-            "title": "再忍一天！降雨明晚趨緩 週日回暖好天氣",
-            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE81TFhvV1Bya2JPV0F3cV9Pa2VUQ0tPR1hic1NoYlZKbGRlcGRMU3ltZklSbHppVk9CSnZudnZ3QWE5ZXYzLXlrUjVBVGUtZUtrdEJwSXJTd2VLQV9abkRRTFVfV1DSAWpBVV95cUxNT21OT1lLTW9QQXF4X1BSZXhxWGp0bjRyanEzb3JPTUwzaWYtbGxZX2s4QWg4YnFmdFJDX2IxUXpEcTdLQUFmdzN4OVh1dFVqVDMzWUVjVmpobmgtb0ZBck5rb3pleW81WG9R?oc=5"
-        },
-        {
-            "title": "昔嗆「中國神」是統戰工具沈伯洋今赴慈惠堂扛轎李永萍：母娘要是有靈，祂作何感想？ | 蕭宥宸 | 新聞",
-            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1WaWM0a0FiVkIwZ3hkWkpEMnNJemc1NEtMbl9idXlnYURWYWpxNmxleGtFRmNyY3dUN3dxVmVNV0RXMV8wajhvNjFHUGZPUQ?oc=5"
-        },
-        {
-            "title": "苗栗龍騰派出所長赴陸旅遊…巴士翻車多人傷亡 妻弟傷重不治",
-            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5QQ3Mwei1pNmJwZlZEeVMzYzN6S3cwandkYmZPTlFRaXpoZXpwV0hGZmFxWm1acG5pbWYyS0ZiR0ZFNHlWX3FLRUF5SmQtdVZG0gFWQVVfeXFMUE55blZqbERhc3FBVkZGTlp6TXEwNl9lWU9yNnkzYW9MTHpTdlROVldZSE9HSV9vbzlzV2VKelZ2TFk2SlcxU1NpeV94QXNBZFh6U0NaR3c?oc=5"
+            "title": "春雨又來！雨彈襲「下最大時間曝」五一連假天氣出爐",
+            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1QbjJzYkFNTm1BNjljaTJyWkhIaXdDNmtUaDRNYnBDVm1zUHlJNHNjbDF0OC13RWFFY1RnZ1FJa241U3dRQTM4djgxemk2RDJabjI5cg?oc=5"
         },
         {
             "title": "獨家》賴清德出訪受阻 「 他」任總統特使突破封鎖前往史瓦帝尼",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE92ajZnU0U0aXZUNzM0N0xJSHhNbHUyRGZnS0JiOGZGVDM0LUl5c1ZzWXAxSlY5amEwbkxHeEktcUdzbkF2SVNhZW9XRWNKR1NEcXpFbnNEVkNZQnpMa2ktRW4taklVdTVFSVHSAW9BVV95cUxQRWhVZS1HSC1hYVFDV284TUhyOEVRV05DdkJ3R0RJZFFsM1BrVExwSWVmdHN2MXV3c1FLNzV4ZmdRVm0waGtWN0lRaGsxdjJwQm9adWpsZzdiTmpRVGljb2JwSEZqSHBXTjAtMndhRXc?oc=5"
         },
         {
-            "title": "淡江大橋健行爆十萬人潮 通車前夕搶先見證地標",
-            "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxQenM1UDlrOFNnaUQ0N0VtSlBPWGM1aUk3MnNsOE5QUk8yVVRrTDlkRjA0RHlJaUM2TURVUm1LVTB3Smh1ZXU0NXUwUWtBTVZzbW00c1BwS0J6WjFkbW9lUWx6Vm1qQThxNzhrbEYzbENuOFhhWE52U091R2ZJVTNzZ0JRNHpWRDlPWkFYQm5OM2lpeTdBUGlXd3dBaFluTF9NRHp4QXRscXNHazZXZTJTeGMwU002RnUwa0FKUWZnWHVLb2hUU3ZpWVJvWGJ2Xy1PWmZvN0doaUw1dzUzazczam5jU0tkYmpCNWYwZGUybnJDbWZ0Tk9OcTQ4SFVoTjdTOWZZWlV1VkVRWGl2T1pIR1hiWVFxRWp1TS1JWGJHZG5YeXVKeW95d1h3M3hPMmpfOXcxNmFVbGwtTy04ekNCV1h4OW1qOTQyOEotX2w3N0g?oc=5"
+            "title": "園遊會出意外！女學生燒燙傷送醫",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5mZ1BOQXlUWnd6R3BGR2hFcGR2d1Z3Z25iOGx2X1EwZno4Mm91d3NGSjl3TUttdEhyXy16WTdCTkg3bWpNcGRTLVJmcHl3eUxCc0c2bEVn?oc=5"
         },
         {
-            "title": "鄭麗文呼應中國「民族團結進步促進法」 羅文嘉：對台傷害大",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1qLUdkM0Z6VE5UN0I0RXpOeHNJVGdsOFVLanNJR2pmWTZ6b05TR1NpWjBFbE1vRzN5ME9hem92RXNvQXBYbUZxLU0zRmZURmlMQUZKWDZsUTZtdjNKRFRmZjh1YXZTYXR2TlHSAW9BVV95cUxORk9kWndmekxRN2Q2bU9PVEs4YllKUkVNbEYyUkpEU2REUXQwTjRrSmRkZ2hfN0ZvSkYzSHhnWWtkUFVjT05PWWhYZ2ZrYXh5MEtMSjhLSlA2NW92RG9tRC1keTl6Wk9IUHJ0NGhCTmM?oc=5"
+            "title": "昔嗆「中國神」是統戰工具沈伯洋今赴慈惠堂扛轎李永萍：母娘要是有靈，祂作何感想？ | 蕭宥宸 | 新聞",
+            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1WaWM0a0FiVkIwZ3hkWkpEMnNJemc1NEtMbl9idXlnYURWYWpxNmxleGtFRmNyY3dUN3dxVmVNV0RXMV8wajhvNjFHUGZPUQ?oc=5"
         },
         {
-            "title": "避免馬鈴薯發芽噴灑「抑芽劑」 專家憂本末倒置：克普芬比龍葵鹼更毒",
-            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1xb1dsaVFKMnBXWkpVY241NlozbUtTZHpkOUhpNHI0SW1RU3A0VDhjLVhhMko3YUZpdEJ6LWtmVlNTQjhWTTJKc2RRb2IybjdG0gFWQVVfeXFMTU1BZGxVNFZVLS1HN0EzYWg5X055aUZfRGE3and1SlVBM21GWHMtVlJCTHlQa05lUmswNVBJY1hWQmpVTEdJa3IxNklDdllSMG1fcWxGS3c?oc=5"
+            "title": "美、伊第二輪和談流產秘辛曝光! 為了「這問題」 代表團被訓斥遭留下| 國際",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBveEJYWmMtSmF6YUs3WGVoRU1ZbnRFWGhkWHlfcFdTenJacm1XcTV4OFJzLUtmaEhYZDVBMlhqSkhIQ3R1QzB5eHd1aW9RdXJMNjluU29TM0RQOUk?oc=5"
         },
         {
-            "title": "世紀同框！大甲媽回鑾「三媽會」今龍井驚喜現身 台中萬人爭睹",
-            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9raFpBQ1VsUFFobkk4SjdDZDhHNjNBaUtWdl83cU5DNndHMlRNSFowRW10RWF2U3J6dEpJOVVQMmtlaEd3ajcycFMyM25FcDM2RVHSAVdBVV95cUxOdE1STlg1a0xZMW5iT1ZNTmJwUW9XRzVtQnJDTVptbHZtVXhrXzJxc1VkejZRY3JYNkRxTWxzUjBwdlhUSVA0VTBkUzlsQkdJRVBXS1oyV3c?oc=5"
+            "title": "苗栗縣警赴中國甘肅家族旅遊翻車事故受傷妻舅不治| 社會",
+            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBoY2NkeWVHUUgtSExieURtNUZhTGltbXBGQ0o4YXF5QzRXb3A2cXdMVURkMDgzelNQdDJpeXFVRGlIZXl5M3NiVjM0MWtodTFGQXNsYlFKZ1U2eDN4NTM0?oc=5"
+        },
+        {
+            "title": "北車隨機攻擊3歲菲籍女童 40歲男遭檢方聲請羈押",
+            "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxNQVAyVl9jM2VsR21PLTJIdF9lMElnenI1a05RcWQ3ZjFFalRTUzI5cTV0ZWZqZ3RtbDVVNU5GRWFHOFVBNk1qQmt4Y3dlTXJPYXEwUGZNWUJ0S25DMjFMTDFwb19XRUZtY19nMXJyUHhSLVR5dURJMldHZ1lnVm12Z0tXN3FPcmhlZlJZYWkxTGRacXZLVzg5dU5ieUQwUy02NDdvdEJpVTZLRjBGMk5nSzVWVUdLaEIta2NRSWlBRVdybkozb2RvYk1XTkpUaTBGaS0tQnUyZXBnaDZfeVk1X2l6TU9ycll3S3JVOWNWS2tVTzZZZk9WbGJCTzNyWDRBVG5MU2dSZlVzZjJzblRlSlIwTkdnc2Y3VXlCeTA1Q1BLYlowMGpRQ29oTTZJekNRUW5fSVBqNktsLW9aTkJkYmhqd0F4cjMx?oc=5"
+        },
+        {
+            "title": "觀察站／藍營兩顆太陽 盧秀燕、鄭麗文各自領跑",
+            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9vWWV6VlVEVHRJODZMX3lxNzd6TUlRMTBQZ09pcS1MS2V4d3RVUk1SaWJhUHdYSXg2TV9rSDAyN0VsU01YeWFkdWN2MjBlOVJY0gFWQVVfeXFMT3cyM3FXX0VycUhselM0NEJkNWZpWVVTZ3lJQ1pqeHdEWUZYV2piRnJTTzcxYU5wX0dmUFFrbkljOGVRa3BickdOZE0zNnRobGlTRzktNGc?oc=5"
+        },
+        {
+            "title": "賴瑞隆打不出特色？ 傳出綠營私下相當緊張- 政治",
+            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE91U01fSVlSUEkzM1JFb2VOSkZaSnFSbmpnN3FhbUlnVzJjY29WYU16RGdLUzMyaG5zRnpUSDNsdXhCbHhESHpSYnpOREVtakVST2lSa2MzdlFOSFoxbHF0N1NMVVczWHdORmotbC1B?oc=5"
         }
     ]
 }
