@@ -1,46 +1,46 @@
 {
-    "updated_at": "2026-04-29 08:09",
-    "summary": "早安，為您帶來今日上午重點快報。\n\n國際情勢\n美國前總統川普表示，伊朗因經濟困境，正向他求助開放荷姆茲海峽，並形容伊朗目前處於「崩潰狀態」。\n\n政治焦點\n前台北市長柯文哲任內拆橋政績爆發弊案爭議，預算金額從三點一億變三千萬，北檢已分案偵辦。新北市長選舉方面，藍白合民調結果出爐，確定由李四川勝出。民進黨沈伯洋挑戰北市，拋出「停辦雙城論壇」的主張，黃揚明分析此舉可能對蔣萬安不利。黃國昌失利後，與柯文哲合體募款，成功募得千萬。國民黨鄭麗文則針對軍購預算表達強硬立場，直言一兆兩千五百億不可能通過。另有學者呂禮詩領退休俸讚「祖國」，引發爭議；游盈隆則質疑國籍法處理中配案的牽強性。\n\n財經民生\n美國花生將以零關稅進口台灣，引發雲林地區農民擔憂，恐衝擊生計造成「滅農」危機。\n\n生活氣象\n明起連續兩天全台濕答答，中部以北地區需嚴防雨彈，同時高溫將明顯驟降至二十一度。",
+    "updated_at": "2026-04-29 13:35",
+    "summary": "午安，為您帶來今日午間重點快報。\n\n【政治焦點】\n立法院內政局持續變動，國民黨立委鄭麗文與傅崐萁傳出積極遊說藍營同僚，針對8千億軍購案，建議轉而支持3800億加N的方案。此外，前台北市長柯文哲捲入忠孝橋拆除圖利爭議，有爆料指出當時工法變更可能節省了2億元。柯文哲日前稱企業因民進黨打壓而不敢捐款，也引發外界議論。國民黨輔選戰線，李四川團隊被點出廣納各系人馬後，恐面臨決策真空的困境。台北市選戰方面，沈伯洋拋出停辦雙城論壇的議題，分析認為可能對蔣萬安選情帶來不利影響。\n\n【社會民生】\n新北發生多起不幸事件。一名28歲甜美女警遭巨輪輾斃，初步調查肇因指向校車違停導致連環追撞悲劇。同一天，新北還傳出4歲男童獨自在家墜樓身亡的憾事，社會局已對此做出回應。氣象方面，鋒面雷雨再次籠罩全台，多處地區發布大雨特報，提醒民眾特別留意最大降雨時間。\n\n【國際情勢】\n前美國總統川普發出警告，指稱伊朗的輸油管可能在未來幾天內發生爆炸，並強調北京在此事中的角色並非關鍵。",
     "news": [
         {
-            "title": "川普：伊朗求開放荷姆茲海峽 稱陷「崩潰狀態」",
-            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9nS0Y2aW14c294SFhjOVRaNEhpV2JudjFtWnI2SlJoVFZxa1ZNZzN1Tmx6dlVHaGRNM0VMQ0NSNGhxcEpDZUpCOWFnd3hWeGs?oc=5"
+            "title": "獨家》否決8千億軍購！鄭麗文、傅崐萁遊說藍委支持3800億+N",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5lcWtmc2hiQjg2S21fekJ6VjRtVlR0X3JYblVWRE9SSnJFQnRHVHY3UC1NVldCVWV3MnhheFJneERXNVZ1Wkx2eUh4b3VHc2NaUEhpd1M1Y1ppcV95WXUtRV8zazVOc1ZVeEHSAW9BVV95cUxPMUxIRVdpbGJsLWFQaWZ1T0lyTGktQUdXT0ZNRlVzcVhfRmptV1BhTWtZT3huMkFrWVRURXRfMTFrX3UxQU83QVYwYlY4Y1EwbUFBOUhudy1Dcmc3QTM2S0dlTkU4Zm9LZ0RtcVV3LVk?oc=5"
         },
         {
-            "title": "柯文哲拆橋政績爆弊案？「3.1億變3千萬」北檢分案偵辦",
-            "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxNRGRRcnRiaWJSOURBY040bDdfOWJ3UFZRbWl1SGVrdTZZNWRXRjJqczhrV05XWEZMcGMzY293cFRrek5JV3pSbkxkeUFXaW9XMmdFck51LVFTYld3MThHb21DYkhkTjZnN0Z3R3NXYWxrRW1PWk1KZkV1ZE9iLUc3OFNCMklrNkktakxPWF82RnRKLTNIV0lFdHQxTHdRc3ZTZm90OHNpbDdVc0NCQ2h3UXA4azRhekNXTS1TaE1sNkJhTzR0ZHJVRHNENjBFbTJ0blROQWtLVDdmU3puVlJVNER0UjlTVVF4ak9IdlZaMzlCdXlKS2FSVkIybFBrWktTQ0hhMmJRcFRDMjdJQllfNnpPT3RVeHdfWndaNkV3LXp3RTZIYVVjTGtFVnM0OUJqcGtQOXdRQWZZLUJXdGFMb3cyWlRvdmQxRGtZ?oc=5"
+            "title": "28歲甜美女警慘死巨輪下！女大生追撞前因曝光 校車違停釀一連串悲劇",
+            "link": "https://news.google.com/rss/articles/CBMiqgNBVV95cUxOaVI5czhoTTEwejl0X0kzX3NQNllab1U0UXA1QWVHZmF5bE1TWTNjWVZhVVV1dzRlMHdULVpCVC14RUUwR093WmxRZXpfYTFWWktMcmJsR1dYZy1fUjUyd1cxWkNtSlFlY2FJc0h2MUNLQ2VCS0RRV0xySFU1SC1xZG1nNFRMcGVQbmZhbG95MHJHQTdZUk5KT0lFcWxZUUZvMWVkd0hWbS1MTVFmRjNodlRaeDN3M0tZcm9EZHgzZXdBMUxDUEdSLXVRVFA3MmZQMTdMd0NLNkdaaE5DZUJuckVlZi1RM2ozcnFQWi1uTkZNTmpzbFZUM2tzUHYyb1VLbGZDVGpRM1ZxS1JZYjN0UHFfeVY5YjczclVxbU1GVEttRzlVd0ZuZFlrOGxwRzA3eFQ3RmpCdEs0YUk3OEdkMXN1VVJqSUUwdVpSLUdVbWxCdFRxOFE1YTJRaEY2cnUxOXlHeFhOcGFRVnRSUm1OdVQxNjBpd1ZIYmpaLUxxRUFKX0oxS1JwdzhXRHhrb2VMSEx0ZDJlODh2R005c1NUZUE0eFhIUzdNOHc?oc=5"
+        },
+        {
+            "title": "柯文哲涉忠孝橋拆除圖利？ 她揭關鍵陳情：工法變更省2億",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5Lek1fbVM4Vl9ncVJQd3o4S1A4VUhGY28xekRCbkpPMThZbEJpNnhaNm1WdjByMEUwNkhRTGs0bGxkRnJVNDlmUlpmOUo0YUk5VDVEVUlaZDVqRkE?oc=5"
+        },
+        {
+            "title": "鋒面雷雨又開炸「全台變色」　雨最大時間出爐",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE81bzdCaC1ieXNvU2xlczlLYmN5cm1GamVYTF9VUlBiVHJJQXhkZW1vcTVpdUNxN0NaZmJTSVJ6WFZBUkF5alBaTFU1Skp3TGtHYnJRNFBjUG9kOWlSYUHSAWhBVV95cUxNYkVUMDVvV3hrUG1TLTBhT2ZfbnRhUUxrQmlVZTY2MzFkczhKMFo5UkpRNGxGNTlzeUVaSTkzMEZ1d294dXRfNFJHeDQ3aTdsMGRSd1dWZktidjBvSWVhZE9YSTQxUGZnUQ?oc=5"
+        },
+        {
+            "title": "川普：伊朗輸油管可能在幾天內爆炸 北京的角色沒那麼重要",
+            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9HQnlhb0h4OEhTMmpxV1VtMXcyMmk5ZVVWZXZwYXh0dGRKWUR6dXMyU3RCcmJEcVFOUzNwMnlIa25jaUJ4Slp1SjQ1UXB1Y3FHWVR6dlRYeWdxUW9zMjJJ0gFkQVVfeXFMTVROck1hbVFzSjIwWndLcXBuYmZ5UXZ6M09UT2IxcUhHdUdUMWhWbWJpcTFjREZXd1dxcGRuTEJ1QkxES0pNYzJXZ01vQWNnSzB5RXVWZnpPS3lnLTJUS0sydG9iaw?oc=5"
+        },
+        {
+            "title": "李四川陷逆風局1／廣納侯系、朱系入陣輔選　李四川團隊決策真空少關鍵人物",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5KcmwxcWxpQWk0c2NTM1F2VTJWUXN6QjdRYTR2Wk5feURZbllpc1N2SS1NcmhlTnZsQ1BZdjA5YXY3ZXAzb1JJTEUteVg1alp4b1dJc1BtbVkzY2fSAWBBVV95cUxNMFNZd2lnLXdxa3FKNmxmM0JHRnRRYXdxMVZwQkhOYm9qYW5zd0x3R2ZxNkJsbTl6MjJaRF9lRFdOaDZ2LTJMT21lcXA1aVFWeHNVQXdlV244SXFpeEk4czI?oc=5"
+        },
+        {
+            "title": "柯文哲稱民進黨打壓企業不敢捐款 潘俊霖：怕你再吃96萬便當啦",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5lTEw2RUttQzF0MGN2TE9FWWtiM196RzBUNGo5MDA1QWN5elVKTmRjNXo2OG0tNTVhOWNlS1FwT3FjXzBxaHpmQktfR01qT1VFQTJVU0lsZTRwRVZaTmZVS09GZXUzWlVtMGfSAW9BVV95cUxNdkY5ZVBXbVltMmJ6ektNQ2NXeGROY1NEYVNJY3VLS3otWTZmTGJsYk5iakoxWk1DTXYtMFZWYmpKVVR5V096Y1VLTXQ2MkM3RUVSOFNINFZ3N2NYemVGU3RMVU5sa2JZR1BFZU9RM28?oc=5"
+        },
+        {
+            "title": "代母參選？應曉薇女兒應佳妤：若繼續說沒有要選有點假掰",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1LSzVpMTZjLTJrMzVBNDd5UHlGLU0wMU1RYW56SU13cXdtc0RELUNUM2pHb3FScWN4VGhlZ3NmeDI1Szl4Y3RYalU3Y1l5WUJwRFk40gFYQVVfeXFMT1BzM2ZDeHltMnNvUzFvdk5INzJwRTI1X2pReVhSa2w2dHVDZUhuVm13Q2FKOGFjQllpT1Y2dFF0VEJJSzl2eXlBV1E5WVBpUVFCa3MzYk51Rg?oc=5"
         },
         {
             "title": "沈伯洋戰北市拋「停辦雙城論壇」 黃揚明掀他2張底牌 可能對蔣萬安不利 | 黃律齊 | 新聞",
             "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE91N2NWWWIzLV9Bai1OaEN4VmlHTjRBaUdCYWFSSmlJcExTdWZVaXNwS1k4SmxDS2NIUlVLRFlxajJJRFptSzFBd2NTdGFuUQ?oc=5"
         },
         {
-            "title": "明起連2天全台濕答答！ 中部以北防雨彈、高溫掉到21度",
-            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBoTzZJOVh3T2VNa3JuNWNWZGk4YzdTQ19UUm5qREVIYklTYVQzQnV0OHB3b2xpWmVpRTRiZXdIZG9qckM0bTZ2aGhMcGZGVVdUcWQ5LWxvSTVDc290bU5vZk14OUXSAWpBVV95cUxNTk9FNDlsb0RUSkVzTkszRnhWbjVGNG92ajdLRm9BQlF1a3VFY3FSWG4zQ0dUSVJCZzcyS2lyYS1lbWdTNzZwUDNiZHdHTzdIZEpCWGwzRTFRTkNKRi1neVNaSnJ0UTV3VThB?oc=5"
-        },
-        {
-            "title": "新北市長選舉藍白合民調出爐李四川勝出| 政治",
-            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA4S1VoNDFWbVhvRHNWN09IZU5YRDZxWloxSFJJX1J3bENjWXMwWDNxdHl4OHJ1Q1h1WG5tYjNDRWlEdkNFcndiUFNvRWtFODlwTVNiQmxNNXNJY1VjMUNV?oc=5"
-        },
-        {
-            "title": "呂禮詩爽領退休俸讚「祖國強大」無法管四叉貓曝一招讓他沒錢領網喊妙招| 政治",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE84dDk3T2xBUGRNRFRSbzQ0LVRZT0liR0hTZjBrYjlqTGZHMzgyd2J6djV4VFc4bE1zNU85OU52WkxRcEphS1pTaVNCR01NRktXOFF2SjlfS2oyZTg?oc=5"
-        },
-        {
-            "title": "游盈隆稱國籍法處理李貞秀「牽強」 律師連4問：中配可同時效忠兩國？",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5YUGV6Wmx1bG8zNU54SndJZm55V3hVVTZBUFlBUmRrcF9Gd2I3aFdjbjduQjdVRW9RQ25wVFhDZWVIMjRXa2RnemM5NWw4WDVfM0JMU0tLdmdNQnM?oc=5"
-        },
-        {
-            "title": "黃國昌失利後合體柯P募款千萬！ 「賣我這張帥臉拜託大家」",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE91LUR1V3BZRWxoRGIybjFveWZWN0JBWTlYcHVDbWRoWWc3aW5oTkZ6SUN0ZjZmZXh4RFpweThwSU1mRjI1NTdFdVRVUWNucHhFRGdxY29vZzFORDhkRXc3bmpUR2hHSHBrWWfSAW9BVV95cUxQRzc1MHdrMVVXMzV3aGpacFJxSnhsVXozYVZLVzRad1RwQjJyTGdwLV9ERnhBdVVjcE9MTGRNVzJjR3dyTmotdDVObnB2RERlMDVVQU5YR0xYemdJVkV3QUNRekRBY0ZFT1otalFSM2M?oc=5"
-        },
-        {
-            "title": "美花生將零關稅進口 雲林憂「滅農」",
-            "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNXzl4YVNxZFB3cmg2SkVRT3BUOThtY3g4aFUyMXVHM1RXZF9XcTgyc2cwNVE1RUx3NFQzY01rZzhOVjItaXg3N0RHZVVleFp4c0xQUVB2ekNLUGFBclVydXl3dXA1MnhoYTB2OFZsck95QkMwcjg1a3RlUGdWWkpITW9OUUc3SUk2VnFfWlBIN1dTa0MwRXR6RE5uS2ZwME1LekhncjhEZlFwWXlkQUd3UDdDNXJQTjZtWmdqMnhDZUdXRWlkUEw3ZXlucnRmbUhfRmkwaTJON0owVFdxTU1VMmJKd2F5VXhxMnhERTJGcXRRMnk2Q3Q5Wkpfem1IZw?oc=5"
-        },
-        {
-            "title": "談軍購立場 鄭麗文：不可能通過1.25兆「死了這條心」",
-            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB6d0hTNW9yZ0V5QWV1UnpBcG41el9VOElmVEg5dThlWGswdk5oNGFHX1BBYlBybklZcGZGZHhGbkNzMHFsMHR6bVdGR2RZQ3RkTWfSAVdBVV95cUxQaWlnem5EWlZvMGVHVGRlS0lOTml1OWt2N2JUNER0Y0NXY1NxYTBmdlJKRldiY190UUViMHJuZE45RjhtdlZlc25uaFI3aFlQUTFvN25uVGs?oc=5"
+            "title": "新北母出門接哥哥！獨留4歲兒在家墜樓亡 社會局回應了",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5UTTAtVG1qOWJTVDd1NFFOQWxqWnNPVkJObVpGWVVMOXpEWWt5Ym14Zk12T1RvNkJaNzRPRW9mWENkMjhWa1VIMHhMemdhTnZXcXppZmpn?oc=5"
         }
     ]
 }
