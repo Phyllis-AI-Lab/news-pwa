@@ -1,46 +1,46 @@
 {
-    "updated_at": "2026-05-04 13:45",
-    "summary": "午安，為您帶來今日午間重點快報。\n\n政治焦點\n總統賴清德不畏中國施壓，成功出訪友邦史瓦帝尼，美國務院重申台灣是多國信賴夥伴。國內政壇則有北市議員林亮君爆料蔣萬安市府私下誘導環保局的爭議浮上檯面。此外，國民黨內部對於黃復興黨部的代表性問題出現分歧。民眾黨高雄前主委也捲入定位器疑雲，關係人已到案釐清。\n\n社會民生\n清晨彰化發生重大車禍，造成兩死兩傷，其中新婚妻子不幸罹難，丈夫情緒崩潰。亞太球場則有球迷涉嫌掌摑工讀生，已遭起訴。淡水一名70歲男子確診漢他病毒症候群，感染源因無老鼠接觸史，目前仍在調查中。\n\n生活資訊\n未來一周天氣多變，今天氣溫下降，全台有雨。週五將有另一鋒面通過，請留意天氣變化。地震快訊，宜蘭南澳地區連續發生兩起極淺層地震，規模最大3.8，提醒當地民眾多加留意。",
+    "updated_at": "2026-05-04 18:26",
+    "summary": "晚安，為您帶來今日晚間重點快報。\n\n【社會民生】\n台北市區近期爆發鼠患問題，有民眾自製「老鼠通報地圖」引發熱議，協助市民避開重災區。此外，宜蘭南澳地區今日連發兩起極淺層地震，最大規模3.8，所幸未傳出重大災情。全球公共衛生方面，世界衛生組織證實，一艘郵輪上疑有三名乘客感染漢他病毒後病逝。另外，國內也傳出校園造神詐欺案件，教師出面揭露「領袖」形象完美得不自然，揭開台版神鬼交鋒的序幕。\n\n【政治焦點】\n聚焦政治焦點，立法院軍購案協商在即，國民黨內部施壓黨籍立委，鄭麗文委員重申軍購案為「黨版」，洪秀柱前主席也強調「我們不是美國殖民地」，對外購案表達強硬立場。而宜蘭縣長選舉的藍白合民調結果出爐，由國民黨吳宗憲勝出。\n\n【國際情勢】\n在國際情勢方面，賴清德總統突訪友邦史瓦帝尼，有學者預警此舉可能引發中國報復行動，並關注台灣將付出多少代價。此外，伊朗方面表示，願意不等美國解封港口，率先開放荷莫茲海峽，但核問題將留待永久停火後再行處理。\n\n【天氣速報】\n最後是天氣速報，吳德榮氣象專家指出，首波梅雨季鋒面即將南擴帶來降雨，預計全台氣溫將明顯下降，提醒民眾留意天氣變化。",
     "news": [
         {
-            "title": "彰化清晨重大車禍2死2傷 新婚妻喪命夫崩潰呼喊「救救我老婆」",
-            "link": "https://news.google.com/rss/articles/CBMihANBVV95cUxPeF96bWEzd3lNajU2bnNkUjNHNjlIZ05QelZTVmZ6RW5WcDhuZ1hWWVBlY3NOOXE5M2twVDk5a3RDdlhVdXhSemg4WVVVRHl2MDM5eXBVODJXTi1CWl94Y3FkSjhLX19qU0FGMzM4d01DTGJ3eEdGSWdqckxxalJvbk1wVUI3RTVub3U1cVNCYy1XbmRzcWg0clVmZ21zSlRqbjRybjVvZGNvV2dOTlM5R282Sk9LbUF4UXRZTld5TktYQXJtaEhudW45X050OEJXaFo1eHFzOXN2TzJtZmg2dXZSekRBeWpacHNpblJhTG5nSnRIU1ZtRkp4ZG92Wl8yOExFMUQxMC0xcmNkTkcta1RpOGNnX0hDZHVuZWI2Y2s0Vlp0MDk5NFB3Zjh0X1BRWjZRNWx4UlNiRXpaZlpxdUs0eUZFVmpGVTR5MVB3WjJxd21tZnBld2NhbFd5RFBFUTRqVWFhVEdONkM3M3RNbzJpa0I5SG53X1hkM2kwWWpIeFVR?oc=5"
+            "title": "台北爆鼠患！民眾自製「老鼠通報地圖」避雷 重災區曝光引瘋傳",
+            "link": "https://news.google.com/rss/articles/CBMikgNBVV95cUxPVmJ6SDl5U2ZEOXVVRnRzakpqWTZMdnFCNHBTZ3pXSmgwbGZYVFRuU3VXYmpwMnppSWVMckxUOTI3TnNvWFJncVJ6Z1BtZDZERGo4LXRscnVmNUJiUjlUd2JVQVFGNkp0NWYwczk5RnZuLWZjWFJ2U010UTU4Nmk3Y0twOGtwRVJGeFFOQUo2S01ya1Z0b3B0R292WmtHVnhRLXllV2VTVzYzNWpXZE9ZNjRYRU1yVG5fVllRSmp4OWxEWWVWZTVPNUpqUlFHcC15bnhvRUVFUWRwanBEdUF6VExqbHg2dlppY1dsNEVFd0NJcVh3ODM3ZWRPVktrU1V6UGhMa1ZVNHhJT1RQZVJVSVlmMWRzX2pPa1VmZ3VmZlFBUFg4VUdiYkNTVnJXcEM3SGItbjN0ZFE4aHh2Zi1HSE5JRXBia3pjSHZWTVJxbi03SkZSa0VKc2daNTVoRE1WaWhXN3YweUtNQXA4MmFPczB0WEZhNjR4b0RTcE1JM3V5eXktNFBSQnZ5Nl9tSFF5SGc?oc=5"
         },
         {
-            "title": "賴清德突破中國封鎖出訪史瓦帝尼！美國務院：台灣是多國信賴夥伴| 政治",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4xM25TaEZXdzhRazl5YTZ6azBjNlBmSW12a3VIeWxkYTNRMXE1QnhRdWIyMTQ2WF96TzRWdldPa1dnY2ZDbVhaTElBSzlmZFlZWXZPWlJyR25OVlU?oc=5"
+            "title": "不給立院推翻軍購3800億＋N 鄭麗文再施壓：它就是黨版| 政治",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1iX2lQekNHaFRkZWgtVW9tNEREOVFDODJRU09Ib3dueXdKdWQ5QkRzcGtWbTFRTVR3cWpuNGtPeW40dGF2c0RXQVVPUy1BZXlaMXVCZVZObUVzdHc?oc=5"
         },
         {
-            "title": "亞太球場掌摑工讀生！49歲球迷涉傷害遭起訴",
-            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE11MlJqbnJaaC0xdk1COTZNRWthQy1PME5DZV9ONHE0UFBzT0M2WXk2MkVLSVE3U0dEZ083QVl3NHhYTGZ0Wklld3F1U29DazZLSlZv?oc=5"
-        },
-        {
-            "title": "淡水70歲男確診漢他病毒症候群 無老鼠接觸史…感染源待釐清",
-            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4wb01uWmZZOTlTZ0RHQzdvVk56V1BDZnNzV2VaOE5fTzI3Z0dMNm1zN2NtakVSN29WTmJSR2JYcFlEVk5FaUdWODlHRzFjM29a0gFWQVVfeXFMUERnRTZmam45LVJQR0Y0RElpMVAtSE9MLVVab21Xb1hTTGlRanJXVm40aXhrYXQ3SDdRam1ENlJlTVZwTGtEbjhmbDM1NHBidk9aQjhXMHc?oc=5"
-        },
-        {
-            "title": "獨家／比「南鼠北送」還要扯！林亮君發文罵蔣萬安　私下誘導環保局內幕曝光",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5fQlpwNXhRdWNSMkU4bVFwR0xzQzYtbG1Yd28zQ1A1b0s3Z21TTEduWmQzZ2hGb0dDYzBydWRSSTJkWHRvRnlhVGRjTC11Tk5PVG5yQnJmWkZkM0nSAWBBVV95cUxPdXoyS3JaRENobkVGZmhoMmg0VjloZTVnc1A3UEtlOTJjVFg3WHBvZmxuN1lRTUh6SjZSb2xmWEhNaVAzSHhJajNuRm1mcDFIZ29CN3h4V243SXhjRE9XZmY?oc=5"
-        },
-        {
-            "title": "未來一周天氣一次看！今氣溫下降、全台有雨 周五另一鋒面通過",
-            "link": "https://news.google.com/rss/articles/CBMipANBVV95cUxNUWZjSjF5UDl6UGpRWDJIX1d1b2NKYnZpNU90bjFHQnRCY19VbnFyNGdGazlNSXNWVXY4ZV9XV1N6SFpyY3pRR3lsdmgzQWN1MEg2bnZaT0dIN3RoR2ItbkEtOERYMHpvLVlSczFCc1NVdkc0aGlZYzlqMkRvVmJzaFRWNEdqOFZzeDNiUVpYN0JBOXJ6TFVtSDBUN2ZpZC1LVG5kWS1WUnVEbXpFSWxXaldwTkpPNmlwRXBYeEhzaG9aVFhsZndkUUhlQ3dBWXFlODBQRUVYSXZHVkdaOWgza2Q2U2lkM1dsMUhWRFRPa1U5R3YyTU9YOXVyVzBUOVVMVTg5ZUVmeXluUGRreEhPdWR6V21JVFd5UzFMVi05VjhsQTNZeEVpY2c3YjRVTU55NC1JaWc3NjlhRjlGYl9LNFZYVWFvTmZXLTJyb2lmZkZLZXZMcmQteUZoTUFNUTk4eHUxTDdJZ1ZwWXpNT2syMkhDUVBCd0dkYjN1T01RclVqSG5tQVkxT1gxak5tUnE5akQ4SVRnZEJLTFVNeXA2RjFDN3A?oc=5"
-        },
-        {
-            "title": "吳宗憲擊敗陳琬惠！李貞秀16字酸爆：國昌骨牌繼續倒",
-            "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxPOGVnNmdvRlVTR0ZsbjVSdEdNZ0Z4TWU2cEdSSGRTdEdPU2JqN3FqLU43azhvSFpERUFOVnRxZUtrTno4T091RTJfMU1SZWc3YVBLelhFQXlrOGc5Q2hPdjQzbGlfOTNWb1NRZ1BNM2NMeEc5Y2Q3SEFFdWQwcmlfWmpZYXoxbk1tb3hFb0J6Q3JFZ0lWa2ZaTmFjNEJnelU5XzhPdTZQTzVzX3h1VmtSNXlVOGZ6ekI4RWV0bDdiVDg2QjcxNWIycTdzWndRMWZfaG5oY2w3NWlUSDJHUFR3b2xiQUNXcGxjczFOR3RWYjFHOHFWZE9VMVVhTTROanpnMldSZ2N4bG1UdERyOU1KYWVwR3dHMy1yVTlQVGFYNm5JWXhoeFluaVVHaS1xMk5sUXRmbnppRmpyU1R5TnpGV3huWVNlZ05YeXVfZlN1MW9aaFVK?oc=5"
-        },
-        {
-            "title": "獨／關係人到案！民眾黨高雄前主委爆定位器疑雲　提告妨害秘密",
-            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1SbTFoUFQ4Z1RDYzVRbXVkZXNlWE9sQ2hweUVlQUMtcGpHM1ZEeEl4Zlp5MklzQ2VRRWIyZ1JKY01qNUxieDRZZkp5UGtYVHdpRlM1SkVoN0gtcnNsV0HSAWhBVV95cUxNSDNjemQzU1EyX2E5eGsxNVIzQnFJS1lhWDNIM2o3a2NOVWZERkQwRFZDZjN5M1pYeVYzVTFVR0F1N2kzMVBhLVdaQ01LRWxUZjVhTFlZV09nYzRIcDdwUnJDSHJkQXowYw?oc=5"
+            "title": "賴清德突訪史國恐釀反效果？學者預言中國報復行動：台灣願意付出多少代價 | 張庭維 | 新聞",
+            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9rN1FqaGJKYUZ1SnZmSjdzbVowMFlnMDFYdEc4NEw5R3NWZ1NWdVVLREwwN1huLU53VW5jNGhKN1RnNFdsbXlNcUxXd3hYdw?oc=5"
         },
         {
             "title": "快訊／宜蘭南澳連兩震！極淺層地震規模最大3.8",
             "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE40Yzc2TzdTbDhGN3hEQW9BLXJFb3pzdFNreE5GZEFQZUJhS1c2S0pZOVJRQUx4M3A0VWpQTUxFcWJxZ1JkQnR5N2JNc0MtZ0ZOcmdMYw?oc=5"
         },
         {
-            "title": "國民黨內鬥導火線？她轟季麟連「不能代表黃復興」：大家都氣得要命",
-            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBRYzVEaXpZNDJwdUNEeG9rMy1PUEpzY2NHZ1V3d1kwWHZXT3pKa1QwdXlKNWZPdWswQ3NITlctVG5MUGVjdlRWZkFPQWR4U2Zhdk9GMDEwblbSAV9BVV95cUxNWUtxd1c4VFdYQll4WFVDNUxCM2xmTU8ta3hEU0V4SkJvYk93VVFibUZ4eC10QTBLNExfUFVpeUI0Qlg3cUlzNXd3Mk02ZVpGd1RiWEEwdVhZWDZiLUpmQQ?oc=5"
+            "title": "不等美國解封港口！伊朗「願意先開荷莫茲」核問題留到永久停火後",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9xcVktOW5OVkhMWHJXNF9GbGwtZ01XYUlMaEVfRnRUZGFVMFpTVXAteGNCWkVnZVpheDhSYkd5cFZTbFF2V1hOdzFRb3pfWUtXMlJB0gFYQVVfeXFMT25tR2xNZmtDTmdhX0FZX1lGMFJ4ZlkxdGcwdFJvRGFvWUcyQ0tyaVBqQ1Jsa2U3TUEteHlyUW5lS0VNSmZtcmZwUTZqSFloNkJIWGhXc294VA?oc=5"
+        },
+        {
+            "title": "世衛證實：3人疑染漢他病毒　郵輪上病歿",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1RYnFybzJlcldiNzliaDNaZ3hxOVVGMl9ZaGJoME9oRGtPNXZ2RFFyVDVvWUxab0tPcEZRUjBpSDJlSWhORko4Y0NxSDBaRGtMU1pwVk8wc1l1WjI0RGfSAWhBVV95cUxOcHBqRWNjb0JtWHRKeWFuRUZVYU5ISnpQb2dtRzZTM2s4YU95VEtsNkoxdWxNTzJsZXF6TTBNaV9iTVNyR0p2QW9LOEh6UmxnbDVib2Z6UzBWMHdzUHo4SlhGeUQ2bnF4Yw?oc=5"
+        },
+        {
+            "title": "宜蘭縣長藍白合民調結果 國民黨吳宗憲勝出[影]",
+            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8yZ1UxelBBWXZfQ19laDJjQzI4MXI1RmVCa0MyZEZmaEJBQ1VMNWNnM2xiWk1zS1NYQ2VJbm1iaE1aY1MzRmtSOFRKTERrN3o0UGZNSmdnc0g4b2JwWjYw?oc=5"
+        },
+        {
+            "title": "軍購案協商在即…黨內施壓藍委！洪秀柱回應「我們不是美殖民地」",
+            "link": "https://news.google.com/rss/articles/CBMijwNBVV95cUxOUjhBdW1tNkFDVjYySmRpbklWNC1DWG45cnIxSEJOdlJrQ0N2cXpOdFNkcWI3eU1pcEpVakw2dzg0dGJ1RFVsYWlvd2UycmNlM0ZWMlVUeDZuMy1jZHo1bm4wVEpJbkZIQ1FyeHB3bC04TU9zczBNVUwwS2dzSUpNQkRQZnpMQUpSdWNENlREaGpsODZPRGwyQVF4VTJVSFJ0QzFrRVItS00yc1JwdzZiaW85ZGJEU181UWpJZldtY3FMSXlBX19NVUwxcTVya0xPeHR1V3hTQ0ZZeFkyQlh0S3ZkckFnSmxRajNyeDl4dWYwVUxwRG1YVXcwelQzM2pwRHVYSmQwNFRqTTNsOVYtTTNRTlFpc2pKTGR2TFREcVhaRDhYbjlwczhKVm1zMFdlSGt1UzJqeWd2N0ZiNmRYRjVfRXAzX0xwVDJQQVRVcEU5Vi1lcjNLSnhtdkVETUR1T0U1VDRFWnNfLVNhWTdWQzR3RkJVa1RYRVR2M2xxdWZwR184XzRXZXBRR1R0NHc?oc=5"
+        },
+        {
+            "title": "變天了 吳德榮：首波梅雨季鋒面降雨往南擴大 全台降溫",
+            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1oZHpTcWtCR0FobkJLYW5sWlRZckdmT185TUFsc1YzRXFmRTBUWVFheFFkWEluMExxaDBqd3BUXzMzWkt0ZldJY05GMmJSNEFR0gFWQVVfeXFMT3huQmlsQ1BqQk13dmZVMnVjX0RRTlR5NGUyb2hURUhjWGlyM0Y0S2N2T2tYbEhaZUtyS2JONW5QMHZpazhGSWZweElGVXJKU1VadjVRRGc?oc=5"
+        },
+        {
+            "title": "台版神鬼交鋒3-3》校園造神「領袖」幻滅！ 教師爆：一切完美得太不自然",
+            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ibWNuNXB2XzQ5VXNyVUkxWXhSQVNWbW9JTlRpdFNteUJGSnU5Y1hiYm9LU0ZPQlNTZi1tRDY5RmZSU1p1UDd4X3NWeGd5VExxTW80bkNOTDRHTUpyUHZOc1JLbWhvMENH0gFuQVVfeXFMT2N0OXZ5UWxQelRpY2pFT3o1MlE3UXN5R2hkQWpERS00WUxGUGxLZVFudXNzV0lnRWVmTFNXTEJuZHpsYmlMSDNMN2piQklLaVJ5RW9MWXJ6UUZBUkFyUGNiQkNhNTlUS20tY2p2QVE?oc=5"
         }
     ]
 }
