@@ -1,46 +1,46 @@
 {
-    "updated_at": "2026-05-06 08:05",
-    "summary": "早安，為您帶來今日上午重點快報。\n\n【國際焦點】\n荷莫茲海峽情勢緊張，美國總統川普表示美伊在該水域發生交火，美方已擊沉伊朗七艘快艇，衝突再度升溫。\n\n【政治要聞】\n前總統陳水扁分享施政經驗，就滅鼠作業提出看法，台北市長蔣萬安對此表達感謝。外交部長蕭美琴強調F-16伴飛史瓦帝尼國王專機，展現台灣將持續與世界同行。軍購議題上，鄭麗文與柯志恩對縣市長立場認知有出入，引發討論。\n\n【社會民生】\n國內知名醫美診所愛爾麗旗下十八家分店，驚傳遭搜出偽裝攝影機，官網已迅速清空分店資訊。上千名護理師冒著風雨包圍衛福部，強烈要求將三班護病比入法。此外，「台版張凌赫」爆紅後，坦承曾賣假貨的黑歷史，並揭露坎坷身世向大眾致歉。\n\n【氣象快報】\n中央氣象局預估，今年第五號颱風「哈格比」最快將於明天生成，其未來路徑走向也已曝光。同時，氣象局也對五個縣市發布大雨特報，預計這波降雨將持續至明天，請民眾外出留意天氣變化。\n\n【社論觀點】\n聯合報社論今日以「悲哀馬鈴薯」為題，探討賴清德的執政困境，認為其施政離不開與中共的關係，值得各界深思。",
+    "updated_at": "2026-05-06 13:39",
+    "summary": "午安，為您帶來今日午間重點快報。\n\n政治焦點\n賴清德總統出訪史瓦帝尼，歡送畫面曝光，林佳龍強調外交細節皆為守護主權。國內軍購議題，鄭麗文與柯志恩對縣市長立場認知有異。此外，顧立雄指出美方已確認軍售意願，發價書來前審案難度高。台北市長蔣萬安也感謝前市長陳水扁對滅鼠作業的提點。\n\n國際情勢\n美國前總統川普宣布對伊朗談判有重大進展，自由計畫暫停。南韓一名法官在加重金希刑期後，深夜陳屍法院，遺書內容曝光引發關注。美國參議員盧比歐則警告，川習會可能談及台灣議題，呼籲勿破壞區域穩定。\n\n社會民生\n台南女警告別式上，女大生下跪致意，家屬仍不領情。新北檢警二度搜索愛爾麗診所板橋等分店，疑有針孔攝影機事件。\n\n天氣快報\n今日天氣好轉回溫，但注意颱風哈格比將生成，預計週五將迎來第二波梅雨。",
     "news": [
         {
-            "title": "衝突升溫！美伊在荷莫茲海峽交火川普：已擊沉伊朗7艘快艇- 國際",
-            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1DSm5QeThscUs0M0xuQzNoT0ZoYk9YcFpweVR2TlpwT0dENE1LTERQRkNQRTFDUmR4QlpqZlZ1VHVIbldRdjNfY2E5eDM0aTNFcHZkNjZCd3JkWjdnR2h1WlZwNTNFdzVzcWpIdDR3?oc=5"
-        },
-        {
-            "title": "陳水扁談12週完成滅鼠作業 蔣萬安喊：謝謝老市長提點",
-            "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxNZHlMYzRTRm80UmM4QlJLaGVLRi1IbkRwdkgyX1NVLThfX09GV0xTbEV2QzkySXFPUHF0LXpXU3lWazY1QWtYZ3ZucnctZDdwcUNCQXV3UmFYWHJ3aldGajQ0YUdvaGh3Y1hTdmN3SzAzQTN2NFp4dXlaVmVzc0hzQmhiekxpWHAxb2tBNi02bFRrZDcyQjFGWk9hYVlLaHF3a190QlVIMHc4bWMtcm5NSW5DTDI5RkExVDFiMGl5cTUybWJBN2trREt4Ty1WUFl4T1JuSy1oaDBIU0tjQ3oyZ0pFNWFPckRkdDdOTVAzb0dzbUhhRENnY08tZ2RiWGZoUkhCdElHWDlkaExjVV8xeFJ5SmVpQVBaZFMwZzQzZ1lYWHNveHJmODYtbFczcFh4Z2VONlVDRlcxOHhoc3hGZG8yd2NrdTc5SGRaWWc4X0hGTXNPa2dWT21HUUxHNDEx?oc=5"
-        },
-        {
-            "title": "「台版張凌赫」爆紅認了黑歷史！賣假貨慘賠千萬　揭坎坷身世道歉",
-            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1zTVdoVVVhOWRra3dYT3lQS1dDeGVSbS1tZlpIT0tTckJHa2Y2T3hNYXpYMHZLWjJ5cUdvZGhqc0otQnFYM1JkOXM4VGY5bk5kRGpnWFZ5c2VmR1RhbVHSAWhBVV95cUxQalBuMHJXTzF2SUdtSnNZQm5aMzJqNGwzRTh2SUlGUlRUYmFXMVpNbDUzdklyR056cEtodzJ4NzZSWV9udG1KeHJoN0dEdXZCQWFWOTVLakdIT3NQdFZ1RDFlcnVMRnJDWA?oc=5"
-        },
-        {
-            "title": "第5號颱風「哈格比」最快明生成 未來路徑走向曝光",
-            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5OYmJEcWw4YUo5OGpZTmlVbGx0ZHBBbkVvb1p0elpOdUdiMHdSVVZFekhxWUdJTXVTczJrYnRKOGlLRDZGREZjM2pzX3d1U0c3TEhfTXlLWDFCV0hBa1ZCVlFENU7SAWpBVV95cUxPTGxQQ2I3b3phSXhza0N6dzB2a0NoLUYtN0EwVnB4Yy1Tb2xkTVVTWU9VamIydVVmUWNsUWlfTVB5dTVMalhRdVhWWG5fclh3RWdpdGZzQlppTHBCTjFXX1l4R25paXM2MW5R?oc=5"
-        },
-        {
-            "title": "F-16伴飛史瓦帝尼國王專機畫面曝蕭美琴：台灣要一直與世界同行| 政治",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5id29MWEJMeGw5WDNkcVJOcGpOTENLWEIzN1EybjF3cEd6NDZxX2tfR1UtT1pEWE5jMjN4b0piX3FDZGhKNERqc0Rhelg2LVExSUpGTGV6TGhBTHc?oc=5"
+            "title": "史瓦帝尼歡送賴清德畫面曝光林佳龍：外交每個細節都是守護主權| 政治",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5XVVpkMnVBOTd2bUEyUDZIOXQ0NXpCT3dTM1h1dVhKY3dvcDFNTjc0TmJxeWhsaTZxMFBhY2pfVVVGeDJvbWFtbTltcm5UYXNyZEI1RXctc3NYdzA?oc=5"
         },
         {
             "title": "鄭麗文稱縣市長候選人都挺軍購「3800億＋N」柯志恩：認知有誤差| 政治",
             "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5MOWRwRXRXOUV0a1laeHZIVEUwSWhqR1RHRUw4UjhxZTlZYXNHb0lsODZmUVJKa1YtS1hxZVdrRnVyTlc4UW1BN25qU1BaXzFtN29xMjE5UUl0RWs?oc=5"
         },
         {
-            "title": "聯合報社論／悲哀馬鈴薯：沒有中共，賴清德怎麼執政？",
-            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5wcmV4LXNzaGtvenRlY0hwY1FoTWFrZGtZc1F0TDd6aHZ5NUNfcDlSTml0eG95eENWSzBscWFSR2U3RFdHbFU2RzdLdzNVQ1V30gFWQVVfeXFMUEpEZWRzTDliMTlfWGVmWld2QUxRYk9YdExxLTB6Z0dNVzRZVkVJRlZneHl4TXQ1WWZ5SEFTbzBHWVp3MHRrd3QwQXBXclhmcWpJaDMtekE?oc=5"
+            "title": "快訊／川普稱對伊談判重大進展：自由計畫暫停",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ENzFFTS1hQjY2Q2N0Y21TLVVQN3pfaWlpU29KOUxOS0hJekR4ZmVNTlBuVWxNWUhGRGs5aW1QcE5ZNGpBNEJVMF9ES3JqRjhkaU1keGpZb1pNeHBZSlHSAWhBVV95cUxOcndtdzNmR2J5RHBmMmVRbDFROU96MHhNeHN2MzdMNEJsSVZNX3Jpa0VkaDIzaG1wWjM4a0JyNlAybXpkUG9FZGp2dGxfdDJrUC1RbFB6NzhXMFc3aDlCczR3Vno3UzFMNA?oc=5"
         },
         {
-            "title": "愛爾麗醫美診所18家分店全搜出「偽裝攝影機」 官網秒清空分店資訊",
-            "link": "https://news.google.com/rss/articles/CBMiswNBVV95cUxPSVl5Q1FMUkhES0RidHcyTEpvSVZRcDdRTEMxakVpS1RKVjkyNXBRdHhRc1NrN1NfQlNRbjlacC1kUFdib0RxVklvYk1zRVNSMjF6TDh4RFJXZXlqdVRiRUNtRmhrTDdBek85UzgzVUluVjNvZVBYVGRrMTJIaUpZYjFXdUNhOEs1aUV1OV8tWFNaYmZwbXc1OW9fU1p1d09ZWUNuaVI1SnRQM045YTFCMWstUFptYzZEdTFRS3ZYekZCTUxCckV4NHRueTFiMmd1R3hRUFp3MHAxWVBvOEpab1pnajFlY21CdE5pSkszT2lYOHJXdkk1TkEtcjdQNmdteGREQm83TXlwU0x4YlEwdjA4Qk96cGxoVk5KdkZBTWR6M085d08zU0dxZ2Nmcm02NnAwMmJxbl9va0dUUzJRVUpuVnljVG9WNXoybk5OU1FnVEduc2F3UDJPa09lRTZWR2VvOVEydWlDeFIySE9KVHlZcTNJRVlKN0lybWRJdVVCQi1KaWllSGN5M2tIV2YwbF9reVpaQjRpeTVobk9yMXhDRWNFN0RXRGNwbUI1akZ5Zjg?oc=5"
+            "title": "陳水扁談12週完成滅鼠作業 蔣萬安喊：謝謝老市長提點",
+            "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxNZHlMYzRTRm80UmM4QlJLaGVLRi1IbkRwdkgyX1NVLThfX09GV0xTbEV2QzkySXFPUHF0LXpXU3lWazY1QWtYZ3ZucnctZDdwcUNCQXV3UmFYWHJ3aldGajQ0YUdvaGh3Y1hTdmN3SzAzQTN2NFp4dXlaVmVzc0hzQmhiekxpWHAxb2tBNi02bFRrZDcyQjFGWk9hYVlLaHF3a190QlVIMHc4bWMtcm5NSW5DTDI5RkExVDFiMGl5cTUybWJBN2trREt4Ty1WUFl4T1JuSy1oaDBIU0tjQ3oyZ0pFNWFPckRkdDdOTVAzb0dzbUhhRENnY08tZ2RiWGZoUkhCdElHWDlkaExjVV8xeFJ5SmVpQVBaZFMwZzQzZ1lYWHNveHJmODYtbFczcFh4Z2VONlVDRlcxOHhoc3hGZG8yd2NrdTc5SGRaWWc4X0hGTXNPa2dWT21HUUxHNDEx?oc=5"
         },
         {
-            "title": "快訊／5縣市大雨特報　下到明天",
-            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9TWGxTd0E1X0JlTi1zQ091dlJWRTdPQk1ET3BPbm9ubGEzMURRRWQxMDJIWE9ETkVHNmN4dWtxU2t0Ujc4aC15NlZZOEhMWlVUdUh5Y0x3X21xTFhLV0HSAWhBVV95cUxNcFY3VUdEdTdjUXFfRXB6aE4xVEw5V3pvdFNVQ1FUTUVkbFlybUxFZ2hGQlQ2LXhjQWZrbi1vd0Ywd0VZc2lfQUg0cVRqc2JHdldBMGhuOXlKQjhCVVVhVGN6S2MzY3Y1SQ?oc=5"
+            "title": "才剛加重金建希刑期！南韓法官深夜陳屍法院大樓 遺書內容曝光",
+            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBLNEpyQml1YWxVTnZjNlVOcFg4OFZobDRWUU9wb0luQ1l4MlJMbkVUX3BzMjY5S3M0NS1Vd2M1OS03bE9wc1BKS2Qxa0NMdVF00gFWQVVfeXFMT0lGN0FvOGpjNUMxZWVnMFdUZHhsN0FvSlFHOFhsOG5DZE5GVGhSNWhYaEJkczZ4a0FNcTVWdmk3WkdLY2ZGTzZFb2pRTHdhWWE1QmNFWVE?oc=5"
         },
         {
-            "title": "上千護理師包圍衛福部 風雨中怒吼要求三班護病比入法",
-            "link": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxQTk1zeXVzNFd5Q2FiUFJIVFBZYXBXYUYwTDQ0T2VpcVNQczA4cDROQmNmblk2eVhnSGRsMUE5YnVxX2hUWDZRZ0xIWFIyc1c5OG1wYmE1YVdHdFlHVXgwUW9FMG0tOW8zQnNVcHhZVmNRTkFmbDdQcmlrQThkSHpHejl0SzlCam9tMTNhSXBORlFGdnpuTlNkbmMtZVhpTEpDWENaS1VoUDZWT1haZG52azhDTTZuN05ZMjlZdUNqUTBfN3I5SjdXdDRaMkhUVlF3WXdLOFUzSGVOZk5uUTVLeVlGQU42Z1VVODFnZjMxTVVPeXM0Y2JHNWRtVU5MaW56b3liZ3llNF9aZkxRcmRUQjdiNWZFVVp5ZTJMUFhqdXEyM3VoMFJUaEVwRFE0QmxtelZUMHBwcHIzTUY4dU45VnlGMm5pZl9wdnVaSmdRM2tfUzl3a3k5dVJXdlFHbkZFMVNYR2gyNGhoVDVTaFhJYmF5LVY?oc=5"
+            "title": "台南女警告別式 女大生在分局長協調後下跪、家屬背對不領情",
+            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB4REhOSVB0MEhON3U0eDRzaTJUbTQ2QmJqSUpRbjdLQlBvQUFBc0M1VndURF9JdVNBT3V3TmlGSUZtTWxnektRTnQ1TW03THFzQlFtb2xaSDM1RVlaT3l6aElSY1JPZ1pY0gFuQVVfeXFMUFpIQW9oWGhHSkdyeTZIUVF6UVN3cFB6VjR2dTR5dFFjSGtHbzFPZy1aRzRzOVQ4MzI3OWhycjhJS1NwUWpHV19nb2NXSlYwWnkySEdxcThrbG9NZDZIWmNBakZuNExLcmtEUnBJdUE?oc=5"
+        },
+        {
+            "title": "愛爾麗診所疑藏針孔攝影機 新北檢警二度搜索板橋等4分店",
+            "link": "https://news.google.com/rss/articles/CBMiggNBVV95cUxNdDFXd2IxVmVXZVlWMlpMZFlkTEFTTVV4MmNQWThENUpvaHRVV1c1WUk3ck5QSlFqbk5mTmVjSmhsS3RuWDhkUXM1Rm9ydDBpUXQ5bGN3U0pmaGpaSWF6Y1lWVHRKdGU1Rk1YQlpMamp1cWVYOVlBRnpKbjJqUHlVcG1GSkNHTi01S2thRk4yQ0FhMjdHWHY5ODU0djhlUllvZWI2RmVKN29MaXJCbEU1RklYM1dab2JlZ0l3WjJBbHhCeVBJdVpTWkxrWGk5dGhmM2s0ODZQdFRkenFfSHhVNVJ3M2NXWEEtOTZmWGlXRVpOMjFLTTVtekoyanVJUGxSRVFvbGtQamZLOFpDbjlsbk5EN3dyaHZwVDBSNlRCdFd2dm4wWGJ3VDRWem9FQVM3dzFoWWMxNnB5SnRVaUotdklhZVlULTRwQ3k0bmtMNjFnNmM1Rk9BVVgxZkoyeDE3LW1KM3R1UEZ6bWo3YkFMb0RRd25wTDl5QTNXWHY0bkVFQQ?oc=5"
+        },
+        {
+            "title": "天氣好轉回溫！颱風哈格比將生成 週五迎第二波梅雨",
+            "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxNS0dTcWdoVkJUdGQySXZFSzI2OUFBak16ZFFfYXhoQVhvcFZKeTF2c1QxOFdheGZ4eXBGbVpidW5TZXJwcDBjSzVtOVNBMUw3UURMMUppQ00za3JfSGI4U3BoSWYwYlRDNnNtOWJneVo0N2YyS3JDdDZ0c1F4Y1NVMlhaajJfTG12eWtHNVN3WGJnSGRNVDE2WlpzbDRWNTV5bFNjUGpVY0ZqU3oyOFkzYVVUcXRJdDhLTjRPdFhDVkE0aVh3YklEaGlnY240RGRiazVmcG9ET3hRUXplSjY2TFJSMFVOOUNjcEVmdkExUFJpcVhIOHphOWZkanNhZWlOaENWMFJ3OFFqLVJDdzkyNUhYZWZyajIwWUNpcmU0dkQxbk1TcGZCTjY3dGVaVDFXZldZX19VTzJzeVVZT09oRVYtQkhSM1h2Zm9NWFdrRzdjN25OZEJnTmhiLTB2Zw?oc=5"
+        },
+        {
+            "title": "顧立雄：美方知會國會前已確認軍售意願 發價書來才審案難度高",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBxMng3RnRTOWxyNlc5dzA3Z3hKWkVHdmcyRVJob3pGOXdfRFVJNl9qQTREMTQ2WWZLWmtad2hmSGltQU9RZUpTYTMtZzFaazUzSXhtM05NVWNXMkZBeTRXdGhkOWJ2S0N1aGfSAW9BVV95cUxOLUNPR2hua2V4YzFmSzhJNDZ2QUlaRVN2UFRHZ3JaWGNndmt4YmVhODZEbHV4QlcxOFpTLUNmNVBra1JBdWNjMWhfQ2V1RUFoekRDWlQtTjB4eDNtVWgwRXAxU2s3MHdlSVYzYTJPbkE?oc=5"
+        },
+        {
+            "title": "盧比歐稱川習會可能談到台灣警告勿破壞區域穩定| 國際",
+            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE01LXItR2pPYkVqUWRPT1cwZFZtTlVjanJ5NVVtWmhlVm5ZdHhyZ3praDZtOFQzbGUtZEd4NUxiRWE0SHlqbTZBYWJZdXB2Q1ZYWm5qZU14UUd2NkFFZ1c4?oc=5"
         }
     ]
 }
