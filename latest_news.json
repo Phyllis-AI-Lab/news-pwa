@@ -1,46 +1,46 @@
 {
-    "updated_at": "2026-05-07 08:07",
-    "summary": "早安，為您帶來今日上午重點快報。\n\n【政治焦點】\n國民黨內，韓國瑜出手約傅崐萁協商軍購「加N」條款，顧立雄也重申未通過特別預算就簽發價書才是空白授權。鄭麗文則因放鳥日自民黨訪團引發爭議，更被指引爆黨內親美、親中路線之戰，劍指2028。此外，劉世芳外甥涉陸投資遭解職，賴清德突圍訪問史瓦帝尼的幕後故事也隨之曝光。\n\n【社會民生】\n愛爾麗診所疑藏針孔攝影機，集團創辦人常如山遭拘提。北市鼠患問題持續延燒，蔣萬安與彭啓明就「南鼠北送」議題隔空交火，而有前台大醫則呼籲民眾相信官方對鼠疫與漢他病毒的說法。\n\n【國際情勢】\n重大突破！美國與伊朗在即將談定的十四點備忘錄曝光後，國際油價應聲下跌7%。",
+    "updated_at": "2026-05-07 13:42",
+    "summary": "午安，為您帶來今日午間重點快報。\n\n【政治焦點】\n國會方面，軍購特別條例協商已四度破局，預計最快明日將進入表決程序。立法院長韓國瑜與國民黨團總召傅崐萁會面，共同商議軍購條例中「加N」條款的文字寫法。副總統賴清德出訪非洲行程是否因高調而受阻，國安局已對此做出回應。台北市長蔣萬安的最新施政滿意度出爐，高達九成六市民支持擴大無菸城市政策；同時，他也反駁議員簡舒培將鼠患歸咎於認知作戰的說法，質疑「南鼠北送」難道不是嗎？此外，榮炭科技宣布解職劉世芳外甥，並強調嚴禁支持「台獨」，引發中國國台辦高度關注與解讀。民進黨內部也出現爭議，有黨內人士因不滿王世堅大讚蔣萬安而揚言要求開除其黨籍。\n\n【社會民生】\n連鎖醫美診所愛爾麗的針孔偷拍風波持續擴大，總裁常如山遭檢方聲請羈押禁見，其上銬畫面也隨之曝光。台南傳出一起令人悲痛的事件，殉職女警的告別式上，其未婚夫深情催淚道別，誓言一定會在另一個世界認出她。而日前引發社會譁然的BMW毒駕肇事男，其在社群媒體IG上的炫富言論、曾稱「不比人差」的過往以及黑歷史全被起底曝光，他撞碎兩個家庭的行為震驚社會。",
     "news": [
         {
-            "title": "愛爾麗診所疑藏針孔攝影機 集團創辦人常如山遭新北檢拘提",
-            "link": "https://news.google.com/rss/articles/CBMijANBVV95cUxOZ0hkLVk3M3ZFSS1aSGMzbnBNb1o0VHhDYXhtY1h6U3VlZ0cwb1dOZW9VSGtSLXRoQVhYREtKeTBUc0c4eDhETmR1b19TQmFsSzJLdkpuUFdJZG1NM3hQekE0a1B4c2k5ckhNM21QSXVWbDZfaEpJNEhQdEQ2ZUlYVFN3OHlHaVpzRHAzN2JfWDVEWWt5a2EzRmtvQUdXcXZJOXlCbTYwRTF3VXAwMzRNeW1lNmhsU0JXcm5XSkJlY1FBQnFLVFFqR0d2LU5ZQ3BxU0RxS3lpVmUyU1l6X2tramFuWmZBcGstcmdqWUQ3eXRwdFhHMnlwc1lGbWFhdnNHenBJY3FOX1A0T19QRlBRZVBUOEVHc3NhZXQ4UzZDY2pURzlrb1JBSVZRSTRScElTWWpCa2E2UF9uQ2dQTC1PcGR3bXZyVWRaRXFMY0tKTXp6Ti1QbUl6RlhhU190ckJ5SzhWX1EzbENZSzVfSzVndGYxd2tlSGt2N2RZSVdqOW5vTjZTX1NHS2pmZGw?oc=5"
+            "title": "愛爾麗針孔偷拍風波 總裁常如山聲押禁見 上銬畫面曝",
+            "link": "https://news.google.com/rss/articles/CBMiggNBVV95cUxPd0dScnRleHlkeGt2VEllTXVRZm10bEsyd3plY0d5WV9iT182RmpDSmgzZHNkcVEwZmhoOWFNVHRaSG9EdExRZ0EtOWNiV1FMWHZ6dGhaWWlPLWM5NFl4dW5wTTg1WlhoY1lzNHdSS3A0ZXlhbWp6WWJHVUEwd0o0YS1RX2xqWEc5R1ZxdUt5V19SY2FyVXZVLTRnSGRIeElkbVlwSjhyY3pyZVd6VkloZURrbjU2NVFiX05kY25jUzBXcXl2NW5NU0RkRWhJSWpWMUV2Rjhic1BOeklYUzVyMEJMV1R6ZnhYY05LWlRObXFVMnFFUWwzNzBHM2xxMUxvTzZlcEhLa2JxY0MxdTdiR0l6TjFwS1d5cWJ5QmtnZVdyX2U1TDNVTW54UVBxTXFnN0RqOGdyWmhkQW5WNVFTc2ZIdFM1eFY4SzlsX0d4UTFnZG9Kd3BMdUFQNFVrM0NjQjFpMFRiUUZSSmEta1ZoUFlPVjNKdWF2bzJJNzNMelJDUQ?oc=5"
         },
         {
-            "title": "快訊／重大突破！美國跟伊朗快談定 14點備忘錄曝光 國際油價跌7%",
-            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1uWTIwNXgwdE9ydWYwbU1kRnR5aWhzdUdsUVpZUnNOM2JNMmo5bU5jbVBfdzBlRWFkanNTSFN5YXVCVmhTa2l6UGY2bi11MTA?oc=5"
+            "title": "榮炭科技宣布劉世芳外甥遭解職！還喊嚴禁支持「台獨」國台辦嗨翻| 政治",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB5Z3UtSDRTdDZVcjlWLWJvMzIwVm5oajVTdWNHTmRIUEVsaUw1QU5HX1o2elRQSHdBZjFJZzIxSWdvTkdkZGZNLUJJZHgwbnBJeDBTeEY2MkFfQzg?oc=5"
+        },
+        {
+            "title": "簡舒培不滿鼠患被指認知作戰 蔣萬安：「南鼠北送」難道不是？",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ZWUpYVzc3cnBsWkVuTnVyQkJ2NURSV25LUGx1M3VmUXhXbWlnLTNHZFlmRGFVQThTZERxOUtnNEVLVzNGZUlUb3lmcGRJVS1wczNV0gFYQVVfeXFMTlJTYmZfUHk2MHY5MGZBbXk1aTB5cjFMVFlHelM0LVRETjh1NXl5b3ZWcFBKYW10TkNJUUd2a25Ya09BYWlUb3AycmwzS1o1UUdqcFZkSG5Nbw?oc=5"
+        },
+        {
+            "title": "爭取連任...蔣萬安最新施政滿意出爐...9成6支持擴大無菸城市",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBWdHN5ZlRNSndHSDZZMEFFc0tPUUhvRWxINVpWYU80Vm5TRUlLVHlPa1ZaYkVyc0t1emRfSXdVdGZqR3hzLW5OdDc0V1JYMDhYT0o00gFYQVVfeXFMT3BQLWdFSXJtNEZvcUlFOGRCUlRFT2hjR25FeVdjTERDUzNySDFhbjJtTDNFRVZxY1EwWDctZklmQmFRSlMyRm9UVFlkenVLS0FwWEtLRzBHWg?oc=5"
+        },
+        {
+            "title": "台南女警告別式 未婚夫催淚道別全文曝「一定會在另個世界認出妳」",
+            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE82LXNKeUszanhtOFFuWHlHUjdGX0lES2xyTDRqZm5qV1AzMHZmeWNXcHNXNHZ0OHFWRTg1alZtVG9fcEZvNzhjZUx1enVoZmktOUk1amQxWVFkV2xmTFJ2S3ctSjdPdGcy0gFuQVVfeXFMTkpuMWdMbnJPTnBoQTFXZ3MtRjVYT0N5NmlTN3dKV0dzNTV4MzdPemVvYjBPNkdSR0RsanNFQmRnVnAtc3U5Y1lEVVI1ZzZBRGJtbUVEclgxR08tWlZJMVdMeDJncnd4WFY5dE1TNmc?oc=5"
+        },
+        {
+            "title": "BMW毒駕男IG炫富！昔喊「不比人差」今撞碎2家庭　黑歷史全曝光",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE00ZEVjaXdyWkF4YnM3RmtIVUlfcjZzLXBsX1NJRzVRNG9YWWR1S1hCZkJqaE5TRTJ4NmhaQUItdHBmUl9zRk1KMkFnZENUNUFwbC1WVnY3UlVTdWtkSWfSAWhBVV95cUxQcHVGUEltVE02NGZGM1pzSlRQUXFXekZyenVwOGNwUVdQMmtJdnlONmZwUjgwOE80d3ltUE9LTmxlYlE5dldWTFV4ZFpkRjJralQ1V05UdEp2U0xLSVBkSWMyS3NyWTFFYg?oc=5"
+        },
+        {
+            "title": "賴清德出訪非洲受阻因太高調？國安局回應了",
+            "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxQRGRGWXl3MWlWZHdVeHFUdXZKVkUzLTl5TzFzZlZubFdCQ3F1cHBTUjZHY0t6di0tM29GYmpBcGJYZXdlbFNtVXVYWWRuNUJVR080Z1NkZjY0TUpRNkItTmpsbEkwc1ZhSlo3MHp1X3VqdU9pLXpKYnlPdjdvLTNnX2JYRTRlRTVLVzNJXzVGa3I4c3hCeHA5Zl80eFFYdXdHX2w3WWpIa2FnVjA0Z1psYmpJNklIUHc0QTBoMDZMQWVvY0FPLVdnWFZKTXk2QUMtR1JKRURoVW0zaGhlNjd1OUZienUtSmw4eWo4NnE0YjFuRkJ1MkZiQ1NHYmt6Q2I0dzJpRTNjNjcwT2NneDBMMngwck51WmhneVp0N3pSeDZ1UkpJeXNjRllYTXBqelhYVUVEY2pOcUs?oc=5"
         },
         {
             "title": "韓國瑜出手約傅崐萁解套軍購、鄭麗文約見面敲定：「加N」要寫清楚| 政治",
             "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9nTUY5bVJOcUdqdlY0T2ZxcEFBSHhPTTFCX2s5VEJ2SjBJOW9MNUZxeUcxZ2ktV25mQUlkX1cycGRmdENJTDJLOV9TSVRUdTI2YVRCb0ZJdXp2Y2M?oc=5"
         },
         {
-            "title": "顧立雄：若未通過特別預算就簽發價書才是空白授權| 政治",
-            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1aWmdpZGNrMG83dUlqdkpnaW5XNjFWQml6Z3JZZUwtTWh4anlMMXBlUFZxWFZ0TDBSa3p2aHZmcVlxUDNkbXhJTTdjZlBhUlJBb0pQdWI0QTBGb1M2Uklv?oc=5"
+            "title": "軍購特別條例協商4度破局 最快明表決",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1hV19INFBSMmdtUGVJc0lsc2h0c21iUjk4T3BvT2xqZHZEUUlGZXlRbkFNd3JvN240cmZEWEJuRVZGbU1lVXZKSXM0Nk5WUkJ4Rm1n0gFYQVVfeXFMT3J2NllUcWtQSlhGWjUzOXlwLXgtcUV1ajNLVWxkLXhuUUpLQUJsRm5DbDFEcXllNHRUdVUtSTBJMlJZR1VxRWdST29YdTY3R0NYZ3NuQU1URA?oc=5"
         },
         {
-            "title": "彭啓明稱鼠患問題非認知作戰 蔣萬安反問：南鼠北送不是嗎？",
-            "link": "https://news.google.com/rss/articles/CBMimANBVV95cUxQTmhlZ1dYMGgwWXJPVG0tWkF0V3BrZFdXbUNoMTc3Tk9md0I5UWVRaFVrdlNoOUVMZTFRN212ZTFfNTIxM2VTbnd5LVF1TklUNTlhLW9LTkY2dEtYV213TWM3Q1hkT1ZFcDFTdmhUSTJ4RnRLbUlaby1CU0M0U1FDczh4a0VQLUt5bnZiY3VNNU04Z2tDeUxKMmlud2xyYmFhWWRkaW84MFp6RWEyRS1ILWtJdzZnWlZNS2xNZWx2MThFRmExY1lCdndhLUotMUJIQlNNVnF5WFlGa3Bnd09vS1ZWT3hkVUoteVJ2Y2VmVzZTS2ppeDRoeFdwWjhPMlhBRTlEbW9LeEJVTHk0am92X2t4RlFORDFTblZyVDZGRXd1ZHBsdzlqblExaklPc2d2SWdodFlqNlQ3YUdjbUNCd3VyMENJa2g2X2hDSWZCTm9MeEJfOGNtU251d016UmhScUJfSFJBbXJpdTFlUm9zX0ZJZU9BVzFTU0FTZVdFV1NVakV6b0ZKSGNCMlJjUllYSjVRaXg1SjU?oc=5"
-        },
-        {
-            "title": "北市鼠疫、漢他病毒慘了？前台大醫親曝真相：相信官方說法",
-            "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE54Ti14ZHhVX1JOT0EyM1NHNGlkTUwyLXFKQVlFeU9Zal9zVWx2anZqNE5FMVFlbVhJU1JiRzJmY05rNW5vSVY0cGdHLU0?oc=5"
-        },
-        {
-            "title": "涉陸投資挨批 劉世芳外甥遭大陸台企解職",
-            "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxPMFRMVGVtQ1ZVQmJDdjJ3cG16WUNiTzJXZkNqUWFoOXloVE53ZGFQMkgxZHVZMnpOS1VwSmU3ZnNvUEJxVy1QRi1SeGFfRU1fT0dZMGt0aExGLXZ5T21CQXpUaGswdUMxcEhoTThDSy1ubTU2MmJmR1Z3dDRCWS1CbXV5X09XRWx3ZEhkX19xVWIxZkFqcmRxdnJNd3I5RmRVNU1SbkEyMHFVbElzam96RlgzclB3YU1uamg0eURxUkZUTGp5YlZrNkQ0ajhubjdGZmZKYjNycEtlWFd5Z2tfQ0FSNnl3RDVFNnZfQURRQzNWa0ZKSzVhSENKNUJ5SnZrUjB5UUpYY0hQX3lHS2llWEFOakJKbFF0UGl4VFE5VmQ1c04xcHhsZnhLc1g?oc=5"
-        },
-        {
-            "title": "鄭麗文放鳥日自民黨訪團？傳藍青年團長怒問取消為何不通知",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE94Q3h1RjRTVEh2NDNnSGVvMkstMUJEU0dqdk01X0dkNnZqY2ZnMDZyVGc2UHpZdXBRclB3bkxucHBtOXJqYlJjZWRaS05FN3RaeG5sVjNpZlNsbUg2N0JzM2FOQzAtTm9SZGfSAW9BVV95cUxON2JQV3FIaGM0V2ZzblFyb2pwTGN3NHlBMVViakJNOEVMOTdmaWJSMTdLOHFEcmpNb0JsazZ0WkQzN2p5Wmp2V25vZjJqQ2FwUklVRVptTlFHdUM4MjdwZEFsR3g4SVI2a0RpVEdBRUE?oc=5"
-        },
-        {
-            "title": "鄭麗文引爆黨內「親美」、「親中」分裂戰 將率黨機器掃平障礙戰2028",
-            "link": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxNdjBULUttcG1BT19yalN0bW9ycWY4MWFiYngxZmJCZklsUEFlUGVEYW1wcndPd0p3Szh4X1ItdU1IbkFPT0xzYy1tYzhxSUJMd0NjenJhSHl4aGkwMV9QTF9WUWtxd0huM0xEdzhLZjVlTElfck5RWExfdVhEUDg5UnhBWnVMZFlsTzFDQndPWVNVdmZ4X05jN3VKUGlwSFFrT2tJRTFaQ0pmYUlTN2w3dkpaTUtRQkh1T1lXeDd6b2JGUWtBNmZKaGlNejVfS0lYVkNET2ZCX0VsQmdxV0FoX2RRVEtwcGFIV2EyVjlBeXloMXhqOGZIS3lQWlMza2lrNVdJUGdKdFY5WUZPSmItQkZqR0Y1eXltT0hQM1N4VjByVlVaSzYzWFFfTF9qRVJ5WEJHWV9RS2ZpZ1pvaVp3N19wM0puQzdYV1RCZUJlX2hFc2dvV05LOGM1VXl4RXR1SmVqY2lKQnBnQlhLUmNZZnFRN3c4cFMwQlJjazB3?oc=5"
-        },
-        {
-            "title": "幕後》賴清德突圍訪史瓦帝尼 台灣一家公司幫了大忙 | 楊舒媚 | VIP",
-            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9CNG5kX2JhVDUyTGR6Z0p6RTdMRFc0R0VjNF9NcURjRVd6WjJwRVpjeXoyYlRaXzZOMVY0a0lPT0o3d2dEZUVacGxXUi01dw?oc=5"
+            "title": "不滿王世堅大讚蔣萬安！她炸鍋喊：開除黨籍",
+            "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxPdVZrbnFhZ3R0eEpvYTJ5b2RfUjliQzctR05pcnIxM2VTMms1UEcxeEZfVnlqTTlSZXh0TUtISUtGaEVMMTQ5NGlaOWE1bThncWhMc21Xd0EyUE9jTE9jcnBpcExBTE01bWp0TGh5QXlLRk9uWWp6S3BrXzRNVzEzSHE4Z1pIZmQxNTNkNGVMV1lPSXg2TU4yN0w5SVpnMTIzOVl3X1ZIdlZQMGRwc0Z4Y3BUUERUeV9WbEpYZVJfTzdMRDZIWEY1amhsdmNXZmJZNHNTV2NFdHhLUWJfYURWaXE4V0c5azJ4NktNZGlFTFpqU1BHMFp5ZWEtTmJYakF5OHNJSXAwRXNkQ3dkTHZZa0lHa1B3ejhGUE9LRGV0UkdqTkd1MnRVbmpxX0ZQQQ?oc=5"
         }
     ]
 }
