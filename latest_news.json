@@ -1,46 +1,46 @@
 {
-    "updated_at": "2026-05-09 13:30",
-    "summary": "午安，為您帶來今日午間重點快報。\n\n【政治焦點】\n立法院通過藍白版本7800億軍購條例，政院強調將鍥而不捨補足防衛體系。此外，醫療法三讀，三班護病比正式入法，未改善者最重將停業一年。顏寬恒涉貪案遭判7年10月，限制出境、出海延長八個月。\n\n【國際要聞】\n中東情勢緊張，美軍開火擊中兩艘伊朗油輪，影片曝光。另一方面，川普關稅政策再受挫，美法院裁定全球10%關稅敗訴。\n\n【社會民生】\n醫美診所偷拍案延燒，又傳板橋兩家診所被搜，侯友宜指示全面普查。另有垃圾車旁「鑽縫硬切」撞死主婦的悲劇發生。台電花96萬設計新標準字引發爭議，設計師聶永真親上火線回應。天氣方面，本週末將迎來大變天，氣溫預計飆升10度。\n\n【財經快訊】\n長榮航空在客貨運助攻下，四月營收創下單月新高，達219.69億元。",
+    "updated_at": "2026-05-09 17:44",
+    "summary": "午安，為您帶來今日午間重點快報。\n\n【政治焦點】\n立法院今日三讀通過藍白版本之7800億元軍購條例，行政院對此表示，將鍥而不捨補足防衛體系。此外，前立委顏寬恒涉貪案，台中高分院維持重判7年10月，並延長其境管八個月，認定有逃亡可能。\n\n【社會民生】\n今日多起社會事件引發關注。八旬前立委曾蔡美佐在家遭毆骨裂，北港朝天宮董座兒蔡晉財遭聲押偵辦。光澤診所也爆出偷拍疑雲，兩名店經理遭警方帶回查扣證物。屏東一老闆娘遭詐4835萬元，法院判決女車手須全額賠償，令受害者大快人心。交通方面，有男駕駛因「腦袋空白」在垃圾車旁硬切，不幸撞死一名主婦。醫療政策方面，衛福部宣布護病比延後兩年實施，引發六大醫院工會嚴詞批評執政黨卸責、背棄承諾。另外，捷運車廂驚見「鼠類偵防師」，證實是王蛇，已在動保處安度首夜。天氣預報指出，未來數日鋒面接力將帶來濕涼，氣溫將跌破十度，並將有長達六天的降雨。\n\n【國際焦點】\n日本近期地震活動頻繁，當地專家示警，大地震隨時可能發生，提醒民眾應提高警覺。",
     "news": [
+        {
+            "title": "8旬前立委曾蔡美佐在家被毆骨裂 北港朝天宮董座兒蔡晉財遭聲押",
+            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB1QktBdUxQdk1Ua21vb0NGV2dYczhxZmRZbl9VZlFfbFpNWF9OSU1WcG91RV9WWkpCVzV2WHRKMG4tcENkTHVVazhIcmtnQ21X0gFWQVVfeXFMTWlkcTA5enJwdFhJYml0M09Wd3ZuSElVckplMGxpQTdWR19lazJJMmpIdEF3V3FZVkRRS3RGMW9EY09uMlg0U1pYeXZGNURVY0NQZXhOY0E?oc=5"
+        },
+        {
+            "title": "快訊／光澤診所爆偷拍「2店經理遭帶回」！警查扣針孔電源線、硬碟",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5oSHg3Um9abGJnNkowQ05nZXB5dVBpQ2tFeWRvYkxYZmFTY3ozbzYxd0tmZ3ZmemJ0ZmdES3VQVFByekc3M1ZocXozc0M3N0gwdmhYLTdaMUJxMXhHNWfSAWhBVV95cUxQQWxENlZOWlhzWUtxRS15c1dpLXR4U3g5bXVGWWJxcHN2T0kxQUdseUozRjhCakZfN3hiZHg2dzZnSmVVZ2dFZjMwRUpBUk16WWZoODk1Mm5SYWQwN3RzbDFrR3dicUFZVg?oc=5"
+        },
         {
             "title": "立院通過藍白版本7800億軍購條例! 政院：將鍥而不捨補足防衛體系| 政治",
             "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5TSER3b2tMUXJTcHAtWHRXMHp5QnlpNVVxa2RNUnNDNENma284aG9wdzJfMldybEF4M0UyV2JQbkM5R3BjdllOMDA2NFN3eW94N0hFcjRibWdtQ0k?oc=5"
-        },
-        {
-            "title": "不只愛爾麗偷拍！又傳板橋2醫美診所被搜 侯友宜：全面普查",
-            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1CYTZRa1dNdGIxYVdNTkFiQk9WcmszUlg2a1dyWjVNUW5LQ2RTVXF6cDEwNHVwbDZKSFpzUnZMSWhaMlZLcGt2Tlo1NENwbDFLNmZJ0gFYQVVfeXFMTXJYWjVlaUpKRXdzeEtjRDJXSlRMRHpIVXg1TEtQSzU2M0toRzBpbm1samhHcVh6bFJ5RC12Ym9Eb1Z5Vk13VEJmc1BDSTBVcEE3U0hXUWZCTQ?oc=5"
-        },
-        {
-            "title": "2縣市大雨夜襲　一張圖看周末「大變天」10℃飆溫",
-            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ETHJSaU54RW1FdFJMZVNJdE4wVW55UnY4NkxlajFWZDM4ZGhDaGIwQl9QTEZiM25hODhzSnUzNnhCN0wteVZNc25aTEZ5WHZwWDdjOHgwT21udXJneXfSAWhBVV95cUxPYXdONHBEeXY5dnl2UHdTY0ZIYndiNDgyYWtJYThXdDRqVUJGdm9oMjlZU245ai1DOU9HRHBoaGJWLXF1VWRtVHphbGxOb0N5a3UtWk5yR1hnMXJVSWsyeDlFdWExcTNxaA?oc=5"
-        },
-        {
-            "title": "美軍開火了！2艘伊朗油輪遭擊中　「超級大黃蜂」開轟影片曝光",
-            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE56aTZKYm9QTEE0RE43cjV1TzBOUkNPT3dpLXBTVDVhbTVPVmRhU0RDMlZWdE5FbTYtWEJoRWxZNGc3YUwwdUVxOU40SGlLQXpJS0JGM3BzX3hTeERqdWfSAWhBVV95cUxNYVo5TGZUbkJ3dUpxTVlaaVpGZFNORjlRdHJnRWtkRG1jaEZNTHZZOUlvcmRVbFpCcDdfMlVMNUxhaTJJYUdyUV9VWm5VUGg5MnJnSXNnak9vS1FPRC1JcWdvRXNFQ2cyTQ?oc=5"
-        },
-        {
-            "title": "台電花96萬設計新標準字　聶永真「遭指綠友友」親上火線回應！曝于右任書法真相",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9RRmUxRWdLaTVKbFR4QzkwbVNDdnlmSXhJMFYxTzctU18zRDhFRDlQRmFNWXM5Sm51cEJuaHBXejU2elhXYnhjcE9yMk1LTVZCUG9teTZ4UmhDQzTSAWBBVV95cUxNU1IxNV82NFNOOWdRMkV4alhZYi15Z0ZjQWRKTUR6V1NDRjRIVlNid19KdVJvZTk4SDJCanBqR1JKd2w3VnQxUW1qeGFvWVFaOVBlUnI4bzFIbkhsZU8welI?oc=5"
-        },
-        {
-            "title": "川普關稅政策再受挫 美法院裁定全球10%關稅敗訴",
-            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9jMUNVcllCMlNzWTRhVXU2RHk5UWlsbzE1eWhmdG1uZUZ3ZkhuNS1VeE1UeWpUQkxwN2hYbUhwZlZob3Jmc0ZJMkRHVk1EVzFVWEpV?oc=5"
-        },
-        {
-            "title": "顏寬恒涉貪遭判7年10月！延長限制出境、出海8月",
-            "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxPTi1VdU1iUXU5NmNUdXlaVVd6YUFwWDVzeGFZOF9LUGctQUF0Wl9oMGVpT1k4Z3pCU0JBYlJZOWcxZVVYMUxyaUZ6bXZmak9VZlM1Q0FjcTJBLXFyeWdpUkVFS0gzY1NlRDBlZzJYZWs0bko0UDdUS2NwRTl5cVZkNVF0WTNkMHVqODNsZzFnbU9ZWmJheERNQklqNExNd2w5b1BrX05lWTZEUnFZN0U5a1ZCcjBQbjA1WTJ5SzFYU0pDYmx0M1dzUmozczJITUJPNVo0Q0tEdVdBN202cDNuS1UzWEk2NWtOa3FISWw1OV9YUENTcVNuQ1dNR3EyOXlYMG1NdEpfQmNFQXNRdk04d0ZSdFVnSDhwcFV3ZHo0MU15WWYwN3NNTWY2ckMyT0F4S1lv?oc=5"
-        },
-        {
-            "title": "客貨運助攻！長榮航4月營收219.69億元創單月新高- 產業",
-            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE56TEdyb3g5Vl95eWw2U3JZYjZLdGRsb1JXOEZqMEROcDlFTmxZSmpjTGRnQVBSeUQtRF82Z1N6UlMzTXVHTkJFZ1Bmb0tGNUp6clBXbjVlQWRNbmx3SnQ4?oc=5"
         },
         {
             "title": "有片／垃圾車旁「鑽縫硬切」撞死主婦 肇事男稱：腦袋空白",
             "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE84cTBtM0pKWXcyQ3M2b1lkeW1BQi1OTTJtenUzNkc4UDNEWkpoU21ic1RUMFB1Ni1icFhUSjRHUWRrenhRQ2ktenJMdlZiVnc?oc=5"
         },
         {
-            "title": "醫療法三讀三班護病比入法 未改善者最重停業1年",
-            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5UMVE0NlVWc2dUbnRLV0RxY21uOG5hSWZ0d04tTUtKRGI2dUlCWGI2WE4yS3JtU1dpREpmOXZFU0Fkb21WZEI4LVRHR3JyYnlveE9VZEhoLWo5QzFDdFRr?oc=5"
+            "title": "大快人心！屏東老闆娘遭詐4835萬！ 法院判女車手全賠",
+            "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxNUURTUlA0Y0R6RkpwVE91QWJxQWlYaTZGZDBfMndKRHEyaEg0YXcyUTVXbVgzanQ1V2x0SFZBT0hlcmE5OC1QMDlWN2tZVVNpbS1Vd2lYSHpHWDFoUlk2NjBpVm42dnNYaEUwSVVfWmFaemZMMGRNUHhvdno3VEhIdThrNWV5WkxkdHpnX283Vl9iakpiblJLRkZoWUs2dUMtRUxyUllZUUMtTklKRVFUdklJWWxZUkFZQWtBY3pkMExVU0Q3d3BpZkZMX0xuZk40WmVlTHFIVFRKdUt5LXJjMnRlNm9MNmVUd2tyWTlZUVZwVGs2ZkRrTHZPaVJ2NGJkdkJEVFNLbXpvMllpVWJPYmFmQzloR2tjYTlvc2VBRS16QU94X1J0eDhQM3dLNHlMbVNKQUQ2dnp0RjAyYXB3aDE1Q3VjR0hfeE1B?oc=5"
+        },
+        {
+            "title": "日本震不停！專家示警：大地震隨時可能發生",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9RODgycTRIY1Vybk5uVjQ2dWpnREZyc1dDX3RmX1g0cDhXX09vcjQxV2JnenRXcEhHNi1JMVQ3UThZZTNEd1VEdmpxSmRxc3VYYWRr?oc=5"
+        },
+        {
+            "title": "衛福部稱護病比延後2年實施 六大醫院工會批執政黨卸責、背棄總統承諾",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBPS19zSmtBLTE3QnhGMTNuODItVTUwVUFRTnhDVlE3SnRSTkNxU2hCOUx6Nm9oT3Q3TTVxM0xaNlI1X0tnTGF0TngwZHR2ejFVbHdR0gFYQVVfeXFMT2l5WEpkbFhXNWs5dFA3Wlh6bXdnSVpGSUJvYmFELTQxTElKa2FNWEZpd21jNlZUWms5Z1p5VDJDQWdyQUo1M183OVp0RTR1N1lyZHdadjZvSw?oc=5"
+        },
+        {
+            "title": "顏寬恒涉貪重判7年10月！台中高分院延長境管8個月：有逃亡可能",
+            "link": "https://news.google.com/rss/articles/CBMihwNBVV95cUxQS05vLTdFZkNLWHNscFVrdjJvQ1BfVVR5NFVEeU85RU1OdDQ2MkNJN3JRTlMwa1ZFcDRTWndQSFZuRjQxZnFBNHZiNU1zbzlCdnRRNk5ja3l4V0RXVkNRYXJ5MktucGY3YUVqaU9xODJZSmFFNms1bjRhV3dGeE9NV01LOXQyRlUtc0tXZDJ5dk9tVG9tZ29vOGNlUWhMd0l3U2sxa2VWVXF5RVEtWE9idlhIWTRBYnVKaVIwRFdyNnRwMDlqaFBTd1JCbnUxNTBHd28tZ0lNbWNibmVZU2l2c3lHUWpuSlJNbjc2c2VLZzdpbHdISmZ4SnlLdTJjQ3VILS1HbTF5M0FSU2pnNzFCYU9xZTVfZXc1QVdwTXd6V0s5ZUdDWEtCZ2hfUy1BZVRvRWxseXVrZmZzRjlTbWU1d3FTTHRMR1B6ekRVSElpQXhRYWRRaWYtMWpVUWZ4VGt2NGk4LV9haVVWMk5vRmJwWEd5NnNaRllIX0FCRWg1SEN1a2tad2lJ?oc=5"
+        },
+        {
+            "title": "天氣預報/氣溫跌到1字頭！這天鋒面接力轉濕涼「大雨連下6天」， 氣象署曝放晴時間",
+            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBvUW1SR1owdk0xU1pGZUNJSEhQRnNRT25XRDhMRmRyYUNxNUlMNTdGTTBmWVRMTG0yWWhmUmpTNDA1N2QyUW1kV3dwRDRCdHRK?oc=5"
+        },
+        {
+            "title": "盤據捷運車廂「鼠類偵防師」證實是「王蛇」 在動保處安度首夜",
+            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9NaDdlSGZCNXlTdkV5dXBoOEZZZzFnQmxCVi1KbnJDWjBRV0ZuMm9OYnI1a3dRc3RtVEstWlR3Qm0yTkMzZUJndXpURDZTLXAwWG1kQ0Z2Y05seWVFSlBMRzZobEHSAWpBVV95cUxPWWVCYVVSYjNZdG4tS2d6V2pNQ1ZQd2NlUXdpN2x6eldRcVFYb1pUcnZWMVBrUDE3X0pfSFhqZ1pESXZmZTlGa3NnSXVRY3JXR2NLZ0plN0hHWG5ITVRTZnFueXcxYmM0SXZR?oc=5"
         }
     ]
 }
