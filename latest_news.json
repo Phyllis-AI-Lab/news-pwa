@@ -1,46 +1,46 @@
 {
-    "updated_at": "2026-05-12 13:48",
-    "summary": "午安，為您帶來今日午間重點快報\n\n【國際情勢】\n美國前總統川普近日表示，若他當選將與習近平談及對台軍售，但他並不認為中國會犯台。同時，美媒預測了未來川習會對台灣的最佳劇本，不過有專家提醒，需提防川普在談判中的慣用手法。\n\n【政治焦點】\n國民黨內部因鄭黃結盟引發內鬨，黃國昌先定調八千億預算案，藍營中生代則串連展開逼宮，黨內矛盾浮上檯面。此外，國民黨彰化縣長提名傳出最新人選，預計明日公布。而北一女教師的零軍購言論，也引發媒體人張雅琴怒轟。\n\n【社會民生】\n大稻埕落水兩名失蹤者，其中一名九十三歲張姓長者已被尋獲，但送醫搶救後無生命跡象。網紅質疑淡江大橋機車道危險性，公路局怒點名「火花羅」勿再造謠。台中三級古蹟萬和宮遭男子蓄意破壞供桌神尊，嫌犯已遭逮捕。衛福部強調，三班護病比「一定會在任內上路」，承諾不會跳票。作家王薀因逼死女會計案判刑十二年，李威夫婦則獲緩刑。",
+    "updated_at": "2026-05-12 18:42",
+    "summary": "晚安，為您帶來今日晚間重點快報。\n\n【政治焦點】\n賴清德總統宣布，三班護病比政策將提前於明年5月20日起分階段實施。國民黨內部，鄭麗文與黃國昌結盟，力挺7800億軍購版本，引發藍營內鬨。同時，藍營彰化縣長人選傳聞也掀起波瀾。政治人物隔空交鋒，為政壇增添話題。\n\n【國際情勢】\n美國前總統川普表示，若再次當選將與中國國家主席習近平商談美對台軍售，並認為中國不會犯台。另一方面，伊朗提出的停戰條件遭川普拒絕，中東局勢仍陷僵局。\n\n【社會民生】\n淡江大橋尚未通車，卻有騎士闖入「搶頭香」，慘吞四張罰單。文大生大稻埕跳水救人後失蹤，校方與各界集氣協尋。梅雨鋒面今晚逼近，明起三天將有雷雨，不排除冰雹。此外，聖宜診所涉嫌偷拍案，檢警已進行搜索。",
     "news": [
+        {
+            "title": "淡江大橋通車「闖頭香」代價慘！24歲騎士慘吞4張罰單下場曝",
+            "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxQTmV1cGpBZzVMbHlPcjBMd3lrcU9MeC1iYkNZSUlQTzZTQnVoVVdUTEdLd2x3cjJjaFhCTXdxSHVWb3d6ajhRRTZVVURUaVQ4OW0wajBWRHQ1c2NwbGtuWWtnVllBdTZSLXNXVjFIamo4dmUwMG5OSjdKS3lKUFlqazhEZ0VwMHBOU0hkZGoxT0sxY1lFRVFXSC16UXpZTGJoWHppX1c4cldFcHFSaXFzWWtIQUV6MktxWS1ScEtvbnlaTUM1bXlNSEVJSU1CaGJtZWJCX21xT3lWM0Q2RTdnR210UHZfQ0lDbXJjS3pnUERzTDJicTBJSmhNejFVY0dmMV9xNklCT3VFTjFlVW5UbGpFb1hlU3JyTG9oOFBoNGhJWG5HSmhlSFgzTzhLZW1UVzVtUHhWTW9RQlVIMmZadFBwY0FGWGd6TE1aVkYzcmZPVFRHUDlUZm02ekFMNERUZ1FqcDR3dm82dW9kT1pv?oc=5"
+        },
+        {
+            "title": "三班護病比提前實施 賴清德：明年520起分階段執行",
+            "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBhMVBpRnpHVzJyQ0ZuUUJIVkQ2YVFVM1ByVl9ETXlXWUx6SW1ULXFqZjV2amUyWVo0Tjhpdmx0aXJWcFJjbFFjaGc5REJ0a0otX2lxZUlFbw?oc=5"
+        },
         {
             "title": "川普：將與習近平談美對台軍售不認為中國會犯台| 國際",
             "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5QTHFyaEpDdkQyU3FPOElzZ01IemxKUkJ2WGhZV0U5ZHpEZVhVUlBQMzlTdk5uenlGcHVka0xYZi15aWFBcElUeTZrRXMzNm1qT1NrREFOQk5UbDdaenVv?oc=5"
         },
         {
-            "title": "鄭黃結盟藍內鬨1／黃國昌先放話定調8千億　藍中生代串連逼宮差臨門一腳",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5pR0ZnWlJzZDktc1kwU0RHZERtZGZnX3dkdVlFNV9XcWFSclh4d0NZbzJrVUdTM3BlbGZBZlZ5d0JvUHN5OGpqUjVHUjBwS2I1c3Z1eDJXVzhSNUXSAWBBVV95cUxNVXhybnFmbmpyakhhclp3Q2ZQYU50bExYcUtwcEhoMzZuMGt0eGhnTFBqRkpXWEpza0trVXA0cE4wTEY5RGdoRE50M1F0TjVTM09GUk1KaG1Nb1MtT3IyYi0?oc=5"
+            "title": "破局！伊朗提條件欲結束戰爭 川普：完全無法接受",
+            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5qXzRjS0xMdm5JbnpRakZXRHF3aUt3RmJrNnZ3dXF4ZHBGTmZ1M2VFVXJXUUFXUTM3b200aHJSQzBCdEpQM0pGdXh2Q1lYWnM1SjdSOFdxbmlPX0ZILXBBSnRQLXVtZ9IBa0FVX3lxTE52LWVQSzFVNi1DUGtiWkhKQ3NsdDlHZlIzQzJQYkRQS1FYMk5fUUVyajI3cHlYTXpzdVFOS0RWdVlsYjhUZlpqb3hOeTZDQXk2RmdiMmtFZXVKcFpSU3c1c29Qb2Y3Y3I5NkNF?oc=5"
         },
         {
-            "title": "快訊／大稻埕落水2失蹤尋獲1人！93歲張姓長者無生命跡象送醫搶救",
-            "link": "https://news.google.com/rss/articles/CBMikwNBVV95cUxPYk1JR2NzMEJGdmFqdHBZMXpFQzU2VFlfRE9najZJOHdfQXBfVDU0dGQ1WU1xR3pzX25jOFdFWG5xU2F0a0pDMXA2V1ZteWE1ZGRHSmFxUDBOTVBVVlZkeWQtdTQ1U2pfMmtvMkd2N2hPS2JCMThNTGs0SXExcTZNVWg2ZFFPNHBBTWxrc1lMU3hOb21SUENnQXhhb18yajdVMWc2NEVEQ2tnN1lRbjhrZnp1ZHkzS3NXdm5kMUN1dWQyUk41OFJPdG83ZEo2Sk1Mbl9VOHRwMnNqM3hJc1hQN01jb1J5d09STHhTQ1hTcnlrdFIxcHktN3NTNmh6elJqYy1wa0UtTFdFRHNZUldRUG05MEhRaW9CVWtrSlpJdnh5M3RoWXd3QU1QeWRiSHNwZmY4aFM2cTlHVENwYU5WRUpPQlZBVEVSZGE1MEZvWGxLU0JfdUR3djhEclVSeHJFSDdiTkZKMU1kc0hzNkN3UW1BS25USXVJU2hfd0NpWVRyRjduNEIzRFluM1BDTXVqaXR3?oc=5"
+            "title": "鄭黃結盟藍內鬨／鄭麗文棄盧秀燕軍購版本　結盟黃國昌挺7800億內幕曝光",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1YRE9kT2RvTmpYaVBSc2FlalBIakdFRllROHVyX1RFMkEyam1hZDYwWWppejFEVlo4VldpMTlERGhrN2JzU1BDOXhFUXRoUEI1UmdlX0N6ajJMd3PSAWBBVV95cUxOQTlxR2RUWW5kbzZyeU9PNm5uYjd1OGtUaGQtMEJQZU9iRFVwSWlMZE9BU0JpcEdEanA5S1JZdW1acllrZmliTDBOd2c2YUVBU0Q3VTBwRXhjdk9oeUVZU0k?oc=5"
         },
         {
-            "title": "網紅質疑淡江大橋機車道危險 公路局怒點名「火花羅」：勿再造謠",
-            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE93S1VzU2NPVDBQZHFvVF9SOUxNXzBuWlMzS2hSWmUxazVTY3NuT1VxRXctc3JFWUp6bDIteWdwVHBsemJzcXlMM29LeTh1eXFhVjFR0gFYQVVfeXFMUC1PODM3M1MyNHo1MGIxWHNqYnZTWGVRUkdEbzFjOERSWnp0bmlNUEMwQjRGbDFoZ1J4SHZlNGNjNm9KeEhVSXQ4cV9QbXlOc3FGX1JPcHl0SA?oc=5"
+            "title": "快訊／文大生大稻埕跳水救人失蹤！校方回應曝光：懇請各界一同集氣",
+            "link": "https://news.google.com/rss/articles/CBMixwNBVV95cUxQVXZfdDVhOEZfelpRb0xBVGlmRVoxV3pmMy0wOUtUaXdqcV9uekZQRHZJVkFfWUoyNnAxMklQc2RhLU5uSVp1NmV6amdKSWdjRzQ1bk9iVXRBOWwxakQzc09fQzBlSEpqYmNqLVNrb1lwYTZYVnZEMFNlcGpvR2VWOG5uTFNqLW1kbWNiSGRHU3dDbXdoQmdLRUlxTFFYRUxaN2JaREMycVlEUncwaUZNRE5tQllyWV9HbmxZUWVXMlJ3b1dhMkp5NzFDdmpwUU5DdmxscUVjT1FCS3N3ZjlFYzUzSVdnRzBSaHJMOUNFTlV0cy10V1d0QmtOMDRVbEk1TkRHNUdvRy1qVUZOTUwtU2hTOHktLXRZVEVFMUUxOXY4UUZPSnVXaHl5NFB6ejBhaUZmaWR1ZmpoekN6SlMzMGVXZ0pvajRtWjRiMi12SVBvc0NQNlZXNG4zb3VsbWJsNXZlRzdjTDVtOWg1WWM3S05nRFJoWWhNZXBnVXpJaE41RGc2UlNhZkp5Y1RrYlV4YUFQbHJnYkxsZVF2WmszZnM4RE1MXy05eDY0VFc0U3NaQVBWMW9mWjFrWkMxSkdsMTdlLWxJRQ?oc=5"
         },
         {
-            "title": "北一女師喊零軍購！張雅琴怒轟賴在台灣：想當中國人快移民，噁心至極",
-            "link": "https://news.google.com/rss/articles/CBMiqANBVV95cUxQbUpTZUlrQnVoSjNzdFJoOThockZtcHd2SktxSXdTa0VLMzItZ2lMc1JzXzZ5VXRJZC1yR1Z1dm1naTV4ZXNlOHFOUlBpZVBoZXJ6RUZKYnQxdUZqdXhHWDQxMlFDY2JyQkxvandmMUpZcHRoTVQ5YW9UZ3YwRS1Pd0VTTVptUnJfVzVwUHR1X2tvcGszVTYtQ19GSG5sSWpXUW1Wdjl1TURISkZiQ3FYOVVNVnk3Q3A2NGEteVRxQ2pjQ1VjY3N3TjFjb1BNVHRCMzEwQk42RTFvQm5ZTUJQTTQ1SEM3Nm11MGNVUEktTlBHXzJIOU9MSE9aUURYaElkSVBYR0J4U1M4Y2t3eEVXbW4tR1FSTlVxdHJDT0EyYUx1TURNNk11aGVaSktUa1pNWGs2T3RmVlc0NDBMS251bHA0UlNmZ0JfQndDMFRpOTNuempsMTBpbVNCUUZHTXhmdDhfdGRlOFp1RlFPNUozd093QmpOS1pYVHNkcVRmLXB0Q1VhMTlJbFJIRUpoZVpIdXA2V0pHZTNNLTFIR1FEVVJfcXl1SVRu?oc=5"
+            "title": "梅雨鋒面今晚逼近！明起3天雷雨由北向南開炸 不排除冰雹雷電",
+            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5fd0QteDd2eXZRb29tMWFFeXlRVWlZNXlhZGp0OVRuZ0hzREstam1hVThOdW9jbzk2QzVtWjg1NnB2dmZSSllMSWtmTUlaM0Js0gFWQVVfeXFMT1YyVXI1YUNFaFh0YTZhNmFHUHBKUHhweGR5LVJ1aV95alB2MGZrYnVjN0M2X2tLWVAxYlpXLTFDeUVkaklGbnhveWp2WlVrekRDZXJQM1E?oc=5"
         },
         {
-            "title": "台中三級古蹟萬和宮遭蓄意男子控推倒供桌、神尊落地被逮| 政治",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE94QTR3Y0xLV1FCcEc4WElxWnZkYXlkZHV3MmwyN09kU1g5SndfQjZBNGtidEVvRkhTdmlQelRubkwxX2NUV01SWTZZcmZIYkVvVjBZaXZUVld4T3c?oc=5"
+            "title": "聖宜診所遭控偷拍 檢警搜索台北忠孝館查扣主機 店長說明後請回",
+            "link": "https://news.google.com/rss/articles/CBMipgNBVV95cUxNTHE2WjViTWJ4c3BYcjhhZkV0N0c4Y19qT3RwUEU5UEp0OW8zTjd4elZLS0lvWV9IYjQzXzJkRXRqeVhQQU9CdElvWHFzQl9BSmhMMER5OXZ1Qi0wQTdJRGJKc1VfTnJYTWF4dmt5aGlaOFpuS0hneVkxWlpvUW1oN190QmhLYjBwcklwVjJSLVdQR0xUUGJ2TzZFWlBGbXpidFNGVGh6Y0x2anY2eVpUc0NWamdHNjRtTlhVRmtqSHItaEZTcGg1bEh0REFhS1ZDU1NpNjc3S3RaWDB0aDB5SE4tTHJGUV9vanZxNTVSVVY5ZDFNTjM0TXNtbkJGU2xyVHZoNGFPOFRWd1dsdTJYdHFMclROblVHTUhfZnNEdGluTGNPakZ3bjA2WTJ4QU1CM3NZbEF3RDJEUmhCVlZNTUdoYW4yejhyYmRSeDVJUDBqajFrbjhCR2xBdDhXYndieUx0WE5oQmtlYktYeDVfMXNVc21mdm1YNFAwNDNfbk1QcFlEbGJ6VzVuVzJ1aE1RQzlfQWRmZUdPd3FpUDZqOFFaX2xudw?oc=5"
         },
         {
-            "title": "三班護病比「一定任內上路」 石崇良：不會跳票、也不能讓醫院大關床",
-            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5OMm9LUXRITWNQdjhsNUdBc0JONEt0WUVmTVJJRVFOM1dYbDlINGYtek5wLTgtQ3lSVDJWajZVeWkzR2ZiX0pOY3VYclRlOEFS0gFWQVVfeXFMT1VoZTZuMzRWZGRKR3JBZ1YyaVktMDM4a092cTgyOGJXZy15ekNyaGZkNnJJR0ZjemRQQjVNVllNRWxZdDB3Q203cjZnLXF5VVh5VV90anc?oc=5"
+            "title": "藍營彰化縣長明徵召魏平政？謝衣鳯不服再嗆「mission impossible」",
+            "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxOUllLNjk0WGlEZVhEOUVxXzdvLXhRZXlyM1l4TjJoc0x1WFZIUGcwVXJjX3ZqQ3ZuNXpBeUIyYXJURUhpZklZRWh2UjNaeVE1UlpWNFVmaWNYLVVCWWh6alRIOXAtQ3ZWdFQyb2JZOVlsNG8yUnVJVDczVVdxS3prR29vQkxIV2xWMDdraXR0WXI2X0hGR05BY24wWTRublk4NzNSMVFpVGFwcEg1c210WERSQnlHc2loTzAzRG9OYkExN0tsdUFIUktra2tIUHlqc3NkNW45SmQ5Z3RWaDNVOEphQnVtaTFCLTFMbUVPZ05vSUZXSnMtOWFpaXpiQVMyTTlNekQ5Y0ZYRDlkWEZCbENnVy1OeDQzRE1kelQtRmhTNTQtcVdsdThsWC1tOWU5b1hGYUhyNTlNRHFvT1V1eGIzck1VZHVRR2pNNTNRZkpIUQ?oc=5"
         },
         {
-            "title": "提名大混戰終落幕？國民黨彰化縣長傳「他」出線明公布",
-            "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxNcldJTEpDMG9XSTQyR3VBdkxoZi1TOWRpWGYtOHlsN2MyblFJd0Y0dF9kSVpfQzV6MUhpVzBEVGpxVDlKQnh0R0lvLXRFY0g2RTkwZmN2RmxQdExkVVRPTDJzaVlQU0dNNTN4NjJXRm1CeFV6UU5BeHVyMWJ6ZmN3RG0xRDlzV19FamFVdnlrZlJSRkdCbGRoS1pqN1lXaXBsYU00Q1M2WmQxOUlWdXFyNmtmV2JtenE2QmY3RFJZMTkwS2dhQ3Zla3RYZl9sX2cyQjFVY1pMa2Y3YnNWN05OaFAyVk5YWmoteFozWXFFWHMxSS1qblMzYUwxdlBxVjE1NnlhLXZyWTJ0b0tOc1Rjc1JNOVhzU2wtT3MxMHhwMS1VVVZ4ME5ZSUlqZW5XUlZ0aVlnaXFadWhEN2REaks3cVJ4YVM3V2RQUlNCQ2hyT1NxejJ3dzFXVUtXSEw0ZFk?oc=5"
-        },
-        {
-            "title": "逼死台北精舍女會計！作家王薀判12年 李威夫婦緩刑5年",
-            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9GeVppY3FjdER0Z2E1ZTFGYXZ4TllzUDUzdjVzSEl6MDZBbUhHVE55YjRlR3FwellBTmxPUmgwZV9GS0hqa3otTXphUzRqX0FfdDhPYWNnOWZpbzVRNWVQUU01TkZkOWdU0gFuQVVfeXFMUFZqbTdZZ1p2anUzX0R3dnJvWmRFRmdmQ2F6dDJXa180elNzOUM2NzdPN1dCMUJRaXdZSHdheF9YWUIwNDg0M1pWNlhkY3plQ1JEc2lCX2QxTWF0ZmNHdmQxUnFhbk5NbjNqX19kbEE?oc=5"
-        },
-        {
-            "title": "美媒預測川習會對台灣最佳劇本！專家示警：需提防川普1習慣",
-            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAxSGtoOHE2VVlMandSMTd6ZlpDTTdxSl9Gd2JXeVhjeDJlR0ZpTmVHQmNhQnQ5ejdNREFMa2Zua054Mzc0NjBhSTJkMGg0ekRTNjln0gFYQVVfeXFMUDVLTDlNSmVpcVA0Q3V5OWhrTzVrVHRrWHNVMkQ5QUgzeE9ZRTNDV0RPaXoybW5lTXNUUXdTeXFwTHZ3S0pnS19sNmRGR1pVZ2Ezc05qb2lXWQ?oc=5"
+            "title": "徐巧芯酸參選北市長「靠他救國民黨」 沈伯洋回敬7個字",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE90VERnZmRCTHFKY2haNnlSbGphRVhGaHpESHlFRXBhT0p1NnE1X04wY0JTWHpLNGRZUXdHSkVMV0paVGo4azBndWQ3NGd0YllfZkhBUDc5dlNyVG9yVXgzLUFIUXgwa1RZNGfSAW9BVV95cUxPUnliU1Q2Ymk4MkRNbWg5elY0bTlaYXMyS056MG1iZEJrQUJETmpvVGJ6NVBXejB1SE1JSHoyRlIwdXM4aURhc0NQbkhpdmFPZjRGajdZV29tSDE4X0w3Z0pGQjQ1bW4xSTVaZ2VUMEk?oc=5"
         }
     ]
 }
