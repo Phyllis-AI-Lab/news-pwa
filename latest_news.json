@@ -1,46 +1,46 @@
 {
-    "updated_at": "2026-05-13 18:44",
-    "summary": "晚安，為您帶來今日晚間重點快報。\n\n【政治焦點】\n政壇今日焦點，民進黨正式徵召台大教授沈伯洋參選台北市長，賴總統高度讚揚其「三度空間治理能力」，稱沈伯洋為北市長不二人選。國民黨方面，則正式徵召魏平政投入彰化縣長選戰。國民黨立委鄭麗文訪美期間遭爆要求僑胞落地招待一事，國民黨澄清黨部有編列相關預算。此外，國民黨副主席李四川也拋出敬老卡升級政策，規劃每月300點「悠遊卡化」，使用彈性更高。\n\n【國際情勢】\n國際局勢方面，備受矚目的「川習會」召開前夕，台灣問題成為美中互動的關鍵焦點。外界擔憂川普恐在會中「出賣台灣」，而美國務院的預先動作及美方官方談話守則曝光，似乎已為其最壞結局埋下伏筆。\n\n【社會民生】\n社會民生方面，淡江大橋在首個上班日迎來通勤考驗，結果令人驚豔，淡水居民直擊從紅樹林到竹圍路段僅需3分鐘，通勤效率驚人，猶如離峰。不幸消息，有文大生在救溺後失聯，救生員強調，從未沒浮具徒手下水，這條鐵律雖無情卻是救命關鍵。醫界則傳出醜聞，台中榮總名醫楊孟寅、鄭文郁等五人因涉嫌「廠商代刀」而遭檢方起訴。最後是天氣現象，雷達回波明明籠罩北台灣卻未下雨，鄭明典對此特殊現象做出解析。",
+    "updated_at": "2026-05-13 21:30",
+    "summary": "❌ AI 暫時無法回應 (所有模型皆忙碌)",
     "news": [
-        {
-            "title": "正式徵召沈伯洋戰台北…賴總統大讚：三度空間治理能力 北市長不二人選",
-            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Nb25NLXA2QXduTW9KeHlhQTlMOW9KcDFHSGRBRkVsbm5FQlBmSm5ScmVOVGl2MFo0REExUC1VbldZQXBjUW43cXdqQjR2bmdDaFhV0gFYQVVfeXFMTW1oVUowYl9VbTg1ck5hbXN2X3JISWlibkh1aDVTY2M2VnVYejY3bGFWaFQ5dENwbGhSZEpnQ2dVekxjZnlBLUZ1UDNGelBZTmE5d2hqdEhmYQ?oc=5"
-        },
         {
             "title": "直擊／淡江大橋首個上班日「紅樹林到竹圍僅3分鐘」淡水人驚呆：像離峰",
             "link": "https://news.google.com/rss/articles/CBMiqgNBVV95cUxQVEU0a2V1OTkwMW9mUGY3Wm4xakt3MGNCLTNoWXVUZTI2Vy1nS0t3ZEZzZzRnMkVJRjFyWkhLZ1J1d253dkY2Y2ktSFFJYnQwWlFvS1FQT2U1UDROdmFELTNmN1ppNHhzNHQwQmhoU1p2WWpfb3I3VDVIN04tVTBFYnltOUl6M0E3MnpHWlZEYTlhb0djNWR6VFFULURDYzJBR1dJNmJYQUZkd1dReGxXNW5lZTY4ejVmVzFMQ2RPZUhqczh4QmdtVlI4TVZzOFdkaWJscmxRbnJ1QktBaFAzVWVYNUF0RFdBS2JpMm9HRWRSUHdSWU03SHBwUlVkMmtncFJpbUpBTFdwS3NWZ2I1Z2c5V3p3QUhTWFNwTXdTT243SXRER3FNeHpvMW9pQTlfQUlnaUVSRldWZjA4YVFEQUxvZTRLQUQ2eGU2LVhyYWdSUXFucXpnR25QZDl5U01zOW1HVDk0bVoxTjJmM1F4MXJXM0ltZ1hEbl9MTUszTkl6eFhBQ2VYZmFnQ295bWpZOUNxQXlhLS1UZ215RDg2aVd3SkprWk9mVkE?oc=5"
         },
         {
-            "title": "國民黨正式徵招魏平政參選彰化縣長 謝衣鳳胞弟表態了！",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBtRXRaUFc0RUtBZ2VlUEYwSEVacjZsczNWcUp3elZaN0lEM09aVE9Qdjg3VHhydmtZYy1vYk1KM3pFZ1lwWFRiR0kyYUo1UGNNenpiMzdQdjY5NWM?oc=5"
-        },
-        {
-            "title": "文大生救溺失聯 救生員：從未沒浮具徒手下水 1句話無情但是救命鐵律",
-            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9NR3NZWDRDZ042WHV5ZjBaTlNqUEtuRWtDa0F0aDlkRVV0eE5KN2p6OXdnV0RMenZWdmxmWk9lQVlGSEtxNFdEaXdob0lQVjJI0gFWQVVfeXFMTnJ1ci1fNHg5bkdkVW9kQTlfeUJXSmRoODl4aW1WMDYwLXhzSm5kbjNrd1pQcTVsOFFhZG5ISUlZVkVadVlGM0c1cTVvUVlHWEN2WThMb3c?oc=5"
-        },
-        {
-            "title": "川普恐出賣台灣？吳子嘉斷言「川習會」最壞結局：美國務院1預先動作已說明 | 張庭維 | 新聞",
-            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9EOXozQ1JwTjlXNnh6QWI3cmlQTW5PQ1E2WDIyUTRJRXA4aFRMakk4dmY4X2Y1TE1nb05yMk40SFFSaFBqVlRNb2hQTU9OQQ?oc=5"
+            "title": "川普啟程前往大陸 美國末日飛機罕見現蹤亞洲",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9sQk9GS3U3a1JFcTBlZGx6S0IyTnRHX2h1djQ2VU84X3dYRlpHNm5lVHR2Rkc2QzlFQktBVDFseHY5dWp6VldmMHh1dWgweUNvWTdR0gFYQVVfeXFMT2QxdkI1Y1IyM1FJWHBERlZ2N3pzcERZbFRlX2NQcFRfaHNfbldMNXV2QzJsNTZiNjktMEN4R1VaVHNCNlExRHRDUWE1Q1FneGJ1U3RSUVB3SQ?oc=5"
         },
         {
             "title": "怪了！雷達回波籠罩北台灣卻沒下雨 鄭明典曝原因",
             "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4tNDFkUlVraTZTOWdmR0NRWnBPU2o4TEhpdzJXX211TlVwVW9Ja2x6c3hObFUxVjhFT3hFX2p3Mk9ITERpbkp4XzN0Y01VLU9tdEJxRGFLajlHRElLX0VJOEwtMnrSAWpBVV95cUxOeFpBMzRrWnpxdmJQTWMyVjk5ajNfdjgwUmFsY01XX3JtbzlvZS10UzNSSk03bktzU1dSYktpTTB3eGx5cGlfbzRLSTFKeHoyWm5DTi1KQ2ZZRklxYUVkV3pZTmJhWUdJVmxB?oc=5"
         },
         {
-            "title": "鄭麗文訪美遭爆要求僑胞落地招待國民黨：黨部有編預算| 政治 | 要聞",
-            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1sNGlnajE1UzdnOUw4X2lfc1MyZW0wVmNvWWhCV3BQRzhDeS1xOWUtbmozc2tqRzJLdXZiWWc0SlJYb2NONVJhVHJYdk52RE5H?oc=5"
+            "title": "正式徵召魏平政不要謝衣鳳鄭麗文：彰化絕對不能輸| 政治",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBJSGpXWF9CT2RYZVpiaWZuY0sxeE8xckVxaGRzREdldEoxbk9qVzlGdXluSFRlTFdsdTRVd1ZKcU1mNTIzZzZTNXhyQ3hjQnJVYXZVSkVDbWFrVEU?oc=5"
         },
         {
-            "title": "確認「廠商代刀」 ？台中榮總名醫楊孟寅、鄭文郁主任等5人遭起訴",
-            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5xaDlfWDhyVmNyS29wLWVMdVo2S1hQSDlaT3VWSHBhRUtCNng0NmM1clpJclhRUUVmOENHSXVMUEpkNzFaWXJtRHBCa2puR2w3dHZEMFpWQ2QyRXVrNUFwRkxJYjNJdmRW0gFuQVVfeXFMUEpEb2tTcmM1bk9sR0lvdzQ3alBWY1ExUl9HOTBURkRUd1oxVUJhSE5jRk03c0VNMTU4UG5NMTJBSTZZZ2o0emc0VUJvWXBKZXFTdmpWQmdyX2JYUUxlMV9tYUpCRE4zVW1HUjg0YWc?oc=5"
+            "title": "民進黨今徵召沈伯洋出戰台北　她曝關鍵喊：國民黨集體焦慮曝光",
+            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5JaHJBMVplRFlZUEtwYXloNkJuWnZkNk5kVWN2VnB3TS1BLUExTE9uV1ZDLW1DU2I2QXkwbGZoSmQzdmVXQzNaczMwZnMtVzkwempVS1pKUXTSAV9BVV95cUxNZ01RSi1QZWoxaDdtN3pUSXU3MEZhZlE5RzJma19reWVxUlJ0eS0tQTZoblNtVkNOanRZUGRqZkluYlgwWGpwN1NnSGx0eFA1QXlHRjJKQnJEQUdZaFdIZw?oc=5"
         },
         {
-            "title": "連美國總統都不能亂講！川習會前台灣問題成焦點 美官方談話守則曝光",
-            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9mVmFsTk1pSXFnV0pBSjM2bHpoMW1wcEpBVk5yTEM3b25SaUVadWhSN3kwMy02ZFhUOVplMVBHSnNKclJ0VGxFQmVMd2kxWjAxWmNv0gFYQVVfeXFMTlhvcUVhNVN0SUJrV0JqdlB3a2UwNXFRYkxRMEEzSDZDeEhNYTFVVl9xUmJhZW85aFdPRkdRYkwwQndtMUc4M255aktyeVNJX19kMi01dk95SA?oc=5"
+            "title": "翁曉玲稱聶永真設計全包！本尊笑酸：貼錯囉",
+            "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxOTkRUWnFraHFLUTV6WUZ3U3J2LWhHWVVyU2psS001Rng1aGUzbExVY000el9BTm56NzFHdlM3MnFKay1BTEF3YzJQc1l4Y2VTN1RUS3JqN21BRzJHOGNxTi1hY1VjZ1prWkJhbk9ESDREc25fbjYtbnZEMTBuYzRsQ3R3N0xDQWRmLS1pdy1oYTJ5WWtGRHRfelRvNDZXOGZsZjJHcTFrQlRGc3BwQzVTb1NLZUZuWEJPYXdrMGlIWkR0NjZIUHJ4UERsRkQwWDZFQXB2S25VdkhqZWdTcXRvSnlDLWFWbWFOeFBpYzNYdFJPVFBzbjFuVTVzdVNMOHI0TFdfblU4MXA0QWZzcFFJUkIyMHJQMlJqaE1uUnJ6ZWdnMzRJZHZTOVB2bDFOUQ?oc=5"
         },
         {
-            "title": "李四川拋敬老卡升級政策 每月300點「悠遊卡化」",
-            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ZbjJsQ284XzFCUERyZDlJYUhjZi1zYlhwbG1uTUpVcTJuVnp6YXJIVmNjTjBTcHFiVy1jakJhbl9taEx4d0lWVHRUWG9ueGhpMVBz0gFYQVVfeXFMTm11eWhwR3NaNVFRaG96Vmg5RGJuZmZEMng3NndFNDRQVmxKSmVXX3h3MS1UUHloWEc0VGNOaDF1bERZVTBQZk9mWkRyUmhmc3Fxdk5TSEsxSA?oc=5"
+            "title": "2主管收押、負責人出境中國未歸！「光澤」最新聲明曝光 撥8千萬設信託基金",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5YVVpIR2xFa3Fmd19pbEFkc1VUQnRKX3JaWkN4R194R0hFdGJzc0NZMzZtQVViU21mT1FTOVJwTkpCWFRWb3V2aXdVSVpITFBsZUlGQmtn?oc=5"
+        },
+        {
+            "title": "鄭麗文訪美遭爆要求僑胞落地招待 國民黨：黨部有編預算",
+            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1sNGlnajE1UzdnOUw4X2lfc1MyZW0wVmNvWWhCV3BQRzhDeS1xOWUtbmozc2tqRzJLdXZiWWc0SlJYb2NONVJhVHJYdk52RE5H0gFWQVVfeXFMT1JIVElFdFA1dlM3Wm9aQkpkVVQwTkVxb0hkRGNtQ0lEUnQtcFhrZ3pNUVRfRjJBOUdxTkdLY1VKbmRzQllHQVlGUWxGWlNyRW9EY0hONmc?oc=5"
+        },
+        {
+            "title": "搞種族歧視還冒用黨徽？高雄民眾黨競選看板惹怒印度人 全網氣炸",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE54U0Zrajc1NmoyclkzelVuRENLaWVJRnFYYzBWSEhhbGQyUS1nVkJ5a2ltR0R0ekdsM1lUb0tuZllmai1ON0FyWXM5el9wWjBVakhXTkY4dTNMZ1o5SGpVaGhJaV9NZG5FOGfSAW9BVV95cUxNQVFxSHZOSFVXb3ItLWMwdExBMDZZV2JNc3FNMElkNTd1VV83QjRYN09jVWZiblVWVHJVdG9qalk4QUZSOThFNHFsSXRsZUZXTEF5MWt2RkNRb1dTc3JJUFoxazZELWF1YkU5QndfVkU?oc=5"
+        },
+        {
+            "title": "對台獨從「不支持」變「反對」？陸學者：美方不會改口、習不會開口",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBHTS02ZnliaGtHSGliZHJpb0lKOFpHLVE5OGlFMnpFSHB1elF6WFQ1S2VLcHVEb1VMbGhQakpkWEtaS0FORjBJZEdGMUdIQ1RDdmFj0gFYQVVfeXFMTkZmVW1RU1JQX0tnTFZERXZUU0hpTUJRX1I3Ynp0V0NXeVhWYWFFbTBUSDBJX3dFVFJKVGsyaVlCNE9wN1hRRS04LXpPRGNOVkw3X240ZmE3Sg?oc=5"
         }
     ]
 }
