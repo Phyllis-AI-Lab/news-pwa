@@ -1,46 +1,46 @@
 {
-    "updated_at": "2026-05-15 14:04",
-    "summary": "午安，為您帶來今日午間重點快報。\n\n【國際情勢】\n\n首先是國際情勢，美中關係備受關注。美國參議員盧比歐指出，中方在川習會中表達了希望台灣透過公投實現統一的期望，而川普也提及了黎智英案。儘管白宮會後摘要未直接提及台灣，但有消息預測川普將在數日內就相關議題發表看法。此外，國際間也傳出開戰後最大規模空襲的戰事消息。\n\n【政治焦點】\n\n國內政治方面，民進黨主席賴清德批評台北市的表現未能替台灣加分，引發台北市長蔣萬安連珠砲式反擊，質疑賴清德有何政績牛肉。另一事件，高雄愛爾麗分店被勒令停業，蔣萬安因被批反應慢半拍，今日已即刻要求停業。在國安議題上，國防預算遭大幅砍去四千七百億，行政院長卓榮泰已下令擬定三路徑，以補齊國安缺口。\n\n【社會民生】\n\n社會新聞，令人遺憾的消息是，密室逃脫的女員工因扮演「吊死鬼」角色不幸發生意外，經搶救後今天宣告不治。另外，擎天崗公園傳出野戰事件，亂丟保險套的當事人已羞澀承認。而在台北，面對「安鼠之亂」的環境衛生問題，某市場超前部署，在短短時間內就捕獲了五百五十隻老鼠，成果顯著。",
+    "updated_at": "2026-05-15 18:38",
+    "summary": "晚安，為您帶來今日晚間重點快報。\n\n【國際情勢】\n川習會今日登場，聚焦台灣軍售、伊朗問題與關稅議題，國際高度關注。同時，針對台灣軍購，有分析指出，美國前抗中鷹派盧比歐近日為北京緩頰，恐讓台灣軍售案增添懸念。\n\n【政治焦點】\n國內政壇今日砲火四射，賴清德副總統批評北市未替台灣加分，蔣萬安市長連珠砲反擊，要求賴副總統先端出政績。北市府也捲入愛爾麗停業風波，蔣萬安反擊綠營慢半拍，並點名中央對針孔實名制不理。此外，鄭麗文引用川普言論，遭民進黨指為假訊息；國民黨內，謝衣鳯則回應脫黨參選傳聞。\n\n【社會民生】\n社會消息方面，新北市密室逃脫遊戲發生不幸，一名女員工扮演吊頸角色後今早不治離世，案情令人惋惜。台北擎天崗深夜活春宮事件則在網路引發討論。同時，台北市秦慧珠議員爆料市場抓鼠數量與市府登載不符。氣象局也發布豪大雨特報，十縣市民眾下班需留意雷雨狀況。",
     "news": [
         {
-            "title": "川習會談什麼？盧比歐：中國盼台灣公投統一 川普提黎智英",
-            "link": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxQeVpsUTNiUVEzRzlUdVZ6bmhTLUctbDV1Ulc0SWNuS2lvWVozbk5UOVMzZXU2QjhtSUNCYXkxS0gzZFkwSm5vSUNyeDZ2TGlmMEdGMVVJazNjamdLYlNEZm5fTUFTNmRkVFV4RGpHNGQxQXlaUTAxNnk4Y0stVVZNMzB5YlJuRjI1Y3NUMENkVkcxUzdxaTBkWHRDczY2bVBLdmdRTkJHbW00cW9UVkpUNGNxN3V3MnI2TmNCQ1h2cTZSWnV2eTBvZDU1dHIzdjlxR1BNSGVYWmNWWDA2TDRJbkZpQjZlSGxMN0lDdWs2eUlUc245RGtDV1htVkltanBMSm9XSlZZUy1NNlVwdTNydlRyWkxmVkxPZk9iemRMbjczM1FLV1lJNFpMdWtKcko5RXpNa1dFZGNOM3lvTnBOTTFnY1lLN1pfdEZHT1B3WjJDOXc0YVZ5NkZtUDg5NXVzNVg1TElIaDBWc0E?oc=5"
+            "title": "盧比歐為何眨眼川普？他解讀「昔抗中鷹派」為北京緩頰：台灣軍購恐有懸念 | 李瑋萱 | 新聞",
+            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4yOGRJeEV5QzZrZ25VWk13TUhZUVJBOFVRSzI2YjZwRThFNFM2amEyZUc3UTNoSzdTallEb21wRUZFeHBBTFlaX3NNZ2Ezdw?oc=5"
         },
         {
-            "title": "保險套扔地上沒帶走…擎天崗野戰男羞澀認「是我沒錯」 年紀曝光",
-            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBScjRqejZoUUEzZkF1ZGVPV0szWnZPQkNha1pVQlJDS2ljOWFMdUJVeHJhUEFZNV9henpPd2hmdFlLVTFUX2h3Sm50TEpCTjNp0gFWQVVfeXFMTmt6Wi1TZXVMU0QxR3ZiMWRHXzNRbDNaQy1QTjY5YmxoR0pNM3kyc0tCa01WcDEtRFI3V0FPOWNDbm8zS19zZkg5X0w5LTh3SlpYRHlfNFE?oc=5"
+            "title": "川習會登場！ 台灣軍售、伊朗問題、關稅議題怎麼談一次看【不斷更新】",
+            "link": "https://news.google.com/rss/articles/CBMi2wNBVV95cUxNeXM1MXBRVjZOWnNoSHcwbUh0Z01KbkRKRTVSSnJFZG5QUFdHb0wxWHhndUZMMERQVzAtQ0I4dHJ0c1UtTk5IZlF4TXdtQmNFSThXZk1EZFcxX0U3cjlVZzY5NWNWVTZfcjRHaWNtVFlEdF9IWWRVTHRIMDV0Z2xsNi1HdEZZRzdYM0VHVFF6UkVHZjRKcGZGOGdFUE1nTEdudWFTb3Zjb21HdFpTcWpHa3BYcVNVUEpOVnZjZzVQTkxuRWVrRG1SZUppazNvMmZSTF8yX2VnOURMaWNDVzdoNWlZenhvTi1DcWlrNmRtQW9CeU9xcVFBRW90VFI3bUlxZUI4R0JUdThZOVVnUW1sa1E2RDBlcEd6dnphMW8tVC1yZUhUeXpNWEcwbllLQURzbnVIZDlJdzVZS3FxZVloUG9kM1NRbnhGaFpaY0JVNXpUM191aXpnd25mVWJuaVpqTTJPSDVPOFVhN2RlaW4tNWdHdVN0RFpIZEtuNFI3M0dRbjl4X2RvbEVlTG1JOFJOVGhSR1lOOHoyWmppQmpTR3lsN1RMbTJNMjJta1BIbjlCaUtLZUlLYmZvN1o0U0loaHJ1TXZmZkdDXzN6YU0tMlVfYlVaSXZGYUxN?oc=5"
         },
         {
-            "title": "開戰後最大規模空襲！",
-            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1fd211Q3FXS2g3ZGZWcWtBMXlvdW1YOFF5QnR2N0FvVnJjWkd2dXc4bXdYMW9zQUZ5U21yTkJocXF2Qm0wbUVBaVJsOTQ4cXVmVVlN?oc=5"
+            "title": "愛爾麗今停業...綠轟慢半拍 蔣萬安反擊：去年反映針孔實名制中央不理",
+            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5fYjAyMmhseW44dnRuQjBCbnFKTVdyVWp3VE5mOGU0TTdnY2VQTUpJQUEwQlpDZGQzMEppcVYwa2pMTmw4Z2tDZGxxQWFySC1n0gFWQVVfeXFMT2lEZTVVZ2dNQkJ5S1JCY2thR3NpZE5xQ3FNcEEzcmVtTk41ZEF0VUdiWnVWNXVDTzNNZ3lXNVhSLW9yMHlNUkRnbFVoRFhxYzlOaDJiR2c?oc=5"
         },
         {
             "title": "賴清德批北市沒替台灣加分 蔣萬安連珠砲轟：有端出任何牛肉政績？",
             "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9JOWFXN0w1SHFQUm9sYzJnZVRJX0xMZXBVeWQ5UzJ3ZTQ4dHEzM1QtckFHVlJKNElic0dLaEZRUU9JQmcyemdyZXpRUzEwYlVaSkUw0gFYQVVfeXFMUGRUdlZQeE9mQUU1WTEzei10RlFFMHhwZk4ycmttNURzZWxtZElORXNWcTljYWpfU3RTWkZOMU9udTM1UUFxUXNraGU1OS1Qajk1dzl3dnl0Sw?oc=5"
         },
         {
-            "title": "密室逃脫女員工扮「吊死鬼」瀕死 今宣告不治",
-            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9tSHJYemFHUXVVY1psSkRKM193QUJocUFwRkhNWlExaVY0ME92MWplQ2pFZTkxZkRvM1FSSk1PdFdmdTZmR2Z3WTFsQlZ4Nzd10gFWQVVfeXFMUDg4dHhjYkllNUxqNURSY1htMWRacElSUjZLeVlleDRXYnlEMDU1ZGRUTktBSm43VXprWnBIU1pvZzF6M29iM2V2SThFOTRrMUwyTWlIT3c?oc=5"
+            "title": "快訊／密室逃脫「扮鬼吊頸」 女員工今早不治離世",
+            "link": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxPUURIMUxnOGxmQlVQN2VkMjFtQkx1c19XeG4xVkZjSDB3T2QxbkhqdmFoaGF0c1FVaGR3QmViNmFUaE0xNmI4VG02bER2clh6MmNTNENBc1dVMGJVdldxSzhqenNaY2haZWdja21Ld1RLdlprMkYtc0t3WjhUVVZEWS05LXNNWVlvd1JXOFg0a0Y3dnIzTlZldGYwRzVPckNXTWdFMHYyaXdhR0o4RHpZRzhqUC11ZGNYb2xYTFZSbzVrbFVveFM1N0ZYOXBrSFItdF9TMXN3ZnBnM3c0THFjSEtmbzBaTVJFQ29meUJSRS0zYWlwbTJPMk15UFkycGtxSFlsaUpSUFAyam5vaWpFOHpzZW1IYlozWTB5YTlaUnNMQy0yNWJQYUZ1Um1pSlVsU2lTcXNBVU9ORDlQOEpNN2p5dEJad3BveHVoRHlDVjdtUzE5NnhyNy03RHA?oc=5"
         },
         {
-            "title": "川習會白宮摘要「沒有台灣」 貝森特預言川普將於數日內發表看法| 國際",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0zRDBMcURNcDdWOGRBVmI5U3h2V3hTRDZZa0Zhc2F2ODFlUldtbE5ydlhoMlVqMkNLaEJtSzJVWE5iSjFNekdwcWZQaDdNamJIalVjY0dMdDNPZEE?oc=5"
+            "title": "擎天崗深夜活春宮！情侶草原忘情夜戰　鏡頭君「全程放送」聊天室嗨翻瘋朝聖",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5TR215X2N0TVF2M3dhYzZIUEtWb2MwLWpQMWNjZ3pSRUJWTDM4TFZmNFllRHNGYUR5TjJvVXNJZFdBSV9aT3pnbk1mUmRidmlJWTE3ay1VWVRpN1nSAWBBVV95cUxQUzE5WVhPTE44RFR1TUpqa1pYYXY1SzRRZksxVHNrbWpUZHhtVjVnSXliMmVKRFR3ZlNLelRKSXFXLVY1ZlZZNzVvZEx6VU02SjVCWDFBOVJJZnlzZHptMHE?oc=5"
         },
         {
-            "title": "高雄愛爾麗分店勒令停業蔣萬安挨轟慢半拍：今天即刻要求停業- 政治",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5NQ2dwSUJ5T0dYRGJ1WG1Mdm0xQlRtdENnV2xMaS1rZmozVUwydENUUVA3V0EzMHpqSkZ4MVZnYXJmSmg2SmpXTWstNm80aldFUnc0Q0FzdFEtMnJKT3Ntd3N6YV9uWUxWT0E?oc=5"
+            "title": "魏平政稱「相信她不會脫黨參選」 謝衣鳯：不該由曾脫黨的人替我回答",
+            "link": "https://news.google.com/rss/articles/CBMiyANBVV95cUxQdkxSTU51OUQ4V0pQRG96c0VSdWQ3aWZMbFBtVG44S1lWZ1hweHp6Q1duMkI1aUEyZVpjOVI2dTFqajlkM0hiZ2tEZDlpZjR5VENrX2N1M3pBd1dVYXRsQnMzVmFHMUs0VGVYeTFIOEY4SEMwVmZybjVFYjNvVUNhUzZwdDBLU2pXWXdUQ19Udlp5UU1zXzMxSHRjUzFtWjFIUnljaWtBd3NDZFZwY0NnYkVmWWdldXo3bk1ZY2I1d0JYMmJhanVrdzlLalNXMGg5cXJST2JJeUx5UVRTanNoVnRVaDh4OWtVUlR2Rzhpa1c0a0pCUl9QbG9zZV9UaGdQZW5UNXkzVjVuem9rNDBXcG5oYnNfQ0FjSWxhU0VMYUZFQzV3bEtvaFhLM0NETllwWWVpNk53eDFfWG9JOGRsbDdHcjl2YnBOU19zTEhQU3dWQVkwQXFCMWlhTUdBZ0NrYTBEeDVyQ3gtU0s0ekE1bEVsR0pKaFplb1QwRUx3T0FobWRNMmN6allXQW96SW9jQ3FDM3pjbUV5a3lIcHNfbjlFT1FfMkkwRlhwb2F5aEtTRzVNQ1d1ak0zZDBPZFktbTFjYWhHYzE?oc=5"
         },
         {
-            "title": "台北「安鼠之亂」1市場超前部署　結果狂抓550隻老鼠",
-            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9tSnVLV1hIanhxNlBoU0F3MmFGcmRlQzFUU0NJODdlNjIxcFYtRk1JbVFnMDZjUFNWWHB0Z1ZXX2FyRy1oYUc2UlNQVTVZaXdzeVQ5Zy1qNU5ITXB2NXfSAWhBVV95cUxPQzY4WkQxR1l3dmZzbjRaVm1rWXJsVzFfNTlMQmVZR0pHZjdwRDFXdlUyY3c0WXIxQnpycjBMSWUwZjFmTGprc3lPcmNNMkZZa1FqZE1aY2RrdTVBaDM0UmRDVzBxb0FCSg?oc=5"
+            "title": "鄭麗文稱「川普說台灣有對的總統兩岸就不會戰爭」 民進黨昨已指是假訊息- 政治",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE92Y0JHR3h2bmFqdG9JeV9va2lpbWJrT2FRVVhIMXFYRWlybDNNQ1d4UWxwV21rempNU0hxaVZETDJ4djhCN1pYbVZhTkVtTjJJV1JST2F6TGlhdjN0VE9MZ013Sk44ZllabHc?oc=5"
         },
         {
-            "title": "【重磅快評】黑熊上菜 沈伯洋是蔣萬安頭號助選員？",
-            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE95M3pYUkgwaWd0Ri1CeFF3d1c2Q1FDM1I2dE1RdVowRXc0eHVkVHhIZEdpQ0hoc211TUpuTG9URV9rVE5UR1kyZUs3YVRsUHF6NVRV0gFYQVVfeXFMTlhGMUdUc2Z0SWx5LW05X1l2NHpaeUgya1A2eGtzNzhoWHhuUzlZLUZNUkkxZ2pFeXktTkgzS284S0F0RWZEUTNJc1JCTmxBRTYtQWFqNmEtVg?oc=5"
+            "title": "秦慧珠爆市場抓163隻鼠「北市府登載2隻」 周軒：連藍營議員都看不下去",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBmRi1TX3FicEQ4WU53eWVYLXhwTmxXOFhYOFpGN2Uxay1lVkJBRDBQMDdlNGhMUEVsQmdkTEpRWE9nY2M2OGRrbG13dmFlMnMzVlU3bE8tQ2xvZ2RLX3dKdDhwdEtKQkRseWfSAW9BVV95cUxOQV9tNTBnSWpRXzFyYUpoU2lWNmQ2MFY4SnR1SHJmcGRybERzaWw4WnliZFZwTnlzOW5QSHI3Yk1FMGlCaGFMRWJ4NjZYOEsyM2k1bF9CTE1JOVp4LUFDdDd3YldhOFd0S1E0Z08xQVU?oc=5"
         },
         {
-            "title": "國防預算遭砍4700億！刪商購委製案　卓榮泰下令：擬三路徑補齊國安缺口",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBfOFNURGRDVHQyYjZtVWRWYWhFRkhyRlFkOXh2eHV2VFIweUNqRm1LcEdqVFdIVmZ1eHhybDhDckg2N0k0a0U2WFFSREoxMkxIMHplWndXT1M1TknSAWBBVV95cUxQSGp2RTZKalNEdFF6UDJOT2NYMW1YOHMybXNXQXJUMlJXbHVDVUVCUWZTamRscHpDR0JRWkJMU0lsLV92dGV4SUFuTGhyUGE4QzJXcmlEbmpXQXhHNG5GdjE?oc=5"
+            "title": "快訊／大雷雨下班開炸 10縣市豪、大雨特報",
+            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1zYVhvWkRCY2IxRVgzTzBCTEhqd3IyTUdDazU1OVlNN0VwRGVLZy1fZGtIZVpmaHJ0X0VNMHVreWZDa1ZzN1N2VmJEODZMM0lQWEVPbQ?oc=5"
         }
     ]
 }
