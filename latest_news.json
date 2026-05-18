@@ -1,46 +1,46 @@
 {
-    "updated_at": "2026-05-17 20:06",
-    "summary": "晚安，為您帶來今日晚間重點快報。\n\n【政治焦點】\n\n總統賴清德今日定調「台獨」意涵，強調「有台灣才有中華民國」。前國安會秘書長蘇起分析川習會，指出習近平正爭取美方認同處理台獨。此外，CBS主播稱在台報導川習會遭阻，外交部已回應。\n\n【社會安全】\n\n藝人孫安佐因DIY火箭砲案，住家遭搜索後，又被查獲疑為改造槍枝，士林地檢署已聲請羈押禁見。近期引發討論的擎天崗4K野戰影片，女主角身分遭肉搜，引發網路社群高度關注與討論。\n\n【民生資訊】\n\n氣象署發布即時快訊，大雷雨正即刻開炸，提醒民眾注意天氣變化、快收衣服。南投埔里發生規模5.1地震，氣象署判定為獨立事件。115國中教育會考落幕，英數想拿A++僅能錯1題。\n\n【國際情勢】\n\n非洲民主剛果爆發伊波拉疫情，已造成至少80人死亡，WHO將其列為全球公衛緊急事件。",
+    "updated_at": "2026-05-18 08:11",
+    "summary": "早安，為您帶來今日上午重點快報\n\n【政治焦點】\n今日政壇熱議焦點，台北市長蔣萬安就「台獨黨綱」議題槓上民進黨立委沈伯洋，沈伯洋則以「不是學法律的嗎？」反擊。前綠營幕僚示警，川習會後美中台局勢已變，賴政府「維持現狀」絕非消極不動。此外，立法院長韓國瑜出訪歐洲的言行，意外在網路引發「最大叛逆」的趣味討論。\n\n【國際情勢】\n國際方面，外媒驚爆美國前總統川普透露與中南海及習近平的私下對話內容，細節引發各界關注。\n\n【財經動態】\n產業觀察，台灣無人機雖然銷歐市場暴增四十倍，卻因國內預算拖累，使得「護國群山」之路發展受阻，面臨失速危機。\n\n【社會民生】\n社會案件方面，藝人孫安佐因涉嫌持瓦斯火槍遭聲押，其經紀人已宣布停止合作。教育議題，國中會考成績出爐，建中、北一女等明星高中的落點與志願選填成為焦點。另一起不幸事故，密室逃脫中29歲女子扮「吊死鬼」喪命，家屬悲痛怒轟官僚為幫凶。最後，天氣快訊，部分地區即將迎來大雷雨，請民眾留意。",
     "news": [
         {
-            "title": "高清五官曝光！擎天崗4K野戰「女主角身分被肉搜」　真相曝光網驚問：番外篇？",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9nNjlsT29MMkpLZHhWUjVJWEJCNE5PQnNBekRXMmJOUUtMXzdBTlJHV3RYazktY25yMHVCZTdSNGFrX0dBb2wyWUdxaUM3XzB2RmxscnVhSEd4TWvSAWBBVV95cUxNRHd3dXVvWFdRNldGR0N6ck14V1RWeHFGeGlZMHhNdm5yVWxNRUhhcVYzR194R0MtN1BmMWh5VHhvSE1nMFR2WjVEMkRKQzlHcnVhSU9ZZmlROGdjWlpfTVo?oc=5"
+            "title": "蔣萬安問民進黨要刪台獨黨綱 沈伯洋反嗆「不是學法律的嗎？」",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9SaXhwbmtUYzFFRXV1VVNfMWJhOXJNaEVpX1gwa0c5RU5JclJEY1ZmcE5UNUN0YTVhTEpaQUtfQUdBV3ViTHlsNHhwR2ZYMl9sMVNZ0gFYQVVfeXFMTktrSTNkRndJTzM4TUNCcFJXdC05N2FRUy1EV0ZLWHozeW5vdk5CbFJuN0REQmQtNi12dkhMMDQ3RlJyYktnbklnMGs5NEEzN0NLTVNXR3ZPVA?oc=5"
         },
         {
-            "title": "定調「台獨」2大真實意涵 賴清德：有台灣才有中華民國",
-            "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxNdkZNb2o5ZXo3Wkt2UDFDeWpfblBFV3VTajRZWEZ1Tm5OQlE3ai1oUVU3MUlLejVEdVI3dnhEcXBvR0FJSThIVmhfTHNsVGZqNzh1bExHLTNJa0tpVG5XOGNPbW9zX19sQVNFSm1RTVFkZW1wdWdLRlFKQnFpSy1pdmUtV2dzTzQxdlZHSFgtYnhrWDhrVkxvY2tUcXdkZTA5eHFLcnlkNHdxZmdFaG91bWdwRUZpdDJVZl96bGlfN3djRXRaNjlMRUlqbE1kWm9Zak9fLXVMeXo1a1RBTFNSb0ZGeWNqY3l3VkN3ak8wcFFsaWJ6YzNwYlY5X2hCYkktZWM2Ui01U3A1Y1REVU1QVGZXNFBvaWFyWk9meWhMNVkxWFIzVTdFaXdPR25ESDJta3JKRW9WVVprQ1hrSEFDMFF6RWxKWnotMXZONDc3anUwWllKWnc?oc=5"
+            "title": "川習會後美中台局勢變了？前綠幕僚戳破賴政府「自我催眠」：維持現狀不是什麼都不做| 張庭維 | 新聞",
+            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0zWG5UT2I1UjJJVE96SjJOQzdkUWFHN3RzMzZVZXFCa3dPcVpURm02Z0t1UW9BaC1xS1BLaUVSVWsxaExNWld3ZHZ6WjNxZw?oc=5"
         },
         {
-            "title": "孫安佐DIY火箭砲喊「滅鼠」 搜索又查獲疑改造槍枝！士檢聲押禁見| 社會",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBVQXF4TUJlakEta3UzOWpMVTI3ZnJSSE1NZzh5a1dJQk5KTGNxZE1QQVNlYUdHNnA3cWJvTTV0TUxkeFFpazlYWlJ2SExDcWRacmxxakJQb1ZzdHM?oc=5"
+            "title": "孫安佐玩火槍遭聲押！　經紀人捲「大麻煩」宣布不幹了：希望他成長",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9JWDFSTDZjUmI3RU5Qc0VBNXNJNTQtOWp2RERpUXRuU2hDZlplR21nNXhoM0hjaWFQRGl2TkJxSEZMVUdhWVNUT0hQdktyUWFENWNkTEFET2M0bnPSAWBBVV95cUxQc2lERjdLTHNTalI2Z2NmajlyaktydXZsVG5Yd3dIekRHUG8ydjF4QUpzUHBqQ2JfMDhidzcxYXZ3eUN6LXhtSHFqcmpWSTZfOEw0NmFYYnpBNklSbUFnZVU?oc=5"
         },
         {
-            "title": "快訊／快收衣服！ 大雷雨即刻開炸！",
-            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1oWEdkQVhSN2tpd2hqWW1hTy02OWdSWTgxZHRZczg0OHZoRmtLSG1vUUZLYjhXSjNPRFk0VHRUeUR0YmtLMjdyU1FqSHVpWjlVd1FGSw?oc=5"
+            "title": "115國中會考落點、分數、五科答案解析！進建中、北一女、附中要幾分？校長教填前5志願「3要素」",
+            "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMGs4dnh4X2pQcTlhT3lvbTR3QmN0S2JVdmJUcjI0VXN4SXRlMjA4T25mR1EwOGtSQUZvRVhXMFUwMlNwTmprdF9hZERCY3JGZXNFOGlocURfM25Bd2Y3SFBOeWJZMlFXbmNVVzdhNHU4Y1pZbEIwSE44MFVEWXBSeA?oc=5"
         },
         {
-            "title": "民主剛果爆發伊波拉疫情！至少80死 WHO列全球公衛緊急事件",
-            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5jVHpnWDQwS2ExZ1U2bGVjcXU0Rm0tVXpIT2tEWW5iakhDekE4T3VKQllDRU1MQlBxeUZOSUMtb3l0M1hvRU1LdlVBelN2SWZjSk80?oc=5"
+            "title": "密室逃脫29歲女扮「吊死鬼」喪命 哥悲痛怒轟：官僚是害死我妹幫凶",
+            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1KTlFaMlFBRUhKeEtzQTN5Sk55Q0RUcGtYYTNkNHJfY2t6Qm8tLXpDZkxiZ1RfRVlsTW9USWFwdnRuVzZsS05Va25KNTZqclhG0gFWQVVfeXFMT3YwZHZQVUZ6TGYya2E1c3lZVVVQMGNWSE1sM3Bhc0ZtRmpBcUpkSS04T0lNTmdEWW5QNVJCMFNVdUxMU1JwZVlVRm5tT1RBSVVqcTZnWXc?oc=5"
         },
         {
-            "title": "南投埔里規模5.1地震 氣象署：屬獨立事件",
-            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1iV2FOZVd4ald6cEZlX25EZ0txbWs5am5FV29kM2FfRElUV3ktM0JVeDV1QmdxTk1veGp0R1k3RWkwWGI5UGNUbFNZLXhNZERUXy1Idg?oc=5"
-        },
-        {
-            "title": "蘇起看川習會：習近平以釜底抽薪方式爭取美國認同處理台獨問題",
-            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE04Q29JY2RoVU1SSEY5NDBhSE9feXpxdTJTc2szemkyRHB0eE4tQWxXSkdwUVgtSDlIY0lJck5nSGxiMGNGZUdMdGpIc3RFYm9y0gFWQVVfeXFMTjVmczBtVXE0Tk9BMDFwUjRqTUJiUXNQclhqanZqR2RsNEYxMDhLYkp4enhfY0FoSUxRVGJPLUFGYXNYTk5LWnYxWWlPVjRrRi1feVplNFE?oc=5"
-        },
-        {
-            "title": "CBS主播控在台報川習會遭「飯店阻止」 我外交部回應| 政治 | 要聞",
-            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ha19ERVhneXNsWlpmQ0JmZUF6MW1aSU1jUXNNN0pZRWdrR0Z1ZGRxWEF1dHh4QkZFeXpWOTRSUGNNQ3R3MGlyMFNSV1hWUXVU?oc=5"
+            "title": "中南海與習近平私下對話流出！川普驚喊：活那麼久？",
+            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBIZTdpOFIxSG93bS0wbW96WVlvR3YzeFNmVDk4SGJqUmNCaUpzS2JyMTh0QnUyNUdNbk9lQ2lOVkJ0WE5fajF4ZUxQanpZR0s2NlNieGpxWjRjR000VUZwbmxaWUhJZ9IBa0FVX3lxTFBiOUxseFJ5Skh5N1RCQ2ptdTNERXFKa2I2MFQtcEozSi1VbXlBZmV2M0FZbzVYWHRZazR0Q2w0c3ZRZ2x6SnpSdDk0aVhNdWdPcXJkU3RXUjhFX2NBYTVpNmdGMk1RcU9GTmRF?oc=5"
         },
         {
             "title": "韓國瑜出訪歐洲驚曝「最大叛逆」！破萬網朝聖全笑翻",
             "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBBSC1CeWNwNmNOZmI5TWNST09kVVZKQ1ZGWUQxajUtbHM2TVhOMWNIcmIxemc4V21kZlY0R1l4RG5ycjJDQ29WeXRUcE5qOFRRVzJ3?oc=5"
         },
         {
-            "title": "115國中教育會考落幕 英數想拿A++只能錯1題…各科容錯題數一次看",
-            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE94VWREVWtJNURBUnF5elRidTJrQzU1eDA1NEU0TzJoZGQ1UExXMW1OcmZPTEdJb2hqQlk4b0xFUDU4LWk3M2dNbGNwLXNpd3RzcWJv0gFYQVVfeXFMTXliV1F2WnVYYVF4Xzd0aDR3dC1vS0x4cUJYSmlPa3JCQzhKckl2OTNOMlhSeXBWYXJDQnJ4ZnlOQkFQcmR0TFNGdE1kX3BwZ2ZIRUV1SHNvZg?oc=5"
+            "title": "快訊／快收衣服！ 大雷雨即刻開炸！",
+            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1oWEdkQVhSN2tpd2hqWW1hTy02OWdSWTgxZHRZczg0OHZoRmtLSG1vUUZLYjhXSjNPRFk0VHRUeUR0YmtLMjdyU1FqSHVpWjlVd1FGSw?oc=5"
+        },
+        {
+            "title": "銷歐暴增 40 倍卻遭自家預算扯後腿，台灣無人機的「護國群山」之路為何失速？",
+            "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPd2JXaFpqVzRnTDhfRHZNNVFITFhyMC1jTVNHYmQ4SnlLeU85M24xR3ZvczNTcDdPbTNBdjFtSFY3TUpkMEc5THdNRU52R1RjckhReldoaG01R3BIREZDZ3EzRS1BQWNMR0dkb0k0YWJMcHphWGVxYjdlWnM2eWlLTkVkN2ZUVllrMVlF?oc=5"
+        },
+        {
+            "title": "沈伯洋PK蔣萬安！看好誰當選台北市長？ 最新網路投票結果太殘酷- 政治",
+            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1TQUl5bk93SGJpQWRQRnM1cnN1RWRpQTFxTkxQYnFYVUJtRGU2TGdra2FabVIxb21JRHdTRElwTnVST0g4UjFOZnRRd3Z2bENSdzJFOFZ6QXdHVUxhUzBKQ3BqU3k3RjFYSmFwcWJn?oc=5"
         }
     ]
 }
