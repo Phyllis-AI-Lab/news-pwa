@@ -1,46 +1,46 @@
 {
-    "updated_at": "2026-05-31 08:15",
-    "summary": "早安，為您帶來今日上午重點快報\n\n【天氣快報】\n輕颱薔薇預計最快明天將達到「巔峰之姿」，屆時降雨熱區將鎖定台灣東部及南部地區，提醒民眾務必留意最新天氣資訊，提前做好防範措施。\n\n【國際焦點】\n國際情勢持續緊繃。美國戰爭部長強硬表態，不允許中共主導太平洋，甚至語出驚人指出美中隨時可能開戰。中東方面，伊朗飛彈襲擊科威特，造成兩架價值上億元的美軍MQ-9死神無人機遭炸毀。此外，美伊間傳出有望簽署60天停火備忘錄，但因伊朗要求先給錢，美方不允，仍存在變數。\n\n【政治動態】\n國內政壇風波不斷。前總統馬英九日前看YT後欲發文肯定賴清德，卻遭幕僚蕭旭岑急擋，引發外界揣測。地方選情部分，竹北藍白合傳出卡關，民眾黨已徵召邱臣遠參選，柯文哲明確表示無法再等國民黨。另外，沈伯洋在輝達北士科會議的表現引發討論，甚至有評論認為蔣萬安反成局外人。\n\n【社會民生】\n社會安全引發關注，毒駕本月已奪走七條寶貴性命。警政署長對此首度表態，支持判死刑，並強調「該開槍就開槍」，展現執法決心。另一則趣聞則來自科技巨擘黃仁勳，他驚訝台灣小孩聽不懂台語，特別叮嚀要學習，讓外界對母語傳承議題有了更深的省思。",
+    "updated_at": "2026-05-31 14:35",
+    "summary": "午安，為您帶來今日午間重點快報。\n\n【國際焦點】\n薔蜜颱風直撲日本，當地急拉警報，多達兩百五十一航班被迫取消。而賴清德總統專訪也引爆美中媒體戰，北京驅逐紐時記者，川普政府也採取以牙還牙的反制措施。\n\n【政治動態】\n時論指出，馬英九與蕭萬長興訟，恐在政壇引發政治追殺效應。另有消息指出，鄭麗文將於六月一日率領十四人訪團赴美，進行為期十六天的訪問。此外，資深媒體人黃光芹爆料曾傳訊賴清德求結盟，對此黃國昌也做出回應。\n\n【社會安全】\n台中發生一起嚴重車禍，一名七十六歲駕駛逆向暴衝，猛撞騎士造成骨盆碎裂死亡。同時，高齡駕駛換照下修至七十歲的新制今日正式上路，預計將影響約一百二十八萬人。\n\n【民生議題】\n租金補貼政策亂象頻傳，有養生村長者即使存款高達六千萬，也能領取補貼。此外，彰化福興發現一隻近一米長海龜擱淺，其龜殼上疑似懸掛中國追蹤器，引發關注。\n\n【體育快訊】\nNBA季後賽傳來捷報，馬刺隊在溫班亞瑪砍下二十二分的帶領下，成功擊敗衛冕軍雷霆，晉級總冠軍賽。",
     "news": [
         {
-            "title": "薔蜜最快明天達到「巔峰之姿」！降雨熱區曝光",
-            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBiT05OdGItWkdDNlgxUEZWcEhXWjhyQWFvT1JBS2JNR1NFQXdxc0xIc19SaTR4MEsxSmlaenItVE5sR3U4ZmgtMG51eFJfOV9YX1lYOA?oc=5"
+            "title": "薔蜜颱風直衝日本 急拉警報！251航班取消",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE91bEdjUm1KekVLVE8xRThhVC1uNEVBUjNGeHdCSkJib3d3aEJBbUY4NGhDaW5USHk3NFkySkNJR2JIeFd0MUh3bE9xR1MxZWtTZ0Jn?oc=5"
         },
         {
-            "title": "馬英九看YT後想發文「肯定賴清德」 蕭旭岑急擋：全世界會知道你有問題",
-            "link": "https://news.google.com/rss/articles/CBMizANBVV95cUxPVXAydVpEYjAyaE1Za1YzV1UxUnZJMFphdUY3T1dCNWVoaFRLMm40cGN4N25vZjZva0tOSkRLeUhxdm9ZblRFNHpJT255YnVhU20zNGxjUUNOM195WVl2VVFFOGxTdUxxMHRmRHBYd3lzMXlDbmJRVEhNQUtJWGFKbjNsdHNkVUVHbGlZU3RCeC05eDRqQnJ4a0cwQjRmMUNsSllMQlY3bzFIdVFFcDZwUng3VzRLMGV5SkMtclgwOTBNM0dKUzJkM2V1Z3QzNGsteUdLMVRWUTdIVVR4eDhzVW1RdWZtbFRmMm1kYUV2UHdPa2pucThYZlUzZnd5cm45YWVDQm9TbGhMT21la25OTkV4TTBPeXprTE1lU1pjTE9YdlUzblVSOW51eUxVc2dqcmt5SnJGa2F2SWY2T2FKZ0h2TnNNUlBUWHpnRkRNS2dyTHYxd2hsRllzZDRsVEhOcGluakdocUNXMm02MzZlcXljTDAxS2JLckV1cF9pSFdadEsybW9Pb00xSnFjYURtaEtldDJtanNIdUE0YVRRQUN0a0tELXJ2RFJFU0dMWC1CTXpoNHA4MG05QU12OVRfMFFmZFpGbF91YkxE?oc=5"
+            "title": "賴總統專訪引爆美中媒體戰！北京驅逐紐時記者 川普政府以牙還牙",
+            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1kSUN4Umg2Q3l2Y1JWelAwcFpUdVctekhZT0Q4bDFwQmR2UG9lcW5OWFJ4NlNsTno2aW12MUw5dldkQWN6NVpDMUxtbEJUVGs30gFWQVVfeXFMTUxaZDhwWFFtM01tdmN2TEtBXzlVU05DNVB3YVlkS196allrX2NnbTM1NnRjM25rWUdJeTlDQjFEUHlrdFppMVlwWHhpSmZwdjZNTFA3TWc?oc=5"
         },
         {
-            "title": "美國驚傳「隨時開戰中共」？戰爭部長撂狠話了：不允許主導太平洋",
-            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1UdllqSFZYQTlsNVR5clh0VDBENjFRSGJQLXMwaUZPcXAyS1FOT0RCUkdKS0NLN1hhTmZDZVpnVDFTMlpNZHFDZ2xnaUowODhTc3M2T0NxeGptRnRjc1Q3ZA?oc=5"
+            "title": "台中嚴重車禍！76歲伯開車「逆向暴衝」1騎士遭猛撞⋯骨盆碎裂死亡",
+            "link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxOTHFPeUs2UF85TlhPdFFCVDFoOFpoMmhBOWlSS1ExVUNuMWtXclI5YVZxS0NvdVZZX2NDN1ZvajNFdnZ6bVdFN18tQW5kMWlvV0czelVHVzRVRTVOYl9KcWU2MzBQN0FyYW5XSGZvX0FMTmlWRWFfZ3NtY3ZHVi1MQmZfTnVKZ2FHUlZtSlItbmpvM2lyTHViUF9qWkNDZEtrbl9yZkI1ZUU1em1DT2hVcWt3dkhCb2ZTNjFVYVU2QklpSVRnZW0yOEJfdUt2TEkwaG55WklwbGlMZE5kQnUyU1BOeDQ1YWRYandoUXJvUDNqYXUzLXN6b251VnRTRWoycmkzRW01SHc2RG9oQnRyRDNnTjNta2E4OXVHY3RXa19rTWdwNGNPV3pXbUFrVDBOMHpNXzhvVzVNYVhKQi1NRA?oc=5"
         },
         {
-            "title": "他沒簽所以川普也不簽! 傳美伊敲定60天停火備忘錄伊朗要求先給錢、美不允| 國際",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBEZTNnTnV0Z1VJelUyWjd0LUF4ODV4bV9FdlVBZEk0eTNLelFwX2hLMVRYblZKWXNRclZaMFpTUEs5ZHBkbENBbkUzR1JSNHVlY0JoeDJYTHMtMVU?oc=5"
+            "title": "時論廣場》馬蕭興訟 恐引來政治追殺（司馬法）",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9kYWloLVIyOFJMcHFCMEFKNThiemxJa2pabkp1VDFXWWpkQ0lKYVVEWXl5eDgycmxhbDNjblk5SlVfN3FDWUdDYnpPTFdKLTRYUVRfOHV4NkFMMGR5cU5SaGFuRUV4R3c?oc=5"
         },
         {
-            "title": "伊朗飛彈襲科威特 兩架上億元美軍MQ-9死神無人機遭炸毀",
-            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5hME1zZXltVjRMeXk1Y1poODMxX3ZfeU1GMmhtMDdqaW5zZVMwcGlITXJEMVZnREIzMTdPYUFZTk1OVk9TVWJHc3kwUF9iNmM?oc=5"
+            "title": "成員曝光！鄭麗文6/1率14人訪團赴美16天",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9fMTJnWDlsLXhRVlR0ejUzYVR2aGVpeE9DYU5IUVRPUGFoY2F0YUd6RkR1S0EycDBSRi04LVRaQUhpRWdOdUNMOTFOQTM4WENKVWdBOGVWNEppNm9JQmswNlBvWjRVenNyWHfSAW9BVV95cUxQU1hXLTZBbXcyalIyU2s1dlItbUY3ZmNLVHlBRkdHQ2tCbURGRndlenB1RWRsY1IzdWJ4QVNQWVBiWUVrMFV2bWpILVIzOW5EOVVOSUphcUtCQTEwMDBya3A3ejBVZVNKSlU5allJUUk?oc=5"
         },
         {
-            "title": "毒駕這個月奪7命！警政署長首表態「支持判死刑」：該開槍就開槍",
-            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB2WEFoNjNmNHJiNTJSaF9jZlVYeTNJUDBnVTF2ZzNJSWtBWVZtbWdJaHNWa3FodFowbFBKanRrM1dMX2xQMW5iTjJLd3BGM1JDcHhza0V6S2lUek54bXfSAWhBVV95cUxQbjF5UXNER1Y4cFB1NW5PZDBkdGg3dEJlY3AtUS0xZkxXZExmSHcydDBiOEZiRHByRzctM1ZDeF9LQy0zdEZFMmNvU2lKYmlJOE9JQjNBMDl0Y210WWEza0lhS2gxNEgxNg?oc=5"
+            "title": "NBA季後賽》溫班亞瑪砍22分領軍 馬刺擊敗衛冕軍雷霆闖總冠軍賽",
+            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9XeTZGV3hNd0I5WUNpN1ZWbXV4LV96d1N1MU5Ta3dCMk9NRVZhWHZ6dEg0TTBzSW5pekU4Y1hMckI3OEw5MGhJRFJwV2FFNVd0N3JSbFE4elZyV2NreWFUY9IBZkFVX3lxTE5FVkhfSE9HRWZlSHl5S3dLdjAya0tZcTh2ZjF0VmU0cmw4RlRLV3JLWnR1RTVfdlZMaHFlR2Y5c1RVMFFlMDVsZEQxT3lENmJ5STZoNVlaYUxzNXh2TzBJckVzOUVoUQ?oc=5"
         },
         {
-            "title": "沈伯洋未當選先收穫一波政績？她曝輝達北士科會議內幕：蔣萬安根本局外人",
-            "link": "https://news.google.com/rss/articles/CBMiywNBVV95cUxNbG5YVDYzTTZMRGtOazFOc3AzcGtPelNPLVh5UlkwWXZKSDFXZXVvUFpJWmtNaTFCUG9WUjJuMmtuUFU5WGpLWF9DUG1aM2I4TUcxTHkwRWFUZVdwOV85VVREUDdzUmtXTGNrM2RfQWtQOEZfUE50UUxfRWdoS2FfNDZVbHJJZ1dfYVZZTGxVZHNBXzB0SVo2eVVvYVpXSmZGMnpUYkVpWTVMczlNTkpnOVk4cUlOaDJuYnZvU29SMFdKWXpxVENRNlZLOXgyWGlPRDdlV0pKdlczT1E2ejZPYmRuTndzdzF1VmtWdFFPcVh0WVgzTFZGSllXWDVtcjV5WWlkdHFsM09QbjlycWRqV2I5T2lRTTRLWnVGa3U5QWUta0FfbGJuVXlzREdxaGJjZTM3YTBMMWp1b3RFaDVQWFRhQnZIV29vWEtmb1llM1VlSmhHQU5zZWg5eXhvQjJjUExaRjUyZ0JFcHFqM3FKaVZBRVhmVDhDWDNyN01CbVloMk0tTUs0SW5nSGt3Z1ZCd1MtNkpjcWpJcE5JM2lLY09oaUVIcmFkMjlxbHNmanhlZTRoTGdPWmw0VkE3STlvWW1IRDdRN2gwbHM?oc=5"
+            "title": "租金補貼政策亂象…養生村長者 存款6千萬也領",
+            "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxOMzNreUo4NVFXRDJ5WWtHc1VCTkJwWWhJUHZmUGJpNUt4QzJqaDlPWDNlTUprU21ROEgzak9TZm1zMi0ydllCdnllYUFyZDRLenZpSGRLaWJUNXpfU2hmeFNTandDNlJDb1pBMENKYndMYTJWbW9MUXU3cTVUVUNlTmJxSEZpUTA2bFE0MDlqZTRSY1lyWUh4SWNBR1pNN1U0MEZacVpXOTVFVWptSlFWX093cGVGM2ZhZy1YeUo4am5idnI5OXc0NGkybkF0eHRYdXZ2am1ZcXFvenFTTXRHdzROdVZLNWpfeC1LeHVLeTdsU1JMT1hVX1JQVS1CUzRhU2oxSnlaNG9VV1hoX0tGX09WZVpxbk9zTDBwZjdGUEl2SFIxMjR5dGw0X0NPQlY3aloyTmUwNlNHdEE?oc=5"
         },
         {
-            "title": "黃仁勳愣了「台灣小孩聽嘸台語」叮嚀要學！影片瘋傳 她嘆：心情很複雜",
-            "link": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxOM0o5VjZFQ3NhWVpaVTdXMUZxMlVFR0xQTWk3TGpEMno3TVBhbUxJYXRYSEJTYjdkci1id1A0MEhGNkZOYmVIZ2hvZnFWRVB2Mlc1SS10U1daZ2FFRThlRS1fcW9QR3pqMjN2MGFLMWdNOWFERE00d2hRVW56OWVfRmZiMzFFb0pJbDczRC1GV0xxUUFXSktxQWp2dFYzb2Jwb29VLV9UOWkwbC0yT1RtQXFUbU55YmRzUS1ES0NHTXNQdERERnFlNUdxUlZpV0ZVS1AyZXhGc09ZLXpSS0NMbENfVXluakNqWjEzTlYyREhYeFVrSElfaWo2TGNYNmYwRjBfdFA2XzlTUU5TakZhZnp5Y0dUb2xDdURRUmh6dGtMMEUtZGFIc0g2TGdBMzdqVGtkUng5em1VekdDcnRBdkY2VDlKODlpU2RRVzVoa3NNbElhT1hVejc1UVNwTUR5THBfM3Jvb0ZIZnhj?oc=5"
+            "title": "高齡換照下修到70歲今上路！ 新制適用128萬人",
+            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBRSGFtR1dGUzBHRlJlOUlxSVVnTUt4RXNDUy1sTzVidGFJOFVIY093Z0VCYS1tUWVTR3ZpWENPX01BeUhWZEZVNDdNWktqNEltbzYyNzdhOEY1cTRIMlVDN1Z1V0jSAWpBVV95cUxOb0QyTDlid2N6NVVHdVI2R3g3ZHhmR1dMX0xCRHNLTFZzZXdQNE9VdEU0NkNWUGhBVjVKcGt2bVBOeUNWenJiTDJFVG1CWks3QjdXSXpaUXVTVUFWS2RYTmRpTVlDWlN0TVlR?oc=5"
         },
         {
-            "title": "竹北藍白合卡關？ 民眾黨徵召邱臣遠參選 柯文哲：沒辦法等國民黨",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8wWVJ5N19IZGh5RXJrZ2UzOGYxQ3Z5TWVwMFdiT2pwOEVXRFQxdlFuQUVWcUt2c283RW5LZkRCSWQxTWRKVTZtLUxhTG1ESmdaMV91N045aEVqRFZ1czNXdHlPMWNvaWtIZ2fSAW9BVV95cUxOazY4YzhtalRjWTdNbnJsOWtTZ2NuaVI3SkI3bEJTeGo3LXZxN08wZ0F0TUhScnQwTzlhUmhES2h4MkgyUUtxSFBhZTc0bi1aaExyNzBpN1c0WFRnOTU4Smg4NUZielBjeldqLW1ZYW8?oc=5"
+            "title": "黃光芹爆曾傳訊賴清德求結盟 黃國昌回應了",
+            "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxQb0ljMXBwZnM1NHc0SjJyRUtGV2ZzWklqUWpvcjA2TTNFejdRUU1QWHNINFkzQTZnWHNXYWdRLXNXRkNMQXAzMUMtNlJkOFhidzlHakM2dDRuWllLZkJlVnZ6ck1BRkl3ay1CYkpvYTRBaFJoeW1QSTE4UGhyX2NBM01FNThRUVFjX2RXNkQtX2ViQTJGNmRZWlpXUjEzSFZTby0zUG5WNkJsSldQdnZkWUM4X0NFV0Fjc1M1RWNuV0hYRDY0U1dpYkZSTl95anYxZ3VkV00zdlB0ZnVjXzhOWkZuT1VRWUx3RnZ1Z2NGTF93M25MRm1CTW5DbGE3dDdUN0Y4SDRrU1NsdU9Ma0F3Zk1WdXcyOTExVVRJd215UUo3WXlDU0pHbDJYQno1UnU2d2dMU1pfMHI?oc=5"
         },
         {
-            "title": "大龍市場成選戰攻防 沈伯洋指改建失色 蔣萬安：海砂屋住宅與市場共構首例深具特色",
-            "link": "https://news.google.com/rss/articles/CBMikgRBVV95cUxPQy1KT0h6eWw4Q3BoS3I2eERtdTFxWXdZN3VUOWFsaUhEblA4Z3Z0eEVfWU5pR1VvNkNENk05bEl2d3BuaVpIaWdRRERBbGZXM0dEb3dQLWQ5N1dvel8tMWxRY19qeEVERWFxaU9PRzZDcDNxcjVPZDRDZ3JxeDI3QWpUVms0azVYZjczVHYzOURRSjM5UzZONjhlRU9jb2Y4Nm03M29xdnY0S29xMDVsS3JIQmZtLWl0Ykpja0ZZa1lIbUYySG1rWU9lTWhDT0d6Nk5qQ1RwRTdFS0RQTlRzZ2FEVFJHQnppcVp1cWN3eF9oZ1VVbFdSYTRqRmx3MkNWOVhlZGVMbkJSTEUyR1dvLTh4MWY0REZ3NGRHUXdKTDRxV1UzZUxDUmlPYTJ2cDBNRmp0MjhpSWdaWTlPWEo4LTlfTDBTYWFXakdkSkxSczNyV1Bsbl9TT3Bvc2x0UC0tdkxfUi1KVExmc1lwNnVheEN2RzVGakgzclUxZ0J5VExkQ25zM2k5VFh3WWx5dWh0N25kWGlJWUJYRXBuZUlkSXZrbGxsU3M0N1pacnN3dm9xS29pMkZYalFxLU1udHRIczV5MlBIeXVXNHU0OGl0ZmxySTdVYUJZdVNQMUJreHMwbFhoWTBPWEdMbnJoN0ZQeGo4TFVXYXJGeW5sLVFUelpWM0RzRllsV2xJVDhNYWNtZw?oc=5"
+            "title": "巨龜現身！彰化福興近1米長海龜擱淺 龜殼疑掛中國追蹤器",
+            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1YUUg1RWRZVWlObkhQOERaTFBzTWNreTc0OG1KUDVDRjVYcHhKb1p5dWZMenAtd2g0N05EUWtlaWd2T0MyMDFhMHhZQkFnNFc5bmhLT2FhZUI0R3F2T0NFdTczUmPSAWpBVV95cUxNMEZwNXBpeU81MEJ6S0tWRTJVQlk4TTFQUnZhczQwR29qNXBINFhIblRTTWZRNnZ2MFBPbWxNX3pLQ25STjRQYjd2ZzZDZVZ1eVpvVC1mY01hbTMyWEdrZW5NeXFxOGRYT09n?oc=5"
         }
     ]
 }
