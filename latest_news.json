@@ -1,46 +1,46 @@
 {
-    "updated_at": "2026-06-05 09:31",
-    "summary": "早安，為您帶來今日上午重點快報。\n\n【氣象生活】\n台灣天氣不穩定，明日低壓鋒面夾擊將帶來雷陣雨，提醒民眾外出留意。下週梅雨滯留鋒面持續影響，尤其西部地區，預報指出梅雨旺盛期至少延續至14日，慎防劇烈天氣發生。\n\n【社會民生】\n震驚全台的郵務士遭砍身亡案，工會披露早有防身裝備提案卻遭擱置，引發各界關注。另一方面，行政院長卓榮泰宣布將依托咪酯改列一級毒品，製造者最高可處死刑，展現政府打擊毒品決心。此外，殉職飛官盧季佑與太太共舞的溫馨身影，也成為外界對其最美的追憶。\n\n【國際情勢】\n國際情勢方面，美國前總統川普宣稱，伊朗已同意放棄核武，若消息屬實，將是地緣政治上的一項重大突破。\n\n【政治焦點】\n國內政壇焦點，陸委會首度祭出禁令，不准台東縣長饒慶鈴參加海峽論壇，引發兩岸互動討論。而2028總統大選話題浮現，黃揚明分析鄭麗文參選恐保送賴清德。新北市議員戴瑋姍則持續追問李四川競辦977萬頭期款來源。此外，政壇也傳出有戰將確定脫黨，將宣布下週退黨並參選到底。",
+    "updated_at": "2026-06-05 14:44",
+    "summary": "午安，為您帶來今日午間重點快報。\n\n【社會民生】\n全台連日暴雨，專家示警南部地區恐將面臨水患危機，但同時也為部分南部水庫帶來急需的緩解。在社會治安方面，警方證實日前郵務士遭砍身亡的悲劇，兇嫌家屬曾拒絕將其送醫，釀成無法挽回的憾事。此外，殉職飛官盧季佑生前與太太共舞的溫馨畫面曝光，國標舞高手的曼妙身影令人懷念。\n\n【政治焦點】\n2028總統大選議題提前引發討論，黃揚明分析，國民黨鄭麗文若參選，恐將保送民進黨賴清德。兩岸關係方面，陸委會禁止國人赴海峽論壇，台北市長蔣萬安則諷刺賴清德曾說請習近平吃蝦仁飯。而高雄市長選情民調最新出爐，柯志恩與賴瑞隆的支持度成為各界關注焦點。科技界巨擘黃仁勳多次訪台，卻始終未曾會見賴清德，郭正亮更揭露他最喜歡的政治人物，引發網路熱議。新北政壇，市議員戴瑋姍持續質疑李四川競辦，要求其明確解釋九百七十七萬頭期款的來源。\n\n【國際情勢】\n國際重大消息，前美國總統川普宣佈一項突破性進展，表示伊朗已同意放棄核武計畫。而在亞洲，韓國因選票不足問題引發爭議，民眾徹夜抗議，並高喊希望學習台灣的投票方式。",
     "news": [
         {
-            "title": "明低壓鋒面夾擊有雷陣雨 下週梅雨滯留鋒「西部紫爆」",
-            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9nOEdKbmtEOGxQSTlzbDl5Rm80S0VWOUNsU0pfNC02UlhnTVFuQVVKeTFVRmVOWHJDXzd6SFl0ZUwxTzlPbVlnbXVweXVuNm5rTFJ5MTdkVGdta1p4bWVQMmNvRWjSAWpBVV95cUxQZ1R0UFJWRHp0bFpQNUV1R2Nvc3BkTU1rcTJ1a1gtVUxoSUZZOVR6dk82RW1GZTU5aHY5OUU5bWpxY1Rza1VxYkx0dmVrTUJreGd4UnF2bzZUVlBKeTdpeXJuZVdxN0MzYUtB?oc=5"
+            "title": "暴雨還只是前菜！專家示警雨會下到「這時」恐釀水患 南部水庫告急緩解",
+            "link": "https://news.google.com/rss/articles/CBMitANBVV95cUxNY2xYVHo3NW9qN2NwY2pYNTR2THZMbEJESi1TWXliVlFRdjFpUG9Fb3pWR3dUME9EZWJfN2hfeGxFTm9CVVowbmpfUzFraWxwaHc4VldUZHRuZ2JYclY2a1VZT2dZbkdzSHdmYWZKNWtiNUtLd281R09sTE9QeV9HTW1YcVZoNGRodGdFVERwLTIwcWJZeVpZS01XTFUwb2hpZi1WUnMxV1lJSGU4MTh1cG54T2o4WnVzQ3RrWDB5X0lvUTU3Y1AxbHo3X3c3dVc0b2hiQlJ5UTlPajdPR19WdUhKZ0tMNWpqdmVaVXVNMUZLQmN1UTNzUHNBSjNySmstTkt1QU52U3RlWm1DN0xoMFVObjFQQ3NJT2Z5WE9nSjlpM2pLbTIyRlRKVGNOZm5BcTFoMThXeFZOc3VGajFvSjFIWlBuUHFERXQxOUJGMGNTWDFnTHFEc1IyRHdndGhBc05SRk41QkhBNk9NbGdIdW15Q0VoN0Z5MUtVTFlYYW5UbnE1MU1LbmwtbkstREQxcTlvby0zMFQ3RXFBczg5c29MNk1RdXllbEdyei1sUm1sSGxP?oc=5"
+        },
+        {
+            "title": "凶嫌中午曾當街持刀怒吼 警證實「家屬拒送醫」釀砍死郵務士悲劇",
+            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1SYjNlczhGdkhmRFNXSzJ5RWl3SC1kUWxwXzQ4WC1CZHRHMGJ0QkQtenFmUkFGU1dZVklxbF85UmtOYmY5dTNFTDFQYV9TeER00gFWQVVfeXFMTml5c2lfcHRXRktIZ0xRRFV3NVFCT0c0RUxQbXo4azgwc0cxRkFGNGNudGRaMVp2YW9MNXhJU011TUw2Y1dTNVUzWjVYRFhWOG42R3g1NEE?oc=5"
         },
         {
             "title": "與太太共舞留最美身影 殉職飛官盧季佑是國標舞高手",
             "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1QR1NmVlBxVG5mTEx0VDQ2ZTNTTmU5eVlSY25BZGRZVVMwd0c4amNjWF83MW01QmJKaWxVWVdTVXRFZGJhQUd2QTBOSmRLRjVvT0pZ0gFYQVVfeXFMTVRxVkwxR05YU0YzZmx1Um5nd3I0OXM3ZTB0N0JQX2dnQkp4bWg5c0hPb2tYbWtyRVBobGk4NVJWdEgydXpyMUl3OHhocFh2czc1bjZxMTVyNA?oc=5"
         },
         {
-            "title": "重大突破！川普：伊朗已同意放棄核武",
-            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE94bWxtM0ZHdDI2TTc1U2xBRVl5Ym5sZDZOeVRHSEp3c0FrU0lsd21aVGI4TFBHVUswNGJtME85bzk3SHlTNXpjTnZ5cUZsbXJzbUM5a2NneVE0Vk1wTVRSY2lhLXVMUdIBa0FVX3lxTE9haTQ2MmJjSHBQT1QzU1ZCREc1WVJjZ296Nk1vb21MaHRXRTVVVjQ1aU42MnRmaVBvX0JMeUVKUmNEaHNueWcwTDJ6cTkxWW5oTG1kTHh0NWtKeVFGcG9HbFBlZnlQU0YyOFdN?oc=5"
-        },
-        {
-            "title": "郵務士遭砍送命震驚全台！工會曝：早提防身裝備遭擱置",
-            "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxPMm1IMmNHVjlGc2Y5UTNkSm1kRlo4dGtqaWtfRmFQa3IwVDRjN3JsOUpleE1yMklvRU5zOTlXVWlGRWdLbHJvZS1ZUC1qSS1lZHlCMnhTSWsyb1M4MFU4c3NOSVQ5ZXlQTzR2ZklYTG1Ib19WdDF5OV9xdklIS251Q0NCZkxHMEpMZVdERlM3cnBFNHlNaGtLM1NWeHBxTDhWdlFfMDl6VDBHMU9KZnpCNXU0Y0hrMV9OeFZyaVFPLVQ4aWtDRU1ab3U2RVE1NDRmYTBQMEFVTnpERUZsS2xmLXlyM3ZGSzhFbXhtSnRSMkJtZF9obWV5czlGZzFmUkdESnYzOTA4US0wSFlQQzBobXdlamNYcWJJcFRBMGhSVjZFTDlCRXBwcE8xbW8xa1VuYUlOcDZ5NTlFNThmbC15bW5uSldpazA3VmI0eVpSMVd1WVd3NDNOUEUwV1dDaTJvc0J3NDFEWHF5dw?oc=5"
+            "title": "韓國選票不足爭議 民眾徹夜抗議高喊「學學台灣投票方式」",
+            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8wMWs2dGF0dzJFN01HbEdSSTNSdmE0WEtTOGtBZkIxMktIMG5BZ1NPbjBSNlJORkxlMWo1SzBMUFFzampMNXlqUlFoaTBZWHJXOE0zZnBESHl4WGt3VHpN?oc=5"
         },
         {
             "title": "「鄭麗文選2028就是保送賴清德！」黃揚明曝她上次選舉戰績：總統不是喊喊就能選| 張大任| 新聞",
             "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9QVUJuUUFHOTVyOUlISlIweXc3VzVjSDYzck42QzQyVU5rZThYQTZZektzSUoxOHZVWnJia3AzbUpKdXdZV1BxSmpCa1ZWdw?oc=5"
         },
         {
-            "title": "卓榮泰：依托咪酯改列一級毒品 製造最高可處死刑",
-            "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBqdTBvRkFfaGhNbTRqeTB0QVlDaWVFRks4ckt4OS0wNjRFNzlqdzF2VjJLSm8tWnVJNVkxdHdpSkNvMVh0czBJX3JxZTFabzI1RnY0djZESQ?oc=5"
+            "title": "重大突破！川普：伊朗已同意放棄核武",
+            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE94bWxtM0ZHdDI2TTc1U2xBRVl5Ym5sZDZOeVRHSEp3c0FrU0lsd21aVGI4TFBHVUswNGJtME85bzk3SHlTNXpjTnZ5cUZsbXJzbUM5a2NneVE0Vk1wTVRSY2lhLXVMUdIBa0FVX3lxTE9haTQ2MmJjSHBQT1QzU1ZCREc1WVJjZ296Nk1vb21MaHRXRTVVVjQ1aU42MnRmaVBvX0JMeUVKUmNEaHNueWcwTDJ6cTkxWW5oTG1kTHh0NWtKeVFGcG9HbFBlZnlQU0YyOFdN?oc=5"
         },
         {
-            "title": "陸委會首度祭出禁令 不准台東縣長饒慶鈴參加「海峽論壇」",
-            "link": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxQTlBIbjhGTDlyQ2w2NDZqOFBRX2Rsc242VEcwSVJOeXAwaDdBVXJHTDZ0UjExSVlhalZQTVNsZ3NreE1CX1FJel81dmRXMG44R3ktOVRXaVkyamd1MGtOZGhJdVMzM0NOc3ljZENjLW1seTVnam80a2FlOGNvNnFrMWZiRThwTXJzN3o3QVVNUDJ3ZjlmNDd6ZXY4M0pGLUpta3dWOVFYUFJlOWpSTXhXdE5RVU9ybGQwV1RSLW80dTE2Nm5hZ3g2VjRwUExld3FPUHRIQWF1Y1dJV3hpT3BOXzNwcm5kVGlnU016czlVbjBiUmNGdWxPRzFMSHVSRlNOX2RobnlWQ1NyWjlrdng0M2pub2JPQkxsQUNwSUdpeFlvU0RmVzU2dGo3R2dtN1JaSUgxYXp5Y3R4QktVWk1PaXktdVNZTUlQOFU5bUd2NnU2c1hVV09sWGdsOGRHSm9SUERyX2M5SlpSdzlaMmRCOTAydEpvZw?oc=5"
+            "title": "陸委會禁赴海峽論壇 蔣萬安酸爆：賴清德說請習近平吃蝦仁飯喝珍奶",
+            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBPdVBQNnB1VDVzdnVlM21USTFFaHR5N1A2cFJhNUE2Smp1bkVZYlF2MHoxdFZvTkhsX3ZpS20wcmQzU3hoTVRYc1N2b2NIZmto0gFWQVVfeXFMT1d5NGNEUDVfQVpxTnNSZDNuSVRqSjVOTHlQZ0ItTTZiVlgtOEVWemdEMXRoU0RFM1dBRktISlkydm1DTlljVEdubDBOTXRHNWRQQ2NZN1E?oc=5"
         },
         {
             "title": "再批李四川競辦「搞錯時序」說 戴瑋姍：沒解釋977萬頭期款哪來",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1jM193SmVLMFd1em1uY2c4Y0c1Q212UU5qc3dUc2NJMmR5amJJMG5PWW9JV2hFUWZrX0ZLc3lmT1BfTGl6N0RNbnV4NWQ5aHNJaUJsVDlmLUVUR2xHZlItUXVQWDZ3RC1kV0HSAW9BVV95cUxNTkdNSjV4SFhOSVllT0FLTEFoX3V6N21lN2xtblhJdTZacDhxT2RSbVpjVnBSRHZQWjhHcTRnQm5wMnd6R0tZOThkN0xrbVNrM2xRbGVUYVptUV9CV2NVYWluaGcteUZnRVNhYUd0Unc?oc=5"
         },
         {
-            "title": "慎防劇烈天氣！下週鋒面滯留 吳德榮：梅雨旺盛期至少延續至14日",
-            "link": "https://news.google.com/rss/articles/CBMikgNBVV95cUxQVlU5UWFnMEx4MUczSnZWTlZ5czdxWFljNHNOZGp6WkQ2cG1EVnNfZGhEREdoTHhyaGVaR0VySGstV05BbGtWeFJLZjJOV0RPT0UtbW0yS1Q3eWdNNUFrd3EtcUhqRmVQV2pvZEVEUXE3ckR5dHJwWmtrLTdUSjR4X3c3NnpseGg5cm45Tlp4WVFzclRFU1UzWkJhSXQ3ZDZUcFJORkpCcWlZZXB0eHJkcHlMTXpPcksyNEpyOU90MWhndTNFbEcxLXVHMDdZcFpkNTlIQ0c1VXRKN2k0WWxRQmJXWEZmTllyd1JKNWtIRDV0WmpQYWViMm4xRTJzb2pxY0xCVnRHc3NEU3JpWEFQZkM5V2kwaGlQazVUWEZkd2wzN3VreFN5aVI2OF9UNjRncUxNRXJvNkJzd0ZDRTBfNWdUUEt1N3lXbDZDdFJWNDNadlpiSE1BOTVQUGlESzFkYXVtNHdJanVWSy1WclhEQUFwbXlUdGRoN1d5RmZTNGpvYXFqZWtwUDVHbDV0d21NX3c?oc=5"
+            "title": "高雄市長民調大翻轉？「柯志恩、賴瑞隆誰支持最高？」 最新調查結果曝光",
+            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1tV2xGbUJxc2xGYUlkY1F4VHdDd25YaG5BSlFFcU5lSG12eWZVRkZfNHVsQU5RTFluaXlubHpDYTlEMjB0UE1CSlNlTlJSYTJq?oc=5"
         },
         {
-            "title": "確定脫黨參選！1戰將宣布下週退黨選到底",
-            "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1tX2ZYeHhreHVHZVJIX2stSERmMU5WZE9XLXd3ZFAyNFBqWUlOY3BtQ3I5RmRrdHVhNzIteUdKUUtCYlJRTWNnalpaZFJtY05ia3hyY1pfVQ?oc=5"
+            "title": "黃仁勳來台5次從不見賴清德 郭正亮曝他最喜歡的政治人物：青鳥是不是要發瘋？ | 周幸容 | 新聞",
+            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1yQWlZZXRsVGZBY1YtSG1qVjFiblhVRkVPckVpajhoS0lQbDJlUGVndUhIb1drdzQtODBhR0Rnc0x4Rmk1elFNbGlKN1FXQQ?oc=5"
         }
     ]
 }
