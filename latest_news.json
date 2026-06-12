@@ -1,46 +1,46 @@
 {
-    "updated_at": "2026-06-12 09:40",
-    "summary": "早安，為您帶來今日上午重點快報。\n\n【國際焦點】\n美國前總統川普在表態將強力打擊伊朗五小時後，急發文喊卡。同時，伊朗轟炸美軍基地，美方已發出安全警示，要求人員立即尋找掩護。此外，五角大廈也傳出疑似危險物質外洩，多樓層被封鎖並疏散人員。\n\n【政治焦點】\n國民黨立委鄭麗文澄清親中標籤，強調國民黨不反軍購。政壇聚焦前監察院長人選陳永興，其從挺賴到穿梭綠白合的立場引發討論。而針對蔣萬安的猛攻，有評論指出這反而意外捧紅了藍營新戰神。\n\n【社會民生】\n南台灣天氣不穩，雲雨帶移入，嘉義、台南、高雄等地將有大雷雨。另有毒駕嫌犯拒檢逃逸，撞死兩名行人，車內安毒檢測呈陽性，已依公共危險等罪送辦。教育部也將針對教師遭學生攻擊事件出手，承諾提供最實質協助。\n\n【財經動態】\n新青安2.0房貸方案最快將於八月一日上路，其貸款條件、利率補貼、可貸金額及寬限期等細節皆受到民眾關注。",
+    "updated_at": "2026-06-12 14:56",
+    "summary": "午安，為您帶來今日午間重點快報。\n\n【政治焦點】\n\n立法院今日三讀修正選罷法，未來受緩刑或易服社會勞動者將可參選，此修正案被外界稱為「高虹安條款」。此外，美國安會主任傳出取消與國民黨鄭麗文的會晤，引發國民黨強烈質疑，認為是民進黨的政治操作。而賴清德總統提名的監委名單中，包含兩位國民黨人士，也讓民眾黨內部對於廢除監察院的立場產生討論。\n\n【國際情勢】\n\nCNN報導指出，美國前總統川普在任期間，至少曾37次對外宣稱美伊即將達成協議，但這些承諾最終都未能兌現。\n\n【財經動態】\n\n企業界大老許勝雄指出，台灣產業目前面臨「打群架」的挑戰，呼籲不能只偏重半導體產業，需朝多元化發展。\n\n【社會民生】\n\n曾文水庫近期進帳逾一億噸水，蓄水率已突破兩成，旱象獲得顯著緩解。在交通方面，桃園發生一起毒駕男子沿路蛇行、闖紅燈，最終造成三死悲劇的事件，警方追捕畫面曝光。另外，知名電視台前副總之子龔益霆，被控對女藝人下藥性侵，已遭強制性交罪起訴。針對學生攻擊教師事件頻傳，近兩年已有89校回報，教育部表示將介入提供最實質的協助。天氣方面，鋒面北移，全台將面臨強對流威脅，預計梅雨將持續四天，端午連假期間天氣不穩定。",
     "news": [
         {
-            "title": "快訊／川普嗆「強力打擊」伊朗　5小時後急發文喊卡",
-            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1aNGhTd1l3ZWhGb2ItaVFjdE54T3ZxbDZQSHhuWHdMSmFUZ2UzVEM4ZnJOMnE4bGY3VkU3LUZpUmNQNlNaNm9OSnUxd21fSHRuVnEybHVQVGdheUlfMFHSAWhBVV95cUxOR1JSMEZYQ0lIWFR6TUVxRGw0WG5kc01Na05VektLbnlmRk01RDFNaUJLY1JOa2haNEszY3k3SnZ0Q2NxWGtad3c3MkxWMFVIeXJVNkVUbGRLSm1NWGhaV1U5cVlmSFdabA?oc=5"
+            "title": "高虹安條款過了！立院三讀修正選罷法 受緩刑或易服社會勞動可參選",
+            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE92X3dQTlprcFU4ZG1vYjBtbzhyYVh3LThZRkxxRGZxTjFIdHYyN2tLd1JVMmFlZjVtZnBqblVra0g4R29oNFc4cUZmdFpaTDJK0gFWQVVfeXFMTTV3RFBvS1RIYkUwM3ZCN1JYOGo3Q1FZQjBqR1pjN0JwSDY5RkdTa0NsOXBlR21VYktMMlNzaTU2VHhwTVJ3bkJDVnN2dlphRHMtWnNQdEE?oc=5"
         },
         {
-            "title": "毒駕拒檢逃逸撞死2行人…車內有安毒檢測陽性 依公共危險、毒品及過失致死罪送辦",
-            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5KQVQ1Slp6Mnp6OFZCX0REZF8wOXUzbmFJWEViQlRlcGJ6TkRyMWFMcmJ6NXZ5X2JkTlU4YktxVzA0aWxheWM1THJtM0tlQ3VJ0gFWQVVfeXFMT1dxeU5iSE96MlBIeFhyRUZrdnJ3V0stVFdGMjh6VVlMWGNPWUtOY1d0MkxNRzNtMHdGUXpxdGNuNUZZWUItMmpGZ1psRUVMYmxONHRVS2c?oc=5"
+            "title": "獨吞半座石門水庫水量！曾文水庫狂灌1億噸水、蓄水率破2成大關",
+            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE50WHllQllXeEppQmFKX3RJVkduVXVicTNBQWdoOEFaeDZNQU8zdVE2eHZOY01tTjVNZF9TaU91aVZTR3N4dVYzZ3NCMXdESjJaNk1LRFhsaEE1SXljZm1Z0gFkQVVfeXFMUG1qZXRxQ3A3RDFCd3BsVmpLcHVIMEZNMjRHczBLV2FoQ09oZmxnYThjQTZZMFFCY0FuQjluZjl1MHZyYm9oSjFTNFhUZ1RmbWZvc18xQkVtRjF6UVZWYVhZT3c0QQ?oc=5"
         },
         {
-            "title": "快訊／五角大廈出事了　疑「危險物質外洩」多樓層封鎖、疏散人員",
-            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5tNmwwSjRwWHVSTG9xOWh2YTZFRF8yVVFzSVRVUEp6U2JGNTc3Z2ozWlpxLUM4YVIwQUhJRzdRTy1pcy1IeGxoRUJZODVMN0xlT0N2MGNiQ0ZkX0lNQWfSAWhBVV95cUxPZjg1eDNKOXpDb3hZOVdyWEc1MHdqOTBNUWJMbXRkMlVBbGRzRzJ4MGhJZnE5UXBLZEt5WDZwdS1Db29KT1Y2TkJEbW5IYnU4WlNMRkdlbHpnYmdJalJzS1hjTVpfS0xTVg?oc=5"
+            "title": "美國安會主任傳取消會晤鄭麗文！國民黨：故意詆毁暴露民進黨恐慌| 政治",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1fMW5YVlRXZm1aY0w4U1NIM2pIbmlXempuRDloUklkTzZ1WHFnejA5QXZES2VCZXRidEg2aW56Z0VuX0owOVpZQmIwYXkxbV9SRHdWM0RYM25IazQ?oc=5"
         },
         {
-            "title": "雲雨帶移入南台灣 大雷雨開轟嘉義台南高雄…要下到這時候",
-            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9jVmtFX05NbDUzMTIyUWxHSGJvYVBwV1I5SjAxV0QyNnRJNU5ZNmE4LXVHenV3QzBEWDNPYTRKMENOTmFzb3dqVlZ1TVVYU2VF0gFWQVVfeXFMT3FETFVURlI0WlJ3N2tlMDFTbFNxVGZLbjZtNldOSzItemEwcF9BSkg0OS1rYmJDOHY1MFI5RDhneWYwRFRBS1R3azNfSnhwWFBPcE9EM1E?oc=5"
+            "title": "民眾黨會放行？「國民黨2人」入列賴清德監委提名 陳清龍：廢監立場不改變 | 張大任 | 新聞",
+            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5TaWIyUU9VYkdZdFhWX2E2TFZmYUR4c2VDT2JsQ2d2YS1OcHFuVjhPY1FPVHBGTGhVWmREdThiWW55LWJIUElSWW4zZUNEdw?oc=5"
+        },
+        {
+            "title": "沿路瘋狂蛇行！桃園毒駕男「連闖紅燈」最後一撞…成3屍 警追捕畫面曝",
+            "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxQUEFGMVpXYkVOaXJEaVE0cTJ3Y1gybnlLNDJzcHNKQVR4aVhJV2ZFRHFPdjNTUnhzblJCeE5paENMQ3Y4cnBEUldHeHlmYTBPeU5HaV9XdEVhQXd5RUw0ay11dkVPNC1DdmgyRll3T1VTVXRUY2xFVXcwbF9XM19LMExNUGhvekVZYzNlMHBzNkh1S0dVRmFCOE53c3hGZmJ1UVIwWkROZ094TTJzLWVQcnU3aFZhd2tkRWd1ZHVCMUluM2lFcGN6UWNlcnNQeEpJUnJQV3VJUU5PN2lKQV9nZFlwNmI5MnZ6RUxNUEQtRllULWJXajBFREd1QTBLdHdTYnpmM3lkcURiaUdwOENjdHRjeXdDaGdheVVNRUZ4QkZZS0RfWTZSeUhhLWdsRHhK?oc=5"
+        },
+        {
+            "title": "CNN：川普至少說了37次美伊即將達成協議",
+            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9CekRTVUxjQXE4cnR6ZTYwVUNpRjZRMmFZVVlldnhSal9uX2V6dmNIY2pGZGttU3l0TkFxQm8xU1NuSlBlWENhc3lDdEZZMmc?oc=5"
+        },
+        {
+            "title": "「產業現在要打群架！」許勝雄談台股：台灣不能只有半導體",
+            "link": "https://news.google.com/rss/articles/CBMinwNBVV95cUxQQVNhX2pxVkpILWxnbm12eVVUbUZTVjFlZnVSYlV6dXFLbFlGb2UxRHF3dHFXamVzRUZaZWdUSmJac1pFNENWanZMVEFuR1R0d255M2pXelh4RGY4dXJWMWR3U0VIclhSZWtTQVZSc3FyNXlMdzdqaF9QeVVhNEZsZUo4VDlEWlJYZFJyRS1ZeV9kMW9pc3BOMDYwVVEyUjdOdEdvZ1VKSDZCV0hkOFdiWDQ3VGNlMWVhX3BkTVNKbXZUZFdPdVdHOXdES0N4M29PRHl3ZVZzTmFFUmhnU3UzSnh6TVdfZWthUXVuNWpSUVhXNzNsV2ZlaEd3ZWRBc296SmY3UXRzTkxXd1FpcmYyTFE2ZEo5Mndmang3QzZDNVRyazFOLXBzM3pyM0d5b2VZOV9BeGRQUl9UWXQ5Zy15Qm9DRnVia2VkVFZtaGc1Rms3U1dEUDJzbGZiSnk0TU4xcXJtbkRsZ2l1aXNoN0RadG9uYUJpTHBNWjBzaW9WZGFnUGNLeC1WclRGYkZjMGNjMGx6cUo0blVGS2EzNGdv?oc=5"
+        },
+        {
+            "title": "電視台前副總之子龔益霆被控下藥性侵女藝人 強制性交起訴",
+            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9saHlKOGt2a2JjM2NhVmVMbVlvY1M4UW02eFkyb2ZLdXEzNGZ1Q0tsYm1NLVBsNzNja0gyWkhRTmMzQWRWVVV3WGY3NlVfdlFT0gFWQVVfeXFMTnRueDE3NHpYbjBqNERORXJmUDZzMmUtTDc3d1hGbDZlVnV1clg0cHVtREt6WTk4dGxmNm1ELUgyRXB0ODFlTkNHSnJ1NjJmNlN1TEpXcUE?oc=5"
         },
         {
             "title": "教師遭學生攻擊2年89校回報 教育部要出手了：給最實質協助",
             "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB6cFB5dVBMTWYydmpMVmFLMFlrSG5KbV8tY3A2TTRnLUgwampJLUZ6T0Y0WHpnX0hBRGdCV2duamNlODYyR3FrTEZJUVN0T3Vt0gFWQVVfeXFMT3hBalBIbkxFZzZJRzItV3JyNzRuRmxZdHl6Z0RBVUZ4amJFYVZhMlhvRzV1T0RidzJZQmVZUUtBcjFaMEFqb3NSWTQwbDBjZFczR2tremc?oc=5"
         },
         {
-            "title": "伊朗轟炸美軍基地！美發安全警示：立即尋找掩護",
-            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE42WHh0NzFxeHltZFZ6S1F0TElBX0J2ajdvZThXamMzN3NycGZWTGlMQk04MjI3eFhDeWxVdHpkNVpMSDFhWDNiM1Q3TnpjM210UmQ0?oc=5"
-        },
-        {
-            "title": "鄭麗文：親中標籤斷章取義 國民黨不反軍購",
-            "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxPNkVKazRLemNmR1hKeWZ1ODk1V3l4OFdYVkVVTjVGU3VRMnpSN0Y2WDBpNXRaSjdIWFo3WE5NU0ZGTnVQS1ZJNEtXbFBXVFlBNDBOWGNmTHZKcUFFTzk2UmxkR0kxdVBobG9pM2lESXFNa09JdjRqUVVZTXY3ZVQxNno2OXgwN29taWdQNm5PdXlncmR1dk84X1RBQ0tQRUNaWWdkd1FHVmx0Y0VDZkdZcmp2a256ZmR6eDdVOE94MjJ1XzF1RHZtMUpPMFp0bzZKR3J3U2FSdXVBQ1JuMlhMWVhtaTV5NjE0Y1dORGxlYTc2eDVxcXpJaG02bVRCZXRUdWZDMUJoNDBDOGRFN20wVXpGX0RwdVlJMG85ZzFYS25vN2ZnakpzbEdDZXRQZw?oc=5"
-        },
-        {
-            "title": "【重磅快評】從挺賴到穿梭綠白合陳永興適任監察院長？ | 政治 | 要聞",
-            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE93UDd0aWRBaWdpNEZYRm1kSVJkemxmS0FOSkxuTnFIS1FOUnVlbl9VM3VxSm9iNGQ2WGNlQ2pfUHhCRHNLeDFxSWdHTVdaT1dP?oc=5"
-        },
-        {
-            "title": "新青安2.0最快8/1上路！貸款條件變嚴格？利率補貼、可貸金額、寬限期一篇搞懂",
-            "link": "https://news.google.com/rss/articles/CBMi5ANBVV95cUxQSVdnVko4X3k1d1o4OFB1ZXhtLXlHazJ6alpHODhtVkwzQURLQ0NEOXB6NGlIOHA0bW5pUHdHRUpLblBTWHdtNHFqU3Q5V2VqSWZqRkZMSUctLUZRN0N4bURBa3Y3bHU1R1dPUEVWWVQxUUVDY1d3TEpTZ0xldjdhNWtzY2FYRGpIajVuWXZ1alZRR01DdmRlQ3VPT1p5dERrNEhoaEFMOVJyLUlZTVBnZkZOWHhtdVJCY19Ya0N5czJad1VldS00WkJEdXdvXzNrZUppaGg0YmN6NWk4SjlJZ3R3ckkzNkxCTjFReDBJTWNZVFdFbGZ3LTRCbmtydnl6MnI5b3VrVk5PaDU4MWx6SUNFZjRwUlhzb1E5N1VVbzFCQ0pMYUVWSUVZU2k4VjhZbFFXUXg4d3ZIdmdvdEltTnNvUlpfSUZJU2JweE00Q0RUdFdITzgxRGQ3NUY4UzNmWVB0R1I4VXhfRm0wRTdYUU1EbkdEOGpBbDJnVTRiYWx4XzNrQkx3R2Q0YUd4T2FWY1NpOTdlR2FRUTdMemtabjJQM0tWNWM1SWFBcWhGVFhoMTB5V2RqdUozOEU1NGgzWjZRaEtraUNUU1JqQ21NOHNBQ3IzU3lGOHk5amt5TW5CV2Fw?oc=5"
-        },
-        {
-            "title": "猛攻蔣萬安卻意外捧紅「他」 柳采葳酸綠一路打出「藍營新戰神」",
-            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0wemxyZUdhYzlpM2lnbFRlVTFFczFSRVQtMWg3dnI1bk1xdHhuR0hXdktfUDRmMDVhRlU1ZXJZOVRtU3FfT0FkNWJMWWFoNFZZek5fWUtjX0RLNzY2bUlmUnh2UHZGOGRNaUVlMUxB?oc=5"
+            "title": "鋒面北移「強對流威脅全台」！梅雨紅爆灌4天　端午連假天氣一覽",
+            "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5YM3U1bzFlTkFMbmxUclQ2SWVQajB6SEVTcHdZdEkwbkJiUTFEN01SMUVDRl8zYmxaWGcyelUwd2QxOWhpYzVUaVpXdmnSAVJBVV95cUxQT0VvZk5XcUlTQkFBaThXZ054UTNYeVY3eEJKQV80ODNPaDRhLUhfQXBkRG1OQ0hfdHlaNkxoX2tHLVlfNjktT0NHWFBlbm5pSzV3?oc=5"
         }
     ]
 }
