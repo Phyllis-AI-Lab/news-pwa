@@ -1,46 +1,46 @@
 {
-    "updated_at": "2026-06-13 20:58",
-    "summary": "晚安，為您帶來今日晚間重點快報。\n\n【社會民生】\n中部傳出校車司機涉嫌性侵多名學童，目前已釀成五人確診愛滋病，所幸疫調機警揭發此案。在國際趣聞方面，日本名人外遇事件在網路上引發熱議，台灣意外入鏡，成為全球千萬鄉民「吃瓜」的焦點。\n\n【氣象生活】\n梅雨鋒面持續發威，為台灣帶來豐沛雨量，曾文、烏山頭水庫等中南部地區水庫進帳破億噸，全台水庫總入流量已超過五億噸。然而，明日起新一波鋒面將接棒，預計中南部地區未來四天將有強勁降雨。\n\n【政治焦點】\n立法院強行通過「高虹安條款」，引發外界爭議，柯文哲建言應正名為「林淑芬條款」。台北市長蔣萬安提出廢除監察院的主張，卻遭國民黨籍監委被提名人廖婉汝反問其2028年的政治意圖。此外，傳出鄭麗文被美國放鳥的說法，陳以信則嗆賭千份雞排駁斥其可能性。最新一份親綠民調顯示蘇巧慧支持率逼近九成，李四川競選辦公室則淡然回應開心就好。\n\n【兩岸關係】\n海峽論壇在中國登場，中共全國政協主席王滬寧會見台灣代表張榮恭，重申堅定為兩岸謀和平的立場。\n\n【國際情勢】\n國際方面，美國前總統川普宣稱已與歐洲達成「極好協議」，將很快赴歐簽約，但歐盟方面隨即打臉，澄清此為純屬猜測，並強調在「畫紅線」的關鍵議題上絕不讓步。",
+    "updated_at": "2026-06-14 09:37",
+    "summary": "早安，為您帶來今日上午重點快報。\n\n國際情勢\n前美國總統川普宣布，終戰協議將於14日簽署，預計荷莫茲海峽有望重開。\n\n兩岸關係\n綠島外海出現大陸海警船與我方海巡署艦艇近距對峙。國台辦則宣布對台十項措施階段性成果，包括新增兩岸航線與引進台製電影。\n\n政治焦點\n鄭麗文拜會AIT華府總部，表示獲得遠超乎預期的支持。此外，國民黨幕僚被列監委名單引發熱議，而新北市長之戰的最新發展也成為焦點。\n\n社會民生\n本週西南風增強，明起全台將迎來雷雨。南部水情方面，台南三大水庫補水逾1.2億噸，旱象可望解除。另，中部傳出校車司機涉性侵致5人感染HIV，以及高雄民生醫院爆發登革熱群聚，緊急採檢。",
     "news": [
+        {
+            "title": "川普：終戰協議排定14日簽署 荷莫茲海峽將重開",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1kYWlaRG9kcXZoUHNYYUo5cEs2VldmSGpBVnNSdlFBR2dhMFllQU9OcFlWd21JWmpsaTdXTmo3c1RtOEkyeXZ0VndKczV0UkVwdTFr?oc=5"
+        },
+        {
+            "title": "【一週天氣】西南風增強襲台 明起全台雷雨熱區一次看",
+            "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNWW5hUmFBb2RsTjRlU0ZEU2VTbGRiWjdobnd2SWE2MFRlT3pWTFJLX0JObkI0ZHFGcklXQ2JnQnhZSEVXcUZXMkp3VUlfbmRXanBkRmlYbHJCSFlveXNqb1hFLXRZMFZNUEkxandxYTl4QWRybXFRdUozeHhFaG1NaERpVzh2dUpLRzVveU50WWJsT3V2Z3hyVkZfem0xMnk1TzMxNEhQdTRaWk1OWjJQcS13Y09CWGtydE8tTEtySzJCcmlBTm1sWHJ4TzRkQW9JUDRrY3RiczdiRV9ESV95QTZqRVF6ZDVQeTRYWGZRY3BMUW8wX2tkbjd2Ym80RHR6alllUHN0ZDBoeEF3MGx3WEt0WGF6NEpXMmhHWkhtN3pVSFhtbDB5MlpJQlUxOFotcFFVN0RuOHZ1d0EyU1VzajNyU214RVU?oc=5"
+        },
         {
             "title": "中部某校車司機涉性侵釀5人確診HIV 疫調機警揭發| 生活",
             "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9yN0pxdHdUTXh1c1ZaWGxPbnJxQnpXTkY5aFdtTUd6SjlvT3JQa0QzeVdJYkdkSmNGcGs4VEMwcFFzdENMYkNKcVRPZzY0MFZnU2RVeGN0TjM0TlhCRFV3?oc=5"
         },
         {
-            "title": "明起新鋒面接棒「中南部雨最猛」　全台雨下4天",
-            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8wa1Ntd3V3dFBUbTl4bURlcFE5NzZmZTk3QWhOTXM3RTJDSEhWTlYxQktYUjRQekdPMUtuWlBGRFZaUDE4UTJMb1lyVzY2bGFNSEVSbkVzYTYtLU51U0HSAWhBVV95cUxOUGE0MlBHUnlxZ01mS3B4Z2RGWkVIS3RjbUw2SW1LSmlEM0NYTEdha29pdm1tbVF5bE4tWmdQcHo3Ti1Oc1FNY1MxUUpMczBSZG9qWHk1cmYxWFlzSHM4NWNoZGZNWjB1Qg?oc=5"
+            "title": "拜會AIT華府總部鄭麗文：獲得遠超乎預期的支持| 政治",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1MM09OTzh5bWRiQWdEUmRYcXJ4Yk0zdl9tQ1l1R1JFNEtpZlFkNkIyb3hQV1Q5bmxacFRpc043X2tEdmMxYkVXZkNIZU02MmFQWHBJRERJTFVyMGc?oc=5"
         },
         {
-            "title": "台灣意外入鏡！全球千萬鄉民瘋吃瓜 日本人妻實況外遇夫新進展",
-            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBmdWJyMDhrQmgzdlRfcDZhRWV0MDB1X2ppeVp2QkVLVmFPbXBBNThRRnNTcjQzOHZuZ2ZVOWhWaERrUW1lbEF5TGpYdlJjbTlxVTRUVk1TZ0E2Mzd5NDV0ZDNVdjZpd9IBa0FVX3lxTE9DUTFCTnN2SXU5UVJKUW1aUXdIMjZJWUl6OC1pcG82U2hyWnM2MzNLVU1zOUNOQjR2NkRFTUJUNGw1LWE5NVF4cnJpQUdJcHFZVm9uQ3BBNEIzamE5b3k2ZTVlMERnOEFyWWJZ?oc=5"
+            "title": "綠島外海突現大陸海警船！與海巡署巡護艦近距互嗆",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9vUU1jelhNQlo2SDBlNFQxRUhMYnhXVnA4WTdWMzNhclZsbVJ5eEhJQ2Z6SUpIMll1T2FoQ0QtVHRWUTlQSnFCMzQtRERZblJBcnFJ?oc=5"
         },
         {
-            "title": "立院強過「高虹安條款」 柯文哲：請正名叫「林淑芬條款」",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE41WnVnZWs0VzlfdHZGZElncjRLd2ZmbE4yMEZLMTl6MlFNSDBhVldScVR4VGtzeks3eERHZlhuY0ZpeVRDM0Jmakd2MzNteEJoSWx5UXhQMG90Ukk?oc=5"
+            "title": "國民黨幕僚被列監委名單 郭正亮揭賴清德盤算：都是為了「她」 | 蕭宥宸 | 新聞",
+            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1RVDFJeFFUVEt6SDdfalJwNnFYZEVOYVFZSU52QldQc01RNjhIYm9xVVdqbHBLT09pNmltUG5OckdnTHhDdE1ldmg3U0FHUQ?oc=5"
         },
         {
-            "title": "傳鄭麗文被放鳥 陳以信嗆賭千份雞排喊不可能：美國對她正感興趣",
-            "link": "https://news.google.com/rss/articles/CBMipgNBVV95cUxOdDJteWZwZnNhbzBQYlh3UHpuQ3hRc1FvaVhuWktzemNjODUxRDhKVElGaDBiYkF2UHV4N1VoTHY4Q3IzQWlJMHBsRVVNR3pQc3ItQ2hOQ3gySzdCcVV0VXp3bDZFT1U2NXlzWjJBaHJwNk9OYVZEbGRfS0ViQURhSVI4ejFuUmJXYWlfU28xWUU4UWFLeWVZclhONFM2UEdJODJOVmVtSnc5elZ0YUNpZEdnTkhYbzYzanZJOTlaazZCcHNRLU9kREk0SEo4dUhNcjNIT0ZHMVJQazFtSXFSUkktWEdoeElzOXozMDVUa1BPUEgtRmtWclBqazY4Mm5WZXQ2LTNwRHlrU2djN2lQaDRhUkZSTmJjbnlCTVBWYlJCandLU052Zm9lQjd6R2ZoNjNNajFXbmV6WUtZQkViX1JtcHFiam15RjZjbVpiTHpxLW5GLXhXTktBY0Vkd0tnN0RjZ19OcGoyakl0YWVQSU9maGFBNFVveklZenZNTXROdTU2ZEpRWEJ3OVFpNzZpamROS2dqcXZHS1dEOUlhUTZJNXYxZw?oc=5"
+            "title": "新北市長之戰粉專挖出青鳥卜卦出「贏家」後決定收山- 政治",
+            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE04VERUcXI1LTRySXQyd3lDUnpNU2VqZm5Kb2hGa2w4WnF0Z2JSYm5TYnJWX05IaWJ0eE9OSkdfTG5RSjNXRGUzem5YX0FiWlRsOWtZbzB3Vkl2bG8wcDZYZnFGUXBDZGtSXzgwQlRB?oc=5"
         },
         {
-            "title": "已達「極好協議」? 川普: 很快赴歐簽約伊打臉: 純猜測「畫紅線」議題絕不讓步| 國際",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBCMUNablhiN1VfaThKTUFib19UTEdnSDNXMUh2WTBWMU1vTjQ5bDE5RUlHVWdDdW9PaHEtUFZtcGVoZnFHQ3k3cTZvRWs3WVBHLTlUN09mSlkwcUE?oc=5"
+            "title": "國台辦宣布對台十項措施階段性成果 開通3條兩岸航線、引進9部台灣電影",
+            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5WZkxVVFlPM2lNU19vRDl5V0V4UDcxOE1RemYwdm16VGtNX2J4cEVHV0hvQ2ZiTERiWm9LcnVJWG12MFlxVl9NNldYMDlWNnpO0gFWQVVfeXFMUDZ1a1hTOVVNeGhWRjloNzFFOEYwWkVIUGpOYjdBX1Y4TEItYUNySV9STUVFVHhwdjFycXVRMkRkNW1FVlFxMVlvb3JaRHJoZHowYl9YbGc?oc=5"
         },
         {
-            "title": "海峽論壇登場 王滬寧會見張榮恭：堅定為兩岸謀和平",
-            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9pN1BuWDB4dHg0Z054Z25SekRWTHpMa2NLd2dLY3ZPR0YxbFRHTmdOOEZNMDI3QjFTdlFYdVNqaWdnQlB5elZLeEZxZml5eV9q0gFWQVVfeXFMUGJTNUZzeGNJUUpIYXZTVlhDd1RqeW1STmxpbEJyLUh1WEVnQThBRW4yRTZDRktrZzB2SWU1NEx0YVY5dlZHSXJ3a1c4VEhZQkZQWlh1RUE?oc=5"
+            "title": "旱象解除？台南3大水庫補水逾1.2億噸南部水情一圖看| 生活",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1sRGExdGN0Y21TRGpQWGdLb1l1ZjROSExPalFCcDJZdzltNkR2Mjlxa1JsZU40Z2RyTTQ2ZHZEdXJ6OS15MjNWLU1lSGEyU05BUlFyNnFyZmxYMEk?oc=5"
         },
         {
-            "title": "梅雨進補！曾文、烏山頭水庫吃破億噸水量 全台水庫入流量破5億噸",
-            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9GU3F6Si03R0lSaXVkdTd0dGJZX2t1czNJTm9WckNRbmtXQl9JVEFvZTE5UnFscFZQaDRObUlvcXVsdEwzTXR6MXFxeFUyX3dya2FFQ1g4cXUwUjVZRVQw0gFkQVVfeXFMUGN0TGMyelREck5tS1BkdkQzS01qYmNWWGkycXNSOTlVSDN6WFA1THBIa0VhY2Y1V05BYm50NE5IMEtlR3lBalFKdTk0dWowVmN1bFNZY0V3aW5hWm13ckN5NmhkVg?oc=5"
-        },
-        {
-            "title": "蔣萬安喊廢監察院 國民黨籍監委被提名人廖婉汝嗆：若2028年當總統還會堅持？ | 蕭宥宸 | 新聞",
-            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5sMWFfbDBxMHpXUFVFV0JOdks1THpNbFFObld6c2EzN1UyU3duLUZfQmEtZWdyanVnSHFjRnZSRmlQNkpfbENqYWFIcTg4Zw?oc=5"
-        },
-        {
-            "title": "親綠民調曝蘇巧慧支持率近9成 李四川競辦：開心就好",
-            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBySFpvSWhJU0xaWFp1ZWdQSVJqd01TV1RYS0ZfVXIwNG1HMGlRcmFfZ0Z6WVhYNjVXczVrd01sV2toa0hHanpaVC1oQURyaGNEeExCZUh6Ny14eHg2eWVvS0RQZ0ZHdHpHeUtOcEFn?oc=5"
+            "title": "高雄民生醫院爆登革熱群聚！千人連夜採檢 結果出爐",
+            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1pdWtrWXMtTUNoNEo2U2p2THpHZ2ZfaEdTNlhfbjVPTjcyRUlfZzQwTTd1SEFFVUx4WDR0WXNPandoZVo5SG1ZV0FLdWk0Z1Q3VmpBYg?oc=5"
         }
     ]
 }
