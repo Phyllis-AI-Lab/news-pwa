@@ -1,46 +1,46 @@
 {
-    "updated_at": "2026-06-15 15:40",
-    "summary": "午安，為您帶來今日午間重點快報。\n\n國際情勢\n美國前總統川普宣布，與伊朗的協議已在巴基斯坦完成，預計19日於日內瓦簽署。日經報導指出，川普政權冷落台灣鄭麗文，主因是其拒絕傳遞錯誤訊息。此外，中國宣布解禁3大航空直航台灣，將主攻兩個特定縣市，讓陸客來台旅遊更便利。\n\n政治焦點\n國內焦點，最新高雄市長民調顯示，賴瑞隆以20個百分點大贏柯志恩。台灣空軍新購的F-16 BLK70戰機已在美國掛上適型油箱，正積極進行訓練，為飛回台灣做準備。新北議員江怡臻甫宣布不競選連任，隨即轉任李四川競選辦公室主任。關於2028總統大選，陳揮文預測，若沈伯洋出現特定狀況，蔣萬安參選機會可能更高。\n\n社會民生\n氣象署緊急示警，9縣市有大雨特報持續到入夜，5地更遭大雷雨襲擊，請民眾留意安全。另有民眾一早存摺近10萬元入帳，到月底還有16筆款項陸續發放，提醒大家快刷存摺確認。社群平台Threads則傳出災情，八炯、吳靜怡等知名帳號陸續被停權，受害者持續增加。",
+    "updated_at": "2026-06-15 22:35",
+    "summary": "晚安，為您帶來今日晚間重點快報。\n\n【國際焦點】\n美伊和談十四點備忘錄草案曝光，美國承諾不干涉伊朗內政並提供三千億重建費用。然而，這份協議引發以色列高度不滿，以國最大報頭條怒批為「爛協議」。另有日經報導指出，前川普政權冷落鄭麗文，主因是其拒絕傳遞錯誤訊息。\n\n【政治動態】\n國內方面，饒慶鈴因錄影參與海峽論壇，恐面臨查處，引發立委許宇甄質疑觸犯何條法律。台北市長蔣萬安出訪新加坡，出席世界城市高峰會開幕，並獲新加坡總理黃循財握手問候。此外，沈伯洋與小雞的定裝照今曝，攝影花絮引發討論。\n\n【社會民生】\n天氣方面，梅雨持續發威，全台十縣市豪大雨警報再度擴大。不過，梅雨也為南部水庫帶來甘霖，台南三大水庫進帳一點八億噸，曾文水庫蓄水量已突破三成。另有不幸消息，雄檢老將陳俊秀今晨心臟病發不治，他曾為大寮監獄六死事件深感自責。此外，一則溫馨趣聞，公車司機停靠刈包店買午餐，乘客也跟隨下車光顧，讓網友笑翻。",
     "news": [
         {
-            "title": "川普宣布與伊朗協議完成巴基斯坦：6/19日內瓦簽署| 國際",
-            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5HN3ZzbktTSjF3YjdCb19DT0YtZHdrbmhUeDZ1dW9MQ2wyU3hPRG9wd184U1JvYkhUMkhleXh5WmxIeGFTTGlTdkRqOE9DeVd4a2N0TnowX2VDRlVXNVo0?oc=5"
+            "title": "美伊和談14點備忘錄草案曝光！美承諾不干涉伊朗內政 砸3000億重建費",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1sME94b0hZaUJFLWcyR1hLOWZSZ3JkaDRDMHBJRDZDT05XVy16dW5tUU9jeWJlWTZydWl0ZU9hX2d6NVpEQ0NxTXd3UjNOeW9iTGZR0gFYQVVfeXFMTkFadWlQREVxYW43N2t4UVNUR1NiVUhVbkhOWlV4UkZfRHFEMDU1MDhlYWNJSllWVGprb0JKakg2SzFTMGNTa1Zwa2NXLU1Kd0hIb1pZYnZPUQ?oc=5"
+        },
+        {
+            "title": "快訊／雨區再擴大！10縣市豪大雨狂炸",
+            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1LVXlfVVVhWmg3d20zMHlhOV9lNVlKMGM5WFhmZWVDRGFsWC1FeGFWa0M1OXg1bU1TOXh4dEFBRXNHcU9sQzJrMDdpY01xazlvVk1aeQ?oc=5"
+        },
+        {
+            "title": "雄檢痛失老將！陳俊秀今晨心臟病發不治 高雄大寮監獄6死最自責",
+            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5EdVJxRWhqcEI0dV90WVdSM1hSVmhwZkpfWGpCNmxVUkFwdWhoNHRENl9pSlQtLWMyNW9udURYX2dQc19ZODY4SWRYNmNBa3NpM0xHR2s3T08zSjVsS1B2VVl3ZEtGUkJ60gFuQVVfeXFMTTVLa0pUNV8xeEN3WW4xMTliMjExMmY2VlM0NkkxVXlwQ0NBQjhqQU5wLXNfdExYMGF6Q1E1V0o1RGV4dzd3RVRqYWk4Mms2TEx3eVM0TFFobm9WNzhvNndmWHlOQ0Y1bnB1cm4yZ3c?oc=5"
+        },
+        {
+            "title": "公車司機停刈包店買午餐！「乘客跟下去」全笑翻：太會帶貨",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBUd3dSdld3N3EtY0hUUGF3TEFKSkR1ZUhIWHBtUzlBOHBIRDM1NVhfbHV1R3RjNnI2ZnJfb29reEVvR2lJNG56U1ZPbWlVd1JlZThBOFBFWFEtRVZHRFHSAWhBVV95cUxOX1hrQUxWVU5oSXVZWlQxOU5NMkVFMVpVS0lOcVpDVl9aM2EwSERQbC0yaE5aZkRJX2laSjFnaWVHMFhPV2ltMlU2V19uZFBpcDhVMVdPYmNRakFNbHU2LWl1aDZ3UVJFcg?oc=5"
         },
         {
             "title": "日經：川普政權冷落鄭麗文主因是拒絕傳遞錯誤訊息| 國際",
             "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5DOGlLVHRzNFM3aVpKZlRicFFuZWJHYkVyeVhJTVREcE93SWpadWlQNW1XZ1FYM2JPektfRGN2RjA5Z01iTDVDUzdfdXg4dDVITkRFX2Y0Q01ZRzQ?oc=5"
         },
         {
-            "title": "本月第三份高雄市長民調 賴瑞隆又大贏柯志恩20個百分點",
-            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA5ak5SVEpROXFSdzl3WE1JZFh4Q21VQlpOLWtZZTdkUnQ1TDRjQ3RRMFE3bHAwTHZzMGhSVFJvZHAxVjlmajVHeDdpcTByenlwdDBB0gFYQVVfeXFMTk1aRXh2YjhsSE1iUG9fMTZmSHZNc0xRRFVUZXRDaFVUTUhaTW9VeXllb1RLZU44U2s1bnFIdTE3YlVuLXVtMk1EaGlpbHpwVUc5ekx1V3RoUg?oc=5"
+            "title": "美伊停戰以色列氣炸！以國最大報頭條怒批：爛協議",
+            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5uLVJrcmkxUW16VEhZcGU5ajlLcGxjMFdraGdrRWRIVW1RanBqdEVPMTJZdk94M3hzaWlUekJJMVJpVUNwMUMxU3F3bXN0eVZwd1k2Yk1McmJEaTdpYzc5bDIwbmExQdIBa0FVX3lxTE5xN242UWkxZ3cyOXRwakNXZndtaHhJRW5ZMFhRSVA0NG9zR1B1NFFONm1kbFhVeUlIcUttRGgySHhwNXh2bERzTzk2VGV1N0gtQ1pBUzBkQUFZcmhNVFdqWFVLZHZKbXhpMEo4?oc=5"
         },
         {
-            "title": "快刷存摺！一早近10萬入帳 到月底還有16筆連發",
-            "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBTN2dwSFlnbWR5RndYWUZEMXhwdkhtUkJLcTJYaDNBLWlodXR2WDFLQ1l3Y3lNSnNKVTlWaTliZzk5NWFpcnBjMGYtVFFqY1pIaDRiZEI3WQ?oc=5"
+            "title": "梅雨助攻！台南3大水庫進帳1.8億噸 曾文水庫水量破3成",
+            "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxOeUN0TVp0T1VwRUVwLWJHQXkza3YyekZlcFZNR3hqR2VaVEFMVEFzc3F5T29SYktaWC1sd1JFYWVOSDhWbFpZTnFURHJ2dHdiNHBBdHFwc3ZiNEhSQ2VncVhXeDJDZzJVZTFudkZGNjBPZG4xU1JxaERydnBITkZPc3BCd3I3SFoyTGxPZUFqcTVzZTZuUWpXa0VPdVlsSU15Tmp5SGE1T2ZMU0Njckw3cmRkaUEyYlI0dWpuVjBYNVJXTzQyZVQ2ZEpfRF9yVUFqLW54ekR0RExhdUdRQWhSTk5NZjhHZGJnVXZCLWpRNEdQVld2QTVHdXBPUk1RN200OG9iQnVzdEJFUHROWUhRWkYzWkN1YWZUN0wzWXhaR3paMmhwdGxvcjA2ektyTTlQaVhVUlRMdDFtVXBIamlBRFFNSWdRSmVlZnhGa2xHaHBIZFBXcVo2Rw?oc=5"
         },
         {
-            "title": "快訊／9縣市大雨特報下到入夜 大雷雨襲擊這5地！氣象署緊急示警",
-            "link": "https://news.google.com/rss/articles/CBMikgNBVV95cUxOOUFOY2E0YS1aemVWTWRJWWV5MXRBcHZnZ2Ixc1BQbDYwd0JOZ3I2bjlnOFJCcGJ5LTUzXzRQVVRmTTZ3VGp5U2ZGdzFhMlRZdmlhWFVJbXhrTjZwb2ljNG1jRHk4UFpaRFBERkVaMjJHYlR4YnM0Znk1dWVGTjBXVVZKb0JNLXJTR1JfZWtiYVNiNkV0Q0FmMTZGSFJPU1A2NVp4TldLcGNJTlFORnhKaEtHUW9Eb2RPaGRfMlZaY3NPUzdtM3VCTjJ5OGFKOGl2Mm1iRF9sVjBHZFRWejJsR183ZGRtc2tWOWJZeG1DYW40bHU0cHJUcEltd3FISWRxVUlJTk9reWgzbkRuck9lSHVPUTVtb1hMNTVhQ1RmamZQTDZ0NE11eTdEVmRCUGkwdnNNWDhQQUo0M1pzUlA2UFM0amJnd0NjWUJSM2FpU1prWnVwQzlOeUZFOW96VV91WFJEQk5KQ1JXeTc2c0RoSVNKcE9NX2dhOWhTTzlIdGZ5cE9SZ0ltZXNNVG85QV9idEE?oc=5"
+            "title": "饒慶鈴錄影參與海峽論壇要被查處 許宇甄質疑：觸犯哪一條法律？",
+            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5SRlRTVFhDd1hqQUF0dHRyTDBHMGJFYkJHLTVXVXVoRjRWazhjNTBoSDBvUkN1UmR2ZXdHR3VXMzNEWEdoeXQ3OTNlSWJybXZ00gFWQVVfeXFMT1pzcmVNa2pwbENTSWxOTjQ1WFlySkRHR1F5d1FTWnRpbTZPUXI3ekc1VllOVENSLWN4b2xxSEFIUVkzdTVyZGdHNGVMVXJxc2o0QmJfNWc?oc=5"
         },
         {
-            "title": "空軍新買F-16 BLK70在美國掛上適型油箱 為飛回台灣做足訓練",
-            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBRcDlVZFg1Q2p3anh6MjVHeWI0Z1RBcFNJWmhSRlFXV19sU1hqQUdrUFYtRzZ1WGt1endhaVNnRDI3ekFoM0JUR0RVYkN0ckVmWUEzQjk3WEJsV3Fob19SOdIBZkFVX3lxTFBoeHRDQkxjN2NCNDRaR3d6MzVDWjNsalpTV0pYbmRTWVhhNzV3ZDFybUlpaGxDYnFPUm0yZUdtUURyZlVnTEJaWUxXMk5ILUNPenJZY2F1U2pOTUdHSFNDeWV1Xzl1Zw?oc=5"
+            "title": "蔣萬安赴星出席世界城市高峰會開幕 新加坡總理黃循財握手問候",
+            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9QQ3ZGeUdGODZmRnh6Z1R5alg3OWRrWXVjZV9EMlIya3hOa1ROXzBtc3VSWmNoU1dXTkhWS0ZuVTFRcFdVejdhcmFtdjBONkpN0gFWQVVfeXFMUEczT3pmWnZ5emFlZkVuaWJrQkVEZDVtVkkwM3AtVkYyT3JFWnY4bFktWUpiaGgzMHV0dF9STkc3NmV5Mm1VZlNDLUM5b3pDVFBfeENraHc?oc=5"
         },
         {
-            "title": "甫宣布不競選連任 新北議員江怡臻出任李四川競辦主任",
-            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE03dU9OTDBETEtCRzRrb19IUXBWd00zcUxGQW1QSTdZdEFyR200Rml5M0tQeHk1cEY4ODU3bGgtd2xtb0hVTHEzZTFrcTRPYW1wWi1B0gFYQVVfeXFMTTZKVGpoZnI3d1huN0dRZzBOMFN1QUdUTkJQVjl6a2xuS2RZci01cFVFMkhhaTZMMGZkaGJRZ2lLMnlfbHhuY0JEZFJ5TmpFZlFycFh6alpRSg?oc=5"
-        },
-        {
-            "title": "Threads爆災情！八炯、吳靜怡帳號被停權 知名受害者陸續增加中",
-            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9UUWRTbXA4d1pYVXE0U19TUFJoSVpKbjJKT0lOZzBlWDczemJ3d2NEN3lNczJQd0pBSEFWZWktWnJWc1k1MWs0RTA0TVdZb3JaNGhNcjdYbF9qbnhZTkFjeEd2SGXSAWpBVV95cUxPSjJaRkNiUVlDczRMSGtROXhaaVB1QV90ZHBNYmVSVVIwT21Ub3BhbGVmOE1VaTdFc2NkVkttZjN4a3BoamZoQldlcHhyRUFxNEZZcGVkNm1GbThBSHZCZWNUN2wxejNGa0pR?oc=5"
-        },
-        {
-            "title": "陸客來台灣玩更方便了！中國宣布3大航空直航解禁，首先主攻「2縣市」 多條航線",
-            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5oOVZIaXN2WEFEbHByY1pRdkJpc25hYkZBNllxcjF4b3NFMXVpQnZuNnFjdmFmemhuYUNsMlJnbnV5NmNNNHVha2Etb1JpTWs0?oc=5"
-        },
-        {
-            "title": "出戰2028總統大選？陳揮文預測沈伯洋1狀況 蔣萬安參選機會更高",
-            "link": "https://news.google.com/rss/articles/CBMiiANBVV95cUxQQzlxdXloeWJrWU14SVRNMENRcFRfUjRGd0ZwVi1NZ0tsdGNKZGpvOFM4dmJCdHNueXlqdHdRRk9HMkN5c1VTQTdUZFE3aThHTkIyQ1RKTk1paEtYbUtTaWhITmJXVEdENVNLRTVabHdJbEpPZ3hUenptdm8ybFc3YmJYUXFaYmVtQWJlRzBXSHF3T0duWkFWWVhCNnRFeXVwM2p3LXRQaS1zUHoxRmdpYm1vVWZud3dEV2pPTkFxdlZoa0tlZ1NFQnBHWmJaQzRhQ2l6cWxydHFUWFp5QUpRWFJ2eEY3TFJnWnNkTmVsV2VWbG15OXZaYVVqNlJFbGxUMUdiZUhiQ3R6c1lUSU5MXzU4SGNXU0tjc011cVVLM0xfRWpSYnVXUXpNWGZ1TDFja191c3NtUExkUkN0QWl3Wm51d0VTb1F3MUVFRjFSeG1rWEc0dW05WnZ2YXNEeFdSTXBJSHI1dEdjem14WDhDLU9FczJaSFM5S0VaWklwTzNyS3d5YVN6WA?oc=5"
+            "title": "與小雞定裝照今曝！沈伯洋自曝笑到臉好酸 攝影師狂講笑話緩解",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE45b2RTVUZRVTE3N2QzV0VXbXROODFodDdxUmc2dWI2ZDMxNno0M1NLRVJEVlVqZEM5RDVPSFhfb2VoMmFpY1RsWUsyUlZYY1JQVUZ30gFYQVVfeXFMTWNHb21GanJ5SlFLUnFWcTltLUxYaTZ0SFQySjlMZ2dhUGNTa0lSRVlsaFA5WTBlWFVxeHJVc3Jsd1BQVXMyUXM4WnkwRWhVNTFSN19hTEZlaA?oc=5"
         }
     ]
 }
