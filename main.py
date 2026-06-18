@@ -65,8 +65,12 @@ def get_gemini_summary(news_list):
 
     client = genai.Client(api_key=GEMINI_API_KEY)
     
-    # 💎 維持 2026 旗艦備援陣容 (最穩定的設定)
-    models_to_try = ["gemini-2.0-flash", "gemini-2.0-flash-lite", "gemini-2.5-flash"]
+    # 🎯 核心設定：黃金備援清單 (強化版)
+    models_to_try = [
+        "gemini-2.5-flash",       # 主力：最新強效型
+        "gemini-2.0-flash",       # 備援1：穩定且額度高
+        "gemini-1.5-flash"        # 備援2：舊世代極度穩定版 (終極防線)
+    ]
 
     for model_name in models_to_try:
         try:
