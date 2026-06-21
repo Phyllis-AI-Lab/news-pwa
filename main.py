@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 import os
+import html
 import requests
 import json
 import xml.etree.ElementTree as ET
@@ -11,6 +12,10 @@ from google import genai
 LINE_CHANNEL_ACCESS_TOKEN = os.environ.get("LINE_CHANNEL_ACCESS_TOKEN")
 LINE_USER_ID = os.environ.get("LINE_USER_ID")
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY")
+
+# 🆕 Telegram 金鑰（沒設定就會自動跳過 Telegram 發送，不影響 LINE）
+TELEGRAM_BOT_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN")
+TELEGRAM_CHAT_ID = os.environ.get("TELEGRAM_CHAT_ID")
 
 RSS_URL = 'https://news.google.com/rss?hl=zh-TW&gl=TW&ceid=TW:zh-Hant'
 
@@ -123,6 +128,48 @@ def send_flex_message(news_list, summary):
     payload = {"to": LINE_USER_ID, "messages": [{"type": "flex", "altText": f"🔔 {tw_time} 新聞", "contents": {"type": "bubble", "size": "giga", "body": {"type": "box", "layout": "vertical", "contents": flex}}}]}
     requests.post(url, headers=headers, data=json.dumps(payload))
 
+def send_telegram_message(news_list, summary):
+    """🆕 發送 Telegram 訊息 (HTML 格式)。沒設金鑰就直接跳過，不影響 LINE。"""
+    if not TELEGRAM_BOT_TOKEN or not TELEGRAM_CHAT_ID:
+        print(" ⏭️  未設定 Telegram 金鑰，跳過 Telegram 發送。")
+        return
+
+    url = f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}/sendMessage"
+    tw_time = datetime.now(timezone(timedelta(hours=8))).strftime("%Y-%m-%d %H:%M")
+
+    # 把標題轉成 HTML 超連結；標題與摘要都做 HTML 跳脫，避免特殊字元破壞版面
+    news_content = ""
+    for i, item in enumerate(news_list, 1):
+        safe_title = html.escape(item['title'])
+        news_content += f"{i}. <a href=\"{item['link']}\">{safe_title}</a>\n\n"
+
+    safe_summary = html.escape(summary) if summary else "（本日暫無摘要）"
+
+    final_text = (
+        f"<b>📅 {tw_time} 新聞快報</b>\n\n"
+        f"<b>🤖 AI 重點摘要：</b>\n"
+        f"{safe_summary}\n\n"
+        f"------------------\n"
+        f"<b>🔥 熱門頭條：</b>\n"
+        f"{news_content}"
+    )
+
+    payload = {
+        "chat_id": TELEGRAM_CHAT_ID,
+        "text": final_text,
+        "parse_mode": "HTML",
+        "disable_web_page_preview": True,
+    }
+
+    try:
+        response = requests.post(url, json=payload, timeout=15)
+        if response.status_code == 200 and response.json().get("ok"):
+            print(" ✅  Telegram 訊息發送成功！")
+        else:
+            print(f" ❌  Telegram 發送失敗: {response.status_code} {response.text}")
+    except Exception as e:
+        print(f" ❌  Telegram 連線錯誤: {e}")
+
 def update_pwa_data(news_list, summary):
     """同步更新 PWA 資料"""
     try:
@@ -137,4 +184,5 @@ if __name__ == "__main__":
     if news:
         summary = get_gemini_summary(news)
         send_flex_message(news, summary)
+        send_telegram_message(news, summary)
         update_pwa_data(news, summary)
