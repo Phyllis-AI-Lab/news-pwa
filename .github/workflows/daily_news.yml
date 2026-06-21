@@ -3,11 +3,12 @@ name: AI News Bot Daily Sync
 on:
   schedule:
     # 發車時間（台灣時間 = UTC+8）：
-    # UTC 00:15 -> TW 08:15
-    # UTC 04:15 -> TW 12:15
-    # UTC 10:15 -> TW 18:15
-    # UTC 13:15 -> TW 21:15
-    - cron: '15 0,4,10,13 * * *'
+    # UTC 23:15 -> TW 07:15
+    # UTC 02:15 -> TW 10:15
+    # UTC 08:15 -> TW 16:15
+    # UTC 11:15 -> TW 19:15
+    # 註：GitHub 排程會延遲數分鐘~十幾分鐘，屬正常現象
+    - cron: '15 23,2,8,11 * * *'
   
   workflow_dispatch: # 保持這個，方便您手動測試
 
