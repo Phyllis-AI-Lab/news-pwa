@@ -167,21 +167,24 @@ def send_telegram_message(news_list, summary):
         f"{news_content}"
     )
 
-    payload = {
-        "chat_id": TELEGRAM_CHAT_ID,
-        "text": final_text,
-        "parse_mode": "HTML",
-        "disable_web_page_preview": True,
-    }
+    # 支援多個收件對象：TELEGRAM_CHAT_ID 可用逗號分隔（例如「個人ID,群組ID」）
+    chat_ids = [c.strip() for c in TELEGRAM_CHAT_ID.split(",") if c.strip()]
 
-    try:
-        response = requests.post(url, json=payload, timeout=15)
-        if response.status_code == 200 and response.json().get("ok"):
-            print(" ✅  Telegram 訊息發送成功！")
-        else:
-            print(f" ❌  Telegram 發送失敗: {response.status_code} {response.text}")
-    except Exception as e:
-        print(f" ❌  Telegram 連線錯誤: {e}")
+    for chat_id in chat_ids:
+        payload = {
+            "chat_id": chat_id,
+            "text": final_text,
+            "parse_mode": "HTML",
+            "disable_web_page_preview": True,
+        }
+        try:
+            response = requests.post(url, json=payload, timeout=15)
+            if response.status_code == 200 and response.json().get("ok"):
+                print(f" ✅  Telegram 發送成功！(chat_id={chat_id})")
+            else:
+                print(f" ❌  Telegram 發送失敗 (chat_id={chat_id}): {response.status_code} {response.text}")
+        except Exception as e:
+            print(f" ❌  Telegram 連線錯誤 (chat_id={chat_id}): {e}")
 
 def update_pwa_data(news_list, summary):
     """同步更新 PWA 資料"""
