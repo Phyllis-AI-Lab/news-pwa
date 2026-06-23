@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 import os
 import html
+import time
 import requests
 import json
 import xml.etree.ElementTree as ET
@@ -69,29 +70,41 @@ def get_gemini_summary(news_list):
     )
 
     client = genai.Client(api_key=GEMINI_API_KEY)
-    
-   # 🎯 核心設定：黃金備援清單 (精準校正版)
+
+    # 🎯 黃金備援清單（2026-06 更新：2.0 系列免費額度已被歸零，改用 2.5 系列）
     models_to_try = [
-        "gemini-2.5-flash",       # 主力：最新強效型
-        "gemini-2.0-flash",       # 備援1：穩定且額度高
-        "gemini-2.0-flash-lite"   # 備援2：極速輕量版
+        "gemini-2.5-flash",       # 主力：最新強效型（免費額度仍可用）
+        "gemini-2.5-flash-lite",  # 備援1：2.5 輕量版
+        "gemini-2.0-flash",       # 備援2：墊底（免費額度可能為 0，純保險）
     ]
 
+    # 暫時性錯誤（塞車/限流）才值得「同模型重試」；其他錯誤直接換下一個模型
+    TRANSIENT = ("503", "UNAVAILABLE", "429", "RESOURCE_EXHAUSTED", "overloaded")
+    MAX_RETRY = 3  # 每個模型最多重試次數
+
     for model_name in models_to_try:
-        try:
-            print(f"🤖 嘗試使用模型: {model_name} ...")
-            # 這裡維持最單純的呼叫 (無 config)，確保不會因為參數錯誤而崩潰
-            response = client.models.generate_content(
-                model=model_name, 
-                contents=prompt
-            )
-            print(f"✅ 成功！由 [{model_name}] 完成摘要。")
-            # 二次保險淨化 Markdown
-            return response.text.replace("**", "")
-        except Exception as e:
-            print(f"⚠️ {model_name} 暫時無法使用 ({e})，切換備援...")
-            continue
-            
+        for attempt in range(1, MAX_RETRY + 1):
+            try:
+                print(f"🤖 嘗試使用模型: {model_name} (第 {attempt} 次) ...")
+                response = client.models.generate_content(
+                    model=model_name,
+                    contents=prompt
+                )
+                print(f"✅ 成功！由 [{model_name}] 完成摘要。")
+                return response.text.replace("**", "")  # 二次保險淨化 Markdown
+            except Exception as e:
+                msg = str(e)
+                is_transient = any(k in msg for k in TRANSIENT)
+                # 暫時性錯誤且還有重試額度 -> 等幾秒再打同一個模型
+                if is_transient and attempt < MAX_RETRY:
+                    wait = 10 * attempt
+                    print(f"⏳ {model_name} 暫時忙碌，{wait} 秒後重試...")
+                    time.sleep(wait)
+                    continue
+                # 非暫時性錯誤，或重試用盡 -> 換下一個模型
+                print(f"⚠️ {model_name} 無法使用 ({msg[:120]})，切換備援...")
+                break
+
     return "❌ AI 暫時無法回應 (所有模型皆忙碌)"
 
 def send_flex_message(news_list, summary):
