@@ -1,46 +1,46 @@
 {
-    "updated_at": "2026-06-26 09:30",
-    "summary": "早安，為您帶來今日上午重點快報。\n\n【社會民生】\n\n南部台南、高雄、屏東因大雨宣布停班停課，台南市區嚴重積水，台北內湖也淹水成災，市長蔣萬安臉書遭市民灌爆。此外，國道一號林口北上路段發生遊覽車追撞事故，造成逾三十人受傷待評估。\n\n【政治焦點】\n\n美台關係升溫，高規格接待逾四十位美國參眾議員，他們會晤台灣立委訪團並期待賴清德總統訪美。另一方面，面對中國海警船頻繁侵擾，總統府召集多部會推演海上脅迫應變。賴總統也催審總預算，以利梅雨颱風季救災應變。\n\n【國際情勢】\n\n烏克蘭精確攻擊俄羅斯半導體工廠，該廠已遭台灣列入制裁名單，恢復生產困難。",
+    "updated_at": "2026-06-26 14:29",
+    "summary": "午安，為您帶來今日午間重點快報。\n\n【政治與國際】\n行政院版無人機特別條例遭暫緩列案，引發綠營不滿，批藍白杯葛。台美方面，美國戰爭部與白宮官員會晤我國立委團，談及無人載具合作與共同生產。美亞太助卿重申對台六項保證不變，強調對台軍售不取決於中國。\n\n【社會民生】\n新竹縣因雨停班課不同調挨批，縣長楊文科致歉，宣布中午起全縣停班停課。台北內湖區大淹水，市長蔣萬安臉書遭市民灌爆。高雄某高中男校長失聯後，不幸被發現陳屍校長室廁所。國道一號北上林口出口發生九車連環撞，14人送醫，一度回堵十公里。豪雨狂炸桃園，南崁溪暴漲，驚悚山洪影像曝光。\n\n【國際要聞】\n委內瑞拉發生世紀強震，災區空拍畫面曝光，逾四萬人下落不明。\n\n【天氣快報】\n全台變天，米克拉颱風今晚將最靠近台灣，大雨預計將一路持續到下週。",
     "news": [
         {
-            "title": "停班停課6/26最新通知 台南市、高雄市、屏東縣停班停課【不斷更新】",
-            "link": "https://news.google.com/rss/articles/CBMitANBVV95cUxOUVVNeThOMkNrZXFDSjRrempqMmNtQnRGYXFVTEVIWEx5OWxiMFlpa2JieVBPVlQxTVd4S0gySDhZcGVYVkVqNXYydzZqbkFWUjcyRW92YWhkMUs3bElFUFVLS29sZWU5ZWFVLWsxbERxT19lU1R4b3VqcXJ3eFNZQkhtcWxJNFRBWWRrQzQzOXl2Nkpmc0Y0RW1JdzZFdGN6c3NWaV9sTnc0d1JHY3VLRC1lekNDX1J6dS02UDJ0NzR1MXo3WTl6MVR0UjIyY25Xd3NhaHdUYXA5TGdxZlB4RWYyQ0F6RTJ0bjJ3ZWtyTkNvc3RWRFJXZ0g2bl9yT2U4WE1RcFcteHlFekhhUkJQODFQeGhEWk81OU5VUmpHSHRKVG05Xzh5cXpSQjFDRGlxLW5NUVJ5LXY1ZEY2Y0tPaFBfeG9PREY1RlhubWp3QXNpYmFIbnhKeEFDSFE0dmlXQUhzemNrV1ctOFR5NmtxZi1tODBLcUM3ckpuWU56UVJudHN3aXVzeEx0aFV2Q1o5ek9sVzI3ZXFjdEFPcWdVUUFKZkwydWtYcmsyN1p0V21BOXR0?oc=5"
-        },
-        {
-            "title": "國1林口交流道北上路段2遊覽車車禍！車上30多人傷勢待評估",
-            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB5eklTdmxqWjMzNFp0R0FuaS1ZWldUeUdyLWRvVlAtUjhVRWlycVZNckJ6Smp3aDB0MXJ0eWVxWEhWNHZFOGllOHVDMTNqMm1TVnRDQ1VIRzhzTGpLdmNXTnZmMGY1c2t50gFuQVVfeXFMTmZpd1RIU0lTODM3Sjd6a1hEMkpqYTNQSkRaaU92djRwc2lMRm5paUgtak9IdU4zcUZXQy1oVkNDVVU5VUNCdzA2VXBxNE1TRzdfZ3Z1aGUwWXF4SjdmUWtzZ2RKY3B4T2x6M3I2eXc?oc=5"
-        },
-        {
-            "title": "烏克蘭精確攻擊俄羅斯半導體工廠，已遭台灣列入制裁名單工廠難以恢復生產",
-            "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVGEzUWJHbHo0emNXUlgydDdFVnpDVllubnRUclFrY1ktWXJ0ZnlpMlgyVUpzS296Qnh6OTNlcXNROS1lVzNlMlB0Qmw3M2NucHV4Y3BTNFFKWUFGYXJjQ0tUeko5M1pVUl9KWDhCZjU2dklPdk1pNUhnOWFRa09tYTRIM2FpTWJ2R3MtejNHRlU?oc=5"
+            "title": "授權各鄉鎮挨批不同調！楊文科致歉 宣布竹縣中午起停班停課",
+            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE51cnVlQ1VDcS1JcFhDMlNkMkhSNW5ncUo4RXI2cVMyaVVhbFhncnlSUFNkUTJyT3F0bVNQUDFkNHd4c09CTXBadVVuLU5kaHRU0gFWQVVfeXFMTVAybmFEXzJ1OF9mWlFqdmVKTWgzd05MNGZPNUJOa2s1b1R6YkJhWVlwNzBWcEFadjE1SkZoWVpfZkdXNDVBX1dEaVNSaVZBd1ZmV0Foc3c?oc=5"
         },
         {
             "title": "台北內湖大淹水！蔣萬安臉書也被灌爆市民狂酸「真的變火鍋」：米老鼠樂園變水樂園| 張大任| 新聞",
             "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAxMHRHVWt6dGtvQWdmaWVGQ2l3UVE3VVlRWVExVVRnVkpncXYyVGV6a0VJRGJra3lhRkIxbVZIVVZnTGZGZDVVWlN2WlNiZw?oc=5"
         },
         {
-            "title": "委內瑞拉連續規模7強震恐釀10萬死…川普：情況不妙 已準備好協助",
-            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1iZEI1VkNwOVpYTEU0Tjk4UHFTQnNLNXltcFFDaVJUZnVGVHY2SHJfVDZncFdndjdVbzdwa0JtUW5ERUJ4NjBYQ1NDRXA5MXZiSTl30gFYQVVfeXFMTmc0S0NyODNBX1FSQkt6a2pWbFE1ZC1GaEdscjZfN3JiaWZRT2pWV0NYVWhFSGozeXcyMGozRGZOQ2dfR0NYVDIzS0NOakxnZEdmWU5mV2YzXw?oc=5"
+            "title": "高雄某高中男校長失聯數小時 被發現陳屍校長室廁所",
+            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5uVFdfcEdvUFY3M1ZhbE14bjhGNE9ONUlZeDUtaUFkSzk0MkY3cGhENkFCYXNwaUxRMXlVVGpMU1V2Wmdicnh6OXVlOG81MVhF0gFWQVVfeXFMTlVaZ3l2cmdKcXdlck9kcXNUZm1Dc1NqV1NZSTZndEZKdEE3dUVsUmRab1BYczdYZmtldGpoNUpIVXNjOEhKMjEyTzdieWZ3X045WTJDekE?oc=5"
         },
         {
-            "title": "嗆台灣芒果不賣中國市場「還拿賣巴黎宣傳」 鄭麗文：根本侮辱農友智商",
-            "link": "https://news.google.com/rss/articles/CBMiswNBVV95cUxPbGNsVklpSXQ0bnYzRlBjYnBCYWI2MC1ydFVLV3c0cExFVWYzUmg4alNZU1NTZ0h0MmRDWXhxcnIwc0IwTjdXVWo2eXp6YXp6eXFSWm9HaXBmVzlxckYzVkpVd2ozM25nWHJhVDVIb0h2b1YtUU1kZ0Frc2tOcjFSaHpTUWhYQVYxSGhGN0huV29JSUpQQTVkakdDR3hZVk5KXzEyWnhQS2NaeW5FV0ZOSE9Wb0V4RVRFRldfQlFTRS15aDllYjBFQnJGUG9IbGJ4WC1yajFyaTY2YjhJLTVOUmpRUHozdThXYS1tZWRkNURBWThmZFJmYm1IZ2lpeDVWTFRWano5dEdGMkpUNmhyOHVxSEF6eThydU44VHBmMlNRWG1MaWE0QXdqdlNQdTBvbFQySi1fWFpLSW5lMmdTZWh5Sm1DeUU4UE43ZVNGQ3ltLVoyZTFaT3ZDUmhWbXg5LUxtX0ZBTVk3RmVBRHFfREtaQWc4cVdXZlN1SE9HSWx6RFNpVWk1OXAwYmVlYmxmVkI1R0lxOG55cmRPM1FUUk1MTGE0LVZiQS1TVS1RQU9JSFE?oc=5"
+            "title": "世紀強震！委內瑞拉災區空拍畫面曝光 逾4萬人下落不明",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE50T1VxN1p5a0hOb0o0OW1VWTFCbzRFMHpQVzlONTJaVmlEbGd0MjVDdTVtMGpmaHNveHY0aVR0SUhkNk5yT2hMaENsYjNneVFvSkQwRG9mV0tvSEN2TGc?oc=5"
         },
         {
-            "title": "陸海警船頻侵擾 府邀集11部會推演海上脅迫",
-            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5FRUI5NGprbGpINVl2eWhwLXU4X3hQT0pYam1WNjNrOEpCTHVOamRUUTIzeUdoamVzSnRkMnJjbmU0MndQckpSNnpnZV95RGVscVHSAVdBVV95cUxOUlZzV01YTGpsYlZiclF6OGxZN29RcUdkMHdNaHBUMTNfdl9xMHRhSFFUb2syWHBGTU5FMU1kUFdSNkdhcG1jMVpKRXVadXZrSm40dE9XbjQ?oc=5"
+            "title": "國1北上林口出口9車連環撞14人送醫 國道一度回堵10公里已排除",
+            "link": "https://news.google.com/rss/articles/CBMiiANBVV95cUxNZ2JhclBtMzVic0YzVWdVeHhJSjI5TDkzbDhtcFpGOGcwUkxRUm9MYnVGajN4OHRwSlNDcE9HR0RmSC1WRFdPdzhsM1BkeFZnWll3MGJHeG9OMnRFSDgtb3IwS1JYVFhHVkJ2M0s1eG9oa1dlcFQtY2QzcWtGYm9NWnloVzlpZ3pWVkxFWDE0Qmx3ZF81bWlkRzBTYm1hejR1RnZ3elFNUnJQSzZJVzFSX1VXZkhrakhULTQ1ZTltdDhlcWg3b052aTRTVkVrUWhqaGpGNkhEcUhyOVpZOGViTDFGR2N0cV9kMmw0NTZOaF8ySkFFUzNiMVc5RlVkbHljWWVLUmtQTmQyaWxqa29wOTNHeWxybnBtRGo5R0dvcjZ0M0d3dTM0NkZQa1dpUzN5eEpaREQ4eW5ka3JrWDB1TmtRR0lUbXBpSzdaZDl0eV95NTI0MU1uaGJzVXdaaXY1dHlvLU9XbFRpajBXOFc1aWNYRHhnZGhfNGZDdVFkcmJpTHg5UG5KdA?oc=5"
         },
         {
-            "title": "台南大雨倒整晚「水淹半台機車」　居民凌晨3點忙裝水閘門",
-            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1KTWh2Q052T05VT0xwQ0t1dW9ieExaVkhUZEpCcXpjNDBDMDZROVFxVHF2XzMzR0VIVE9qemh2dWhyLTM0ODVLWmhpUVFtZEVHMHQ0aXEtNXFMTjBDSmfSAWhBVV95cUxOc01HX1U1SHFEa1JxMW9kMV9xNkVvZUE5MWlmQ0JLOWNRcFQ5N2lEOEpMNkEtdm02bHJmd05taFU4a28tVjVWVHQ4cW5kM3pZczc2akEtZXU2OENPWEczUXYxREVWWTBrXw?oc=5"
+            "title": "6/25天氣預報》全台變天！米克拉颱風今晚最靠近　大雨一路到下周",
+            "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA1bzRqc05XSHBxMFk5Tmo1OUJPbmJLVXFjRUUyS2dJeGdwSVVOUHdlYU0zRTZJNDJ2b19na1RSdzRzVXpiS0psOTNUR0vSAVJBVV95cUxNdkFCOGxobmVHdDZlM2lWc0FXZ0cwSkNfOElvY25TQnhHVjZ3RWhTQ3JNQW9aQWNrVU9vR1hCTnlrTUdqR1NrZDB2b1Q5aXhWZVl3?oc=5"
         },
         {
-            "title": "梅雨季、颱風報到「中央拿什麼錢去救災？」賴總統催審總預算",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1INGFFQWZETWRGWHN6UFJUc3FwTlJ5R08wdWhRV3ZVaWFXZ2ltRUFqMjhmU3Z3NUJNTWVQTmExOGxYRE81SVdyLVBvSnJiZ2FxbWo4Q09TQ3FvNTZORWFMRVk2ZmRZVE5WV3fSAW9BVV95cUxPNEY2WElYdEZtc0V2RjVQaWVaMkpyRHBaWnU1aXVxdkg1RXM0OVZ6ZlFCZE13VnN4SWxETm5mbV96ZldpS0l4ZkkxeVZranBFajRoeThmVGVkTklzT0NKNGJiT0ZldjVIdzRXU2RySDQ?oc=5"
+            "title": "政院版無人機特別條例遭「暫緩列案」 綠轟藍白不要再擋",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8zUFEwUnBIRFY2NTB3dFowbXZKbFpCUEhXQjNJdkNja0t3SFBiRnNta2k0N3pPZDhCcG9yVzVxdFlvMlg1UTRXY3VwTHAzMnBoZVRidGpuRUEyNnpPZy1oNktjWmxLZnNrelHSAW9BVV95cUxPSVJ3elp6RjJqUThjeENra3lZNndMUjB2V1NGaGcwVEdiTTVjTkZJUm1rbW9nV2FsNEQzUkpFWnRzUVRhSW5ubi1wcVlpY2hNaVNIUXdHa3NYY1kxM3htdUdVZW5CeGNfT2trdEZ5MEU?oc=5"
         },
         {
-            "title": "高規格！逾40位美參眾議員晤台灣立委訪團 美議員：期待賴清德訪美",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9yZVp6YjEtaXpmR2pmVWo1cXA4UHBXaTN5QWxjOXl4cEVmS0tnTGZ0QTE1WDF2NFFfVTFtMjJfRk5RZjN3c2xXRDMxa2tQQWJnWVM2WUNfQU1ycGdaRG4xNTA2cVdSTFVkOVHSAW9BVV95cUxNREw2S2J1dHB3cEVNUGY5eHlQMGl3TU1ZU3ZZbEpzVHpGM1AxOFlMZUJ6ZGI0d0wzWmEySjQwdHFfZjhmemxQWWNja3F5Z21nWVhCMUJ6SnZJa3h5bzNWNDI0eTA4U0ZDQ2xHcm5TOUU?oc=5"
+            "title": "豪雨狂炸桃園 南崁溪暴漲！「山洪滾滾」驚悚影像曝光",
+            "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBGYXhYbGNrTndyUGhpSHgzaDVSZFI0VlhiZUtwdEVqSkRWUW5NRjg5MnhFSW5UTk01ZzNyUVhEcFpfWllnTFUtZUswUFVTRWd3R05WWEp6Q0JkOEtNNFU2SVFNZmF4U0RHa0hrM0pPWGFkWWdxUDBabE1hTnFPdw?oc=5"
+        },
+        {
+            "title": "美國戰爭部與白宮官員晤台灣立委團！談及無人載具、台美共同生產",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE41OGxRYUZPWmJnaGFiTGJLQXJiWlI2TEgweXpBMDNqSWh4WTlRbV9EYWxPU3AySlJwQ3JYYTZyQUZ3M0NNWFM2bjh1bjFoZ2d2SE1TbDgwSlB3WDJMX005aTdib0JtTnV3U3fSAW9BVV95cUxOenZvWmZhR2VLMC04T3pQblVIZl9PY25kbEF6ZUZ5RXktX0g0RDg2MXRQWTJzU0ZYeldIWUU2QWcxekRhVk5wNXYzSUQwWGJXQnR4dFlRWDZYNmp0R1F4NzRJcms0dlRWTURTSW5BS1U?oc=5"
+        },
+        {
+            "title": "美亞太助卿：六項保證沒有變 對台軍售不取決於中國",
+            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1BeUotWS1MeDNaQ01KWjM0NWhveXBTblhEU1l2SnpLNG9fMlREYVdGMzMtM1FVOHRuOTExbXNwNkpRQ0hxMHItN1YzeDZQM0IxMlHSAVdBVV95cUxQbEdUUll4U1ZnNnFocHZ2dXdITDg0Z3gwM1VNNHdtcjUyemprcmJUdDZ4R1YwLUZLNDBfa2tuTEJUYjBoN2lmdnp1SXg3bHFHWS00OG9WV2c?oc=5"
         }
     ]
 }
