@@ -1,46 +1,46 @@
 {
-    "updated_at": "2026-07-03 14:04",
-    "summary": "午安，為您帶來今日午間重點快報。\n\n政治焦點\n總統賴清德品嚐狗糧的畫面引發討論；立法院藍委提鞭刑公投案，已逕付二讀交協商，民眾黨團八名立委均未投票。台中市長盧秀燕透露無人機預算將增500億，然而在無人載具論壇中，藍綠議員名牌差別待遇也引發民進黨議員批評。國民黨立委萬美玲之子被爆霸凌，萬美玲拒絕回應。\n\n社會民生\n食安警訊，中聯大豆沙拉油致癌物苯駢芘超標，問題品項已增至18項，全台啟動下架與處理。\n\n兩岸國際\n銅鑼灣書店店長林榮基逝世，陸委會表達深感不捨與哀悼。\n\n財經生活\n軍公教調薪計畫啟動，基層公務員調幅有望衝高至一成，各職等與主管職加給試算數字陸續曝光。天氣預報指出，未來一周持續酷暑並有午後雷雨，同時將有雙颱形成，專家示警其中一颱下周侵台的可能性增高。",
+    "updated_at": "2026-07-03 18:50",
+    "summary": "晚安，為您帶來今日晚間重點快報。\n\n【政治焦點】\n立法院今日藍白聯手否決譴責中共民族團結惡法案，引發爭議；另有藍委提案鞭刑公投案逕付二讀。選戰方面，鄭麗文拜票遭嗆親中，賴清德與蔣萬安則隔空就治水議題交鋒。\n\n【社會民生】\n食藥署宣布，1300公噸致癌沙拉油僅回收17噸，雞塊、沙拉醬等成品不回收，引發食安疑慮。雙颱巴威、梅莎共舞，氣象署密切發布最新路徑。此外，罹癌又失業的二寶爸，不幸遭毒駕奪走寶貴生命；全國少棒冠軍赴日補助款短缺，恐貽笑國際。\n\n【國際情勢】\n全球某地發生嚴重衝突，已釀成今年最慘重死傷。",
     "news": [
         {
-            "title": "中聯大豆沙拉油致癌物苯駢芘超標 增至18品項下架 全台各縣市處理進度一次看",
-            "link": "https://news.google.com/rss/articles/CBMi5ANBVV95cUxOTWxSRE9SbUZzRElVbEdDNkUzc0xXQWNKdmhQU1JKS3c1SHBINjJOSkIwdDRvQ2RDc0VkeU5Ddlc2SmtEWElkQm9sdzZRRXV4TWNTWlJtdlV2bnFjR3V6czFwc1F3bGtHVmUyaXBILWdWOVJCTF9PRTBHMGpGVXVNenBtR0VBT0Q2eHRKdlV5U2dEZlpfdHRRLXctUUwyM1pwQXpnNnotaGJuZXprUDVPS2NmREh5WXI5X0Q4ZExNeGRXU0ZTQldfSmRjMnhJQXg2MkFkUE53dzVwa2NtaWFjcmo5NHhJbzdhdEJYSmNjVG9kaEkzaXZVX3NvWldfVmVLM1pSTDRrclhDMDZlWWN6MGFtQ2JVZ2E2bE1hZmswbGV1NGhYWGNTRGhGSGd3YVBBeEtROUZ2YlVueldXcVhMaHF2R2ZQR3U1dnRvcUF2TUYxcUFxZWFjY2VLMHZmVko1bTJhcmZabXRRSzJmVXVFeDN4TmRSQ0diWEhybEtjSUdWd3pIc1dEZElHSGhOWHZDYTRERlVULU9CSXdmQ1VKaTVORVU3aS01NXVxNVdJU0hHOFNKVzhpZHYxQm9OU1BnQ21ncUdoMzhkMkYxb1F5RFR0OHF1X0lQcUZiREZ2QzdReFA4?oc=5"
+            "title": "1300公噸致癌沙拉油僅回收17公噸 食藥署：雞塊、沙拉醬等成品不回收",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1iOUpuSUoxMUNXTno2cS15ckJmcjl4cFZGNnkyamZUeXVXWmN0ZUpyd3NLM1R3MnV4bHoySVFaeloyUm9KVzBGeXAtS2N0ZEtiMVVv0gFYQVVfeXFMUEIwdUJmQTVEWHBsNERxRnMzVGM0eng0MDA2RW8tOXRyczFuelhMRzZJajhLeE94RXNlZkgtS21ZQWdqM2RhUjUxZkNyb2JzeUNkMUZ2SlBndA?oc=5"
         },
         {
-            "title": "未來1周酷暑午後雷雨 雙颱將形成 專家曝它下周侵台關鍵變數",
-            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5WOUhFSWdtYkJsUlp4T3RfZTdPNkJHd2lvdWw0eGxBVlk2LXR6eFpUSWpMYlh0TVFPUzk2THZpcDNjX2dJcVYxWDFud1RUaHJJ0gFWQVVfeXFMT2tpSTBiWmhOVXZDWk1ydEMtT0hsSmJnek41bG5DNU5pSlVobkN2cng0OUxvOUJfeklONnBSYnh0bWVvR3NKeDAzekRJdDhCYzgtUmZFckE?oc=5"
+            "title": "巴威颱風逼近 颱風梅莎南海生成 雙颱共舞 氣象署說明最新路徑、對台影響",
+            "link": "https://news.google.com/rss/articles/CBMi1wNBVV95cUxOTWJiTEQ4U0NVZms0eXpDRnNMYktwZUxWRTRWa3VFY1BLOUhwNk0zclRHa2V0ZVhNTU1JSjl5bTYzTXc1V3NqT1JWYU0tSVB1UVktSzNSZ0sxVnZRWFJMald3eGE0QXlSQUgwb0lCT2JmS0ZkSXVCY3BYQ3RTOVRUZnlEYkVWdEVUTW9ncTZJa2gzaF9IZnEwaEhPaFR4bUdaZzBPNWZpMjdQei1WTVVLOElvMmdqb3BmWFJuLURleWdwcVVzQkNYUWNaNVM2ZjZmSkFMY0VLVWNQN1gzSlk0eWZjMDFGT2VCLTZoVC1hS2l3VE9XckRRQ1NkMGVWbE5memZHdzRoYXY2WXFRZU9sOVdaTUtjaGJ3VEV0Q2JhUlJ5UEdvS2g4MEZWNGlHUUF4eDZldUpMQmRiLUVhYmxuRWp2R1FXeEFoTWRHbHQyTlUxak5lbVlDWFVvRUxYbmU4aEdLSE1FdFpCQXhGNUc1SHplZDVTckprVFBkZzd1SHJDSVR1UVVLY0lwaDVXaWd0Uk5SWWdXWlhTRERac193elRrVS1vZGJSVW54VldCVFQ3YVhveWl3djl4ZWdvS0ZvdENfSl9hN2pJdTE5YUpWT1VlNkRZbDA?oc=5"
+        },
+        {
+            "title": "命運弄人！2寶爸罹癌又失業⋯為了撐家計拖病體上工 慘遭毒駕奪命",
+            "link": "https://news.google.com/rss/articles/CBMinANBVV95cUxQSmZ4R1FtTG01UmN3V1lkU3RJd1hKU1FYS2ZleVgwek9rNEcyMWhCbFVUN21TMTAtSGZObmVZMVpUUUg1Q19rSDhPUWg3N3VIbjNYVjhPdWdRb0lxQVotM21UTncyR01penEwUnRmZTNQdDg4cVEzLUVWZHdadDFXRVN4N0pMWS1Jb29vOTQ5Z3J2T2VicGVFaHF3N3BjM3RtbGw5YUZoLW1VMjJjakt6Y3ViYVV4NW5aMXk5OThOYXJNbDFRU1k2UmNYVUpoVkJqUThsR2RSNTFlUDA1RGN5YVI0eXlOb2l6c2ZTLTVvY1pROW96dllaeURQRGNNNV9iUWRsaUtlTzJDdVNJc3lZbEMxVUFYY0UxT3FBYWlDRkhiZEpJZTNvMXBqNXVxRzNlSlppdC05LW1HclVNbXlfdWFoLUVFSGNIckZsZHQ1ZDBJdHF0UnJybGc5NzRIaFY3Nk5DanVwYUxidzZRYmtMbVhySUFMTVJvMXNSQTRNSEVZcXI1VGZzSmxNeXJHNmJ2R2xhd3RmaDIyeGpU?oc=5"
+        },
+        {
+            "title": "職業小三巴首富／郭台銘熟女球友爆出身舞廳！花名曝光　賈永婕回應了：我只認識這兩位",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBBUUEwdnhWei1TeFNnQmhhZzFhNkU5dDRIWUQ5SXdQTGhvRWg1NkdmUHNFSkFJX0VmWlNnZjV0RE9CUFZGb1JYYmpmSVhPeUZRWmxQQ0hyeVlVSE3SAWBBVV95cUxNb3hMTUNLeUcyOGFTU2JFRjZPTTA4ZmRzN1cxTHBJQy1XS001dXBNaFNWdGdELUZSUFZVSmZWUkI5SUJBUzBtS3RPRm9vX2lFdklQLVVFUDJLem9wamFMQlo?oc=5"
         },
         {
             "title": "開火了！釀今年最慘重死傷",
             "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE50bi1SclZheXBWTzdCbnVmVTBKZ3Q2bmtMczVBOUVHV2VoaHVvOWNRd25abmZabTlxXzZKdmpqR1FDbUxNRmQyZTJBaklzeHdsbmNz?oc=5"
         },
         {
-            "title": "把狗糧塞嘴裡！賴清德點頭直呼「很香」 隨扈、發言人震驚畫面曝",
-            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9QTFZmbk11ZkRNY0ZRbndfdjQ1VDdiR3o3ejdZRzB6cjdLbENIVzZvbnFwZ0FLSmh3cFFINWtuV1JoTFNZeFI2c0NpSXN1VjlKU2tv?oc=5"
+            "title": "鄭麗文木柵拜票頻遭嗆共產黨 她直言：連深藍選區民眾都看不慣親中路線！",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ySVlJbEF4bm4wN0lSbERTbTNwMkxfcGRYazBDb013YVNrZEpCaHp1Nmczb2pxenpGWkYyekM4TEtmdHpaeXJraGVjRkZTZm1mYVBUZG5kUTlHRFU?oc=5"
         },
         {
-            "title": "軍公教調薪來了，基層公務員能衝10%？各職等調幅、加給試算主管職最高數字曝光| 李瑋萱 | 新聞",
-            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE42aHFqUXJiMWhiYVdQQVZHSkw0RGdTY3l5SEZsbk1YdHhpNGktcVlmRjdtTlZfRmRPLTUyY2tyUjNuMkVrUy1sWjM0TmZIZw?oc=5"
+            "title": "賴清德、蔣萬安指南宮互槓治水 殷瑋：看到不一樣的海拔",
+            "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxNUy1PTUtiZmNfSlNPZmlwQUhwZ1AzX1QwbnJUZWFzOXRjdks0V2R6ZVY5Q3M0U29kMWNYNk5aVmR5V1BpRkpDM095MkhpeXNIT2l5UTJORGZCY0tabFNKQTlRMTlkSVE4WGJJOTYtbnhUNlhhSWF5QVQwVXhCYkRJbUFIZVh5V3Y2MkxLLU1pdWJsR3dPNWZyYjZGd1EwdjNXbXlDUEdoTVBsdXA0QjJVQ3BhVHRyaDBqQ3VHamFIYUxSYWluNElpOU5oWXNwV1hLRG9LWl9rREhuVE5Gam5Kb0pmbV9uNkZOM01fdnBlZnR6NWhiMHNLMEsycWJZc1ZXeXZMQWVoY1VyMDNBVG9KdmtQcGpnRzZ5bEh2YVZBS0ZJOG5Wa25WZllTaTFnOTRzR0gydzRSLWpCaGlqelhhekxuNldpcWxhZUVIVThyRHBRUVhnenhhYWFSRDhydnVO?oc=5"
         },
         {
-            "title": "與AIT舉辦無人機論壇前 盧秀燕透露：預算再增加500億",
-            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9mMTJEZDg4dmNBSG5YOXRFZEkyZzlpT09vWW0wTmNwdU5sRVo3RHFWdGdEd256UFRqRTFNczZsQ01DNDdianBLWjlZdy1wS1d30gFWQVVfeXFMTmlHYkRRdHdKcGFQVUNNVGlCemtjckdWRkRiajlHSzFfZk9DWlJaeXBVZmpmd0hMX3NKSG96WEJMeEdzaHprblFmR3k2VlFKY29YX0dDYXc?oc=5"
+            "title": "譴責中共民族團結惡法遭藍白否決 陳培瑜：憑什麼當中華民國立委",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1kVUtTQzduakdieldCNlU0dklhLTZoWFNMeUFFaEdhRWNfOHdYdzZjdm91cUVycGxQT1dMSzJxaFBTQWpldDktU21uYmtXQk1BX0h2QmRWNmxoVy04aUNsNnVXWm5obnVEeVHSAW9BVV95cUxPZ2hFNDNiRlRrN3NXNjQwUjI2WUZrNWllUkhVNmU0R0hyR0h1ZHJPT2t6N0FFYlpoNk91REpTWklvSW96TVpKMEQ4Y19NeFlYYlllOHVEZ1NCVFNwb3pWcUs0R244dUhBUlVxSFlZcmc?oc=5"
+        },
+        {
+            "title": "全國冠軍補助款跌剩一成！台中德芙蘭少棒赴日短缺60萬元 校長嘆：恐成國際笑話",
+            "link": "https://news.google.com/rss/articles/CBMi2wNBVV95cUxNdDFLcGpKZ19fODFMcnI1eWk1ZWdYN2c5R05UYXN3VFJhRUNNWFdPOVdCUW91d1lVc204N2o0bkJyUTdIMUlyRTR4RC1vR3dIaXlhbDQ3RFRHSDM3NGpObnlNdFhQTWpVa1FMUVdTcUdIcDM0SFFhdjUzWldwZ0ljN01WSWFzTGhBVlVzSW9qbmVmMlA2a3hXVEJVeXppX3Q5M09zZ1M1ZEVNck40b1R1M0VWejNkejFKMzV1NDUyazg5MHlCZ0NtVVdSdl93N3NQRm0tOS1ydzdqR2hlemFsZ3lwOFNBZjU4dGZsb1JHWVRJNTZDVFNoM0Y4b19zLXNHcmdiMUpRVHkwcHppX1liOW1ETmZET3FDX0g2YUZheFpBUFNucUVIWVpuNzN5dHg1ZDZzSTZlQ1pMZ1RhTWJ5Y1V1VWZqUDZGOWRpYkV4b0hwUkl2MjNacE5kcmgzVmYwTzBwYVRyUktsZ2tpTWZIczMxWmw4YVcwcGU4SEtRM0xvUEc3bDdPNExlRFdNVDZfLWFGX05nMW9KbXFLdWFIalZpNmpmMmRyNl9wTmJTNElTc3pPQW1iZTJkSF9IVTM3bXVEZmhuUGw2QjBlNll1QWVMeEVncTNCYndV?oc=5"
         },
         {
             "title": "藍委提鞭刑公投案 立院52:49逕付二讀交協商 民眾黨團8立委均未投票",
             "link": "https://news.google.com/rss/articles/CBMioANBVV95cUxOSDBQcUZuem9QcmxfY01fRUpLYV9hUlctT2NwbDc5WW1HSTFKRExrMm4yS1BGbTF1X0Q3Z0hTVHJsZmMtMGl1NnZ0TWpSaUNlNUpwVU1qNWU3d3pScVVfY0pVQWI1NWFVMWRhVnl6OGQ5QTVFcFZYa1phbnFmN2lHV3diQ0RtVXhGMFJiWG11RDVaNHpoWU42MWk2VkNjZDF6c2tNcmhtbmVHSFRKWWdwSy1meGFwZ3J3eVNfSkRpMzNSRi1TTWFFc29mYUhDNW45cDRMcnNzSm1ZZXNqNGdHMkJ0OHV6eTVBZHp4VnVXa0ZCaXhORElHMmQtV19GYUlwRldaUzg2WVFzeVY0X3VtYUV3dGkxMW42blc4cXNSX19JbC1aUXROendnUTE2ZFMtNm5VNktsT25LMy0zU2lCTks2Y1RTWVRYWXkwaXNZcnphTnNvdFJ0aE9vYktNRVkwdFJ3cDh3T3V6SldPN191R2xEVGFMTlFpdkRKNTJGZVJ4UFMzNmhVR29Oc0VfR1lOZnNmSzQ1TUNTRXB2Y0FLVA?oc=5"
-        },
-        {
-            "title": "銅鑼灣書店店長林榮基逝世 陸委會：深感不捨與哀悼",
-            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9uQXV1anYtR3Q3WUhCS0RpRFlkcU5HamZZN3NaS3B0bVNSamd5MnZleWdESXFWeTNGd2VOSVdBQzdrU3VrZEdiNERLM3dDNFg20gFWQVVfeXFMTkMyQ0ZtMUh4S2dRVUEtRUZ2bWZIek5uc1Vva3Z2YzMtc09SVXdVT1BRUGJUYm5wT1ZtM01aMmFRaGprNmNadzVPcUc4SVo1ZWVXWmdybWc?oc=5"
-        },
-        {
-            "title": "無人載具論壇只有藍營名牌有名字 民進黨議員批台中市府大小眼",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9qWjBhTFhGZWRxSDBHdlNhaUFsUXEwZUQyUENudFhIdjJwSVo3N2I1T2VvRGdzMzNSY24tVFFhSmt3UVVxb0lnS3RzQ1picDNPaGEwSUpGb2FTWHNvYnRmWUZvdVNqc1p0U0HSAW9BVV95cUxNZ0VOY3NuV0tzVG9zOU40TVAwaVpBQXZBZ0NUaUdFbk9iTElSbFZIVkZGcUN6RnVjbGFrOWhRRHhUcGdJOGZUTnZxSWVSaVY0YnlVcFFnVVBKRDMxb0laTFJObThURG16eXQ3RXRxcDg?oc=5"
-        },
-        {
-            "title": "兒子佀廣洋被爆霸凌！萬美玲臭臉拒回應",
-            "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPeEQzSWhOVXBCU1pRYmJtYjRJTHZHY1J5bnkyaWxWRlpsUWJieXBCMWxBb3VNY1pTVlpfZTFtT0dWRk9fMC03Zi11dmRVNHV3allaeVBOdUh5OXp2a3pKbjFWNXVyc2xCaGQ0NkdUUTBaVkg5LUJPZW1NUGZUNVVCNUN1X2J2bTJEMHQ5bnd3MXVLajZ6WlBEYXJUWGVmNi1feHA1VkZ3OWF4cnZpOGlCZWpfWFhJcmdjQUpZNEZhVWtNUkh4OEIxckV1TVVPekNnWnhvMzh3NkRKYWtheThrUEVNU2VncER6Z3Flak04MG84c3V5R3VCamJSUTdqMGdnbVpFSXlDUXlGMTlFNDlOVFYzVnVseG1ybEhMRllZaVA?oc=5"
         }
     ]
 }
