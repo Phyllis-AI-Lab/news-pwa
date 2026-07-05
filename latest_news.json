@@ -1,46 +1,46 @@
 {
-    "updated_at": "2026-07-05 14:15",
-    "summary": "午安，為您帶來今日午間重點快報。\n\n【政治焦點】\n國內政壇焦點。2014年越南假油案重啟爭議，民進黨要求三天內公布流向，黃國昌質疑是否有隱情。外交部長吳釗燮示警，中國沿第一島鏈部署超過110艘船艦，數量創歷史新高。藍白陣營聯手封殺中國惡法譴責案，引發綠營強烈不滿。另外，民眾黨在黃國昌領導下民調「大翻盤」引發討論。\n\n【國際情勢】\n國際局勢方面，伊朗前最高領袖哈梅內伊的國葬在德黑蘭舉行，百國代表出席。同時，以色列再次放話刺殺現任最高領袖，中東局勢持續緊繃。\n\n【社會民生】\n關心颱風動態。巴威颱風最新路徑西修，預計這兩天將逼近台灣，部分地區可能出現「紫爆」等級的雨量，請民眾留意防範。此外，資深民調專家戴立安與《美麗島電子報》分手，吳子嘉爆料揭露業界內幕，引發對台灣民調公信力的討論。\n\n【產業觀察】\n針對國內產業發展，有時事評論指出，台灣的無人機產業目前面臨挑戰，被形容為「牛皮產業」，其未來發展備受關注。",
+    "updated_at": "2026-07-05 18:28",
+    "summary": "晚安，為您帶來今日晚間重點快報。\n\n【政治焦點】\n今日政壇話題不斷，民進黨立委沈伯洋就毒油食安議題，批評台北市長蔣萬安轉移責任，而趙少康則反駁，稱沈伯洋是「每天亂扯一通」。另一方面，黃國昌領導的台灣民眾黨民調曝光，資深媒體人林濁水直言這是「超級大換血」。此外，賴清德總統在寵物展試吃狗糧，也引發名嘴謝寒冰質疑維安問題。民調界也傳出異動，戴立安證實與《美麗島電子報》分手，創辦人吳子嘉甚至爆粗口，直指台灣民調太髒，不願再參與。\n\n【國際情勢】\n國際情勢方面，外交部長吳釗燮今日指出，中國沿著第一島鏈部署的船艦數量已超過110艘，創下歷史新高，對區域安全構成挑戰。\n\n【財經動態】\n財經方面，中共近期推動的新法引發台商高度關注，市場傳出已有三家台灣知名企業的股價因此受到衝擊，值得後續觀察。\n\n【社會民生】\n社會民生焦點，巴威颱風最新路徑預估將再度西修，預計這兩天將更進一步逼近台灣，氣象預報顯示部分地區恐有「紫爆」等級的強降雨發生。另外，屏東近日發生一起駭人聽聞的摩鐵封屍案，一名男子涉嫌將屍體以黑袋包覆，並用冰塊保存，震驚社會。",
     "news": [
         {
-            "title": "2014越南假油案民進黨要求3天公布去向...黃國昌轟：今有難言之隱？",
-            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBpVEh1Mk40S194NnNCMG16Rk91cHZrdlJNMF9FY2RGVVVISXdCNDFUaUI1UXFSWjhIMVV6QzBiX2s1eGwwUktWUzRYSUtiVms2Zmsw0gFYQVVfeXFMTmVOdkladjB4c0NJNXpFME1XUlRjMWVWTHJOTHpiYXN0WldnXzNkY3ZkcU9Lc3RvMFI5YnZVeHZEMDc2VTJOX1JHRzJXUnJiZTBaMHIwYTlYMg?oc=5"
+            "title": "沈伯洋批蔣萬安毒油食安轉移責任…趙少康反轟笑死人：每天亂扯一通",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5RWDA1ejZ1ZDE2clFyN09BWmlfdHdaUUJSZDVBb1M2UXN5eGFOekZ6amFxVEZMbVR6ZHRwbjdLMEh2c21TcW5NZzh3ejZSNE1BNEVB0gFYQVVfeXFMUEhVY25kTUpTdFk2cXpHNVJPNUNsOFdOd29tWEVTLURyVjBJenhMaS1lZHdlR2NlZ1R0RVlJXzZmOTdQX3Aya1dfTW80VGx6MEpHOFRNYVlBVA?oc=5"
         },
         {
             "title": "巴威颱風最新路徑西修！這2天逼近台灣「下到紫爆地區曝」",
             "link": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxNZ213M0pVZU8yLVptX0Q1LWZmSVp5Y0h3ZFJIMVFNRElYNFdqUnFjUkhOWVdtaWxfbHlFN2ZUbEZ1aHd5OG9YMTRwNGRuTWFFTkh4Qy13VkktbXlFWkRNWmp5YXVYeEs3NnRJTzVRYVltV0dKTzdXdm11TE1CRHJGRGhzZUx3b2hRNU01Zm8zMDAxd2V5MEJOVVZwNTBjVE5FellEbTAzX2Q5VUZ3RmEzOU5NOGZ2RkpFUVJGOFF3Ujd5ajk1R3FYOEQwRFVLT1BCbEFnMXlKU1BuN1VJLXZ3Vmp2QTJxVE40UWNCVjNWN2tkTUxEdXR2Z3ZwZUI0Y3UyUmVmdnQ0cGZ2TjhOdm15NXQ1ZEpHMEFmOXlmcmhVeEJsc05Yb2pVT2hqZWJKanhQNzJaU3VXRF9wMjRkRk9IMGlJQnhxYm9UdHdEU2Z6cDhwTlV5RXdIUkVRYjNmYzA4X3BvSHFlQTZkWXM?oc=5"
         },
         {
-            "title": "吳釗燮：中國沿第一島鏈部署逾110艘船艦創歷史新高| 政治",
-            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE53cUJSYjFzdGZLWXIzZWJxaExvd01MWEc3T0NadmxVMFlOQlJ0SzJtS0I0eFVXR3daRVkyMnFTM2Y1U1pjdlRUUlRXeFAtdmNKTWNwS1RTc2VxQUpXNWpJ?oc=5"
+            "title": "屏東男用「黑袋裝冰塊」摩鐵封屍！女僅露頭部坐沙發",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBnNmMxTFJ6V2EwLXZtZkkxTHYxS2RJamNKSlVvUEpTRDRXOFNvNmRWWEI5ZWZFM0NKTmd1ZkU0M01PZHFhTl9zU2VrMDZ3Tll0akw2bjJn?oc=5"
         },
         {
-            "title": "時評》無人機牛皮產業- 中時社論- 言論",
-            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1kc1NDSlJpcVc2RXdYNEpDMUhkVzJpd29jS2VMcUhZQzhTcklNTFBPMFBmT3NXMEYzVjEySjQ3N2hLVlNlMVo5enczVVRDbGhBaUhablJTdlh2TXM2M29DNm1SRnpJZzA?oc=5"
+            "title": "台商麻煩大了！中共又推新法整肅社會 台灣3知名企業「驚傳股價慘崩」",
+            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5YbHZ4RUF4Mm1lUEhjTlNpSVlWQklJMWhNV2E5al9wVWc4V1FSWTdhTWU3V1JJOGQ4QkRKX2FtSnhCNnY1M211Y1RfYmw0RklXVDNBd0VhQ2kwemdWejE1aA?oc=5"
         },
         {
             "title": "黃國昌領導下白營「大翻盤」民調曝光！林濁水酸：超級大換血",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAzX2NUcm1tZG1nVFk2TnRIRVJjbEpxd1hlR0VkZ01DZ2dDUkJTQVpwWThuVVBsYzh0S3pScDdtYmRkY2tMb19DTnlTak85Rmc5UldwNFU4SVpLSkZIWHN1VVJXbG4wN05Tc0HSAW9BVV95cUxOc0ZHcVZfU3c5QURveUp0V21xUDVGeTE1R0Jpcko2Yi0zSHRqQXh4Y2JWQnpqXzBkWUw1cFQ1TkpsVm5QemVYQ05rOF8xeXJXSDBZX0FwMU5SN2Uxdm1lVjJDeVRoMmRJVVdBOTlSclE?oc=5"
         },
         {
-            "title": "哈梅內伊國葬德黑蘭舉行! 百國代表出席以再放話刺殺現任最高領袖| 國際",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1vQ3VMRW9mX3NBTFJJVTVHMmw1M0doS3FLTUdhN0p0UXpBMzNQRVlWV3NDZEtYUHhvV0ZwRDItUmJ6bXRUMUszQzFya2hUeGxkS3BTQ1ZfN3ZYV2c?oc=5"
-        },
-        {
-            "title": "藍白聯手封殺中國惡法譴責案 綠轟替中共開脫：在怕什麼？",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE51ZzlObFBFbnk1eGZralI0Vzd0ZWpPU0pGalQ2dWxsZ0F3UlFaNzJLaEFZdDJIUXdXMTlxSlpnNkh0X0lLandUSWZpUXBnTGx2Y0ZjNzZxQTJod2RJYl9MQTJMZGJNZ3ZIOVHSAW9BVV95cUxOVVRzYnBzdHhia3RTU1hPall1Q1dHZE1CYllRSEw3WkEzM3hqR25DaXV2S2xUa05JUnVGNldjN2E4T053V1dHaFhfSWJkTXh5d3dadGpkOE9INzY0dS1USWFndmM1Q1NDNmJ1T2g2R3M?oc=5"
+            "title": "吳釗燮：中國沿第一島鏈部署逾110艘船艦創歷史新高| 政治",
+            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE53cUJSYjFzdGZLWXIzZWJxaExvd01MWEc3T0NadmxVMFlOQlJ0SzJtS0I0eFVXR3daRVkyMnFTM2Y1U1pjdlRUUlRXeFAtdmNKTWNwS1RTc2VxQUpXNWpJ?oc=5"
         },
         {
             "title": "賴清德寵物展試吃狗糧謝寒冰：維安人員應該出面- 政治",
             "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE95MGw0UDU0a01GQ1QxR2w3dVNyd1dza3FwbFo0Mm5RdTN6NzEwa1lZYk9ONFZ6cDdVeTJlWlBBUVFpbUNUVkl3R3VVZGNwcDhPRDFoV2NQVmhEQU5iLWRyQ0RFLUtTdTMxUF9QcVhB?oc=5"
         },
         {
-            "title": "蔣萬安成全國大母雞 藍營期待深入綠營縣市當柯志恩等人「造浪者」",
-            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5OdlhEWTA5ZjJXMk5zQWhiM3IzWnpsdkdaeUN1TjVKWW80Um1Yei1keUd4bHp0Rl92RmZ5NGloTzlzWHNORmpyRG02a3dqU0xMckdF0gFYQVVfeXFMT0FGOEdlaGV1dnR3Y3o2SnJjdU5VSkh0a3NqdV9OVThHOERGOWxJd1R2MENCdE9UUmFoTjllZ191eVZQYWY1ZjR6YzlNeDBXWGxWc0VicThRNg?oc=5"
-        },
-        {
             "title": "戴立安分手《美麗島電子報》 吳子嘉爆粗口怒揭內幕：台灣民調太髒了，我不跟你們混| 蕭宥宸 | 新聞",
             "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE52ZHlyZkp6WWR5TnFnRDRQbmpVNUJ1dUVCZ1IzdFI3TEdtZ1F2VjJOM0xtblVraVRsVDVmZ3MzeFY5ZFI1QU95SHQta3h3dw?oc=5"
+        },
+        {
+            "title": "蘇巧慧喊欲連任八屆里長「豬八戒」 李四川：有蘇爸爸的風範與幽默",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5TZmE4NHB0TE9DRjgzVWRmcWxmS0FVS1N1Qkk4WkpFbE5SX3RKem5FNDRMSXhBaVFVclJ0ckU2cHVKbmlRV1FaNWZ1aHdPaU8wN3VN0gFYQVVfeXFMTzhvaXRRNDhlM0RlV1M3SjZzMmV2SUN6UFZFak1Tb0hoekg0UHRpTTljbERrMy05S1pRaVdsSlN4STNxSDQzbDc5ejh0RndBNmVTQ0NCRkV5Yw?oc=5"
+        },
+        {
+            "title": "鄭麗文成2026票房毒藥應避談習近平？ 趙少康：不覺得有什麼問題",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5tZnRKVnhvaFljX2tNenFxdWdsQ1JFSWtZXy1oN2dySk80SHFMZWxfT3V5cXlobUdnTUZpdXVOM1ZlcnhvaXlqSGMtTXZMcTRNVlM40gFYQVVfeXFMTkw3Y3dlQVlCRXJQU1VrbnVob2w1djhuWlBsZWlydlhXUHpvck9hNmszUTN4WFNJa1hLY3E5YmNzcEpXcFVOMmk3V0IzYWFOX2gzY3VkazRfeg?oc=5"
         }
     ]
 }
