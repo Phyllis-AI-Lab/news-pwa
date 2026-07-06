@@ -1,46 +1,46 @@
 {
-    "updated_at": "2026-07-06 14:47",
-    "summary": "午安，為您帶來今日午間重點快報。\n\n【政治焦點】\n中國惡法上路引發關注，有專家分析，若台灣被統一，部分藍營立委恐將成為清算對象。地方選情方面，吳品叡宣布參選嘉義縣長，獲藍白陣營力挺，力拚翻轉綠地版圖。\n\n【國際情勢】\n國際焦點轉向能源局勢，傳出俄羅斯能源神話崩潰，急向特定國家低頭求援。此外，紐約時報報導指出，北京對台灣開闢新戰線，專家警告「巨蟒勒台」戰術已進入太平洋區域。\n\n【社會民生】\n首先是天氣消息，巴威颱風預計週五開始影響台灣，氣象署已公布未來十天天氣變化。食安方面，毒油風暴持續擴大，雙北及台中多達131所學校的營養午餐受到波及。國立大學霸凌案引發討論，有系友爆料受害學生佀廣洋過去曾遭校方開除，疑因某政治人物關係而作罷。基隆虐童案方面，基隆市教育處長因看虐童影片落淚請辭獲准，市長謝國樑表示將調整相關人事。公共安全方面，日本資深媒體人矢板明夫在台中演講時遭不明人士攻擊，警方已受理報案並追查中。最後，民進黨客家事務部主任黃駿翔搭乘高鐵時遭遇性騷擾事件，令人關注。",
+    "updated_at": "2026-07-06 20:15",
+    "summary": "晚安，為您帶來今日晚間重點快報。\n\n【政治焦點】\n今日立法院聚焦一項涉及性侵毛孩歌詞的補助案，引發熱烈討論，有綠委稱是「抹黑文學藝術」卻遭到打臉。\n\n【兩岸情勢】\n中國央視宣稱，解放軍核潛艦成功向太平洋發射戰略飛彈並落入預定海域。另有學者分析，中國惡法上路後，若台灣被統一，部分藍委恐將成為清算對象。\n\n【社會民生】\n日本評論家矢板明夫在台中演講時遇襲，警方已鎖定一名持香港護照的嫌犯並趕往機場追捕。此外，強颱巴威正逼近台灣，最新數據顯示有五縣市的暴風侵襲機率已達七成。同時，致癌沙拉油風暴持續擴大，受影響廠商與事件時序引發關注。\n\n【國際要聞】\n國際間，俄羅斯傳出能源神話崩潰，急向特定國家低頭求援。伊朗在哈梅內伊葬禮後，外界評論其政治走向「有點像中國的後毛澤東時代」。委內瑞拉遭遇連環強震，已知造成超過三千三百人死亡，逾一點六萬人受傷。而中國廣西則因颱風暴雨，導致水庫潰決，下游村莊被洪水淹沒，居民受困屋頂。",
     "news": [
         {
-            "title": "巴威颱風周五開始影響！氣象署曝10天天氣變化",
-            "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxNNDhPUWZoTjFGUTJ3ZVNEeV9DUGVPam4ybVZSREN1OG1yYTB4OG1YUDVkMGVTTDZuWXFCT2RSdzRqUVBQVTlSZ0JIczhDQmZlR3lnQlVBUm9VQWtEdjV5bVhLTkZ3eXV2bEo2SXV5MmpUeDN5R2lSZzFqQ3BrQjNtdDFfZ3M2UnVmMk5fNnBROEZhY1FrVElFWjEzSWk1OU9BNUVoazhUQjJPYjRLM3N2R0pDVy1Jb3hGYzI3NVhEbXZKdUlNYUdrQzJqNzM4Wms1T2xHTldsVFVLQXQzMGZPXzJMLWIyME5NTlJqUjhlMGp1Unk4T1pRSkpnZ2t3V3BqejFtcnJmQ0hsSUQ2N0VsalZ6NkstSWFULUF3QlRIR3JHbkgwbXJieER6Z3E0NkI5b1doNmgxa1JoTms?oc=5"
+            "title": "矢板明夫台中演講遭攻擊 警：嫌犯持香港護照欲出境 趕往機場逮捕",
+            "link": "https://news.google.com/rss/articles/CBMisgNBVV95cUxQVHFoRWI4ajROekV0Z1NBOEFrandKUmdYWHFmVkJ1Y3J1T3pJalpKZnl6ZHlHUDB5SXpucTJ5dTFhNDN1U0R2Y01xS2twV0pLeUFzRjR5X1ljekRPeW9NWk4xR0lXTjNzdWZBUlB5S0tzei0xM0VKWDZ5TXk4OG1fZU9hTzR1dXZoaWxkZ2Jhb0k1aDhub2ZjNGdPaGxhaGJFOVd2RVgxUUdMWTdNcHNOS1VKVmJVWm5ZcjlGN1ZmZm41bDNYX1VGNG1VWmVQcDlGNGp6dEdGR2FwNzhZVzQwXzRnQVd5SHFjVGRqVnZJSGdNUzlLZUZMQ1RSS0lSV2xUZWx1bUgyMGZBQ2JQYWt4dlNJZUZmaVZ2bTZiUnBRRXpaeDZCNkVCYVhmRV9ITXZvNENqcmpGY2tCUUl4Rmx2alllc1cwb21XVmF1S1A0cVJxUS0yVElfSFRmUGh5ek0wNEM2Y3k0SjNxSzlFNmZGVmRrRFJhbUhnY1Rqd012VGZYSEZZTXFMTnNuWFpLY3lSZ0I4eDNTRjFETjZQYnpoNWNwcnY4Y1Vlbi1peWRYWWR5dw?oc=5"
         },
         {
-            "title": "毒油風暴 雙北台中131校營養午餐中槍",
-            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ObWRrdUlfalVhR0pMSVIzTlFpTFhGOXMwdklwQU51WGdWY29NOXZQR0RXUkxIcV90ZFVfc2xERmhHUlBRbGJEOXM5WjdfOFp4VXE40gFYQVVfeXFMTjUwNHBLcjBWZFhWZXEySzZEU3Z2TjZlVVNIQmRCc0xweWROeWJtOTdrVTlubVVQVXNuTk5hWlo0amlGbnZmMWRHRUdCTHpVTHNjRDJfTUkwXw?oc=5"
+            "title": "強颱巴威逼近！最新暴風侵襲機率出爐 5縣市達7成",
+            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE90eEduTjVWajRxeDMxVDEtQW42T0U3aV9xWUVzQV9hOGpCQmxrS2RMNnZCeXFZazQ5eHp4dXFtT2xfMGFSUDh5dURJQ053YS1oTDNwaA?oc=5"
         },
         {
-            "title": "不只霸凌？ 傳佀廣洋曾遇開除但校方看萬美玲不願出手 系友更抖內幕...",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5VWksxU1NWc2EtOUh4QnM2WFFpU1JMTk1BblV3X0VWSGl4cTBlLS1BSThUQnlZeGV1ejYyMnlwTUtEOHQ0RWZaRGd2dVNndDB4aHhTeEhPS3ZqSDA?oc=5"
+            "title": "整理包／致癌沙拉油風暴擴大！看事件爆發關鍵時序 捲入廠商一次掌握",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE95VGtGelhzT3BuQmgtMFpESVVFTVVaVUpidEV5SjN4djNRY2d5NF9tdE4xQzBHR2JGTzZQOGJobkRjTzM5aGRIWW1HSllJZkZ4d3Bj?oc=5"
         },
         {
-            "title": "看虐童影片落淚！基隆教育處長請辭獲准　謝國樑：調整相關人事",
-            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9BckhPZWpYaS04ZjlqcmtFeUxTRGZpb2VzT2l1ajhWY0x1ZUJ4UjhoMGl4VzlJb2M2OW4zU2ZJZmphMS1xd2NPX25iQjVMNGx3S05tcHJ2QzA2SExhZ1HSAWhBVV95cUxNYjlsUWJfLVoyUXdBU3FlWjY0QWFjdWw1YXd1NFBTMjFoQU5ScWRaN1VGVUVwdzdGMEpnVEI0eXZ0R1I1M2FSVGlJaUw0YTJTaHlPT19aSW52OTNlM1ZRb1NQZkNuZFpxOQ?oc=5"
+            "title": "央視：中國自核潛艦向太平洋發射戰略飛彈落入預定海域| 兩岸",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9Pd1JCd3RrNTRfTXl6UWVmUE5RamdjVzZfM05OV2U2eWdHNzVfcE9YaFFvR2U4R082RG12YmJjWHRMN0J4UGdJMzdCdnFIRkRSNzN0d2h4azRlTHRpZVE?oc=5"
         },
         {
-            "title": "中國惡法上路！若台灣被統一？明居正揭背後意圖：這些藍委恐成清算對象",
-            "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1wOW55c2phalcxSWRxZERXRjUwVFBlS0NNTnp2TEZuNGFHdTBrTzJUTVE2amVFQVNtZGR4YUM4QUIySHBPWWFXV9IBTEFVX3lxTFBXd19mbzRwN3ZpZEw0NXI1VTU0SS1aQ1Vja2ExUkNlNEFfa3BORGx3UGtTbWdjVHRYRlpRM2ZwX0Vwd3NTa2xxZHhUQWk?oc=5"
+            "title": "性侵毛孩歌詞拿70萬補助綠委喊「抹黑文學藝術」遭打臉- 政治",
+            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB2ZVpkWXlJQS00Vm53ODhMY0dETlRBbFY4X3J6cWw4TUI2dm9TZTFydWtQTWU0SXROWXBucTZtYXhiTzRzcW9WTFlfX1VCT3VLbEpycERoZmpTNllmbzZrTml6WjljNjZmenZLSDV3?oc=5"
         },
         {
             "title": "轟到你沒油！俄羅斯能源神話崩潰 急向「這國」低頭求援",
             "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE04MWlTcXRFLXNweG90MVBqU043em1hWml6WXBpNWo3QXJ6UDBQTnp5U1R1aFV1UXJqa2p4OWlnV0gzSFgtV1QzdkF1U040aTdObWNWV0hGZmxOaHlia1NB0gFkQVVfeXFMUGlobkNYVklWc1pOOThabEE2emtDU1RGSUoyN1RqOEtraGNrVl95cmJVc3dWeEozTlBJZzlaaThZS015YnEtcEFJSk1UYUVxQTl1VGcwNUR2ZjBnQmxGemFlSGRCaw?oc=5"
         },
         {
-            "title": "紐時：北京對台灣開闢新戰線 專家警告「巨蟒勒台」進入太平洋",
-            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1UWDNZYU9DRzRHRVhpOTkyU0VGTUlkOWU3RWU3RXNpWWx5cjJ1RVdBbnlaaUZ5aTBxTDlENzl4T2x6SDNVQzItUHA3MGtpejhP0gFWQVVfeXFMT1dIZm5sTEFkamFBU0R5N2pqSnRkbFc0bDlmS0lRUm5qR3E2c21MWGpNYnNxQ0tDRnUtdjVYSlFnanlseERjX0w3TWp4WkctUGljbW1SOVE?oc=5"
+            "title": "中國惡法上路！若台灣被統一？明居正揭背後意圖：這些藍委恐成清算對象",
+            "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1wOW55c2phalcxSWRxZERXRjUwVFBlS0NNTnp2TEZuNGFHdTBrTzJUTVE2amVFQVNtZGR4YUM4QUIySHBPWWFXV9IBTEFVX3lxTFBXd19mbzRwN3ZpZEw0NXI1VTU0SS1aQ1Vja2ExUkNlNEFfa3BORGx3UGtTbWdjVHRYRlpRM2ZwX0Vwd3NTa2xxZHhUQWk?oc=5"
         },
         {
-            "title": "吳品叡參選嘉義縣長！藍白力挺拚翻轉綠地",
-            "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxQU2hTWlpmVG8yVkN4enZrck5ja1BtNDJyREF0REIwNmVKUkEyVmEwSU1mU1dMTnFvRVBwbG45ZmRhb1Ywa1Npb25xSVlKS0JmVkoydXFwNm44MldVQjJBYUJYcElsRUFPRy16TDhGd01LMTNMb3hsT25CR3lHclk5bzJCVmZKQUgyLWFjUUdISC1KWGhQb2RMUkQ0OXQxSUNJeVBIWFBxWDNvTDl3N1Z4Q0xqRFpRVnZnelVMNy1fY1NhR3c4bWVoQWFBdGxZX2RpY3c3ZzZFSmxQd2l6SXJjVHBVNGhTR2JQa3ZoZkFYRGxQYm9rX05CRUg3ZV9YQWlHUk5pWFI4VEVCc0dwSjBBX1EybXl3RmthdmxJdG5kY0lacHhrTHE4Vklicks?oc=5"
+            "title": "伊朗哈梅內伊葬禮後：「有點像中國的後毛澤東時代」",
+            "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxPR0dxTkVzRmhabXBWVm9nT2k3Zm95V1FrUXNBeFktdDJ5TEx4bWFLRjJUWlVNQVBPR1RKYlc4ZTVIaVUySWQ0UW1HVkd0X2FMVWNkMW5UYzJEdlo2X1F0dTR5TTFLZHFrNkhKZV9VaWVyUW1JR2ZXVW5UVncxY2VhUmpCUjdoOHcyTkVmd3huVExnYnJHa05takRVZU5JVGQxRG9UNVZzaWJ4N0t5cWxfb1NJRVZkTUMyVWdubWsxR0NpUE9iSkNKeDJxaHhyc3kxSEstbTJXMjFnV0lJTEh1YjFVUzlzSHR6OEdMem0tblNJODRnQXBNUmtYVlVKejZSUTE2M1lsNmNlNG8ydGRxRXRiemdkcERPQk1keENuMVIxeGplT01Sa003RDRKczV4WnNBNVZCX1RtMHloN2dfTmtyNWhLejFnLXVYSzM0Wjg?oc=5"
         },
         {
-            "title": "矢板明夫台中演講遭不明人士攻擊 警方證實：受理報案追查歹徒中",
-            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBsNVdWZ09TSEdkclJiVHVNOEpfUHo4ZFRVQmw1RVRNUmc3RzRyZVBNRGtEVFpoOEZ4dVdadlhWc09JYkJCN2I1SW1wUmlFVkNp0gFWQVVfeXFMT0kwSldvRDlkR3huNEF2MmtVNWx2YUVvZm5icFNLaW5VVEZuRmlPOGFJbWtVR2ZWOG1LYmxSaklfOHhxQ1Nnc3g3aDdkOFB3WHJtaGNnUGc?oc=5"
+            "title": "委內瑞拉連環強震已知3342死 傷者逾1.6萬",
+            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBsLWxaUmExR1Z5VHdGVm1yaVl4YnlBaExDYlFhMDlPS0ljd0xBVWlWWWxPLVRyVFkxN3EwYUZyeWRiRUluU0tjNnI4TkJOUjJpamFNVUh2V0JoWFhPN3Z5alFsNE5tUdIBa0FVX3lxTE81RGgtamNkeXptN1pyb1BrUzlQbEw3NmhhUUFHT1NiSHJ2TDIxcXpQdXhUY2Vsb01wLUNyNmdXZklMV2RmUjktbUMyMHBjZ1J1dXA1dndYMVFTVFV3TUYxaEREWHZkLTlUS0Qw?oc=5"
         },
         {
-            "title": "噁心想吐！民進黨客家事務部主任黃駿翔搭高鐵被不斷磨蹭性騷",
-            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8zc0lrMGVtTi1iaWxTZ01MWFBEMVk2QV8wangtdktpcVZlVGl5MTgtUF9sR1hFdkFwVjFoUnlQd21oR2ZRMzRCSV9CQXhENHV3QUF5a3kzWEV4cEhlX0ZSeEJIY1RQSmpF0gFuQVVfeXFMUG8wa2oyVG9saE9yMHdzamx4dUFGN01yTHZ0ZWVQWlFOcHRrWUVWUDhWeWlvdk5qNmF6TkJUSjNKYm9OY1FoRnZTNHVQS3ZYaHd3VFFyZEpUcVBQQm5hdmR4aExSbWJQZW0wcjZ6UVE?oc=5"
+            "title": "影／颱風暴雨致廣西水庫潰決！下游村莊遭洪水淹沒 居民受困屋頂",
+            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9NOWlZS0dheXFuaWt1T202dENXTEJzWmQ5WXY4empJWnVIMlpLaEtSSzVhV2pvaFJkYW9XMGxNYUYxTE5RUll0UUxnQ0tESHFp0gFWQVVfeXFMUGRmX0E1cHRsYThUb2NyZXNwZ1dVWDZqcGduRGIySE04UTlRbEx6UTVJRG1zREFJMEpJb2U3dE9sQ2l0MzNTV24zZkJlYmkyMjh5M2R2blE?oc=5"
         }
     ]
 }
