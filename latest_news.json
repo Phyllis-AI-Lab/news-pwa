@@ -1,46 +1,46 @@
 {
-    "updated_at": "2026-07-07 08:20",
-    "summary": "早安，為您帶來今日上午重點快報。\n\n【天氣警報】\n強颱巴威路徑曝光，最快周四發布海警，周五下半天將觸陸，提醒民眾提早防颱。巴威也已威脅日本九州，日方發出最高等級警報，嚴防房屋受損。\n\n【社會焦點】\n資深媒體人矢板明夫台中演講遭攻擊，陸籍男子已於機場落網。北市致癌油風波波及42校，議員批評蔣萬安甩鍋。此外，各縣市敬老卡使用差異大，部分長輩心生剝奪感。\n\n【政治與兩岸】\n立法院藍白杯葛人事權，行政院籲解鈴還須繫鈴人。中共拉攏台青未果，台灣拒統比例狂飆61%，專家也揭示中共遲未犯台的四大理由。\n\n【國際速覽】\n俄羅斯能源神話崩潰，傳出急向他國求援。世足賽方面，C羅領軍的葡萄牙隊遭西班牙絕殺，止步16強。",
+    "updated_at": "2026-07-07 14:19",
+    "summary": "午安，為您帶來今日午間重點快報\n\n【氣象焦點】\n巴威颱風暴風圈達350公里，氣象粉專示警台灣恐「閃不掉」，提醒民眾及早防颱。\n\n【社會民生】\n痛心消息，18歲愛女車禍身亡，母親求償千萬卻一毛未得，哭訴法官冷血。食安方面，中聯、福壽等沙拉油致癌物超標，各遭開罰300萬。\n\n【政治焦點】\n資深媒體人矢板明夫遭攻擊，涉外人士示警恐是中國跨國鎮壓。另政論家佀廣洋開小帳諷刺高嘉瑜被家暴，事件引發爭議。\n\n【國際情勢】\n烏克蘭無人機奔襲2500公里，首度攻擊俄羅斯最大煉油廠。專家評估中國巨浪三型飛彈射程逾萬公里。美國川普意外透露習近平訪美時間，並對美伊談判僵局放話，情勢升溫。",
     "news": [
         {
-            "title": "最快周四發布海警、周五下半天觸陸 強颱巴威最新路徑及影響曝光",
-            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9nMzN2SzZqWTFCMWJyT3ZrWGU3b2tPX3BROHA1cFN4Mmhqb0N1OVBYVVFsUk5ndV9NQ2xOY0N3RGdjVm9yV2s5NUlEbkRpRU1o0gFWQVVfeXFMT0dvUWQwNnNUSlRnX0dHcTZXTTVLb0k4LXNjMXhGRlJPOHlxb3liTnRseGFqc0h0ZTFkamhVZjNGck1ZQllzY2JkUC1vOU5HVm43cWh1dFE?oc=5"
+            "title": "巴威颱風暴風圈達350公里！氣象粉專示警：台灣「根本閃不掉」",
+            "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxNbkR3X2JDbTNsVjk3MkZLeEJUUUdfdG8wcUo4WU9xczhWWjUzQng1QWdINFBHR0lDYU85c0NQVlF0QkI3MG9vVkk3NmlGWE5QclVyM1M5NW9hNUVTeFpoRW1tYjZTTTFWNHc3Vm9GZmd0ODk4RjBPUDZqUHRnVWxGQ0k4VDhlaGtUcnpGeF92RDYtOUJmcGZYM09PN0NIdi02WUc2TUlPTFRXQlVXYzRVSTlvLWd0cXVaUy0teXFOZEh1VFBodXdjMFBrenpHakVBUU9Sa1RpaFBWaEl2eVpzeXdSdHlWT1N0MGFmR2d2Z3FXYVo2ZmI1MVBUSVRuaDVCSnAtWjZSZnRDbHQ3bFBzN29FNi1GZ1BNWVFrRmdnRHJfREhfVHVBSy1GY0hpeTZOdE4zclNJLUVNdnRVNVpMWUxTWllBMWtxRkw5eWxWbmdtSWdnMWUwVXlEWlJqVFFjTzZBLWMtQ2prU1N6R24w?oc=5"
         },
         {
-            "title": "矢板明夫台中演講遭揮拳攻擊 持香港護照陸籍男子台中機場遭逮捕",
-            "link": "https://news.google.com/rss/articles/CBMisANBVV95cUxOT283ekFHaGdwbHhhbVlpUGVzYTZBVHhFR0tfNncwZW1lQVpmUTQ4TGFwdnFxSE5XcEh1b0VmdExmV0tUdFVJR2thdWF0czJ6Z2t5ZmJFX2RhWG9GR2htT3pwMlVxbFZrMHgzRHpOZDZCS25wLTBBZmZpYVd3ODdJTS1zRGFuWHJQN3MtOWJGQlBrSmNQSUFFRXRERVBMYVQ4LUREYmxXRTU4RUdhb0lIRnp3N0liT2N6LWZ2RTB0NEpUbFd0ZkJEZnpHaTlFQTN2Sy10ZEhISFRZR0d5Z0ZuS2lhZ1RzaFNuTzVjdjFoV3hxdE9ZdlgyRW5mSXNDWHdvQmdER2VFZ1hBTnJRMXVFMUZqM3NET290aEhNNUdzWVViUWdOb05qSkQ3WDZLQ05BZkE5TnZoVXFNMjZkU2pjUWNjQ1J3M2J4d0hUQ1NzODY3OVExRFNCUnVLLVlwSGltcWhlTkJodml6cUwySjhmaGpGSndQbkptdmdXZkhSRDUza3FLbEJyNnYtNzdtNHhLYy1mMk5WUHFEaVFrdlpEOFZJd0xYZDlOeVdYQUFOOXI?oc=5"
+            "title": "矢板明夫遭攻擊涉外人士：中國跨國鎮壓警訊| 政治",
+            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBoWmhRUlB6ZmtFTGo3SUp6dl96RDI0LVA3a2g3WERMaHNLQ2RYdlZYaXpESG1fMEhoaDFZeHR0NF9EOVowNEFOLTgyRXpTNkRmNnpsWUZZRV8zVjR2bU04?oc=5"
         },
         {
-            "title": "致癌油波及北市42校！沈伯洋批蔣萬安「甩鍋」 沈富雄揭責任歸屬：這招很不聰明 | 張庭維 | 新聞",
-            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE96bmlpaHhmcnE2OWlGME9na1lRSjRfcWVzQ1hrVHBCUENuTFkzaktsV29mUzUxN2VYQ2FQSEVUbHo2MERFWkhRdFlhejFLZw?oc=5"
+            "title": "18歲愛女遭輾壓身亡...母求償1200萬「一毛拿不到」 哭訴法官冷血",
+            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9vdjhRSExVRGZGaC1xUTQySXVJUndDR0Y3Zy1jMHFKOHozSEZWY2VwZ2ppX09yOTJSUHJUU2lIYUVjY0lNeVBrdzFyZDBZU3F30gFWQVVfeXFMUHBINHpZdS1YV1Y5TDlLWTVTT3lwd0piUkJzRG5jcVpFbWR6c0hqcWMyMVlVVjROWGNTZFI1ZmNGRlhJdHRIVGFHR0tpLWNhMUdJcF83MXc?oc=5"
         },
         {
-            "title": "巴威大到「吞沒整個九州」！日警告：恐吹垮房屋、扭曲鋼構",
-            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBZd3lCbThHT25aTHZ4M0FZR0wtMXlWbzUtZmRqbkJUX1d3SWtjd3dTdDBxU01KYVA3LUJQSlFpcHczWVJzMWJhc1Q5cVV5VjA0UmxaTEVYVTBrYmJuWUHSAWhBVV95cUxOQll2RFBrczhYdnYxRmVmamxnZFhWTUJiejdpdXVpRjY3S3ZKUVBwM3R4VVUtU3hsN0QtSGloV25wS2JQbzRxblFkaW5UdEFBVkZrZmVFd0piREtOX2JaV1FMdzJ4a0k4Qw?oc=5"
+            "title": "吳明賢昏迷內幕2／拚酒貪杯真母湯　喝酒比賽、新郎灌酒憾事一籮筐",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8xWkM5WkRzckxQeTBTZ2hwaHR6SWhuaE9xZEdmcHhFZlJsS3Q1NmF6MHRxRUE4Y3VTa3Y0M3JlM1ZWN1lsNkJEd3FJLWRrQVhfd0FOLWIzOXd3S1nSAWBBVV95cUxNd01Ua1FZN3BCaERSWkdsSk9QYjNxUG5FX21WdWplNmNUc3lheTFDZ20tR2laSlhNaHZSRzBnY2lSWDJJT2NIUlZkNTBYT2hhLTM2c2hLY0M1elZpSklDMUw?oc=5"
         },
         {
-            "title": "轟到你沒油！俄羅斯能源神話崩潰 急向「這國」低頭求援",
-            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE04MWlTcXRFLXNweG90MVBqU043em1hWml6WXBpNWo3QXJ6UDBQTnp5U1R1aFV1UXJqa2p4OWlnV0gzSFgtV1QzdkF1U040aTdObWNWV0hGZmxOaHlia1NB0gFkQVVfeXFMUGlobkNYVklWc1pOOThabEE2emtDU1RGSUoyN1RqOEtraGNrVl95cmJVc3dWeEozTlBJZzlaaThZS015YnEtcEFJSk1UYUVxQTl1VGcwNUR2ZjBnQmxGemFlSGRCaw?oc=5"
+            "title": "飛彈落入南太平洋路徑圖曝光！　專家評估為「巨浪-3」射程逾萬公里",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5rcEZqemNOTmt2QzRPUTJza2pENEQxaDQzaV9kcTlHQVZsQnpneTFyOVdKSVNsWGRCcXZ0SEt5cnFuXzRnVkx3NFN2a1QzbHJBdXNPdXVZWkVrQThEU1HSAWhBVV95cUxOUUVYUVlERE16VlJOVmVabXJ0OF95UTdtX0pzSmRySmFFZENCQmNlNWdFU2dwNVBwbjFBMWJDaHEwNXRKNksxQmpVM2VsOUtaTmdHV3ZGLUZ4U21GVkYxcWdjVGMxenRHWg?oc=5"
         },
         {
-            "title": "世足》西班牙傷停補時準絕殺葡萄牙 C羅最後一舞止步16強",
-            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBjUWhMc09tY0Mtbkh3VTZWVGFpdkRxV295NUZCZTJxQkVPcGRwQU16QjBaamI5ZVNJWXo3Si10V1dHaE5zWU9FVU5HbHljZG9adUNvaEs3SkpSS0tnNTNYZdIBZkFVX3lxTE1lRlpTSTl0S0VObC1BSmw0aHZueUFRQzFVVFpwbkFZeS1kQXdFUEExV2NWVWxabHEzMFQ1akZ5bW1zTkI3RER0QWdEMnpFYmVkMlV6RTV4TUc1TzV6N0FMYmNjdkxvdw?oc=5"
+            "title": "佀廣洋遭爆開小帳酸她被家暴！疑因建商父工安案被揭高嘉瑜理性發聲| 政治",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE96TGRNZ00xcUF0VS05cFRTTkhmdlBhYXJjWDlkcWp5b0FVRHI3UlVSdURLeVpWeUNEUWdJOTBNSUNFNkFoUzJCbFgwbFlfeHBWRktUa09WM1RQaVk?oc=5"
         },
         {
-            "title": "糖衣毒藥？中共辦夏令營拉攏台青 碰壁慘撞台灣拒統比例狂飆61%",
-            "link": "https://news.google.com/rss/articles/CBMikANBVV95cUxNX3RhelVrdTZtUlZOQVFYMjNSeTBiT0pRSnYybFVZTEF5cU0yMHFYZ3hIbDFsMENfVnF1RmdZQ0c3eEdZSWRMckxwSTBUOFlISkUzOHVDNTZodUNKektxcmhvUDY2VFVqMDhkdEEtWWczM2U1eUNTa2kxUjlzV0I3dy1PYXpxLTRtZjRhNUhFOEx3c21Nc0thNXpqbjUzcHhTa0lmY3BkSGdRYWJoc2g0eFRtc2g2dXIwdGlZWjNqSDNHSS16aTFjQ1QzeFV6NExJLUMtSnUtaEtwSldfXy1SUTZrdDZwTWNUcWZ6MHpOcUo5emdnRHhfS3FXMVplUHcxS3RMSnZCMlZ1TjhEYW9TMlI2NWtjTDVDREZMaVFkMllmNlZNeGM4dEJWdV94bldZdHlnRTd6QkhnT1A4Q08wemxVN0t2UXRVUlh5MUNlanpYUWlhWkRzdWlqVmR5Q3hnTFNVdDM3UWQxRE9HTDZxVFFkNlZTQUl0SzFyUjJ0c0pmUTVJc2pLWFc4V2NiVUZB?oc=5"
+            "title": "沙拉油致癌物超標 盧秀燕：中聯、福壽、福懋各罰300萬",
+            "link": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxNazF4WEhHMDJXR21jU2NCSl9hbFBKV0lROVlxMkNudDYzdzZaTUd3UGE3MDJqcGZjbnJ1Zm9CTnFpdXppOWR0VzVYbDJuRG9KaWJwZ2hQRnZNOGlrSFphVkx0M1ZlV2FfMlJPNlJPSWo4ZUxILTFnd25CTmxJcmdEUzdCRHYzWFBoMEJVcjMxX3pTQk1UeUx3YktwdnlPdE1UN1B4TjJ1UHVWbm5zakUwZnVEZW1CX3pRRTI5Tm1lUWhOd18zMXJ5aThhdENZVWlRNlUyaE5qbnNkYnpfVmZtWm5pdTFnYTZFV1BNbnBZbEhCc0lCdkhIZzh1cFlfMDJvekRKaGtuVDhULW9xbkp2Nm9NLVM3eXV3di16aXdpZGRuMENTaFpBWklQNHlFTFU5YXprMlpFYVhfdFZIZzVxYTZKZWo3bzB1VjRMUkR1SVZ3VE03X0hkMDFwZ0dnWm43bjc0M1NsNEpvNEUw?oc=5"
         },
         {
-            "title": "遲未犯台4大理由曝！苦苓揪中共把柄：開戰將面臨完全致命打擊",
-            "link": "https://news.google.com/rss/articles/CBMijwNBVV95cUxORWNPQi0xMnlFdlB4NUlYN1g5ZGl1UmZxczQ4ck5sckhCbU12aUozRzhZUzdQelJUR1A4UG5UaWkxdmpOSTE1ekxmTkZFcVZGR2ZDN0V0c0c4VUFRR2NVQUtwNzZHZ2s4aDVCQlQ1bXBENEdLU2hpMl9zX0dhcTFLb0FxcTZacmc5MGhtdW92dFN6UmZQcW5iRTE3Rk5HQXJFRHNZQXlILWVwdVB5MlZSSmJqUlJIc0cyZ2RodGRGa3RmVGp6UUJtM09uYkhCbkFwS19HcHNwS1BKOGNSNDh3TWNfcFVNVWJsUjJXNlBkRVMwSVlLbnBiWVl1NGlGN1JtdzhYaHlvQnFHMVRrLUtrb0dmdUdOWXQ4djNTb1FaT0hFeWI4LTNNRnNoM1BUVFYyc205c0o3WFduZ3o2VG1tWkVzek1kb1NYcS1IWHhOWUpYTXg2OE9sTWF3MlQ4ejBiQWhRZ1JyeVNsclR1cUgtbFIxZ0sxeVF2MVI4cy1jQm00TWNEYTFubXM0QjR2M2M?oc=5"
+            "title": "烏克蘭無人機奔襲2500公里首度攻擊俄國最大煉油廠- 國際",
+            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0zcEdKNDJCZ1lKZEVYVmtZRGt1Zlo3Nks2clFEc3M2ME9faGpfVE5ma2tMYVRMNEtPOVRzT2RrWUpfZWRKMmNFMHZLRjR3WVRHNXNhcGtZQl9mRVFzMTdOZnQwWHZpTFltb3hfSEpn?oc=5"
         },
         {
-            "title": "新聞眼／各縣市敬老卡開放差異 長輩心生剝奪感",
-            "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxQRnNoVFIxT011N0ZqOFBocFUwS1NMaS04TkdzNzFnckNGM0tFeEVOQnNDNWg2WFhpcmIyY1l3SVpNSW1jMVBUbDQ2T1RISkdkMTFIVzBkNU4yeU1LbnlJb2w1Rzg0OUZ5ekVCV0ZxYUZKNUM2cGptY2wtWlphUXlmRTVmaTZpSUloNzc3OVRoaE9jdDhwZmFTcm9CSk1wWk1nWVZBbUJWTWhoS05MRXlqZ0dWZDYzQlNPdDJJYW9obDlaTjV5VFNVOHBLMGU0enVsaUV3MFRHckR5VjVPcl9CTVhLeUlIdTJPelhReEpFbk1iZjhNcTZ2OG0tXzFFRnpvZW1PUXdRaWxFUVN3Y0pFWXZmdWVqN1J6WENraUR1NjlGcG55b0VHUFpyUjZQcWdfMUJFVTJNVzk5ZjVST3lGajZablE3Zw?oc=5"
+            "title": "「意外」透露習近平訪美時間 川普：每個人都想見他",
+            "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxOUUxpeEZOd2JmX1JnVWNjcmU5ZDhjeDV5Mm8xeXd5OVNsNmpGTGNyMzZVLV9taWNyUGFTRmxFS2R2bkpZNVVLN0tFWjZ0dWpydGNCelVaOERVdHJtN2llcktPSG4yS3JfVXZJT1ozWjVGcFpFUkxRcEswUGFmaVAwVW40N2ZPbHJRTDBLWkh6TnR3cVI1NVprVGdQTUJ4RVZ3Y0Z4bU5lYWpUakNHOFlZVkpCVFlVY2M4VllVaEplTW9WZEFSUTVjYlNkRkJ3VjVGQy1WQW1aV1BjQmJ4MTFmeEdlOXJUNHFFaVk0blptNHpNd1RYZzA2UmswaUMwc19sUU5JajRXRFVVMzFRNnE5eFdIRW9XcmR3elB4LTJMMHpHcEc2ZXR1czl3M09NUDFZQnlJdlZsMHBEaFFweXpuWHhsd0xSZkU?oc=5"
         },
         {
-            "title": "藍白杯葛人事權再限制代理 行政院：解鈴還須繫鈴人",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ZZmNpQ1NGSWd3c1dfT2xRdG5fdGVvLUJTemRkdXZDTTluOFNYeDY2czB1U3pncDBHekI4QjB5MXZ6cTh6Zk5lRVJTTnhobi1fQ0dXLTZ3MmRMTTIyMjBjV3ZKZzVCbDJ1M1HSAW9BVV95cUxPZHlBbl9Dbld3RDhqWkJ1UFpLcWpGVWRvZ1gzWjJLS09uY1JJOUhDRmxTZlYxc3EwM1dMbkJvUDIzSXR2a0tLeldyUjM1OVE2TjhxdjVkVG5nRjROYmFodlVHS0xPaWgzRHZubnltRjA?oc=5"
+            "title": "美伊談判僵局 川普放話不達成協議就做個了結 伊朗稱威脅不管用",
+            "link": "https://news.google.com/rss/articles/CBMipgNBVV95cUxPUGM5Yk1RazA5TXZuQXZaLWFyZDF5azROd01qekdZZ0FXVWpXaHBhN3UyVlAteDV1N1o1R01mTHBHTjJOM0swbGFxYXpOcHBwb2hZVndiN3M0YjdYMDlFWW9hZG1tejladi1iRXE2YzZBM1U3MUNrTllnMHp0eW93TDNYQTh4TE9kbGp2WjlfZlZUSG4yWkY5VDZRNUVWMk04WlBBSnBmVWowNXEtTTdLbkhXbDg3NmVQWTlleEgyOHRPUTNRZjZCaThOemw3NG9rVTFoQUhPNjB0YzlDdlFSdktrMER3N2dDbmpNWnBsNWpOWGk2Unl2dmVwTVNOY0ZFeUZnZDdOUmFiNExsZHhjRDNoZEN5eXl0NEJUcVBsd2lLa2sycGlUR1RYd09vcGVtVm95SWx2RUxROHNnTDNrbGhtanBpRVVLU2szbzdmakFKb0FZeEl0TVZxZUJCUVFrdTJrclFmS1Jxb0ZESEJudm51M0xLcFNodFBON2ZYVzlld290bGwySGpQYmo4UWxaaFZpQm5zZklHRF9zZG5rOC1Pb2tfQQ?oc=5"
         }
     ]
 }
