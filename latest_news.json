@@ -1,46 +1,46 @@
 {
-    "updated_at": "2026-07-09 14:16",
-    "summary": "午安，為您帶來今日午間重點快報。\n\n【國際情勢】\n伊朗近日對美軍位於巴林、科威特的基地發動反擊，並聲稱擊落一架美軍MQ-9死神無人機，中東緊張情勢升溫。美國前總統川普則因對伊戰爭記恨，傳出要求財長切斷與「某國」所有貿易往來。此外，紐約時報揭露川普在北約峰會後突然改搭舊空軍一號返美，真相恐與伊朗威脅有關。\n\n【社會民生】\n強颱巴威直撲北台灣，北北基桃等八縣市暴風侵襲率已突破九成，有民代呼籲台北市府即刻宣布颱風假。食安風暴擴大，中聯油脂案下架名單增至401項，卜蜂雞胸肉、味王泡麵及超商快煮餐皆入列。嘉義縣長翁章梁座車遭預拌混凝土車追撞，車尾全毀。另外，日本女子的驚悚經歷引發關注，她慘遭同居人針線縫死嘴巴，衝超商遞紙條成功求救。",
+    "updated_at": "2026-07-09 19:19",
+    "summary": "晚安，為您帶來今日晚間重點快報。\n\n【社會民生】\n台灣民眾高度關注颱風動態，台北市長蔣萬安透露，希望民眾在週五、週六盡量待在家中，暗示兩天颱風假有望。而中聯油脂案持續擴大，下架名單已增至401項，包括卜蜂雞胸肉、味王泡麵等知名品牌皆入列，食安問題再掀波瀾。此外，中國廣西地區因洪水導致千蛇出逃，已知有一名女子遭毒蛇咬傷不幸身亡。\n\n【國際情勢】\n中東局勢持續緊張。伊朗據報發動大規模反擊，轟炸美軍在巴林、科威特等多處基地，並擊落一架美軍MQ-9死神無人機。美國前總統川普則因對伊戰爭的恩怨，傳出要求財長切斷與某國所有貿易往來。在哈梅內伊的葬禮上，中國來客的現身，也被外界解讀為北京在外交上的新盤算。\n\n【兩岸關係】\n台海方面，中共突爆大動作，驚傳發射飛彈並有航空母艦出港，我國防部長顧立雄已出面證實相關情資，引發各界高度關注。",
     "news": [
         {
-            "title": "颱風巴威暴風侵襲率最新預估 北北基桃等八縣市突破九成",
-            "link": "https://news.google.com/rss/articles/CBMigANBVV95cUxNdU8xcHMwTS1YRE1YRUhnWEEwWFNZS2ZPZFoybzlISDNvR1p6ZkswbFNpWkJ1REpoaG84OWV1TW81VTFMd0YzanhVSThrc1EzcE1PLW5FNHM5akJXbUNSQldMaEVZYW1jOUJiY2F2QkJoMU1wWVdtTG5oNTBXS0FZYWt2b2ZmYmtySlA5cmJROTJ5cl9mRkV2WnBhTU9CNGZMTk5xV2ltSEtGZXRRMkE0QjJ0dG43NEJOdF9BMWtHOEJVY1o4aV9OVWx1MXBDNmgtSXhhZnNHMjl6THFtS2hSTlN6bXhkSWNQWTJQZ0ZWU0dTbjE4TTNBV1Q1QWdyRUZVcnhzaHNiSUlJQ0JseWJ3US1uekZVc1lrelZob2FMSEZkVTY5V2pCVmp0OTdkdTB1TWFQWnhMVTV4cTdWYnpOR3hleUQ5aHNFSndEejZUaUhwN1F2RUQyRktnM2taSFBXS2l4S2FGNEx3dlhLdXdaQUZrb19SSDZmMVo3NFduZzM?oc=5"
-        },
-        {
-            "title": "比美軍多5處伊朗反擊了! 大轟巴林、科威特美基地還擊落MQ-9死神無人機| 國際",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0wa3AtTy1oTGpxSXpkVEtiblEyVElXaW0xWDN3aWFybk1IemV6eXFfZFFYR1Nsa0JtQVhfRm1JalJiWmk5WXpwNHU0MVZ3TlQ1cnctLXJTY2VPb28?oc=5"
-        },
-        {
-            "title": "縣長座車 遭預拌混凝土車追撞 車尾全爛",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5JZW11Z3phaTJSaGppa0dsUXk5UzNlR1oySUpKNGtyalhRTWdlUktMRHRSUl8wN3BKeDFyRVJ2NjJORDJZQU1EOXVWX3lfOTFma1VKTlNR?oc=5"
-        },
-        {
-            "title": "打矢板明夫中國男 香港警司爆料：起源於國民黨黑幫「14K」的人",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9sd3J4V2hncC1FclJwNnhwTXV3RjRNZFFxaXNSU0c0ZFFtTm9MS0ZMY09TNDcwbUhiYmROcjVLRnJXeGt6YWt3Z2xrZkU1VTdjLVNfR2c4WmRnc3FKd2lJOFd4akhxM2s5c1HSAW9BVV95cUxQbXFrZVA2RXBBd3ZDRGVNbDVKZFdsc1FKRmtGNkg3STVTS2RuREFpS2t0dUozR0dTSlB6T2J5Q1pKcnhhOWN6cG4tTDdoRFFRTEttZjdzSnVobFdBZHdjSUFVU1M3bzdITUx0b2t5M0k?oc=5"
+            "title": "2天颱風假有望？蔣萬安透露：希望民眾在周五、周六盡量待在家中",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE15NHp6ZjNUcVBiYkw2bkhRdndiRVM2aUY5bGdOOGVkbWNFZXJJNEJib2p5STk2MmowUHBtc3dzcWNvWjJpVXVudmVYT1o4dGlDR1Rr0gFYQVVfeXFMUEh6WnJySnlVczlrWS01VXl4N041LWktVG1fa1hFQWR3b2dYcldsd18tU1BpbHlnU0VBYnZIQVItWTczeEVkRzJQeWFScjl1ZzJ0M1J0bENlbg?oc=5"
         },
         {
             "title": "中聯油脂案下架名單增至401項卜蜂雞胸肉、味王泡麵、超商快煮餐入列| 生活",
             "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBoR1lpRkdoNEluQTZiRWhsRENfUERRTkpROHZWdFgtS1pCMmxTVHpudzRLb0dvNUF3OHhINW05c3FPbEV0YldhV2J0OVRBV01PbGhPNUhSUHU2djBMS3Qw?oc=5"
         },
         {
+            "title": "比美軍多5處伊朗反擊了! 大轟巴林、科威特美基地還擊落MQ-9死神無人機| 國際",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0wa3AtTy1oTGpxSXpkVEtiblEyVElXaW0xWDN3aWFybk1IemV6eXFfZFFYR1Nsa0JtQVhfRm1JalJiWmk5WXpwNHU0MVZ3TlQ1cnctLXJTY2VPb28?oc=5"
+        },
+        {
+            "title": "中共突爆大動作！驚傳「發射飛彈、航空母艦出港」 顧立雄出面證實了",
+            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9OdDNJdHJhOEJZeWw4ZEMwWUNON2UzY2ZGOXk1dHozZzBTTTNkMjFOWExDZTM4SllPOWxjM1ZJcDR5UFA3ZHhFX2tYbm9TVEhvVVZobHpwQkxyNS1RRWZWNQ?oc=5"
+        },
+        {
             "title": "川普有仇必報! 因對伊戰爭記恨要求財長切斷與「這國」所有貿易往來| 國際",
             "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBoUjhHaU9naXBTaW1HV3RwaC1Na2ZpTWgtNFlxSjVmbDN0UmF2a2I2d0s3bzhqQzV1bUI5c2FDM3NEUXd6VjdnWHJ1YXlvYlNkVU1JSUxoOFhYNzQ?oc=5"
         },
         {
-            "title": "強颱巴威猛衝北台！她開第一槍籲蔣萬安：即刻宣布颱風假",
-            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9fRnF6ZG9IY0tfOUhkY1l6RjZCN0s2Q2d5cDdYNUN3eXN2d0d4Tld1eXExT0RHeGRyNkM0VEdxV215VDJ0aEw1YmJWUjNwZw?oc=5"
+            "title": "打矢板明夫中國男 香港警司爆料：起源於國民黨黑幫「14K」的人",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9sd3J4V2hncC1FclJwNnhwTXV3RjRNZFFxaXNSU0c0ZFFtTm9MS0ZMY09TNDcwbUhiYmROcjVLRnJXeGt6YWt3Z2xrZkU1VTdjLVNfR2c4WmRnc3FKd2lJOFd4akhxM2s5c1HSAW9BVV95cUxQbXFrZVA2RXBBd3ZDRGVNbDVKZFdsc1FKRmtGNkg3STVTS2RuREFpS2t0dUozR0dTSlB6T2J5Q1pKcnhhOWN6cG4tTDdoRFFRTEttZjdzSnVobFdBZHdjSUFVU1M3bzdITUx0b2t5M0k?oc=5"
         },
         {
-            "title": "巴威太猛！蘭嶼「肉眼可見112公里菲律賓」島嶼 網驚呼：越清楚颱風越大",
-            "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9pb3BDWVBVRjRGWkRqMmh6MEZqeUNRTUtTZmN2a1JoNWRucmh4cXhUY2RCZmltWncwWFdHYmU5cFVDNmNrekZ3aNIBTEFVX3lxTE5IN1NtNkoxVGFaZXgwdTlSSWI0OVNQWjI2YnM5cXMxYmxNY1pLSVBpWWs5bExwV1hTOXZHOWNLOHJJV0FnZjlkbTVsVUE?oc=5"
+            "title": "明天會停班停課？「22縣市首長臉書、災防假、颱風動態」連結點此",
+            "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1yYm9rVXFvNmdFdm9MNWhLUTlfQkhBV2VYWjhqZnltS1d4MldtYnZHZldkOEExOFZ3OTNSaTV0WWdRV0FoMDhmLVJkNmTSAVJBVV95cUxQdHFreXFKR2tnUjJRdmNVNk9hcmMwTHNHRFVEZjNkWEM4VXk4VXJfejZrVTJCNzJYaUl6THBDZEVORV9UTnpXdTFDWXdmYUhqd1J3?oc=5"
         },
         {
-            "title": "因為伊朗威脅？川普北約峰會後突改搭舊空軍一號返美 紐時揭真相",
-            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1QTXFfdWo2X2l6dm84T1JTM2pNdzdlNW9Qbk5iUmVJZFVHRWI1WTdxQ3JuQTZqb2U5NGZjWEE5VkswSE1RS0ZaRXU3ZE1DcjFFa19n0gFYQVVfeXFMUGhkc2I4UjJta2x5cXJtV3BaY0lkZ29PU0JyUE40OXUyTm1hT1BzcWJOdWdiVkNrVHBnQWlKUGdKdkxna1NXM1JFQzY1VjV4RHFtUjJDTC00Zw?oc=5"
+            "title": "哈梅內伊葬禮上的中國來客：一場外交安排透露北京的新盤算",
+            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBsbndkMDJRLUM3RHo3NUNzR01sWTMyNHczcEc5NEZWQUhubTA1MHFKWnJVOTRqZjlhTU9odTlaSkdudGxXb3BFU2t4TkZmbVRQUG9WWDV1RU5RTlhxOU1RT1ppbS1FZ9IBa0FVX3lxTE1LU1NXNW5LbWxoQ2JZVXUwMHF2OG1RZHpHMXdMVGRFMWZaeElpTUJlZ2FhLXU3OWZXTzlSREp3QnpBZ29UQ3hsbzFKTkN3bFVqbEtZdHdrMnFmMGwya1pucnBOWlcwd0ZGZ1dV?oc=5"
         },
         {
-            "title": "驚悚電影現實上演！日女慘遭同居人「針線縫死嘴巴」 衝超商遞紙條求救",
-            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE41Q25TbkJUNGt1LW43SGZ1RktTQ2NWYk9MM1BqTzNJRFU4VEFuTC1CeURhZVhvRGgwSzVFRUprakdQRnEwdkxhdWVwN0hRTk9Z0gFWQVVfeXFMTXN4djBsVHM3OXdyMG5JWXhFb3A5dWRKa0k2dW93ZlVrc2lfZXVLZTFYVjB2QWxJSnhyalN4VHNSVV8xak5sQkJFbHFjZUR6amZDZmpHd2c?oc=5"
+            "title": "不搭卡達新機川普突換老空軍一號引猜測! 伊透內幕: 我們本可除掉他但沒有| 國際",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1iSjhIZ3dxd01DQ2o1Ynl4WlN2VDRwT0FNeEZpTTQzZXF1ekxxYzI3Mm1mWVNDTDhpaTEyRWFKTi1JTDktb1RrVURjUHFrR1JRcWFDVFlqSFVxcWs?oc=5"
+        },
+        {
+            "title": "廣西洪水千蛇出逃 已知1名女子遭毒蛇咬傷不治",
+            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1ZRThqcXBkM2owdkVHanZQS0s4SDIwM1Z5TExIOHd0NmtqNjZabHQ3bHJIMERQU0VlMjROb3VnRUVyVXkxcDRPMUZVenpsVkpN0gFWQVVfeXFMTUdLLWZVbjJrYWpjZ3hSUG1jYWhwa2VvTVl1V2F6Vkl6QkgzbkNMWVlJWDVrc0YwX09zZkJUSkhRUDd1MVRINHdFdUJOd3RHcFlMaHBRYVE?oc=5"
         }
     ]
 }
