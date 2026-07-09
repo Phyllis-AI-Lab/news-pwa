@@ -1,46 +1,46 @@
 {
-    "updated_at": "2026-07-09 08:20",
-    "summary": "早安，為您帶來今日上午重點快報。\n\n【政治焦點】\n總統賴清德紀念日本前首相安倍晉三逝世四週年，重申台灣將持續深化雙邊全方位夥伴關係。針對美國在台協會處長谷立言的言論，國台辦出面批評其「違背表態」，而AIT則強調美國對台政策沒有改變。此外，日籍記者矢板明夫遭毆事件，嫌犯身分被起底，其藍營背景及相關反應引發外界熱議。台北市長蔣萬安針對公所緊急調度一事發言，也引發部分基層同仁的反彈。\n\n【國際情勢】\n中東地區緊張情勢升高，伊朗宣稱已反擊美軍在巴林、科威特的基地，並表示擊落了美軍MQ-9死神無人機。\n\n【財經動態】\n「青安3.0」房貸方案預計八月上路，將增設排富條款，同時提供婚育家庭額外的加貸優惠。\n\n【社會民生】\n強颱巴威來襲，其巨無霸規模被形容為近25年最胖，預估路徑將鎖定宜蘭東北外海通過，已導致分科測驗延期，週末是否放颱風假成為各界關注焦點。食品安全方面，中聯油脂案下架名單持續擴大至401項，包括卜蜂雞胸肉、味王泡麵及超商快煮餐等知名產品皆受影響。另有廣西洪水造成900條蛇脫逃，已傳出村民遭咬中毒身亡的事件。",
+    "updated_at": "2026-07-09 14:16",
+    "summary": "午安，為您帶來今日午間重點快報。\n\n【國際情勢】\n伊朗近日對美軍位於巴林、科威特的基地發動反擊，並聲稱擊落一架美軍MQ-9死神無人機，中東緊張情勢升溫。美國前總統川普則因對伊戰爭記恨，傳出要求財長切斷與「某國」所有貿易往來。此外，紐約時報揭露川普在北約峰會後突然改搭舊空軍一號返美，真相恐與伊朗威脅有關。\n\n【社會民生】\n強颱巴威直撲北台灣，北北基桃等八縣市暴風侵襲率已突破九成，有民代呼籲台北市府即刻宣布颱風假。食安風暴擴大，中聯油脂案下架名單增至401項，卜蜂雞胸肉、味王泡麵及超商快煮餐皆入列。嘉義縣長翁章梁座車遭預拌混凝土車追撞，車尾全毀。另外，日本女子的驚悚經歷引發關注，她慘遭同居人針線縫死嘴巴，衝超商遞紙條成功求救。",
     "news": [
         {
-            "title": "中聯油脂案下架名單增至401項卜蜂雞胸肉、味王泡麵、超商快煮餐入列| 生活",
-            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBoR1lpRkdoNEluQTZiRWhsRENfUERRTkpROHZWdFgtS1pCMmxTVHpudzRLb0dvNUF3OHhINW05c3FPbEV0YldhV2J0OVRBV01PbGhPNUhSUHU2djBMS3Qw?oc=5"
-        },
-        {
-            "title": "強颱巴威變成巨無霸原因曝 颱風論壇：路徑鎖定「宜蘭-東北外海」通過",
-            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBJLXdEQ1QzeGZ4UDRldG1YLWNoMW5ZYnpvS0ZpdFBmamp3eEMwbUowMGJaVnprMVJBR0w0Y0E4blZfRUhRWlpLUklaX01sOHNIajhj0gFYQVVfeXFMTVlsS1RXZERqeVRtUlhTb1kwSHRFaHFzMnU4SHhOa0h4NHRMaUFkN3ZMTDBJUEpBanlYb2ZNUGJzX1FKemtpdUc5SUlxT0xpZ3IyWHJ2Xzl2cw?oc=5"
+            "title": "颱風巴威暴風侵襲率最新預估 北北基桃等八縣市突破九成",
+            "link": "https://news.google.com/rss/articles/CBMigANBVV95cUxNdU8xcHMwTS1YRE1YRUhnWEEwWFNZS2ZPZFoybzlISDNvR1p6ZkswbFNpWkJ1REpoaG84OWV1TW81VTFMd0YzanhVSThrc1EzcE1PLW5FNHM5akJXbUNSQldMaEVZYW1jOUJiY2F2QkJoMU1wWVdtTG5oNTBXS0FZYWt2b2ZmYmtySlA5cmJROTJ5cl9mRkV2WnBhTU9CNGZMTk5xV2ltSEtGZXRRMkE0QjJ0dG43NEJOdF9BMWtHOEJVY1o4aV9OVWx1MXBDNmgtSXhhZnNHMjl6THFtS2hSTlN6bXhkSWNQWTJQZ0ZWU0dTbjE4TTNBV1Q1QWdyRUZVcnhzaHNiSUlJQ0JseWJ3US1uekZVc1lrelZob2FMSEZkVTY5V2pCVmp0OTdkdTB1TWFQWnhMVTV4cTdWYnpOR3hleUQ5aHNFSndEejZUaUhwN1F2RUQyRktnM2taSFBXS2l4S2FGNEx3dlhLdXdaQUZrb19SSDZmMVo3NFduZzM?oc=5"
         },
         {
             "title": "比美軍多5處伊朗反擊了! 大轟巴林、科威特美基地還擊落MQ-9死神無人機| 國際",
             "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0wa3AtTy1oTGpxSXpkVEtiblEyVElXaW0xWDN3aWFybk1IemV6eXFfZFFYR1Nsa0JtQVhfRm1JalJiWmk5WXpwNHU0MVZ3TlQ1cnctLXJTY2VPb28?oc=5"
         },
         {
-            "title": "毆臉矢板明夫「他曾陪中國男住3天」身分被挖！周軒揪「藍營超扯反應」嗆爆",
-            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5TVDN2bVFVekoxTE54bWRzcHpqMERkMXo1UkVWR2F5bTM1MV84NGIwZ2Zsd0hfZFdzVHVlSW95TF9VUTEzOUwyYkdIR0ZFbFQ2clQ4QzZCd05ZcTY0elJDSg?oc=5"
+            "title": "縣長座車 遭預拌混凝土車追撞 車尾全爛",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5JZW11Z3phaTJSaGppa0dsUXk5UzNlR1oySUpKNGtyalhRTWdlUktMRHRSUl8wN3BKeDFyRVJ2NjJORDJZQU1EOXVWX3lfOTFma1VKTlNR?oc=5"
         },
         {
-            "title": "「青安3.0」八月上路 增排富條款、婚育可加貸",
-            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1fYWt0eGFHNzZ3d3E2VjlUMUl4LWhvRXJZWU5ONzRUZG4xREJBSkNBNnltWFNuakNKc2RxLWtKWnYwTXV2Rk5QdnMtbUliRUJy0gFWQVVfeXFMTmExYmJnQzFiaUhZQkM0eXB4WkhVajdYczEzelEwUVVEZk9jU3ZfRS1TTWk1VDJXbjd0REMtWGVualRHYXdMX2psYlRnaVpyQ3NqbEx1a0E?oc=5"
+            "title": "打矢板明夫中國男 香港警司爆料：起源於國民黨黑幫「14K」的人",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9sd3J4V2hncC1FclJwNnhwTXV3RjRNZFFxaXNSU0c0ZFFtTm9MS0ZMY09TNDcwbUhiYmROcjVLRnJXeGt6YWt3Z2xrZkU1VTdjLVNfR2c4WmRnc3FKd2lJOFd4akhxM2s5c1HSAW9BVV95cUxQbXFrZVA2RXBBd3ZDRGVNbDVKZFdsc1FKRmtGNkg3STVTS2RuREFpS2t0dUozR0dTSlB6T2J5Q1pKcnhhOWN6cG4tTDdoRFFRTEttZjdzSnVobFdBZHdjSUFVU1M3bzdITUx0b2t5M0k?oc=5"
         },
         {
-            "title": "廣西洪水900條蛇脫逃！村民被咬中毒身亡",
-            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5CN2VkSzRQR1p4dDVIOUZjbEViLUVWNjU1MHk3VW9zckRrWnlhRW56ZE52OEtDNDJNVXgwd2czelEtR0ZsNVl1Y1MtVnhaVWhmeTJQYkZ0eUtZMm9WWnfSAWhBVV95cUxQaWp1Q29mNHNfekdOM0lPX1FPdEp6YnRXZjk2VUd4M2poTElJTVRPcUtIMm5zZHcwZTJQSDZUYW5zamNZemxpRVpUTXAwamIwQ3BKWGxZMGpBM1NPaXplNEdEcHNEVEE3Tg?oc=5"
+            "title": "中聯油脂案下架名單增至401項卜蜂雞胸肉、味王泡麵、超商快煮餐入列| 生活",
+            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBoR1lpRkdoNEluQTZiRWhsRENfUERRTkpROHZWdFgtS1pCMmxTVHpudzRLb0dvNUF3OHhINW05c3FPbEV0YldhV2J0OVRBV01PbGhPNUhSUHU2djBMS3Qw?oc=5"
         },
         {
-            "title": "蔣萬安嗆公所「別發生需緊急調度的事」！他開轟：別這樣對待基層同仁",
-            "link": "https://news.google.com/rss/articles/CBMipwNBVV95cUxOX0kwbmYwLUxZTGpGRmFaMnFKWEUxZmZtTFJLUHh6VWZqVFhJTHJaMTZCN0FXM21SSDByM1Yxa01RbkxmeWotS1ZtS0E2V3NBRVpUeVBEOHpIbzZSai01b2E0V3ZXUF8tSmNDVWQ1eHRQbWZIQUJFckRuNnpiT1kxN3N5OEFpX1VUR1NFZ1htSnhEWmZXM0JiYmpLeEJ6TUxfNmM0eXZ1bk0xSFlHa1Q2S0tJelJqbjlpUGFVOFY4ZE1oN3JnMU9oUVNkak1xZnB3QUxZSXdHaGdnRFJnM2l1WlNWc1hoU29xSlAwSGNZSk8wOWctb1Bvei1jcGpVeVJzZGdmVWEzTWVhSnNRdUwxNnY5Sm93TzZhM0phckd0T0lIcy1heE5RTkZuMUJCaUswaDJvREFiMGdFME9oR2pRblZpQmF5ZnpPTWpoQXp4RUxFdXZSQXhRTHBuLUlIV0c2V0JkM1JZQlZQTF9qazJhbUhOY2VnNkFrcm9Dd2pNeldjLXBHMTNSYU9VTGdzWjFxVHA3cUsza2hJaC1fVVNERXVRTDZKeFU?oc=5"
+            "title": "川普有仇必報! 因對伊戰爭記恨要求財長切斷與「這國」所有貿易往來| 國際",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBoUjhHaU9naXBTaW1HV3RwaC1Na2ZpTWgtNFlxSjVmbDN0UmF2a2I2d0s3bzhqQzV1bUI5c2FDM3NEUXd6VjdnWHJ1YXlvYlNkVU1JSUxoOFhYNzQ?oc=5"
         },
         {
-            "title": "國台辦轟谷立言「違背表態」 AIT：美國對台政策沒有改變",
-            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1RSG9TQkN0RnV5UVNWOGtUd0ZtRFRSdi1BSjA4RlVrbjY4d0UtNFB5ZnF1NGItUkRyYy0yRjJWdHN5SHRfNjZnbUxXUVVpcVBx0gFWQVVfeXFMT19KOGVsSnJtU1dVUVFLeF9ZVDBlZWdCYlZvT2RGWDNSN2Q2bnRXaFBGS01pYWxWX0tna0U5STM3U3VQQ0dMZk1JcjlIVTlHX2F2NXJvVnc?oc=5"
+            "title": "強颱巴威猛衝北台！她開第一槍籲蔣萬安：即刻宣布颱風假",
+            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9fRnF6ZG9IY0tfOUhkY1l6RjZCN0s2Q2d5cDdYNUN3eXN2d0d4Tld1eXExT0RHeGRyNkM0VEdxV215VDJ0aEw1YmJWUjNwZw?oc=5"
         },
         {
-            "title": "巴威颱風最新QA！分科測驗延期，周五颱風假放定了？航班影響、暴風半徑近25年最胖？ | 李瑋萱 | 新聞",
-            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE83cHFDRlZKc0hUVkdqcXZ5ZkRiMVZ6ekwweDVvcjA4UXNPVmRRRWZ4Q0dmRUNIWkFYWUVHZlFheDZhaC1kQmFjZ0NKdjl0dw?oc=5"
+            "title": "巴威太猛！蘭嶼「肉眼可見112公里菲律賓」島嶼 網驚呼：越清楚颱風越大",
+            "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9pb3BDWVBVRjRGWkRqMmh6MEZqeUNRTUtTZmN2a1JoNWRucmh4cXhUY2RCZmltWncwWFdHYmU5cFVDNmNrekZ3aNIBTEFVX3lxTE5IN1NtNkoxVGFaZXgwdTlSSWI0OVNQWjI2YnM5cXMxYmxNY1pLSVBpWWs5bExwV1hTOXZHOWNLOHJJV0FnZjlkbTVsVUE?oc=5"
         },
         {
-            "title": "安倍晉三逝世四週年賴清德：台灣將持續深化雙邊全方位夥伴關係| 政治",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBfUFZDUHJpQmx2TmdyUU9IYUk1RkdNX1VULThnNDNlWE9NU3FqX3JSWExNYjNNVUdtTlEyWm45RFBwT2ZCYVRkazMwdEtaX3kxNXNSekhsMS1IUkk?oc=5"
+            "title": "因為伊朗威脅？川普北約峰會後突改搭舊空軍一號返美 紐時揭真相",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1QTXFfdWo2X2l6dm84T1JTM2pNdzdlNW9Qbk5iUmVJZFVHRWI1WTdxQ3JuQTZqb2U5NGZjWEE5VkswSE1RS0ZaRXU3ZE1DcjFFa19n0gFYQVVfeXFMUGhkc2I4UjJta2x5cXJtV3BaY0lkZ29PU0JyUE40OXUyTm1hT1BzcWJOdWdiVkNrVHBnQWlKUGdKdkxna1NXM1JFQzY1VjV4RHFtUjJDTC00Zw?oc=5"
+        },
+        {
+            "title": "驚悚電影現實上演！日女慘遭同居人「針線縫死嘴巴」 衝超商遞紙條求救",
+            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE41Q25TbkJUNGt1LW43SGZ1RktTQ2NWYk9MM1BqTzNJRFU4VEFuTC1CeURhZVhvRGgwSzVFRUprakdQRnEwdkxhdWVwN0hRTk9Z0gFWQVVfeXFMTXN4djBsVHM3OXdyMG5JWXhFb3A5dWRKa0k2dW93ZlVrc2lfZXVLZTFYVjB2QWxJSnhyalN4VHNSVV8xak5sQkJFbHFjZUR6amZDZmpHd2c?oc=5"
         }
     ]
 }
