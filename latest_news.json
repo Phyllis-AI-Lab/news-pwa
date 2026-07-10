@@ -1,46 +1,46 @@
 {
-    "updated_at": "2026-07-10 14:15",
-    "summary": "午安，為您帶來今日午間重點快報。\n\n【社會民生】\n\n強颱巴威來勢洶洶，氣象署已擴大陸上警戒範圍至北北基宜花地區，蘭嶼更測得11級強陣風，提醒民眾嚴加戒備。不過，高雄市因尚未劃入警戒區，市府已宣布明天正常上班上課。在食品安全方面，南僑因致癌油事件遭罰引發討論，醫師則建議颱風備糧除了泡麵，可多準備營養價值高且無需開火的罐頭。\n\n【政治焦點】\n\n獨家報導深入還原了旅日學者矢板明夫遭襲擊的「跨境鎮壓」事件，揭露嫌犯在任務成功後急購機票反倒露餡的詳細過程。\n\n【國際情勢】\n\n中東局勢持續緊張，美伊停火宣告破局，傳出區域再度發生空襲，美國總統川普通話以色列總理尼坦雅胡。有趣的是，伊朗領袖哈米尼的葬禮上竟出現芬蘭超市冷藏車，令芬蘭民眾感到詫異。俄烏戰場方面，烏軍無人機持續展現獵殺能力，四天內攻擊35艘俄國船隻，並轟炸石油碼頭與彈藥庫。此外，中國福建晉江鞋廠發生大火釀28人死亡，習近平已下令徹查，涉事企業負責人已被拘留。",
+    "updated_at": "2026-07-10 19:19",
+    "summary": "晚安，為您帶來今日晚間重點快報。\n\n【社會民生】\n巴威颱風來勢洶洶，中央氣象署預計其暴風圈將於明天凌晨觸陸，提醒北部及宜蘭山區需嚴防累積雨量上看900毫米。受颱風影響，北北基桃竹苗、宜蘭縣、花蓮縣、連江縣今日起停班停課；高雄市五個行政區也於晚間六點起跟進，綠島與蘭嶼則提早至下午一點。花蓮萬里溪堰塞湖水位持續飆升，已發布紅色警戒，防範潰決。此外，桃園市長張善政今日面對媒體追問無風雨卻放颱風假的決策，直球回應說明。在消費食安方面，麥當勞為預防性下架中聯產品，暫停供應部分沙拉醬與蛋堡醬料。台灣人口老化趨勢不變，今年上半年新生兒僅約4.6萬人，比去年同期減少約9千人，總人口數已連30個月負成長。\n\n【科技國防】\n推動「雲峰飛彈」與「麒麟專案」的關鍵人物中科院郭正山，今日榮獲中研院院士殊榮，彰顯其在國防科技領域的卓越貢獻。\n\n【國際焦點】\n中國福建泉州晉江鞋廠大火造成28人不幸遇難，國家主席習近平已指示嚴肅追責。另一方面，廣西水災災情嚴重，一座建於「大躍進」時期的水庫未能抵擋極端洪水考驗，引發外界對基礎設施的關注。日本新千歲機場則發生一起機艙起火事件，初步調查為乘客行動電源釀災，約50名旅客飽受虛驚。",
     "news": [
         {
-            "title": "蘭嶼11級強陣風 吳聖宇：巨大颱風的威力 真正風雨考驗即將開始",
-            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE80aFotY2NlWmxBZ2tiZ2VOSFNwMjQ5MlZ1eW0ySG5xUkszdFZKR1pYT0Y5aTJKZTc0MzBteFFyT21JczNPdTFmTTZjbkpOVDJmSTk00gFYQVVfeXFMUHVabGttM2NkTDdqWEwxMVp0anA2ODY3NnVSYndNbTZ2YUl1WXprYjZZMWkzT292RERVVGpySVNaYnNtaG5DQnAtZ0xqNVplX0s4WTdjaXk3NA?oc=5"
+            "title": "停班停課7/10最新通知：北北基桃竹苗、宜蘭縣、花蓮縣、連江縣停班停課高雄5區18:00起停班課綠島、蘭嶼13:00起停班課【不斷更新】",
+            "link": "https://news.google.com/rss/articles/CBMiywRBVV95cUxOUWUxQVdaMUg1aHg0QkRDRmxaWFRkaTAzWDBfdE9Jdnp0QmoxWjJGQWNqaWlmRkMzQ3I3OVZydjBkTE9Nd1dyVE5zZ09aZ2lTcllaUXZoSWlHbWRJRksxYmNPM2hSUHkzMGVZWmtabGpFS1c3c2Nud09oYVFEUXZYWU0tSlNFOWxHeEdCNnJVeFVGSjQyQ0FTRFg0RHFoM2htMElMdHJlNTczLXVxWG1mQlYxcmx6NHVpaU1QbTNMN3k0aVREejFNOG80X2NSWndncThJR2hSdTdQamRGRm1TOE9mOUNQRjJzLVVVLVFDUzcweVZCR09DYTFKaDFJcVpRMXBVX1hfRXdxbGpQdU1IT2Nxa29Ld2ZVZ21pdHR3czlwb1BEZm05Rk1pb0prejVHWEZiaVZ3dkdSY2tjakk2RElrTHNWMlpxeEdrM3BMdmhZSy10Z0QwUmhrYUR5QUFYS3d1bUY1WHVsUENwYTBMSDdBTTNUMDh6b1RrWWpKQmk4RXpQUWJjd2lYeEdfaXdSeWxwRE9RS0FTWFh4VUIyRmhBc1R4QWRNZUMzbkJFX0MwRkI1dHZ6cDROdVdfRjVVUDltQmxaQkRvUk5kU1Zla0d6VXJGa3VUVDVucVIzT3R3bHFYT0lRdGt5R1d0NXBIR0dkYWxOOHdKV1VRTy1nWFJSZHk3NGZzb0pkdk00WGRmTy1Jb0dmN2UycGZsa2VzQTNSMkt3MGloMHR2Sk9JWHQ3bDNDT3dGMVlPUE1qNGRDRmR1SzFVWE9sUQ?oc=5"
         },
         {
-            "title": "颱風巴威陸警範圍擴大 北北基宜花警戒 氣象署說明最新颱風動態、路徑【不斷更新】",
-            "link": "https://news.google.com/rss/articles/CBMimARBVV95cUxNel9MMnRydFl1VnRNRkVjN3lVV1lNLWF1VllLTWd4eWJMWm04UHpMc0J6QnVLaVB4a0lsb1E5VGRUVVg0UFZqV09XR0lqSTJJbk9waG1ERzJoQlNTN2lsWXBXaGhpMURreXV6Y2NTdDZLSGs2TWlaUVhOdU9fQ2VEbUxVOXdlWFRNUndDaGFSaEU0YVR2NXVCVnU0aGFJMTJkRTBVTnhPSGJ0UHctR0xMeGFVMjI0VVM1ODBqeUJIS1ktSGx3ZXVBNGpMdjZfREdSd0FQdXprWDNLdG5TS3dxb0xCdERWQkhweXNsRFZEa245OGZjQXZOTm56VXc5U2ZvY1k1NVItdUl3OWRWZ2NQeUhkM0VDcnNOZzJDYVR4ajlTcWVrTGlBZmw5TEwzZVppVjZrS1FLeEpIVDVSMXZzRDZlR05JZWZ4QWJlT2xIdVgxX0s1d1hvOUFPWTZ3TnJaaWpkU3lkSWJNNkUyektNbGFuU3duTWhHcEswTmo4NnphWFJCZUg2aHpsR19Iakg3NUFGaW05LUVKSGR3SlFpQzIxN2NmMkhzMmVteTRaVDIzakg4NDZXQ1JybGw2eTRCSUJ5YW1tbVlINVhkMnRoMHpoUkVnLVRqc0JTMk1jWnV6NWV4RnlWTUZxRFdvVldaZU9QY2tJakhXSTRueTAtZ28yRnBrekdiM2x3dWFadmhoTWRBenVXWA?oc=5"
+            "title": "巴威暴風圈觸陸時間延至明天凌晨 北部和宜蘭山區累積雨量可達900毫米",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8xRmZwSkhxSWlfWHBfNU4zMHRGMGt0aENqVmhLNW1GVGJGRkY2S1BSNThSR2VRUERuV2FXYmFPWDM4UnoySnNJaDJXLVV6b0pNTlVr0gFYQVVfeXFMTlM1c2RmaExrM0ItQnI4WkJoc0JVd1NNdFJsaWMtSWF5aHBTRlduNm1TY2ltdFR5V3FuVFpmWlJwNmVJTkJ5MU9ESEJ3RUMzM1lnVDgtSFdkeQ?oc=5"
         },
         {
-            "title": "「最先驗出致癌油」南僑遭罰網叫屈　黃智賢打臉：他們沒吹哨",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBBanNsS2RQQ0dxY0VtUnAtWlE3QjhpeEI3MWFnNHdMN05CaUREbDBNRzdGcmxjQmZUazhaQldWV0VZX2oxNThwSllyc2JDTEhQX09JWXlidmk5d3fSAWBBVV95cUxOTkpsSjhQZ0ZJSzVYeTdmZ2hXdGpGZjlGeTl4aVVWdXJjSVFqLU9mcjlwOG5aUWMyc2txeVRmRjVZRXktTW9mRU9fMFlBX1l6QlRDYUxhdTJmZjh0V3BzUUY?oc=5"
+            "title": "麥當勞預防下架中聯產品 暫停供應沙拉醬、蛋堡換醬料",
+            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5qakh1d2ZDOHB5NnBjcGJ0NHBpODFLRmxTZTdnblFYM0F1cFlMeDlPbEh3ekp1NnpLTEk2Z295amxjUGJ1YWo0MUZlczA4UQ?oc=5"
         },
         {
-            "title": "高雄尚未被劃入警戒區 市府宣布明天正常上班上課",
-            "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1SWnRsZ3ZLb0tJaXZiLU02VTJOTEY1ZkZlbEZjWmVZTHJWOFhtOXFfS2RIQTJ4XzFQZkV0NWhkdnlKeHJzeEticG9HaG5RSXNzVkttQnVYVQ?oc=5"
+            "title": "被追問桃園無風雨放颱風假的決策 張善政直球回應媒體",
+            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5aTVVjcVhpcTJ6TC1ISXNOTi1IVEZ6SlNadTdVRE1yZ05HV0tUTXFVanZSZmRxcjE5OGhRZ21UcEw5WElMNlBUYmdobzBTLTVKWXlsOWljaWZuTFRYd0lMRUVKX3FYVGNvemhsc253?oc=5"
         },
         {
-            "title": "颱風天別只會囤泡麵！醫師大推「2種罐頭」：免開火營養價值高、小朋友也愛吃 | 李伊晴 | 風生活",
-            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE90QkpmZGFKVkIzUENfYWRQM0VLTnoyb2U5RVhDSlZDOGZUOVlxLS11N1NSdllVYjNCQWlNbjRrSzF1b2RjSllmQ2ZDQVlxazRt?oc=5"
+            "title": "「雲峰飛彈、麒麟專案」關鍵推手 中科院郭正山榮獲中研院院士",
+            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1iUlYxcFFvRDdmelJuMVBobjQ0WHdQd3RVYU1BX083X01USnp6amdRZ0RDbWF1TThmTlJISFRlcElhSTlqV2hONl9FbGhjYkowc2tTaUpXYkNncTU0czRUQ9IBZkFVX3lxTFBObVNtMmJOS1dLZHIwOWdURDRKNVMwRi1WSmcwNnc4Y0xQRmI4blNzS2VaSFdZcjRuUTQtcHZzTHR0dzdjT3k2MDZLQ2x4eV9ncHhGa3hSRmxVeno0RU1lNk1lZk5Fdw?oc=5"
         },
         {
-            "title": "獨家》「跨境鎮壓」3小時還原！襲擊矢板回報任務成功 急買機票反露餡",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9BeGNJODJLRkhwamdLc25JYnU3bHdLQm5XZk1iTTZaT0E1cXFZb3k5V2lEUXhaT3prb3lBbndXVGEyQ3pMbF9SZTZSQjZaelp3Y3RqRTJDNG1mNHNEM0M5d2s5YzZpekdQRVHSAW9BVV95cUxPcW5NWVdkR3liUlF0aUdQWkRUbWxYeUJqTUxaWkdkajdzUl9TV2VBakpTY3ZCbUMwZzhfa0JWODZxOWs5M3NyN1NTYzVKWFZmODFsVTRLdjYyR2o2by00V1VCYW5iN2FVaFdsSm1QZHM?oc=5"
+            "title": "萬里溪堰塞湖水位飆升恐潰決！花蓮發布「紅色警戒」　最新空拍照曝光",
+            "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9BMzJKeDVfRDRDMkFSNEdVR2lndC04RnotTDJhSk91ZnA1ZlB6bWpJZkcwMWtrUHpLNlRDZFdXNnZlNldIb1hLdNIBTEFVX3lxTFBSOE1kTHZmc252ZTVOazBxb2VMejQ4LUhfcVFfSF8wcllJQ2JQYVJJT25zVjl0Vm80OG9OVmlGX2pCQl9jQkY2cVJTZzA?oc=5"
         },
         {
-            "title": "美伊停火破局！中東再傳空襲 川普通話尼坦雅胡",
-            "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxQVFF2UFV2dDJjSTdiNEtrRy10d2xRZ3NxSHdOdDlDQzVyeEV0bzBUMjlpd2xIYVJZcC1mUEhSSnRiS2xWTHY4UGVWV3RpajZ4TFh3eEtKekpaWFJveEpRbUlqUmxXWmNSOUJzZWhJNjJiMTV1M2tkd3labW5TMjAzbTFuWnBwb1V2TFdYYWE2dU1YWDk2c0hpSDhJVDNSeE84SUowWF9zaUFlNUJRZU14dWJxZl95b3h4U3dGbllmSXRBZGp4M0h5MUdubzlEUVVFRC15OFVkQ0RpVzBlcTY2Z1RVTENvOENXbE42STdGS0RhTC1HUEJOdGk0cVRlX3IzQUZqREVVNjVUalRndUF2YXBrVzlmRXd1aXgyZFJWQ2QxckZFcVJKTzdLLTdCWTVtc0tiTW0ydXlVVWtTVzhCXzBia2xXdw?oc=5"
+            "title": "台灣總人口數連30月負成長 新生兒上半年4.6萬 比去年少9千人",
+            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0yOG5nc0VhcDlyYjRjU29QaV80M2JoRDVvMFotbHZ0QnhPQ1c2NG50eUw3WUtyWm1MS2xBdW1oOW9wV2FqdE4xbS1qYUdCN0py?oc=5"
         },
         {
-            "title": "伊朗領袖哈米尼葬禮出現芬蘭超市冷藏車芬蘭民眾傻眼| 中東戰火連綿| 全球",
-            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4yaGRMb1dwazl1YmZDcVpvbWY3eVNBeS1YTkhGc2RyMGFoTGZ4NlpNRFc1eVFrMWV0Y2VPWFh5eHNlWkRtcXk3ZDRlS3ZTeW5jeEs0?oc=5"
+            "title": "福建泉州晉江鞋廠大火致28人遇難，習近平指「嚴肅追責」",
+            "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxOSHFUT3NDUDQzRHBhQkl4WUUtcF9TNVBVZXpjSXI0aERyTlRDb2V5SmVUTHp0SlB5ZDR0T3V1RHFydG1uNWpqM1duajVxTFBhdEpsMklCdzdmZmlBXzFDZFN3NEM4RXVYVVZTUXVZYkhpUmdnNDJ1SHlvVkw3dDFEd3FoR2NLZGUxNnlSLXBLbmJDc25WWHNtU1I4VW94U0VkM1ZXdXAyeDZoNW1kYWhLSms3eEVZdzFvZ2FQbTE4cDA3eXhUNHBlSVUyZ2JBN25IX1hraVF6b2FoVklfR3JwSi1sdkJScmZyVzB4dlVadjd2RVVyS0NYU3h1cGdVUUNKYkYtQlJlOHVveVVjM1kzZW5UYkQzUVFyMXhpY3YyazctelhKX2Q1c2U5N3hSQi02NVpabVRRVFF1MXFsU0VLdktKREstb0dkNUpHdzRtQ2k1eWpqNVRNYmJBbFRnRjhP?oc=5"
         },
         {
-            "title": "福建晉江鞋廠大火釀28死！習近平下令徹查事故原因 企業負責人被拘留",
-            "link": "https://news.google.com/rss/articles/CBMitANBVV95cUxPX21Wd3FpT3pJOVFPa3l0SGJCTk5PT2FzVThjZS0zRGNhcEZ2QXluMUhXa2RVaWMybkJzOG01alR0VGdRb2VwSGxKSnZFOE16RHIzUkUzdXd2MXVKRGcwQWY1N2VfRlAtcjJUeVVOeVR4cnF5TU00SHV4Y3NScjloWDBvckdBQW9sWEdwZUdGVWUtWU1mWk9JMVRpM2U0b1JkT2I4OGhfY0tRVnQ0N2hFUXJBNnlwYUFjZHF3SjhaMlo5bFdyN3RNek1uRjAxQ0V0SG1wLV9iS0hhVkJKTDdMYUtjdU1JY3VYblVxMkRFdDhuSHpQa0JDSzhZRkQ4WEVQM211ajJTb0dBN2pobUFxLVNkWFMxODJuaHlqWm1ndzVsOVppOU0wTnJobHpvNDZpSWk3YXVmQ1Zjb2dtYUdQd2pRTHNqWlNhZi16RTlCZEZMWXFPNmJNYk14V05YV29mS1lpcGxHZlI0UElFamZmZ19DdG1qOFFwSkVjcWY1a0R0bHdDeWVHamkwVzBTRkxiVzVPTTVMeEhISmtCakF5SWhfQlZRcDBmdkd5LUxwSWhfemJO?oc=5"
+            "title": "新千歲機場驚傳機艙起火！乘客行動電源釀災 約50人虛驚一場",
+            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9oYjdrTHJKb0pmajllMGZ5STVVMGhlSmxXY0UxUDFmcFdjc1oyNzFoTF9PR1gtTDJHS29UUWY1N0dlRnExV0taSFFybWQ2cy1Y0gFWQVVfeXFMUDNZNFhBRlNsbXYxb201UEQ1TldJSmZZdkJ0ZVhObDVZM05STWpvN0EwdU5heklCajZiRWFYRGNFYVUyNXktUGd5ZnJ3NXRObGJHdG9Ma1E?oc=5"
         },
         {
-            "title": "烏軍無人機大獵殺！4天攻擊35艘俄船石油碼頭、彈藥庫同步挨轟- 軍事",
-            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9oTGJud0o2UXpIR2l4UWFacWctRWRHV2c1VzBKY2M0bEpOendpSU1iM2t4aUxKdmhURnY2QkdCcmhYemxHX0ZpazNwWUo5U2p3WEkzeG5VZzM0dGdwTEt4WTJUWExkeWdUVnhfekhn?oc=5"
+            "title": "廣西水災：一座建於「大躍進」時期的水庫，為何未能抵擋極端洪水？",
+            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1rbEkwRUZmeHhfLVAtZmxDT2xnQmhwUk1SMFZvaTdWb0c5XzJ6U2R6Y05mV1JZaVRIVEdsZjJOb2luMGpRbFBWUk52ZzNlRUdfaGZUWlppN0gxVEsyRDNxeTBpOHNEd9IBa0FVX3lxTE82bFZzRERIUF81dHVzMjE1MnBYa01lZEFkcUtQRzRIdWZydWFkb2dPOUpCNkFJd0hKLXpOelQxZnZLY284RDdtNmpMYzdtaGl2SThGbVlJZ0ZLdVdKUFJfTUxQU2poVWxoR0ZZ?oc=5"
         }
     ]
 }
