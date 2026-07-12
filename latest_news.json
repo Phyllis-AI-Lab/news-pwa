@@ -1,46 +1,46 @@
 {
-    "updated_at": "2026-07-12 08:11",
-    "summary": "早安，為您帶來今日上午重點快報。\n\n【氣象災害】\n\n巴威颱風持續影響，連江縣發布巨浪告警，請民眾注意安全。全台多縣市部分區域宣佈停班停課，如連江、高雄、台中、桃園、新竹、苗栗及花蓮；北北基桃等21縣市則照常。台北市災情已破百件，以樹倒為主。多縣市垃圾清運也因颱風暫停，北北基桃全面停收。\n\n【社會民生】\n\n颱風停班停課影響重大手術，有病患擬赴北市府抗議，憂心延誤風險。另傳出西門町大樓磁磚剝落，一名少年因此頭部受傷送醫。\n\n【財經食安】\n\n中聯油脂風波持續擴大，台糖公司為預防性考量，已下架4至6月所有相關沙拉油產品。\n\n【國際情勢】\n\n中國海警船被揭露在澎湖海域對峙日本軍艦，台海情勢引發國際關注。",
+    "updated_at": "2026-07-12 13:39",
+    "summary": "午安，為您帶來今日午間重點快報。\n\n【社會民生】\n巴威颱風陸上警報已於今晨五點半全面解除，但全台十三縣市仍需留意豪雨特報。颱風尾效應持續，連江縣福澳港因海水倒灌，縣府緊急提醒民眾移車，並宣布停班停課連三天。食品安全方面，南僑通報第三起致癌油事件，食藥署已下令中聯「不得恢復生產作業」，並認定此為非單一批次事件，將擴大追查。\n\n【政治焦點】\n颱風假決策引發關注。台北市長蔣萬安因放颱風整備假遭質疑「討好選民」，他回應強調料敵從寬、做好準備。新北市長侯友宜則重申將完全依循氣象專業判斷。另一方面，國安專家正積極破解北京對於「巴丹群島自古屬中國」的資訊操弄。民眾黨內部對於鞭刑議題未達共識，柯文哲更戲稱不如提「宮刑」。\n\n【國際情勢】\n巴威颱風巧妙避開台灣，卻直撲中國浙江，引發部分中國網友不滿，怒喊美國「做手腳」，顯示資訊戰的影響已深入民眾認知。\n\n【財經動態】\n財信傳媒董事長謝金河點名一個潛力產業，有望成為台灣下一座「護國神山」，並透露有四大廠正低調佈局，該產業未來發展動能值得期待。",
     "news": [
         {
-            "title": "連江縣國家級警報響 氣象署發布巨浪告警 勿前往海邊觀浪",
-            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBsVktHOHlqV0xhWmVRMkQ3OVMzVlZvbzVibmFBSVVEQ0NTNFNSZGxMa1lBUTRBcTNROXduc29ycXpkX0ZnMnZzV1lRejB0bGdP0gFYQVVfeXFMTTNMOTBDeGVlNkJLZmdGUTRqQ1lzMVVDOXJmcGh4eDhrTGk0cVVLX3dkWmhSVnc3V3pBNDE5czNDLXdVWDdrVTFpTFZOYkJ3N2lJSVF1OGFqMA?oc=5"
+            "title": "巴威走了雨還沒下完！05：30全台陸警解除　13縣市豪雨特報",
+            "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5PNUp5S1psMlJsUUFvMEdLa0JkSG5VZGdaclp1WkVabDMxRlU4c2VVQ0RWdDR0UmhZcGdfTHVpTjFiZXFKWE5sa9IBTEFVX3lxTE5Wa2dqQ2hXLVhhY3lwbkhFWUE1YzdNby13ajdqYldsNDRHcEF6Z1VpWTRET3FmOUg1NlIxZExKc044T2kxY0thV0FscXo?oc=5"
         },
         {
-            "title": "停班停課7/12最新通知：連江縣、高雄5區、台中1區、桃園1區、新竹2鄉、苗栗3鄉、花蓮2村1鎮停止上班上課北北基桃等21縣市照常上班上課【不斷更新】",
-            "link": "https://news.google.com/"
+            "title": "南僑通報第3起致癌油！食藥署下令中聯「不得恢復生產作業」 認：非單一批次事件",
+            "link": "https://news.google.com/rss/articles/CBMingNBVV95cUxNdlZoYzBIUG5KckNpeWRpWlFJbF9JYlZ1bkp6T0ZKanBPUXp5NGZmN1BBZVo4YmVNMDkxRnk0NjFWd0pwbmN4dWxPcVFtSkVZQjYySDViZXRKNmVQbWE5SzB0ZzJGOUp0Q2xUZ0tObVJrRVN3aU9uVFhkdXNvbGZZdmxjYnkwczJkbEl6d01pNXhtUW4xT0tZeXF0N1p5TnAwVjIwZUhnU2tZckUtam5jZGM0VW1yNl9lWkRNVGFBWkptRm9HTW4zRm9Hck41aE5SMzQ5T09HRjRmckpVdTFBTVRkRkFzYS1jcm1LT2RHTjRrTDZnY0hwY3NsQWRrWmdtajE3SVlEeG41R3ZKRjlFR2RuN1FkSjRlN2k2blZFc0pVWUtFOVZzLWdtS1BENU13MW43MlM4VDFwY0dpUjN3TUx3RmltSUV3dGYtdWVDQ3IxcU16NUd6ZDNyZkdTWWpkN1NnWjJYNmZwb3VOQ2dNbDQ2UjlLUXZQWkZMUm9fUWlEQmlwYjBaNDJqSUdfQWpqekMzbE9tZFp0WDgzc1E?oc=5"
         },
         {
-            "title": "巴威立大功！「太貪吃」挖出一片巨大冷水坑專家：後面颱風倒楣了- 生活",
-            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE15SEwzaVBMZ3RqcFdmYjBiLVJJeUx0ZkQzRUVlUXdZWWRVUV95eXRiSEh2eHBFVkJ4dk9xdHlYb2NLZzBmendfdm1INGtlaDJsTnNhcVhUdjhzUlk1TEFnc3ZoV0NudnJtOERPWW93?oc=5"
+            "title": "反制資訊操弄 國安專家破解北京「巴丹群島自古屬中國」強盜邏輯",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBielpoZE9GZC1Ma09TQ0o4OUJsVlpWUGNUNTRhNEVOSF9UWjJ3WjhFX3YyQ3NMUXRGUS13WU9OOVFTYzNBVVhMdFU3UVJIV1VDN0lBbFViZi01R3FFQ1hKV3dmZlgwZW4xSUHSAW9BVV95cUxQZ1B2UXF1MnBHZkU5UUs4R0trcExsa1dscXJ5QUtLaFZ4YUd6OEVQZXFGa2VRRERzdUFNWlY0RkYwcW5FY0N0SDMzOTVJTTM0bHZGdEp5bVhKNVhHTEZUR3Vwb2xjUG1kbXFHUWxEMWc?oc=5"
         },
         {
-            "title": "颱風停班停課打亂重大手術 病患欲赴北市府抗議：誰來承擔延誤風險？",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBnTC1VWXNMYVprak5IZm5BOXA2aU5IYmFfU2o0YjFDZ01QVmdRZ1J5dXNoSmxQamZsNDFsUlpWNklhazVZRlBzZXZQNzU2UlVpZEp3cUpKcko2MUU?oc=5"
+            "title": "巴威完美避開台灣直衝浙江 中網友怒喊美國「做手腳」",
+            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE15aE5udXhXeHR3NzNYcDhqT1dLbjE5bmVUOURNaUNRdDZQWFJvQ0R6OFd2Ti16d202QUV6SUZILS1yVUpTeTlxV21xcE5OT3hHc3RCVA?oc=5"
         },
         {
-            "title": "巴威颱風今天7/11有垃圾車嗎？各縣市清運時間、地點懶人包，北北基桃全面停收| 蔡惠芯 | 風生活",
-            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5yQThUZWtLVElLWU9WUUJCeGFveXRkaWpZRHpDNHROZFhnWk1DUlZkZ3lnM0xQVnA3dkpmcEpCc2xEMGZ1MkZQWGExRnN2UVQw?oc=5"
+            "title": "連江連3天停班課 福澳港海水倒灌縣府緊急提醒民眾移車",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5LcnVHME4wSG9lSXdQQTIzNFVuWUhsekZlUWxWaE5tRTBNeWxTZ19KajJHWWxURmFuWElUczNCRXd4Z19TLWVjU0FDckgzRlJSV0ln0gFYQVVfeXFMUGJGdXJfQkpNWW1iUnpkX0J1T3Z3YmF5a2FDbl9sMkdvVmI1elBDeWlDNE5jTEtGQzV2TmFHOXFISkhidTBlWDAyYUhuczBLLTRmbG91bm44YQ?oc=5"
         },
         {
-            "title": "中聯油脂風波擴大 台糖預防性下架4至6月相關沙拉油",
-            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1kNER2NDc1SXpoWVdnY2ZuV1J6MWt0ZjlMNW1HalJGclBtck5YZTVNX3ByX2lYT2xfOFZHUERmTk41el96WXVaQU1nOFVHSnl3c2hZ0gFYQVVfeXFMT2xpTTVQN241UGkxOWh4X05OdUl0bm0yS1ctdTlaZDBEdmtRSVB2dTItOWhzTzFhQ29xci1kRnN6M2Joa3VaRklCNEhwT0p3dkpXTVVKUlNvaw?oc=5"
+            "title": "全台災情一次看",
+            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5vOU4zemtvb3lDMjQ0TVI2bldkQmNSUF9WVEZfNHZIUUdIS2VzUWdEckJySllhY1JudTJXXzFOV2phRUstekNodnlhY1JXMUdXaXl6ag?oc=5"
         },
         {
-            "title": "中國海警船奔澎湖對峙日艦 台海「追逐內幕」曝光",
-            "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQZ2dNcHJOLTVRTHo2cWZFamx3NHM0Z0NZWFk0eEdoVjJDaEhLRWR4RFd3UElxbjNFOG1YVzdkOTFtTE5oZUZmSnE1cU1iLTRWaFdXckdtcE9SN0hIOWlaOGhqeERQQ29GOG9RdWJXWk5rTzRoQUVLYUwxVnBQOGk0WDZQUkhoWDFDTU5ySDN2VGwtbzI4Nl8wTVFBUmJIekhQRXN4OVhfMllYR3NJWF9hLUtjTGRuVm11Ui1tTnlRcEhwM09VZEhKRC1DZ2JYSVlmbXRVRklzaWlfLUtJdExmU013Z21nRnZTaGM3OTExazBONXlKaENQaml5OTFxMVJ3Uy1meUMwSzI2MERWQ21faU9YZ2tiTGJmRGdLSDY5MmxIcWdxZmR4Yll0S2lvRGRxVm40c2xWVW5mQkxjSDJWYkdpbkV0ZFk?oc=5"
+            "title": "北市放颱風整備假！張景森批「討好選民」 蔣萬安：料敵從寬做好準備",
+            "link": "https://news.google.com/rss/articles/CBMinANBVV95cUxORWJYLUtWYW5Bd193LTBwY2p5QlhuTTlfd2ROZ05QQ3dXUHA3ai0yTHo5NjdPVG8xVUNqY1l1bDlrS3M2NWNXQ283cnJUWlhOYXRQVUVxWkc1QzlMWTFaQ2lmYTZ5RUVUb1cxMEpyMlhWX2xKUTZjS1ZmRHF3c2dvZjAzbU1xUmdBMFhnS05fSng1MGg3OWZxXzV3aGdPZnl0ekpNM1hpbnhENFp6YjBhaDFvVF9iN2t4MUNXY1ktZkVYYWhJTnk2eG9wNG1uenpHRV95MWpxVEljMm1QLTFLVDBJMjFSc0M3YkVPWmk5WXp6RElJbC1ZNjJPZlhXWDlNU2RrMWl6RVIyV1FoUXprTzRyZVVKSjlidlBPdmRzLUxBb3B4cDRpZ3pXWkRCZ3lvbkYtWkkxWjdaR3hvNGhLX045UHUzOFAybC1TOHN3anRZNW1SaFhHb3hjU1RxYndfR0tiZlJSdG9UaFNLRmN1T2QyU3FzRDNpUzVMRFpwaXN3OUlKUjNXRUk4UENlZEF5aTZrQ1AtUlQ0amFS?oc=5"
         },
         {
-            "title": "巴威颱風襲台…北市災情破百件逾半為樹倒 中山18公尺高路樹重砸6機車",
-            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE93TGlGSDhQX1RDSEE0eS1TWWVlblFKS1lYaWZvSW4xRU1NbnF2WF9vYkRUUFlzbWVOUjd3TjhUa0FRUzVORkZINHVwTjJDNzBXcEFZ0gFYQVVfeXFMUHJQUDB1RTVpNDBLM01sd1lKM1hiWXZlVV9MdHlBYjR5eVgyeDhndmNGRWUyNmtCRG1fdjA1ZVFiVzdrVFRkaTRoMy1PLW14c19NSkUwZkI3RQ?oc=5"
+            "title": "民眾黨對鞭刑沒共識！柯文哲狠酸不如提宮刑",
+            "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxQX2pGZTc2QWwxTk5jVmh3VWk1Tl9XZ3pfaDhWWllESzNra1JzUlM0TnQtX1RhTUJpQm1ZMDE4Ri1BRzlhT3hNZ3JZVXJXbnVJM0ZERWFpM212QXBTMEFwSEFaOTFHSEpZWFowcGNRNkFTd1VqaW9JOFdWS2FFUS1KY2NOeFNUblFNOGZrX01WZEVGOUR5Z2J1QS1kNHFhcTlRWjBOY2k1NGxBQWlzT0NKWnUyUTlscFZOay04ZzAtYm1pbDJzVVd1QVk0d0wxRjN1LVNtMm1lblhRSUFYLXViS1dqd2RZTWZSZVRnay1FN1RVRWVHZ1htZ2pEWndYN2FoUTlsS3N6R2NEa2tYZmo2VzNWa0xldU13aDZrcFNGb1B6M1J4NTVfRlFjdFNWbnlCOWYxZ3dYeHc?oc=5"
         },
         {
-            "title": "西門町大樓磁磚突剝落 路過10多歲少年遭砸頭爆血送醫",
-            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5zbjN6RTVnaW15UlhUdDNWSmRhQmd5MlBqX3JIUlN6dllGai1zeWhjSFhmd19sNVFUX0haSFV4Z1NSd001N0M1dUpobWxVWFVpUDVqWjliemF1RmwzN1I1MEZQRjc3d0Ry0gFuQVVfeXFMT1ptUzlhQjBlZmtGci1mSjFQdHdoVXJQYXdiNVY0V0lTZjZtVWI5R2Q0NHpaZ2pUMFhTZE45N0JLYm1palB3WVVVZVE3TFJ6M0U2eXk2MGFtUmpTTGc4M3E1bDhvdXJYZ0ZJVlA1MWc?oc=5"
+            "title": "巴威颱風週五颱風假賺一天？侯友宜：一定按照氣象專業、科學判斷做決定",
+            "link": "https://news.google.com/rss/articles/CBMiqANBVV95cUxNLW52WVB3cjZGRTRha09uMkdKRkVlZkFMR1hla3Rpc1Q4RWxfamlDbDh5a0t3dkdjWkpRS1VtYS10aDBpT1JtcjVkVlZaY1NRUV9fbndfVllfWkZaZVA1S0RrQWRhYmV6eGxTSXdzeVg1Q2xNSTBJYllqWEFfV2toOW5NSk9JZGgtVlpRSTNWcVYyS21SUnRxMnV6WEVuVHFmY3lqOGVtME5pZzY4Wk1qV3NwRkR4amoyRkRfYmNGRUdtaE5obU96d0I4SGFXLVNiN3N6Mm9oaVk3OXZnQTFLUHIxMHhoTFJXNHBXdktTUXhxTEdEalljaWJNak5seThMOTRUeUc3Zk01TmhtbjVocl90OVNKcm9NSHdNenZJVlFEY2lxWXV1MVl5ckV0eElLb2FOMUFidWpYVklTRVRkUjg5UTcwRFhJRDdkQnVRMlczZ2VPaGFuRG55WkhheTJ6OGJybUFTRDZkM1FHQURuOTVJeUp2S3NlaGFYR0IxV1E5dHFlN3lRekJ5LUJVS1NaMXExUjJhNjdjaV91bGxXU3llYkFNM21R?oc=5"
         },
         {
-            "title": "不斷更新／巴威挾強風豪雨狂襲！全台災情彙整",
-            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9HWXB5cVZWeXBkMkxCNUtNSUxkMW9OQWFWOXdNM3V5Nzg4Tk8wa0F2Q2VnU2QwN0NmOE5yT0VaNmhDSGY1Rm1mMDdsOE5FWU9oUVF4ZQ?oc=5"
+            "title": "台灣下一座護國神山？謝金河點名1產業「升火待發」：這4大廠低調佈局",
+            "link": "https://news.google.com/rss/articles/CBMikwNBVV95cUxNUTVleS04UDI3TUpzdHpqcU1ncGRFTi02VVBzTy1WSUN0MlRDN2pvRTRCSkFFdlFSeFlJT2ZDMURqYVVTRG1kVDU4d0ViLUY3V01jdEFlbF90Smg4T00tMEFFQmFhRl9xelg3eTVoOXlOYUZGOHhWTmVMTnlVTWZLN29FM0kyQlhGNmRkUE5EZ2k0VXZYNzA0MEFSNzMyMUlySmVUT2lObTVveGx5Zjg2Q0NaM282eFF3d055bjVVaVVmUVo4bDdWWkc4UWNCRHhBR0RpekhBMnJfd1pYX0o4MDNoVVFFUlZTUklWN05UOGpnd3RGNkpBUG9FTnNPbWxxaUhlYnp0SlFTMVE2bkVhNU1qRTFYN241R2w2X2xFMTlRb1NwNXNDazFUd09mdmQ3N3V0ZGhmRkktR0VSY2Q5SHhxcGU3OGRhNUJuRlZMVzNyZVpEVDhnblBHdnlWS0Zjb0FjSHQtYnc4dGFMN0N3VGZQNUJZVTR4WUFrdlNvdlhSMHI4ejlQVjdTUWVjRmRuc2VF?oc=5"
         }
     ]
 }
