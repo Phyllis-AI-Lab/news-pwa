@@ -1,46 +1,46 @@
 {
-    "updated_at": "2026-07-13 19:29",
-    "summary": "晚安，為您帶來今日晚間重點快報。\n\n【政治焦點】\n國民黨傳出致電勸退桃園立委參選人佀廣洋，但市黨部急滅火稱仍在討論。名嘴郭正亮則為對矢板明夫的不實指控公開致歉。\n\n【社會民生】\n內湖傳出父子同日雙亡悲劇。黃仁勳愛店「花娘小館」瓦斯爆炸，一名員工燒燙傷。竹北天坑案一審宣判，楊文科圖利無罪，豐邑董座判刑三年半。颱風假導致北榮重症手術延期。\n\n【食安焦點】\n致癌油品追查持續擴大，彰化查獲七十六家下游業者，瓦城、爭鮮、好市多等知名通路皆列名單。\n\n【天氣災害】\n新北市山區暴雨狂襲，國家警報響起。受巴威颱風影響，新竹尖石、五峰鄉多校宣布明日停班停課。\n\n【教育快訊】\n115年升大學分科測驗各科試題與答案持續更新。",
+    "updated_at": "2026-07-14 08:07",
+    "summary": "早安，為您帶來今日上午重點快報。\n\n【國際情勢】\n約旦美軍基地遭襲出現兩大彈坑，中東緊張情勢升溫，伊朗加大反擊規模，多國接連遇襲。\n\n【政治焦點】\n爭議聲中，佀廣洋宣布放棄國民黨提名。另一方面，矢板明夫與郭正亮隔空交鋒，公眾人物言論可受公評議題再受關注。\n\n【社會民生】\n追查致癌油流向，彰化縣已查出瓦城、爭鮮、好市多等76家下游業者。新竹竹東山區暴雨，一名21歲女子露營回程涉水時，不幸跌入水溝送醫不治。此外，石門水庫集水區上游因沖刷，大批漂流木卡住河道，影響船隻通行。\n\n【天氣警報】\n大雷雨持續，八縣市今晚續發豪雨特報。受巴威颱風後續影響，新竹縣尖石鄉、五峰鄉多所學校明日停班停課。\n\n【財經動態】\n財信傳媒董事長謝金河透露鴻海、義美等企業已投資的產業，點出其為下個兆元產業，值得關注。",
     "news": [
         {
-            "title": "將宣布退選？傳國民黨致電「勸退」佀廣洋 桃市黨部急滅火：仍在討論中",
-            "link": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxNVHJSbm5TZXlvTlY4RnU3Vk1wWVVsQXVDc3o1RjdqY0lxVTFUY0c3M3dhQUVIb3g3MTY4NVBRX2R6Uzd2ZVl0eUZWSmEwVE9FVmQwa3ZEdEkzbk9JMnhGWlhXQmV3bkdaTUFUOFUyNWF0MXFkNkxITDRqRmlMSEQta1Z6cHdNSHZTQVZ1VGpMeURiRE9PbW1DLUZMUWtRcVJWOFRfeTFnYVFDaTQtNFMzU002alEtVFhKV2pPRDR3WTN1WHplTE1QTGdRaTBXNzhqVm5DV0ZWaDBXUGx6aVdHSXNLemxGSUhzcHFmc2psNEhGaEU5WXBiclU2QXBQUHF0T3JWSUUzSm9abEdrOGItUmhpdzRCc3owSl9aalRPOW5BM1dLS0sweGxsejkyempCLXU3TzZ6Sy1RUGdxTGs5U0p3TUFQblBsOFI4NXROODhBVW1SWUtKVm80MzFlSTlRY2xYRTNtcTZHNmJw?oc=5"
+            "title": "(影) 約旦美軍基地出現2大彈坑! 伊朗加大反擊規模中東多國接連遇襲| 國際",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5VR1Uyb3liYzF0ZXVDTkJOT2pMUkJ1Z2ViSlIxUGpZQmtMNG12aXNNY3ZYQXRmU21vM0hJc1NPVTNMVi1wUHRCSHJtWWtkSUIzZWxib0VSdm1NTjQ?oc=5"
         },
         {
-            "title": "國家警報響！新北市山區暴雨狂襲 氣象署：儘速遠離河川",
-            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBHc1M4NE1Bald0NVF0QmFKUDZnOWUzX2xyT1l2elUzUldaV0ViZ1dyRXVVVVNNY1plVkxuRTE0X003MlBRSXpSRE1TeFFmN1NFTnBsOQ?oc=5"
+            "title": "爭議滿天飛 佀廣洋宣布：放棄國民黨提名",
+            "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQUUt0QzJRNlc3aWNrY2VFcWx5VnNCTi1LXzF0akRVUHN2eVFTU21rbTg0ck5YMFh6SEx6YlF6Z2NGdVFQUnhjb01zc3U2dDlRWUUyWFRDT29kZjNBODhuaTZrTGRxQjhkM2hYZG5RVHJNUkR5cldlZ0JmbmlLcHhZNEpSZWZ4WFBYQkVxQkVMbkpIdEY0cVUtUDFQWWtUMjg5d2FwcjJOVFI2UVlCUnU2Z19DVm1RQi1xVW91MjIySVNrMUNzc2VXNjJzcVJKQk5vZ2R3UWtLSzZGVlNzWHRLVWRwSllJZWJOSW11a2dNNHdGeEtnRnNLVkJ2dkRJcGlWaEt3R0R0clVYTTlsLWNBVS05ZGpUUXVSR0RYb1gxMzdBdw?oc=5"
         },
         {
-            "title": "矢板明夫列「5大不實指控」提告郭正亮公開道歉：我真的誤解大了| 政治",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA2ZkpmeXJfQ1k3LXFveG1fSFlxN1A2cEh5ZnlMUFhZVW5RbE43THllcWV6UmhhanBqekdnZndObzRTSHlsejhvMzhueW1vdXFpcWZ0aVJYbUV1MHM?oc=5"
-        },
-        {
-            "title": "悲劇！內湖父子同日雙亡　7旬病父「照顧無法自理兒」兩人陳屍民宅",
-            "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFAyOGF5UU8tQVdiaHY5SU5OYkhTRjQ2Szg5QmZZd3J2UHpxX0VKYk5lZWhfczVuajl1UUZ3TDFxWG1kTFh1QXlsQ9IBTEFVX3lxTFBnRkF5bTl2SGMyOVQ5U0ItcTV6OTh3NEFoT3RZWTFhMEJSWTFrYzBZVnQzdGJCdURna09GN092VDQyWW9MbTdBUlZNdTk?oc=5"
-        },
-        {
-            "title": "快訊／黃仁勳愛店出事了！「花娘小館」驚傳瓦斯爆炸　1員工燒燙傷送醫",
-            "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE56a0dsbW1PRDBpNFI0dFJzOVhnaXduZUVldVRLUHpveVU2Tm10aXBtV1FqS0ZVQzU2MmJOTWFlZFcwSFlKeUp6edIBTEFVX3lxTE0xQTdWTkJYVXNpN245b2pvRkJMV1F3SWpnZGxoUmZpRm5rd1BYb2RpTlpHanV3X2lUXzg3cXQxQ0RpODdSVmo4OWlINUs?oc=5"
+            "title": "快訊／大雷雨狂轟還沒完！　8縣市今晚續發豪雨特報",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE53cExqbVZFY01CMDg1dTA1NmVaX0dNTl9ObGU1ZlVmNkdhR09oQzQzVllGZnFsMVZObWpJb2FZcFEwWmtnd2ZUSVNHSnNIWXdjbWNuRnluTy1LWENXUGfSAWhBVV95cUxQYlVBd1oyamdIUm5vbU5pbjVudTcxd0FEX2J5N2dKZXNtbnhDdUNrU25VWG56anEtSWJYRTVnZHp3by1NWWRNVXMtS1FKNVhTQ21UNjdneFB0aUlrUzJyUFRVZFl4OXVtNw?oc=5"
         },
         {
             "title": "追致癌油！彰化查76下游業者 瓦城、爭鮮、好市多等列名單",
             "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE90Rkg3VjQ5azlCZ01PanFvbUVuaWs3QXpOa3R3RTBZTkFsNi1mSzZsS1hKeTVsbWV4a0VHLWN6MnZRUDlQUHFxOUpoYkRiNzdwMzlV0gFYQVVfeXFMTWhfSC10eEtfcmZRZnhMOFNhcEFMWXJZbm0tQXM4QlY4X1ZXR0M2VWRVQWJNRjF6V0lFLUFxSXdnb0NMZmV2YUdFNkJmTDlkdGhBQ2NBU1Q0Uw?oc=5"
         },
         {
-            "title": "竹北天坑案一審宣判出爐！楊文科圖利無罪、豐邑董座3年6月",
-            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE13MXdnUlJ0Q0ZvNm4wS2R6M0NVRHlCNkZZZTJJcXA5aTI2cExBOFJpRlBaaTRCWi0xQk1lSUlYTmdxTFk5NnEycmpUM2MwSUdQ0gFWQVVfeXFMT0FNTlNIQ3pmSHRWYmFqU0l0bFVTS1dnZnA5eHc1SXBWbFpfMlF6OHowWExnMEdnRUpweVdWYW5XMTFEd3JiRW5OVjhzeHQ1clRnVFg1YUE?oc=5"
+            "title": "竹東山區下暴雨！21歲女露營回程騎車涉水 跌入水溝送醫不治",
+            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE04TVRSLVZHM1YwVUQ5ZnFCektZcnRQQ0lIREt4YzdUNC1QM0poZkdxQ2hUaXFSS203MVJjeFZMRkxwNE9wYmhJZDB4TlZtb1dyc3ozcW9NZ2ZCT1RvV1RFaDQwNU11Q1dY0gFuQVVfeXFMTWU4aUpHOExyYU9QWHR1TUd5M2laQnZ4VU5vMndjRElBYWlKV0JvLXJudUdZeS1nTENUYzhjUnU0SkR5Nmp6dC1KMW9VWEdQS2huOVItYnNqOXplN3Y1aTFFN1FzRC1RbS1iRnJzTHc?oc=5"
         },
         {
-            "title": "快訊／巴威颱風後續影響 新竹縣尖石鄉、五峰鄉多校明停班課",
-            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8ta2Rrd2lENUJpa3VKdmM5TTdta2Ytd3V2dmJGRkg2MnVLSC1Ga2J5TGNlMi01MElkeGVxS0FOT2htV2JEMWNvS2xZU2d0NU4zMm93dA?oc=5"
+            "title": "矢板明夫喊告郭正亮直球回應：公眾人物可受公評- 政治",
+            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE41NHdqQTRSaUtzNndLUWwyREJNeGZyZTB4dy1IV2xseG0xX1hya2NrMy1BdDh1amFnOVlicmVwbjBKeWgyWlNHdjRCLVJHRE9vbG0tTXpUY0ZlUlBiQkRZaWp4bWtIOUpBN1cyVUNn?oc=5"
+        },
+        {
+            "title": "密密麻麻好驚人！石門水庫集水區上游沖刷 大批漂流木卡住河道船隻",
+            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAxWVB1TTVrSzZnaDhiUXNVX0NmS0hQVndkQVFsY05qZHhvcElQLW1vUUhwa2RCeVF2ekl1OGNrV1YyRVFhWnpuZldPQWNYRENEUWNyaE15UUhDNERpQjllNmlORmfSAWpBVV95cUxPeFNvcGQ5Tnc2S3NFOVRBSnRQcnhrQ2U2TllVS0N1UkVSSFYtZUlidloxY1F5VElvdUFIQnBMbjgwWHVQTlNOQldLRGs0ZzB6YjdPVHJQWm82MHlrQzBIOW9xTDRQd3BHT053?oc=5"
         },
         {
             "title": "不斷更新／115年升大學分科測驗 各科完整試題與答案",
             "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9nb1B5b1E5QS1sMk1lSjBjYUNCVjFGUDByQkdoRnlGcEZuVVJPa0U3UjVyTHFub3Rsc3R0em1tUmpBM0dVTmI0cTJ3TVFOQ1g4OUg40gFYQVVfeXFMT09Rb3RyVWwxOWJ0b3ZUNk5xV2xBeEV0SHA2c0pyRnpJTzhHb3EzbGJob0hXMXhzVVhPUkgyTHliSTNFRUJIMC1xZW1SU2R4RzQ0cE1Nc3BQTg?oc=5"
         },
         {
-            "title": "颱風假效應！北榮陳威明曝重症患者手術被迫延期 蔣萬安回應了",
-            "link": "https://news.google.com/rss/articles/CBMimgNBVV95cUxQUEw3VEhheWFoZXBUMmtHRk8xbFVxaERkYWhqeXFNaDdaLXBLOWN0ZlpIamo1UlNhVWpudnBoeFctQlR3YlVBcktEN2tkTUU4Q19aTjFBQ19aMVAxbTlUX1ZsTWU0bEdUUHd2eWhsTUNWYUFBYmNvRmRQNnd2cDhQRDIxTzZaY3A0Z3hHc0NyWnZ3bEFZOW4zbHBOWExrSUpYOXlQci1NYi1ZZjFaOTctR211emRKTW9BRmdKOEVSSUxRVDAtRGVGX3d3R0RZbGJCRndkS3BKbHFydnd2emNHNHVTY1hDVGJsTmYwQ2lWeUkyVWhLeDJfSU04TXRVRHM4NlFfOUFBbDFxQzhXd29QVi0zdjJNcXROUzhoOUoxVEhRQl9VN3FIZmlYRFVhUEdiWFZudXMyOFpZY3ppWUoyVE41V2hwMVR1OFFIYmZBamRfYjR3cUlrckVvcXlkUnNLeGIyOVZCTDVkVFk0UTdSZlVsUzZjY2lJUFlBbXNqM1ZTSEpJbGNUXzFfV3l5NURTWFMtazlOd3pTUQ?oc=5"
+            "title": "快訊／巴威颱風後續影響 新竹縣尖石鄉、五峰鄉多校明停班課",
+            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8ta2Rrd2lENUJpa3VKdmM5TTdta2Ytd3V2dmJGRkg2MnVLSC1Ga2J5TGNlMi01MElkeGVxS0FOT2htV2JEMWNvS2xZU2d0NU4zMm93dA?oc=5"
+        },
+        {
+            "title": "只能做不能說！ 不只鴻海連義美都投資 謝金河讚：下個兆元產業",
+            "link": "https://news.google.com/rss/articles/CBMirgNBVV95cUxQNlFRNThvT0lMRnFWRXNVVGstTlA2bFo0Q2FMc193ZXJlRjZULW5aMFRDZlBGcmVHSEtXWmItLW02b3JsRkhoWS1jbGdKLXJ6X196UEIyMUhqT2NfdVUzczlqeE5XUWE1bHl6VzJGdnZ1UDBsUUUybHMySUZEaWEwOFpHT2t1RFZxaUs3T0t3Z09US2hDVTBMV1JUY1ZWUzVGMHl4UU1tRzJib1Q2bDdsOVpCSXRPLUFDSlF0RElZYzRmb0lWMWtBVGNSQ2YyMmRQZTZ6elB5M2pMSURTbWljRG9TeWxaWi13dEM4ZlJval9TQ1psVmxnZGxYaVdiNjhQVVE0emE3d0NEOFVGdU1ZX3lzWXJ6SG92LXlQdE12elV3M0lXZkNNR2RldTF4QWxsX25ncVBPUElNeXlsSXl3RUhETWxqa2k0VVBhTzMyak5rRkRVS3UzUjlZWHc2azZ3eGxNZUhYaF80REVuNG1BMW5ETEtLNWp1bnFxTTJoNFd0MHRyS3o2VFlQWjU5cXh4N2d2bFFSWldfSVJEaFYtTXc1emlNLVNHeDBOdTRB?oc=5"
         }
     ]
 }
