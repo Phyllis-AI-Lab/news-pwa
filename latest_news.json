@@ -1,46 +1,46 @@
 {
-    "updated_at": "2026-07-16 20:52",
-    "summary": "晚安，為您帶來今日晚間重點快報。\n\n【政治焦點】\n藍營首長對內閣表現頻頻開砲，蔣萬安要求卓榮泰下台，盧秀燕也質疑中央究責雙標。同時，馬辦內部家變延燒，馬大姊發聲明追究法律責任。\n\n【社會民生】\n行政院拍板青安3.0排富方案，年收200萬以下、50歲未滿者可申請貸款，上限1000萬。此外，陽交大教授涉爭產命案，其美國籍身分原因曝光。食安方面，桂冠沙拉等九項商品因含致癌物超標，全家超商開放退款。花蓮萬里堰塞湖水位逼近溢流，恐發布紅色警戒。\n\n【國際情勢】\n香港獨立書店再遭國安處搜查，多名人員被捕，引發社群聲援，香港情勢持續受關注。",
+    "updated_at": "2026-07-17 08:12",
+    "summary": "早安，為您帶來今日上午重點快報。\n\n【社會民生】\n新竹驚傳人倫悲劇，陽明交大教授涉嫌砍殺連襟，導致其身中三十刀身亡，檢方已相驗死因。此外，花蓮縣宣布萬榮鄉萬榮村因應天然災害，7月17日停班停課。網紅蔡阿嘎則因其二伯品牌產品疑似撞韓國設計，再度引發討論。\n\n【政治焦點】\n政壇攻防持續，台北市長蔣萬安要求行政院長卓榮泰下台，卻遭台中市長盧秀燕反問中央是否該先負責道歉。另有評論建議蔣萬安2032年再選總統，本人對年齡問題的回應引發全場笑聲。而苗博雅則揭露蔣萬安曾多次缺席北市食安會議，打臉其籲請中央召開會議的言論。\n\n【財經動態】\n行政院今日拍板「青安3.0」排富方案，限定年收入兩百萬以下、未滿五十歲的民眾可申請，貸款上限增至一千萬，婚育家庭另有加碼優惠。\n\n【國際情勢】\n香港國安處第三度搜查獨立書店，帶走「留下書舍」與「田園書屋」人員，引發社群聲援行動。中東局勢方面，美國對伊朗發動新一輪空襲，媒體憂心恐演變為「永無止境的戰爭」。",
     "news": [
+        {
+            "title": "陽明交大教授砍死連襟！死者身中30刀倒臥血泊 死因出爐",
+            "link": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxOMXprR3BXOGxpS1NER1ZEdlg1cDhuTk14Zm03aXlyd0U3c0Vfd2Fldkl0YzlsZThnNVQ4WFpfTzdDZFdIUm5hT2wyYzEyci1TWExGMC1vd2tiVFVUOVAyODd4UHZud0hHVGxaUTNEODRxbVN0QkFTZ25SbGUxdjdyM0k0dEw2RTlhSTBhbFhiTXc4c0tKZzMzVzROTzZ6NmZQMTFDUFJoTTNtbk1iYXlQa0RsZ25iVlRNSE5jQWJRWU5ET0E5bWF5R29nX2x4dmNnMGhlREZVWWQxVGVUNWkybE15QXJiSE9zYTNLcW4yMDh1NWQ3LV85TVU5WS1DS2trYUJYblNsY2FDaDNoSy1HY3l6Qm5pSng4Z0hzNEJ0NWdESUpxdkhxZG5vVHFVeEkwSElQb3lZNDIyeXdLa0V5ZWlCMmxYaW50Z196UHVSQWZIN2dGRGJoem5IbzlvOS02blFrTGtIdFJBRnBm?oc=5"
+        },
         {
             "title": "青安3.0排富政院拍板 年收入200萬以下 未滿50歲可申請 貸款上限1000萬 婚育再加碼",
             "link": "https://news.google.com/rss/articles/CBMizwNBVV95cUxQZkJHMVNfWmxOazBkaEhMYnluTEV4aWhWa2FVdS1aNXlBTjY1YzdOLXl5c1hCSDNuYjZ4Z3FxYXVSYVZlc0M4S3o4U3AtVlUwempmUEcyVUZhMmxtSG9TUDhwT0VCMGFtcE1JSF9MMXctNGlVNjBWeGRfbXRFOEZqNnltNVZTQlpvb0g5eEJYOG10dTFIV0JHSnZOZlhUbjVENmYtWWE2ejVYSUZNR0VETGdfTFlmbzlmSWp2dW92UkczcVJpbE85MW9qNGNCa1MwYnZjR1FVRVpSbTYya0pqdXpfUzdpbGdkalZLS1RyLU1pME5ILU9JcUdUTWJyRWhrSExBUE1HU2FWUUNVb2hPdkFBa1pMcU9peTZvdUJ1dm1pQU9EY0w5Y2pqcEdiMVJLUld3cFV4UGZBcDB5YldMeXRxenN5eTltZ0txZnlGTnV2VmtRc0wtSENxdGlmQzNkekViMFVWTlVPVHR1WGh3NlBhNl80U0RnSUVoM2JYZlBqX3ExWlJScVZLcDZrRjIzSHl4TVI2bWlUYmp4Nk42U2hkcTNKSGRPbXlpcGlnSHhPbktaOUE5aGhqX2FUNUNfcDk3ZkpZLURoVlR2N2JZ?oc=5"
         },
         {
-            "title": "陽交大教授傳爭產砍死連襟「指導學生全延畢」　擁美國籍身分原因曝光",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5teWFlLVlKd3c5dTFCQmZkRXp2Y0ozY25BRklJbVRjRlFPaVczZzZPQmFQMlZod3BzNUJHNXo0cW1ydjd2ZkpmTnpjUG1vSzNtTHdSN3NGOE1UQkXSAWBBVV95cUxQWWQzSl9SUWxYLTZXX0VkT1ROdVhIMUIweXB0RmhoZWh3d3JuSElqR3NYV3JNM28xcU4yenhnVjVpZXI3QVpGU1RUUUZOemxROHZHTm1hVXVFSndKbU9hMko?oc=5"
+            "title": "快訊／花蓮縣宣布：萬榮鄉萬榮村7/17停班停課",
+            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1IcXQ3ejd4YlgzbHlBa2RnUzU2RjNLSUk2RzdudmlPMFMwRk5XTHNnaGJleVVwTUNqcXNOZUNDRWpzclBPVVZ2UkY1SXJCZkZUSHRkTA?oc=5"
         },
         {
-            "title": "沙拉油含致癌物超標案延燒 全家退款桂冠沙拉等九項商品 9/13前可辦理",
-            "link": "https://news.google.com/rss/articles/CBMitgNBVV95cUxQdFk2aXljNzhBX0Jrc2hHd3lfQUN1V0RCZ25XcUxqNi1Md2tqOG5RdkkwZlNWRHVBTHBLLVRzZkhyTTNza1RTOTJQUVM3MVJFemxsUHluaW5ISkticjZQNnJNWWdTSnU1QWdRODZTRVdvZmJYOWwwZzRJNE9VeTdoQ0N2eG84WkxGYmE1NDhxbVYyalFBSkN6OFFiX1M3amJBeWNWUkRERi1sTGxZRFVKUzVGSnhDMXhocDc0bndsMUhva21UaFEyTmJrU21mV1Z0WjRwTzFnc0ZOLVNBNUQtV3VaZExCLTNqZXlHZ2YwNE5XYzdJVEh3cHVkankyRHBvUzBkTGdyRk55eHBfaHRiQUtlZUdybWlPSlhRdGpLU2YyczFUQjVYd1pxTFR2bTh0TDBwTHRJd2tJcUNJYTZrSHJwdzhhYW9FT2lVUkJQc05RbDlVajdELWFMdDJSYWtGaHlEZkJTcEpBS0dPSGs4b21OZjRwb0lBVTdmUG5ZZ25TR2NIVnptZzRqX1R1WUt6emx1U3gzRGktTDBXazdjZFRLUXFEQXowaDZjalo5eHRtaUxRWWc?oc=5"
-        },
-        {
-            "title": "佀廣洋逼朋友送公仔還索賠？ 她代墊1.5萬怒吼：萬美玲還我龍",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBLTl9OTXZhYTgydkxLaW9LblBtUkFlNkpWcmVuRTFkeHlSR2xyY2FneXJPNXA1LW1INFlGMnNSd0YybVZuVV9STk1KcU9XbDRmQTJOSUYxSnBhYUdFdGtKaTBERXZ3TDJVVGfSAW9BVV95cUxNY3RiVlo4a0o4ekF0SzBic1IyX2ZsVW9lYk82SFd1Y29KZlEtY1RqUWtZOF9xMDVlQk16T3lJbTE5MVBQc0xnOW5KOWltN1o2ZXpFYzZsN0RKd3FmQkxUZ1lxZ1ZHcUNkRko1U0xVZ3M?oc=5"
-        },
-        {
-            "title": "抄襲風波延燒！二伯品牌照上架新品「蝦皮比官網貴120元」 網全傻眼",
-            "link": "https://news.google.com/rss/articles/CBMikwNBVV95cUxOcWhwcTl2Wjh4dzZSckpJWndnNzVZZUl1NF9CYjlqMGFGcXNjeFl1bV9GOHJLeFhMWDU5NVBoX3NxSG9GcVo1eDlDenJZR3psLTMtMUdnMm9UMG10R3czSFhMVjFPaUhTWE5OSElVSFN2blc2VnVPNXlxc1k5bVF0WWxDMGpGZWVYcWtDY1lDWUIwSndMVmZPbXBlQjlOaUdSVW5McDIyeWlzRklUVDhQWENWa25TdURWNng4akNXSmd5TjY1NzJ4N21TcXcwLTU2by1ndWQ2N0RhOHVzSUtBNlhsaHFMcEczUmo5R1BIYjB2OG1XRlpEY3V6SVJkaUk0OC1YWVBlQkdhWlIzdWl6Vk9YN2NoMFk5TEpuUkxFMHhwUkNROFlsT0JSbEtEN1hlMkhZd0JDVk5CMWdkWmNjMDVyOG9jNEdwY3p2WG1pVlVUWGhSY3F4RC1mRURJVkUwa0hEbFJUelFhLWVlaURZc3dmMnhzeG1ZTU1PTkxjT0s1T0FLNkRTWElzMzBpUmNxVjlz?oc=5"
-        },
-        {
-            "title": "花蓮萬里堰塞湖「剩1公尺溢流」 今下午恐發布紅色警戒",
-            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1OQ3djdndiN21tbDFBaC14dEhhMGJNa1V5c2ZvT3NhdjhSWk1MVHVJVXFlMWM3alp2Y2NjNXZackZOcWRiQXJ5RjBVY2FNNDdaejY4WA?oc=5"
-        },
-        {
-            "title": "蔣萬安要卓榮泰下台 盧秀燕：中央究責別人、自己要不要道歉負責？",
-            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE41UlpBa2l5NDA4akl6S1RiRzV0VDlSald6LTFmRDM0MWhnSGZLYXhocDBXeDFhemszNDJ3b0pxREZ0ZHFUTEZCcWliY0R4ZlJxLXFv0gFYQVVfeXFMTzNhZlozNXBOV0lnU2ZfUUNEQ3g1NnY1TE53SEEtRlY1Y3JIeDNjYkNFVThocUFRRjZqRmRBTmhyS3E4SEx1UWlmT2tlaE0xMnBjYm5tMGZnVg?oc=5"
+            "title": "蔡阿嘎昔喊「最討厭韓國」自打臉！二伯品牌再被抓包　疑撞韓國設計",
+            "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBjUWRkVWJKMU8tU05ncS1xYkJmei00RlVZNVlHWFl1TkVuZkNMRzItSTIyaHF2QnhiR2JpQVc1YV84eXdEdFlKaNIBTEFVX3lxTE5mTk1GQ1dUUG5iV2tkalM1eW1kckwzTnlnSzdEX05XWlZfbEdOdHVKRlBfTHFvSXo3ZUhnQ0taQWxHUUVxQ0dmcDQ1NWI?oc=5"
         },
         {
             "title": "香港國安處第三度搜查獨立書店：留下書舍、田園書屋人員被捕，引發「我是書店店員」社群聲援",
             "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE53bmt2R2dIMTY4VXpNY241SkZHS2x1RkFyTnM1cUZDMDloQ1BTVUZJcGR6cW5lb04zUS1xOUx4VTNqeDF5dkEwTzBIOTVLQWpMY2dyRjctbVhfWmpVa3pTRDlBSUtJZ9IBa0FVX3lxTFB6dGVOU3p2LUhuVUNKLWRGUEd1RlNBc2RDNW5MZW9VdHU2Y2FjVm9EZFpsZ2FBeUMwZ3RhRVA4b044cjB0OFplMlFkajNUdmg1T3FXVngtdlZTcEg1UC1MWUh5QlVwdXFsWXE4?oc=5"
         },
         {
-            "title": "馬辦家變新發展 馬大姊聲明：以馬英九名義簽署文件追究法律責任",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5UOWU0SnptMWxNZWZOM2kzY09FYVZYTW9BMWtFUHdGekF6bmpRU0JMRDgzaTRUekN4eUFIMUFCckk3X2xUVDNUZHo2aGw0eGp3NTlYSG5ybWliT0N3Wk9uWHkzZjd1N2pzbnfSAW9BVV95cUxObU9TYmk2cVk5UC10N3NCdjM0R0s4V0ZMNWVXQ0NMbzkxZFRqcVNhdlladV9uQURRX0tEcXA0N3lFaWlaczA4dFVXN2UtVDNuSDkxRmxZenBWS2NpUEZXSFlYNlNIZmlGdl91UDlRLTg?oc=5"
+            "title": "美對伊朗發動新一輪空襲 CNBC：恐演成「永無止境的戰爭」",
+            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBYVnFCd182cl9fNUdVNWFjWU9pQ3pUbFhnd2o2Mm9ITDVZRENnZGZrYTBaM1VYQ3AwaXlkLTBtNG82REZJRS16Tmt5emJ6cE1Zc1hnaWtzVUhMTXo2TE1R0gFkQVVfeXFMT3N3Z1g2NFRZWlhjNXhBYkZCdTZVUXNwcU9aR1VHTE9abXJXaUlhUmZkSUIzTW5LT1VNdmt5Tnk0VzQzS1o3V2Vvc180eE1YRFVyOGdWbThmcG1YS2dXOXhVMmR5cQ?oc=5"
         },
         {
-            "title": "被黃國昌造謠醉倒上海？ 梁文傑：我不會拿柯文哲傳有飯後甜點指控",
-            "link": "https://news.google.com/rss/articles/CBMipgNBVV95cUxOcmwxc1JpMWlsWnItYVh2NkVMZ3JCVklBbko3WDQweHAxTHB0cVpaY3lCOTV2Tmx1T1FkUWpkakZCRXdqbk1rSzJhd1U4dWR1bDVkcy1qdWNVSXh6U1B0bnZ6V0hBWnBVQUcwWm1Da1dWOTZWbE8wcGRsdm80LS1EODlOZEFpYjZvdFlmWHJPSDFLcDg5bVZqeGdHcG4wVW1nSmR2NFNUMzZSZFBvTXZ0ZTk5VC01X3A2a1N0RkpRdEVzcjZ6TFp4VF9lVTBFdHFUbGxlU2dXZEV2Z3M5NGpKbVBTTTZDV2NVeXgzSGowdGRCejVlMTBUcW8yRnVpcy1wS2NDWUVwQ0hqemFWaWN0SzU3bWVxNEY4WVdSYndGTllGRlI5Vk1fUG85Z3hCcEJkci04aEthUUpyOXF1TUk4bVhhaVM5NnVPbnhFNFVIWmRBbU9jd0pva0daTGFSck1mVnRmQ0FhT1pCemdZRWhMNEVfenR0a29keVM0TVBCejk1b21VUjd0bGJrXzJ0YkNGUmJKaXd3TzZubklxcWRCTjhTc0tfZw?oc=5"
+            "title": "蔣萬安要卓榮泰下台 盧秀燕：中央究責別人、自己要不要道歉負責？",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE41UlpBa2l5NDA4akl6S1RiRzV0VDlSald6LTFmRDM0MWhnSGZLYXhocDBXeDFhemszNDJ3b0pxREZ0ZHFUTEZCcWliY0R4ZlJxLXFv0gFYQVVfeXFMTzNhZlozNXBOV0lnU2ZfUUNEQ3g1NnY1TE53SEEtRlY1Y3JIeDNjYkNFVThocUFRRjZqRmRBTmhyS3E4SEx1UWlmT2tlaE0xMnBjYm5tMGZnVg?oc=5"
+        },
+        {
+            "title": "「反中聯嗎？」黃揚明直播火爆開嗆　吳崢炸鍋反擊：你大聲什麼",
+            "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9fLTFZdmhHd01QZzB5ZlQteGFiYU5tUGhYbUxFT1V4ZTRkUmtudnJiZ185LTJSRkMtNjhRdlRVZzlsMW1RZFdMWlF1NW3SAVJBVV95cUxQeEpadER3ZVNYOVc4V1NZdW5JZUNySzNPZ3Q0REFxQXBKeTlsV29IUlBIcEJoMF95cG5RQnNseHUtbHJZai1maE9LelhZODBqTTNn?oc=5"
+        },
+        {
+            "title": "拒讓國民黨嫡長子折損！他勸2032再選總統 蔣萬安被問年齡尬回全場笑翻",
+            "link": "https://news.google.com/rss/articles/CBMitwNBVV95cUxNZVVpLUQ2QzNHMFRBeXlMTEw3TjFEVGZTcWUyYXB4c2lBendjMVMwVVdXTzNoOXpvck91QTNfczZlU3JGWkdRTnNnTFFRMlpNbmlkcDdkdVpfLXp3SndHYzFDazA4dE9tYmtScU1ENUtGWkhIWkR1T1VqaTZtREphcExQZ3VreXp4Qmp6VlNqOXpwMlVPU1pUb0lYaDVFNjhzS3RiNVRzVm9ubzBEaG1aRjV2anJ2ajFtRHlsRUlfbGxkdmVzd2xyZW16cUxuTy0yblJnVkw5S3RLOGZSRWZCSnRzM3dYYVJsSXJoMnZfMWpiTW9faURyQl9NdUljNmJGYlRmRjBlS3Q2QzZ1M1RkU18wOUtwdFlka3lnMGpYMlg4TTB4RjhVT0pTZ2ZpOS1kNVFRdUtoTF9NYlpoZFlWSGt4WEdYSWxFR0hrRlpMMV9vY1U4TDRXVThYRjN3TTV6elZaeGlmX1VaemVtTVVGSS03LTBPNVFESk5Ec3VxSG4wX2lpRUFHbjBGaEFGX1ZZOUtnN2dEM1hxR1E0dGU3UmEweDZicnRzeUNiZ2g5eWoxb1FqVG1v?oc=5"
+        },
+        {
+            "title": "糗! 蔣萬安籲中央開食安會議 苗博雅打臉:北市食安會議缺席11次",
+            "link": "https://news.google.com/rss/articles/CBMikgNBVV95cUxPVFVCSWN5aHAzb0NWQXk3WERMTFpCOVRHb0NhNnhIbWZ4cndFNEZETzhVSTZxMkNKc0p1N3JYTnp3WTluTktlY0tkbm5NRTBueGxNZmFmLURlVmhxZFY2RTdGMy1OYnh5M0xRb2ZuSEgtTmQweXRGZW5JZU5OOHB2UjlUU3pubVlpVzZKcUJuXzJOclZqWUlseUpTTlN2ZjNaZmYxYzFaSG5heWU3NDVLdTNhcGtPTERPM0o5aXZqeUtpblFyUDRaM1JBLTF3bUF3Z3N1V0ctemV5U0lNX3JSbkdzTjZrRHEzeWdSaTkzZjlzOEZ5dHkwMDV6NkxrcG1Gal9LV25uV1dQUHR0S25RTU5VeGRfbm12Z21Dckd5emRFU0RJZXNEUWUyQkVnSVVmTWZqVFN1Z1ppd1JjWGlZMDF3V0xZZlRoMXE1amdhOGdscndOVm1vY18ybkxwbTIySTRkUXJIMlFjVXNGaGtrMVRQa1RRSkNrd3JvZkRDYnpMWjB0dm1VOS01MEN6TnhHR1E?oc=5"
         }
     ]
 }
