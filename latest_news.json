@@ -1,46 +1,46 @@
 {
-    "updated_at": "2026-07-17 08:12",
-    "summary": "早安，為您帶來今日上午重點快報。\n\n【社會民生】\n新竹驚傳人倫悲劇，陽明交大教授涉嫌砍殺連襟，導致其身中三十刀身亡，檢方已相驗死因。此外，花蓮縣宣布萬榮鄉萬榮村因應天然災害，7月17日停班停課。網紅蔡阿嘎則因其二伯品牌產品疑似撞韓國設計，再度引發討論。\n\n【政治焦點】\n政壇攻防持續，台北市長蔣萬安要求行政院長卓榮泰下台，卻遭台中市長盧秀燕反問中央是否該先負責道歉。另有評論建議蔣萬安2032年再選總統，本人對年齡問題的回應引發全場笑聲。而苗博雅則揭露蔣萬安曾多次缺席北市食安會議，打臉其籲請中央召開會議的言論。\n\n【財經動態】\n行政院今日拍板「青安3.0」排富方案，限定年收入兩百萬以下、未滿五十歲的民眾可申請，貸款上限增至一千萬，婚育家庭另有加碼優惠。\n\n【國際情勢】\n香港國安處第三度搜查獨立書店，帶走「留下書舍」與「田園書屋」人員，引發社群聲援行動。中東局勢方面，美國對伊朗發動新一輪空襲，媒體憂心恐演變為「永無止境的戰爭」。",
+    "updated_at": "2026-07-17 13:23",
+    "summary": "午安，為您帶來今日午間重點快報。\n\n【社會民生】\n今日社會案件引發關注，陽明交大教授涉嫌砍死連襟，死者身中30刀，死因已出爐。中聯致癌油案持續擴大，新增兩批超標產品流向晶華、蝦皮、貴族世家等知名業者。台南一名1歲男童在保母家全日托後吐血身亡，疑有虐童情事。此外，資深媒體人佀廣洋的北京大學學歷因被檢舉作弊，恐面臨不保。\n\n【政治焦點】\n行政院長卓榮泰就中聯油脂致癌物超標案，為未能掌握完全資訊深感抱歉，將追究行政責任。陳佩琪抱怨柯文哲存款歸零，引發網路討論。同時，針對傳北京下指導棋國民黨擬提告，莊瑞雄指出司法無法取代政治責任；而吳崢談毒油的言論風波，綠黨團則呼籲執政黨應虛心接受食安批評。\n\n【國際情勢】\n國際方面，美軍持續對特定目標發動空襲，白宮仍表示伊朗與美方保持對話，盼達成協議。香港警方則突襲兩間獨立書店，拘捕五人，指控他們涉嫌販售煽動刊物。",
     "news": [
         {
             "title": "陽明交大教授砍死連襟！死者身中30刀倒臥血泊 死因出爐",
             "link": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxOMXprR3BXOGxpS1NER1ZEdlg1cDhuTk14Zm03aXlyd0U3c0Vfd2Fldkl0YzlsZThnNVQ4WFpfTzdDZFdIUm5hT2wyYzEyci1TWExGMC1vd2tiVFVUOVAyODd4UHZud0hHVGxaUTNEODRxbVN0QkFTZ25SbGUxdjdyM0k0dEw2RTlhSTBhbFhiTXc4c0tKZzMzVzROTzZ6NmZQMTFDUFJoTTNtbk1iYXlQa0RsZ25iVlRNSE5jQWJRWU5ET0E5bWF5R29nX2x4dmNnMGhlREZVWWQxVGVUNWkybE15QXJiSE9zYTNLcW4yMDh1NWQ3LV85TVU5WS1DS2trYUJYblNsY2FDaDNoSy1HY3l6Qm5pSng4Z0hzNEJ0NWdESUpxdkhxZG5vVHFVeEkwSElQb3lZNDIyeXdLa0V5ZWlCMmxYaW50Z196UHVSQWZIN2dGRGJoem5IbzlvOS02blFrTGtIdFJBRnBm?oc=5"
         },
         {
-            "title": "青安3.0排富政院拍板 年收入200萬以下 未滿50歲可申請 貸款上限1000萬 婚育再加碼",
-            "link": "https://news.google.com/rss/articles/CBMizwNBVV95cUxQZkJHMVNfWmxOazBkaEhMYnluTEV4aWhWa2FVdS1aNXlBTjY1YzdOLXl5c1hCSDNuYjZ4Z3FxYXVSYVZlc0M4S3o4U3AtVlUwempmUEcyVUZhMmxtSG9TUDhwT0VCMGFtcE1JSF9MMXctNGlVNjBWeGRfbXRFOEZqNnltNVZTQlpvb0g5eEJYOG10dTFIV0JHSnZOZlhUbjVENmYtWWE2ejVYSUZNR0VETGdfTFlmbzlmSWp2dW92UkczcVJpbE85MW9qNGNCa1MwYnZjR1FVRVpSbTYya0pqdXpfUzdpbGdkalZLS1RyLU1pME5ILU9JcUdUTWJyRWhrSExBUE1HU2FWUUNVb2hPdkFBa1pMcU9peTZvdUJ1dm1pQU9EY0w5Y2pqcEdiMVJLUld3cFV4UGZBcDB5YldMeXRxenN5eTltZ0txZnlGTnV2VmtRc0wtSENxdGlmQzNkekViMFVWTlVPVHR1WGh3NlBhNl80U0RnSUVoM2JYZlBqX3ExWlJScVZLcDZrRjIzSHl4TVI2bWlUYmp4Nk42U2hkcTNKSGRPbXlpcGlnSHhPbktaOUE5aGhqX2FUNUNfcDk3ZkpZLURoVlR2N2JZ?oc=5"
+            "title": "怨「柯文哲存款歸零」！陳佩琪嘆：活著沒意義　行政執行署回應了",
+            "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9saVlXRlI0S3Z0WGlZZ0hucG5uOFU4am9WQU5OQm16Z1dyTEUxQlplQmwwd19tVE1hRjZhSDBHZlh3YndPZjg0VtIBTEFVX3lxTE5mVzVjMGVaU09KS0lqX1RBZ25mVG1Kb0N3aWpOdVNJMW5vXzFmekx2QnA5ZWpySzFfSEpTLTVxNzhudHFubVp3UlQySC0?oc=5"
         },
         {
-            "title": "快訊／花蓮縣宣布：萬榮鄉萬榮村7/17停班停課",
-            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1IcXQ3ejd4YlgzbHlBa2RnUzU2RjNLSUk2RzdudmlPMFMwRk5XTHNnaGJleVVwTUNqcXNOZUNDRWpzclBPVVZ2UkY1SXJCZkZUSHRkTA?oc=5"
+            "title": "美軍狂炸！白宮：伊朗續與美對話 盼達成協議",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBYYmFvbGRNZjFyRkRaNHJMbnB0eHZhakYzMTY5SFZkOWlRWjc3OU5jQ0RJYWtudE4zR1E5STYyT2JUUWFteklhR3dyRUFqaFlicXpR?oc=5"
         },
         {
-            "title": "蔡阿嘎昔喊「最討厭韓國」自打臉！二伯品牌再被抓包　疑撞韓國設計",
-            "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBjUWRkVWJKMU8tU05ncS1xYkJmei00RlVZNVlHWFl1TkVuZkNMRzItSTIyaHF2QnhiR2JpQVc1YV84eXdEdFlKaNIBTEFVX3lxTE5mTk1GQ1dUUG5iV2tkalM1eW1kckwzTnlnSzdEX05XWlZfbEdOdHVKRlBfTHFvSXo3ZUhnQ0taQWxHUUVxQ0dmcDQ1NWI?oc=5"
+            "title": "佀廣洋北大學歷恐不保了！張育萌出手向學校檢舉作弊",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBTRDNaVWRxb0NWWW4ybmd5Sm1IMnF3NFZ2R3pKTVFHb1UtMlhwWVQ0QlVtNUEzS1hrc1UwZllGQUNYMlRfSDZHZ0dfTHdlSkE3bW9aTkI3VDhGNlBrM3U3Q0tuOWpTTklxREHSAW9BVV95cUxPMjNMSXYyNkx1djRjOE5nS1FhdVdLYTJ1Z3lUSS1YSFJWb05jU1NTNDJNSTBlNUltYTdiSTdPdjN5X0FCS3pCYUMtQl9uSFg3dmx6UzZZaUcyZTBrYmd1UE5la2dMRUlwc3EzNGVIZWM?oc=5"
         },
         {
-            "title": "香港國安處第三度搜查獨立書店：留下書舍、田園書屋人員被捕，引發「我是書店店員」社群聲援",
-            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE53bmt2R2dIMTY4VXpNY241SkZHS2x1RkFyTnM1cUZDMDloQ1BTVUZJcGR6cW5lb04zUS1xOUx4VTNqeDF5dkEwTzBIOTVLQWpMY2dyRjctbVhfWmpVa3pTRDlBSUtJZ9IBa0FVX3lxTFB6dGVOU3p2LUhuVUNKLWRGUEd1RlNBc2RDNW5MZW9VdHU2Y2FjVm9EZFpsZ2FBeUMwZ3RhRVA4b044cjB0OFplMlFkajNUdmg1T3FXVngtdlZTcEg1UC1MWUh5QlVwdXFsWXE4?oc=5"
+            "title": "中聯致癌油「新增2批超標」流向曝光　晶華、蝦皮、貴族世家都中鏢",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9zMGE2UXpvYndkbFVtTEg0Z2ZPNm9KSWZuamZLeDFDeWtCN25tWE5hS3kxU29fOFQtVHBWWFlZbUtqNk5lTklfbTlCcE4tbzYySThVN1FlMjd4UF84TWfSAWhBVV95cUxPRGJ5SWViVjk3aGVQWmpOanFWTkJQY2VEQ0xTVTF3Q1huVDMyTHp5QnhQek1YaEtmdy1NblFqSHRwdFJKYVdHUnhPajBkUkR0cUhxWmdBb0lpR2c2VWI0VlJ6a0pGaFJKdg?oc=5"
         },
         {
-            "title": "美對伊朗發動新一輪空襲 CNBC：恐演成「永無止境的戰爭」",
-            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBYVnFCd182cl9fNUdVNWFjWU9pQ3pUbFhnd2o2Mm9ITDVZRENnZGZrYTBaM1VYQ3AwaXlkLTBtNG82REZJRS16Tmt5emJ6cE1Zc1hnaWtzVUhMTXo2TE1R0gFkQVVfeXFMT3N3Z1g2NFRZWlhjNXhBYkZCdTZVUXNwcU9aR1VHTE9abXJXaUlhUmZkSUIzTW5LT1VNdmt5Tnk0VzQzS1o3V2Vvc180eE1YRFVyOGdWbThmcG1YS2dXOXhVMmR5cQ?oc=5"
+            "title": "獨家》虐童疑雲！台南保母全日托2天 1歲男童頭部瘀青吐血亡",
+            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9jSDJmR1ZKMWVhZlJFbzRuQVVCX2VFZlBFWFdMaW96c0trNmxjQlNfaFBtcWdFM1hxalFaTFAxUmhPaXZJZW8tdWh3TFQwdmZVbkE5UXplbzY0QjVvbnVLSnNEZmxUYlZZ0gFuQVVfeXFMUG8yTktNVW1tay1haW4tY3dmNFQ5M3NjV2tLM0tRdFdaOGlscVlwREdlTTRIOFktc3VVU0RieGZFVnRCTEVpV2FXYmRSTnB6TWltVzNJVVY2OXMzcHJZamJ0SWdfNnd6UjF3R19wSVE?oc=5"
         },
         {
-            "title": "蔣萬安要卓榮泰下台 盧秀燕：中央究責別人、自己要不要道歉負責？",
-            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE41UlpBa2l5NDA4akl6S1RiRzV0VDlSald6LTFmRDM0MWhnSGZLYXhocDBXeDFhemszNDJ3b0pxREZ0ZHFUTEZCcWliY0R4ZlJxLXFv0gFYQVVfeXFMTzNhZlozNXBOV0lnU2ZfUUNEQ3g1NnY1TE53SEEtRlY1Y3JIeDNjYkNFVThocUFRRjZqRmRBTmhyS3E4SEx1UWlmT2tlaE0xMnBjYm5tMGZnVg?oc=5"
+            "title": "中聯油脂致癌物超標案 卓榮泰：深感抱歉未能掌握完全且真實資訊 將追究行政責任",
+            "link": "https://news.google.com/rss/articles/CBMihgRBVV95cUxQaDllTHhWNVpOU2I2TWI0UnpFcGliUlM2ejc3VVNPcWJvUHdDcVJDWFZUd002VmdhRXRrSVhOZlNhYzV5X2ZvNmMwYTJHV0tFZHBBTGluOVgxbGZScjZOM0dSVmlWakk2UGJ4MV9NVjRRZXlOUkwyUjlraElvNU8weU5DRnBxbzlCN2hRUGZ2QnFiT2JJalBPNUFUalRub3g3R1RPbTI5X2ZnMkotLUVSRklOa05sdUhXaGdwYVpUUWE2WmhMNE1QMTlNWldDWE9STndaQ213aGZyTUYxOFVpdzdiNTExM3kyeHltMjZhNUxaSnNIREtkcXRPMDJkYTd1SVZ0Ukh0WlpnVm9yTVRQVy1MNGI5V3kwUmdULVVndG5rU2Z3S2lMTG5rWTFCbGJUQVNEOGlCYTlHdzlPZ0l3U0E1UGVSU2J6YzFpQUN1TEdVdmZQM3d6UVdrOFo1QzlvcVB2YlNZUkN4Z0xJdi1HaFB6SkhJcnpxLThkMlNBVm9VUG15RzZfNG43OW5BLUFmWkdGWm12cDVGRmZsZWdXbVl6VU44aTBNNW9HXy1wakplWkdNNFItWGVDR3JSc2dfc2xOMVhqMTdLek1zdkJYRUt2RWRQelpQcGR6MEdNTVYyV2NlYks0VHNXSGpWancybE4xS3dCekNjbWlCOG1qLVhBcm5Odw?oc=5"
         },
         {
-            "title": "「反中聯嗎？」黃揚明直播火爆開嗆　吳崢炸鍋反擊：你大聲什麼",
-            "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9fLTFZdmhHd01QZzB5ZlQteGFiYU5tUGhYbUxFT1V4ZTRkUmtudnJiZ185LTJSRkMtNjhRdlRVZzlsMW1RZFdMWlF1NW3SAVJBVV95cUxQeEpadER3ZVNYOVc4V1NZdW5JZUNySzNPZ3Q0REFxQXBKeTlsV29IUlBIcEJoMF95cG5RQnNseHUtbHJZai1maE9LelhZODBqTTNn?oc=5"
+            "title": "傳北京下指導棋國民黨喊告 莊瑞雄：司法無法取代政治責任",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4tY0FIUDcxRE9mYVIyUmFESlVPcG1fVlpGVHNlNU12SnRQVEtHQXFSOElsbFdob2dta0pXOG5tVHFEZXphUkRhOEYzN3dJQmVYWE1TbXhwVWZ1VWV1NkdZS1R0N2Q5RHBZTFHSAW9BVV95cUxNUHBkUEN4MlZjRzZ6a1pia3RDYzNTcjcwNWgtZTNfaHh2YVVRTTVHNFZZSDVOazlLenRoOENvZS04cUpnU0lNLTRKcnFWOHN2VV9FT1JhOEpoOG0tLURjZzhHRFRZTFduNDRucTVtR28?oc=5"
         },
         {
-            "title": "拒讓國民黨嫡長子折損！他勸2032再選總統 蔣萬安被問年齡尬回全場笑翻",
-            "link": "https://news.google.com/rss/articles/CBMitwNBVV95cUxNZVVpLUQ2QzNHMFRBeXlMTEw3TjFEVGZTcWUyYXB4c2lBendjMVMwVVdXTzNoOXpvck91QTNfczZlU3JGWkdRTnNnTFFRMlpNbmlkcDdkdVpfLXp3SndHYzFDazA4dE9tYmtScU1ENUtGWkhIWkR1T1VqaTZtREphcExQZ3VreXp4Qmp6VlNqOXpwMlVPU1pUb0lYaDVFNjhzS3RiNVRzVm9ubzBEaG1aRjV2anJ2ajFtRHlsRUlfbGxkdmVzd2xyZW16cUxuTy0yblJnVkw5S3RLOGZSRWZCSnRzM3dYYVJsSXJoMnZfMWpiTW9faURyQl9NdUljNmJGYlRmRjBlS3Q2QzZ1M1RkU18wOUtwdFlka3lnMGpYMlg4TTB4RjhVT0pTZ2ZpOS1kNVFRdUtoTF9NYlpoZFlWSGt4WEdYSWxFR0hrRlpMMV9vY1U4TDRXVThYRjN3TTV6elZaeGlmX1VaemVtTVVGSS03LTBPNVFESk5Ec3VxSG4wX2lpRUFHbjBGaEFGX1ZZOUtnN2dEM1hxR1E0dGU3UmEweDZicnRzeUNiZ2g5eWoxb1FqVG1v?oc=5"
+            "title": "吳崢談毒油「沒逼你吃」網炸鍋 綠黨團：執政黨對食安該虛心接受批評",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9CZnFqWXJqYTNPS2hfUlFnVmYyS3FuWmpZNll0WWNNcVAzdFhJUjc3YlNBcmR4RlhOR3NDMnowZlUtOTh6cmtwZVgyTFFLU0hDZDk40gFYQVVfeXFMUDdENW1KYlBnSkd0WVFOaHVmaGpiWnFabVkzM1ZYQ3ozUjMtUU1jQnNVNXU0QldRSlkzWDd1QnBMLXh0Y1UwTi1hR2o4ZGRzOGx1cHdLcHBBLQ?oc=5"
         },
         {
-            "title": "糗! 蔣萬安籲中央開食安會議 苗博雅打臉:北市食安會議缺席11次",
-            "link": "https://news.google.com/rss/articles/CBMikgNBVV95cUxPVFVCSWN5aHAzb0NWQXk3WERMTFpCOVRHb0NhNnhIbWZ4cndFNEZETzhVSTZxMkNKc0p1N3JYTnp3WTluTktlY0tkbm5NRTBueGxNZmFmLURlVmhxZFY2RTdGMy1OYnh5M0xRb2ZuSEgtTmQweXRGZW5JZU5OOHB2UjlUU3pubVlpVzZKcUJuXzJOclZqWUlseUpTTlN2ZjNaZmYxYzFaSG5heWU3NDVLdTNhcGtPTERPM0o5aXZqeUtpblFyUDRaM1JBLTF3bUF3Z3N1V0ctemV5U0lNX3JSbkdzTjZrRHEzeWdSaTkzZjlzOEZ5dHkwMDV6NkxrcG1Gal9LV25uV1dQUHR0S25RTU5VeGRfbm12Z21Dckd5emRFU0RJZXNEUWUyQkVnSVVmTWZqVFN1Z1ppd1JjWGlZMDF3V0xZZlRoMXE1amdhOGdscndOVm1vY18ybkxwbTIySTRkUXJIMlFjVXNGaGtrMVRQa1RRSkNrd3JvZkRDYnpMWjB0dm1VOS01MEN6TnhHR1E?oc=5"
+            "title": "香港警方突襲2獨立書店5人涉販售煽動刊物被捕| 兩岸",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE56Z2ttRkFDd2FRS1BpUmZNQW90LWZEVGJFTXZNYjVPTWE0UHNNbXRvaTRQdVl3N3JJZi1KVDFrcnRKdGtBWEs5MFdGNjg4SFZqeThoMzJiZkhHRER5Ync?oc=5"
         }
     ]
 }
