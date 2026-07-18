@@ -1,46 +1,46 @@
 {
-    "updated_at": "2026-07-18 17:45",
-    "summary": "午安，為您帶來今日午間重點快報。\n\n【政治焦點】\n\n中部地區盧秀燕市長因食安風波上街，引發綠營立委何欣純批評，質疑市府過去稽查不力。台北市長蔣萬安與盧秀燕市長共同號召民眾，將於25日上凱道反毒油，行政院長卓榮泰則呼籲地方政府與中央合作。此外，關於員警赴中遭盤查的真實性爭議，陸委會已公布具體內容。政壇還有藍營參選人傳出大鬧場，行為引發爭議。\n\n【社會民生】\n\n國內致癌油品食安危機持續擴大，部分企業卻被點名完美避開風波，引發網路熱烈討論。天氣方面，中南部地區嚴防大雷雨。花蓮萬里溪堰塞湖蓄水量已達百分之百，水位逼近溢流警戒線。\n\n【國際情勢】\n\n國際情勢方面，美軍傳出以巨型鑽地彈攻擊伊拉克地下核設施，革命衛隊總部受重創失聯。外交動態上，有澳媒報導巴布亞紐幾內亞的背後盤算，點出即使台灣是其重要貿易夥伴，也非萬無一失。",
+    "updated_at": "2026-07-18 20:05",
+    "summary": "晚安，為您帶來今日晚間重點快報。\n\n【政治焦點】\n國內政治焦點集中在毒油風波，台北市長蔣萬安與台中市長盧秀燕號召民眾上凱道反制，盧秀燕更控訴中央施壓「三不」，遭林靜儀秀公文駁斥說謊。行政院長卓榮泰則呼籲藍綠應合作而非對抗。總統賴清德罕見動怒，批評在野黨無人機條例版本恐困住國軍、浪費時間。陸委會也公布員警赴中遭盤查的具體內容。\n\n【社會民生】\n毒油事件持續擴大，台中市公布最新受影響餐飲業名單，共21萬公斤問題油品下架，逾170家業者受波及。今日另有兩縣市發布大雷雨特報，提醒民眾注意防範。文化方面，香港禁售的書籍《唯紅花綻放》在台灣熱銷登榜首，凸顯兩地言論自由的不同。\n\n【國際情勢】\n國際情勢緊張，有報導指美軍使用巨型鑽地彈轟炸伊朗地下核設施，革命衛隊總部也因此遭受重創失聯，引起國際關注。\n\n【財經動態】\n今日財經方面，台灣向巴布亞紐幾內亞採購的具體金額數據全面曝光，引發各界討論。",
     "news": [
         {
-            "title": "盧秀燕也上街！何欣純痛批台中「8年只抽驗中聯1次」：上街能解決問題？",
-            "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1fMkZDRmxlWkJ3U2xUV0tGQ0JlNFc4dnNNb3JIdkNUXzhoWXNQSjFfblp6Q2dQNmhSU1p6VURTWWJEakFWLWx5ZNIBTEFVX3lxTE92VVFmQlFvWlJHcVE5Z0JNODQwQjhOSzlLVkQwYjAyRlRHcTlKVURIR0VGOE1fWncxcl9OamRiQ3NGRXAzYVVQMjBLSGM?oc=5"
-        },
-        {
-            "title": "快訊／大雷雨炸2縣市　警戒範圍曝",
-            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5iY2NoSHVRWE1QX1ZHY3p0eFQ0SmJfd01UQkJ3TG1wM213dGVIT0xaNGZ3aHFuelZXSENoMU04dWhHRWdnLTJMeTBTM29Td0Z2QVJtTXZqWU9Zejc0dXfSAWhBVV95cUxQdzB4VWJYRTY2azFOWEg1OFNfalNicFNwTVIyRXJGUXV0YVNMRC1KZ1V3bk9BR2FIeWVJb2pxT1ptY0ZQbEloS0lnTWQ0R3VLQVAtLVNIM2JtcTJLYjFUc3Q4UDY2R3hEbA?oc=5"
-        },
-        {
-            "title": "(影) 美軍巨型鑽地彈轟伊地下核設施! 革命衛隊總部也遭重創失聯了| 國際",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB0QlpZQ3ZrRDAxUVp2SjM0RUEwYlZwZTFObVE5azNVNndKeUtPdm8tTjVQeXBHbGNPMTNBeE80QVVWbDI5LUpmS0s4QnFmWTFJcDlraDNobmZaQzA?oc=5"
+            "title": "台灣砸了多少錢向巴紐買東西？數據全曝光了",
+            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5UZ04ycXZuTVlFWXFXMktGRTB6LWdNUzlfTTkwamwxcFRWTUxPLUljY0x2dnBuN2I2c1hHRkk1NDNucUtzcVA4eU5NYk9vWHA1S3A0RmlpMng0Q2M5Z19F0gFkQVVfeXFMTWhsbGpLakItMkdMTFQzb2l0WTl2VnJOaDBXNjZPbHdlOTZNWkl6ZkI5WktvdWg2azBVR0FDUUdDd25wclVLRnMwTFlrbXB1T3N5RkpHQjE4TzRZTnZRd0ppeXFLcw?oc=5"
         },
         {
             "title": "致癌油風波蔣萬安號召725上凱道！郭正亮預估結局- 政治",
             "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBoZGF1ODA2UDRaT1NYWlhkd2NpbDJfT1pvdmE1aURWS25fMlZhYzhwalBfa1lMb3dGNUZYazYyS0JUUU5MTUd0NnpTbXVWc3BudjNCU2RUX3pBWmtqc2FJOGF3TGs5ZUpGOUtSNTZB?oc=5"
         },
         {
-            "title": "油品食安危機延燒！網點名1企業「完美躲過」 掀兩派熱議",
-            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5XbEptVWhtbDIySzI4ZDZfd0lkbkJsTEE3bUJFOVRLSG4yd21XUlhORV9xVEpkMk9HZ2VaMlpVMjdHbTgxbS1YNF9vMVlHcENWeHBZ0gFYQVVfeXFMUHdSSDJId1F0VUFWd1VVVVcxVEY0WFdJVEJCbEd3VmNaNU9NVUk0dGJobmNrM0ZqUTZ0OEVjT3hpWWl1VG5HSURxY0syLTFJUWVXeEplb2VfRg?oc=5"
+            "title": "(影) 美軍巨型鑽地彈轟伊地下核設施! 革命衛隊總部也遭重創失聯了| 國際",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB0QlpZQ3ZrRDAxUVp2SjM0RUEwYlZwZTFObVE5azNVNndKeUtPdm8tTjVQeXBHbGNPMTNBeE80QVVWbDI5LUpmS0s4QnFmWTFJcDlraDNobmZaQzA?oc=5"
         },
         {
-            "title": "快訊／花蓮萬里溪堰塞湖蓄水量100%！　水位剩7公分就溢流",
-            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5TcGhJZUVPelVBNVltUjFLbkNjaWl5MnFmNXBNV3U3OWJOcmVuUHdBMnE5Tld6ZHI3bUJEdGtSTkpVZV9wQmlKbDZMNVVKMzVNX1p4TUJ5S290cjRkLXfSAWhBVV95cUxPejZ4TVVPYkwtQktDcXMyUFduZU9hWThMbEZBVzVvLXFSNjlVNDlha0ZSZHZGbTl1REhjVzhlQm9DUTNXWWpNdGhxOGRQa2RmMnhoV1o5b0l5R0N0QTNXSmNOOERvX3NSTQ?oc=5"
-        },
-        {
-            "title": "「員警赴中遭盤查」被質疑真實性 陸委會公布具體內容",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5DY2x6LVRGSDJCUTRNYXRDMmhDT3cyVlNuallmZ3YyRkk2UF9WeGJFYU90dVhESmstQUhwQ3B6ZGo1NTdwYUg5NkhpZUdZTVZCZXdmTHJ4MkIwUHd5V2NpN3RZejlob2s1eUHSAW9BVV95cUxOWUpfZmdfUkRBTGZNb0NfRnZ5NnNXYURWTjV5aXN3b0RtV3Q1VWEyU0pibVU5cU5kQnMtUUYxeS1sRjdfaDdhR3ljQXEtZTNDQU1QMms0Nnc0Y3RQYU9DY1ptNVUtU1ZaejJjdkE2MGs?oc=5"
+            "title": "快訊／大雷雨炸2縣市　警戒範圍曝",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5iY2NoSHVRWE1QX1ZHY3p0eFQ0SmJfd01UQkJ3TG1wM213dGVIT0xaNGZ3aHFuelZXSENoMU04dWhHRWdnLTJMeTBTM29Td0Z2QVJtTXZqWU9Zejc0dXfSAWhBVV95cUxQdzB4VWJYRTY2azFOWEg1OFNfalNicFNwTVIyRXJGUXV0YVNMRC1KZ1V3bk9BR2FIeWVJb2pxT1ptY0ZQbEloS0lnTWQ0R3VLQVAtLVNIM2JtcTJLYjFUc3Q4UDY2R3hEbA?oc=5"
         },
         {
             "title": "蔣萬安、盧秀燕號召上凱道反毒油　卓榮泰提「台中非洲豬瘟」：好好合作",
             "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9EeVNyUmtSdTllT2FDWmstSG1LaDNhVERGbWZqQlY5cU9YS0RjQXRZWlQ4X2RDRHR1WVBRUm9JT25QSWZWdDM2ddIBTEFVX3lxTFBOMVFSZVh4WXlYNzF1NW82Mk9nU09vbjdZaUFPdlNOS19nZnVueVBPWG55ZTE3QjdqZlplWDByRGdIMnBXbW9IamoxeGQ?oc=5"
         },
         {
-            "title": "會不會太扯？「這名」藍營參選人驚傳大鬧場 遭爆作勢揍人、飆三字經",
-            "link": "https://news.google.com/rss/articles/CBMiqANBVV95cUxOOHFEZ3BhS19Ca1E3R3dNbXhzc3pXeVc3VENUcGV5Z0VWbV9jT0oyT25odWYtQnJmRXBqZnBaLUZ1WmVnbllNR2t4X3RIeUFjeDNxYzhGbTBRdERsNnVfX3VmTjR3d2JPeVU0M1dFTFdtdmRiRVdLT0h1OUlSVFpFN3hIRm80c3hhZFFoNnFUa3lQaDZKT3ZBSUJ6VzhNY0RubU95Wm5vRjdTUjVFejBFdV9nUHpUTUJvUnpMY3pXVmhhNmxpY0hkX0NmUHc5aHdLT0p5WEVhZ1ZtNGhGdGpJdTBFeFFwT1p2YTdPelFpNnJHUGdEUkhnN0JiVW9NRGdlbHF4b1VncGoxS1VIMnFTMHJzUVU3R0oxU3hzS0ZBWnFNYUJXV3ZGbWFtc2dtUDl6S29CSFhYWng5cmdFZXlkakFSSG1GTGxOLWczcFhFRVZBMy11c0RmbG5UZ0xaZ1VCejlINU13dE5OTmZxQ2hZM2ZYOXpfS2tzX2pkMzR1dzViejc4RDNRVG9mNUVvbnBscmlRaEpaa3NGWjhyVkNrblJnemFrVG1C?oc=5"
+            "title": "盧秀燕控中央施壓「3不」 林靜儀秀公文痛批說謊、造謠出張嘴",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5EbG9nTnB1eVdHT3pDaTU3R2JLYTVWNTdCNHBjRDNaX2laREV4SjB0NWR6cXhYY2d3aG5adXcyZzNFMW03UWR4ekg2TWNkM0V6SDJENm9xTDE1VEx3emxWMXEtUjJTcThRTXfSAW9BVV95cUxPMC1RQU9HbUQtMnY1anFQelZDc3NIRFotcnMyZG5BUlBFeW44NlZmeHdxZFo5NEF1VGlxMEFPUzZHZFBhWi1DVklKTnRYU3AzaTVkWTNYUVF1R2hEMk5rRjdWN1FvM25ZMUJqX1ZUTUk?oc=5"
         },
         {
-            "title": "台灣是第5大貿易夥伴也沒用？澳媒大爆巴紐背後盤算",
-            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBEcVhvc0dqbng4N25oUFU2M2U1eElMdDNpZHVWNndOUlBPb2J6NmZDWXdaMXR2TlJ4ZWxONmVqeU1oSUpHbzY2djIzblZSUWlFVzZtMkRTSWF3cmlkQWVF0gFkQVVfeXFMTmJEbWNqYlRlYjdvZmN2b3VZdnlMSUEyNjQ4NEFmekVkTXQxMGpiVmtJUWo3Z1JXc0djaDVCSUozMjVyRGFZYk1PQzhuY1g5YXdLSGtoWnpCak5yTGpxSHVKTU5QMA?oc=5"
+            "title": "21萬kg油品下架！台中公布最新名單170家餐飲業受波及",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5kZ1hpdXotZjlOdGlVelhFZ1dUVVAxSm9YcmNTWjhldFZqaThYNU5ZYi1Oay1RUHpyeE8wdTAtRmNrY2RSRWMyMDd2MG1aYWVLS01RNUt3?oc=5"
+        },
+        {
+            "title": "「員警赴中遭盤查」被質疑真實性 陸委會公布具體內容",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5DY2x6LVRGSDJCUTRNYXRDMmhDT3cyVlNuallmZ3YyRkk2UF9WeGJFYU90dVhESmstQUhwQ3B6ZGo1NTdwYUg5NkhpZUdZTVZCZXdmTHJ4MkIwUHd5V2NpN3RZejlob2s1eUHSAW9BVV95cUxOWUpfZmdfUkRBTGZNb0NfRnZ5NnNXYURWTjV5aXN3b0RtV3Q1VWEyU0pibVU5cU5kQnMtUUYxeS1sRjdfaDdhR3ljQXEtZTNDQU1QMms0Nnc0Y3RQYU9DY1ptNVUtU1ZaejJjdkE2MGs?oc=5"
+        },
+        {
+            "title": "罕見動怒！開噴在野無人機條例版本　賴清德：別把國軍困立院浪費時間",
+            "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE54ZnNsUkM4bldxZW8tTmJidE5haGVMaEVySVd2WVVfbXRlVTViMzRfQWZvOW5YMDFTM0I2SEtGV0NoNjhIc1lPNtIBTEFVX3lxTE82eU5HenoxaXVRYjZXSnR2ZGNKb2V4aTh3MVZMN2xaWGwwZ0FUUWVfcUpMZE1GWDJLT3JQMlRxdzM0YVNtTmhpcmM2b3I?oc=5"
+        },
+        {
+            "title": "香港被禁、台灣賣光！《唯紅花綻放》爆紅登榜首　他嘆：這就是最大不同",
+            "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9acXJYMmQ1YXNyQU1BcGh0cHprMGg4bTY4NEE4N2JEUE80VkJPXzdET3pBYXF6QU1OaXd4LWtWNUU4VlItOEdhWtIBTEFVX3lxTE5ORFVOTnc5THFJQl9qMWlSWVF2Uk91TUJ6ZU9hTndjZnY0emNCM2tXX2I5ZGM4TC1UMTlENl9MbEpmVzloeEc4RXRmZlU?oc=5"
         }
     ]
 }
