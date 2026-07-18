@@ -1,46 +1,46 @@
 {
-    "updated_at": "2026-07-18 08:10",
-    "summary": "早安，為您帶來今日上午重點快報。\n\n【政治焦點】\n毒油案持續延燒，行政院長卓榮泰罕見致歉，媒體分析此為避免藍營大咖追究，導致全軍覆沒。台北市長蔣萬安則發動「725上凱道」抗議行動。此外，民進黨立委吳崢因一句「沒逼你吃」引發網路炸鍋，更傳出與媒體人黃揚明節目下台後對嗆。外界關注毒油案恐成為民進黨執政三害之一，衝擊地方大選。\n\n【國際情勢】\n巴布亞紐幾內亞關閉我國駐處一事，據稱巴紐方曾向澳洲透露原因，竟是瞎扯辦事處「什麼都沒做」，我方正釐清狀況。中東戰火升級，傳出伊朗強力還擊，美軍愛國者飛彈被炸引發殉爆，更有F-35戰機緊急迫降。另在美國，前總統川普演說遭ABC、NBC拒播，他當場怒喊撤照並開嗆假新聞。\n\n【社會民生】\n社會案件方面，陽明交大教授涉嫌殺害連襟的爭產案，友人揭露爭議起因是大姊想重分八千萬音樂教室遺產。網路世界則出現一個「HAHABABY撞臉全紀錄」網站，至今累計揭露了二十三個品牌涉嫌抄襲。天氣部分，今日台灣十二縣市發布大雨特報，提醒民眾防範雷擊與強陣風。",
+    "updated_at": "2026-07-18 13:05",
+    "summary": "午安，為您帶來今日午間重點快報。\n\n【社會民生】\n今日台灣受到旺盛對流雲系影響，中央氣象署針對中部及南部三縣市發布大雷雨即時訊息，提醒民眾注意強降雨可能帶來的突發狀況。在花蓮，萬里溪堰塞湖蓄水量已達百分之百，水位距離溢流線僅剩七公分，相關單位正密切監控。另在食安方面，台中市公布了最新問題油品名單，共有21萬公斤的疑慮油品被要求下架，波及170家餐飲業者，食安問題再掀關注。\n\n【政治焦點】\n致癌油風波持續發酵，行政院長卓榮泰今日針對食安問題再次表達歉意，並強調會全力追查。北檢也已針對問題批號將相關人士列為被告。台北市長蔣萬安則號召民眾在7月25日上凱道，呼籲政府重視食安。此外，民進黨立委吳崢因一句「沒逼你吃」引發網路炸鍋，而台北市議員簡舒培也被爆料「索資佛地魔」，一天索取資料量驚人，引發公務員反彈。\n\n【國際情勢】\n中國重慶近日發生嚴重山崩，導致整排房屋瞬間消失，恐怖對比照曝光，官方證實造成八人死亡。在外交方面，澳洲媒體爆料，儘管台灣是巴布亞紐幾內亞的第五大貿易夥伴，但巴紐在背後對台灣仍有其他盤算。香港獨立書店「留下書舍」三名成員日前被捕，目前已獲准交保離開警署。",
     "news": [
         {
-            "title": "陽明交大教授殺連襟扯8千萬音樂教室爭產 友揭分產真相：大姊想重分",
-            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9lRlA3eENMbXU3ZGZFQXhnVXljUWswRWZISkFkY016SFVUUDNFYUJ5eVRsb1E4M0Q0OXl3anFDbXBBZmpKeVo0VFpFRk9EVGRQ0gFWQVVfeXFMTzAtUlBfR3dfREs0eHpIVDZpYm1MRG0tZzhyYUdKUlJVWkpDYnZ6M3gtWVRHN1lfVnRNejYwb2NVX1ZsSlZTSDVrOTBnMHVNSW0ybkV0b0E?oc=5"
+            "title": "快訊／大雷雨炸3縣市　警戒範圍曝",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBndVU1dzJfY0VDZ0pqRTZydld1SUd0SHM0Y0l4TVZwNW14UTlFYXEwQnduLWd0Yy0yMmxfYzdvdWRoRUpHdnF1ak5CVTNWWkpkYUdEX19iSXBEMHF2dlHSAWhBVV95cUxPaGhTMVhWM2tnOFNtZ2ZEWE91WkMyQzhWazBYdDMxWXB3dGlWc0w1ZHZqZFhVb3lMTnlLWE1vU0QzZm82UDJ3TktBMjZxU0pkQTVQbGl3aTdCZXFKX29KdURMWkF4SDdqag?oc=5"
         },
         {
-            "title": "快訊／12縣市大雨特報　防雷擊、強陣風",
-            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9HOGxDNXAwQVN2TUQ2WlBzQnZLTVlDWjI3REZhSDl6UEg0OWVoeHVOOGYtbHRRak9XWU5TSnBONjl3dDlxN1BiR3pPbEozaUMzcGlfdDRwZkFxNENCSHfSAWhBVV95cUxQSWI1SDl1X0RXRUhkM2o0SWlvTGxISVlDSUpSYlZCQkRoY3Z4a3NzZ0ZMejFNNXF3bUxhUFpOcFJmeEJnNzBRTkZ6UWIxZ0lqWUx2aHIxUGxWbjFveDFmTHJXYUU0OFYtOQ?oc=5"
+            "title": "21萬kg油品下架！台中公布最新名單170家餐飲業受波及",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5kZ1hpdXotZjlOdGlVelhFZ1dUVVAxSm9YcmNTWjhldFZqaThYNU5ZYi1Oay1RUHpyeE8wdTAtRmNrY2RSRWMyMDd2MG1aYWVLS01RNUt3?oc=5"
         },
         {
-            "title": "巴紐上個月就通知澳洲！關我駐處原因曝光 竟瞎扯辦事處什麼都沒做",
-            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBpRm9TVkNfY0ltaTZ6NW1vYUN6N3ZiZzVtcHU4czVINERkT2g4Z01yOTNoSkNIRy1Wcm8yekkwQW9YM0gtbWxNQ0xOQkhSQkZ5SGtVQmZ0dmtKLU5OUFNr0gFkQVVfeXFMTVdEZWpxdVdMNXNzSFNuSm5OLWhlMVAxTzVJT0tKTFlOTUdoZjI2TVprRWYzaVlGbGtQQ1NsWllBb0Z1M1lQRzg1dEFxZW1QWmlqc3hGbGpGUFJuRnJSTUtWMUFPaQ?oc=5"
+            "title": "重慶山崩「整整兩排房子消失」！恐怖對比照曝光　中國官方：8人死亡",
+            "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1IckRBZG80ZnExODRSTU9iakFaSHdLRF9JYllVNS1mNUd4Ujl6dE5rZHI5cWduUlcyTWJDVTJGRm1TRUlwU1hTbdIBTEFVX3lxTE9wTFJ0alM3NGJZOU9xOXFST1pXS1lmaXlRNk1tTndjLWhJQWZVZlZPYnJrT1RtMzRMWHExc2FLb0dUQ0VsSGFfUEwyT3I?oc=5"
         },
         {
-            "title": "川普演說遭ABC、NBC拒播！當場怒喊撤照開嗆假新聞- 國際",
-            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBaQXRiTHE0MHdsd3k2VnpkS0U4alQ1eTNmVlpoRFE5Qlh3VEg1Skh5MVJhemlCNWMyWmRHYnZfTTdZZmlIOEo1ZUpNaG5GSlRPX2hjMEc1WXVwMUlONGIwWEZPMHFjSVlNUWdGU2x3?oc=5"
+            "title": "台灣是第5大貿易夥伴也沒用？澳媒大爆巴紐背後盤算",
+            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBEcVhvc0dqbng4N25oUFU2M2U1eElMdDNpZHVWNndOUlBPb2J6NmZDWXdaMXR2TlJ4ZWxONmVqeU1oSUpHbzY2djIzblZSUWlFVzZtMkRTSWF3cmlkQWVF0gFkQVVfeXFMTmJEbWNqYlRlYjdvZmN2b3VZdnlMSUEyNjQ4NEFmekVkTXQxMGpiVmtJUWo3Z1JXc0djaDVCSUozMjVyRGFZYk1PQzhuY1g5YXdLSGtoWnpCak5yTGpxSHVKTU5QMA?oc=5"
         },
         {
-            "title": "網友創「HAHABABY撞臉全紀錄」網站　抄襲累計已達23個品牌",
-            "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1TdXlvV2NrN255N1VfT2xGbl9JaG9GWnpTeEYzblJRQldKMWFLbkxuUk91LUQ3bVYxYUlYMUZibVktNHE4VjBMcmlZN03SAVJBVV95cUxQd1BxNExXYTUwby1NR2hHWnRCbFF6OHBLaU9LQVVBUU1GWnhBRzFLaXpQMnRfQl9YQ3NzdUNCUnVlM3NOOFI4ODA5dUJVTWltMjJB?oc=5"
+            "title": "卓榮泰道歉了！致癌油再爆新問題批號 北檢列被告本人「這樣回應」 | 鍾秉哲 | 新聞",
+            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE50NTl2Um4zU25nSjlua3k2NVZuSGZNb1REOUdURWc5azc3Q2xhSUhZd21jSF9wWklJcUFyMkNWMjhGR2tLZXZhaUFJY3lTZw?oc=5"
         },
         {
-            "title": "伊朗強力還擊! 美軍愛國者飛彈被炸引發殉爆 F-35戰機也急發7700迫降",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE81X1JCNXZzWXJNWm9KQ0JBclpvcW5GMk5HUmFJTDBlNW9oSVVlNUIwQnNfMjhlbFFnXzd3ZHFGLUNyRDZRQmVsNENZMk84eVhVTUZjUVhqNld3MTg?oc=5"
-        },
-        {
-            "title": "卓榮泰為何願對毒油案道歉？媒體人分析「無法推給藍營大咖」：不道歉就全軍覆沒",
-            "link": "https://news.google.com/rss/articles/CBMi4wNBVV95cUxPUE5zR3JmOUdqZDRlTXpCZ0lDLThINTJRZi1xX0wtQjAtV1F5UXFMQ1VNWC1aWlotUmRnWVJYa0QtNk9QbFdac3ppZE1aNC1ld3BaRDNBaXhBRXkxODVpRzkyekRuOTJfY2J2M3p0QU11dGM4dlJuMHJDSVdBeHNjUTdIcC1KWW9Qa2NKVkJXWUZOWXFrTXZPdVJ0cDNLQXNtWVVQWm9vQkVfUkYtekFtQ25xbUdIbU1zT2pDY1VDMDlsSFBZZW80dkVfb1VjXzRMZElKQXNsVzlYTFVrazhZTml2TVE5cU5NM2lNNUlxV3JmWFdoT2VTdkxzXzVQT2tncHp6ekhnM3dFaVZGMWZvWGEyejg5aU9MRmZ3TjlrNGphcWE0ZmFUTTh2cXYzX3dIWW5LZndxWnAzdDk4X25ydkpJbmF5SU5feF8tMWN3TXBrblJxdEdaYmVHeGJwS2loTHNDeV9QMUs2RXp2MHd0d1VUZlV3ZThuRkFaWlpiWHFTVTdoTjZrZ2YzWDNsOWlXNlNsazZacjlWUWhONV8yNlR2WmhFbzIzejlQRnVrTHZ0X0dqeGZONG5Pc2ZXWm92dWNmcng2QUExaDEtbXF1MjNhX1BXbFZTZFFoYjh4WnpGNDA?oc=5"
-        },
-        {
-            "title": "「逼我吃毒油」 蔣萬安發動725上凱道",
-            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5zSHVrenltTWViUV9sS3ktcThBRlk1d281LWxjRzF5RnBFNkJmNEl4bHBlQUQtb3U1WEd3SHYzSloxSzRHTzI4ODM5ZXZKSWkwUG9Z0gFYQVVfeXFMUFZwZWhxVFZuYUdkYmJDVXE5RWlHYm9vZG5ybmNGd0psejNoRFZ6cTVWNFdleFB3UWVKQTR1OHQ1b19LcXlKcTdKZVZ4bzRtVGxjcE8xUTJ1Vg?oc=5"
+            "title": "致癌油風波蔣萬安號召725上凱道！郭正亮預估結局- 政治",
+            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBoZGF1ODA2UDRaT1NYWlhkd2NpbDJfT1pvdmE1aURWS25fMlZhYzhwalBfa1lMb3dGNUZYazYyS0JUUU5MTUd0NnpTbXVWc3BudjNCU2RUX3pBWmtqc2FJOGF3TGs5ZUpGOUtSNTZB?oc=5"
         },
         {
             "title": "吳崢談毒油一句「沒逼你吃」網炸鍋！黃揚明下節目「被詛咒」 對嗆拍桌始末一次看 | 李瑋萱 | 新聞",
             "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9JcHNoOFFfMVFwVGxUUjZVTHpJRENPZmt2VURLcEFoOTR4bjkxOGJGdW94U29IMjRzOVhHRFFCT0lmM1lEX0M1UzNSUDJKQQ?oc=5"
         },
         {
-            "title": "民進黨執政三害 恐衝擊地方大選",
-            "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1FRERzM05qTy1RdHNyMXZ6ZGxLRV8xVXgxa2h3NTNfWTVTWkxmOTVhWU1jenU5bVRteWd2ZW9yWFd6cjk0bFJOems4c2JTS1VqM2pxNEZBcS1KbTMzMDlIdGtwaC1Pd1p1aUxz?oc=5"
+            "title": "公務員爆簡舒培「索資佛地魔」1天要100萬張紙、1000張光碟",
+            "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxQSVVlZnV0blA5bzdWOGhzaGFTLWpxX3UxREpma21LMklfMl9keUxOcUQtT0R4OUoycF9hMEd4Q2QzVHdqLV9NcFR6RVVXTG9lX0Zjd1luTGdvMWdsT0NaVFQ5VHFtWTlFWHZQNVZjVUJmd0hTazljcGpYUThqOGYzYlA1T2hqWEtzWW8waTFQX1BMZW9CVVQ0YVFRYjlTaXhDRlpXdlhIaElDbmVhdkZLWW5mY05Zd2ZIQ2dpUXB2Z0cxd19SbldsVVdQWmtEcXRYMUgyT3BDUGFkQ0x3aTdGZnM0d3I5NDhvWUxlRUlINzUxRUo5Q0dOY083T05vcTJjandFWlNwbEtrWXc1RUJMYjhJSHc4RkUxSUNrb3pvcXp6RVFxdzNnU1pKLXJERWsxVUlBbjItZlY2SG1EWUJSNzBKNkJyRDRCMHlIQjVrMDljZw?oc=5"
+        },
+        {
+            "title": "香港獨立書店「留下書舍」3人被捕 獲准交保離開警署| 兩岸",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB1LWswY0tyM2ZScG80cUxYbzhtTnBIOUI3SFlueG1uYk1WZ0RYcVNIT3g0eDNYakwyeXBaWUNDVkRtMk1ZQzNNcUFLOTgyY2VtWTRmbmM1NXkxOGl5U0E?oc=5"
+        },
+        {
+            "title": "快訊／花蓮萬里溪堰塞湖蓄水量100%！　水位剩7公分就溢流",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5TcGhJZUVPelVBNVltUjFLbkNjaWl5MnFmNXBNV3U3OWJOcmVuUHdBMnE5Tld6ZHI3bUJEdGtSTkpVZV9wQmlKbDZMNVVKMzVNX1p4TUJ5S290cjRkLXfSAWhBVV95cUxPejZ4TVVPYkwtQktDcXMyUFduZU9hWThMbEZBVzVvLXFSNjlVNDlha0ZSZHZGbTl1REhjVzhlQm9DUTNXWWpNdGhxOGRQa2RmMnhoV1o5b0l5R0N0QTNXSmNOOERvX3NSTQ?oc=5"
         }
     ]
 }
