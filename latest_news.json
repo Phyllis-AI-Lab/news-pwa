@@ -1,46 +1,46 @@
 {
-    "updated_at": "2026-07-20 08:12",
-    "summary": "早安，為您帶來今日上午重點快報。\n\n【國際情勢】\n國際焦點傳出，伊朗襲擊約旦美軍基地，造成兩名美軍陣亡、四人受傷、一人失蹤。美方隨即出動數百架戰機展開報復性空襲，區域緊張局勢升溫。\n\n【社會民生】\n國內天氣不穩定，中央氣象署針對四縣市發布大雷雨警報，提醒民眾留意瞬間大雨。此外，萬里溪堰塞湖水位已突破壩頂，持續有濁水流出，潰堤可能性引發各界高度關注與憂慮。\n\n【政治焦點】\n國內政治話題持續延燒。針對食安毒油爭議，台北市長蔣萬安發起凱道抗議，外界解讀此舉為巧妙協助台中市長盧秀燕解套；盧秀燕則公開批評中央政府手忙腳亂，並預告下週將召開縣市長反毒油國是會議。民進黨方面，已初步評估地方大選目標設定「保五、進取五」，將新北等五個關鍵戰區視為勝選重點。此外，有原住民在活動中舉牌抗議「花蓮王」政治宣傳品卻遭架離，引發輿論對於言論自由的熱烈討論與抨擊。\n\n【體育快訊】\n世足賽場傳出爆冷門消息，阿根廷衛冕夢碎，最終由西班牙隊在延長賽中以關鍵進球擊敗阿根廷，成功奪下本屆冠軍。",
+    "updated_at": "2026-07-20 13:49",
+    "summary": "午安，為您帶來今日午間重點快報。\n\n【國際情勢】\n\n美伊新一波攻擊，恐將再次引發全球能源危機，國際情勢持續緊繃。\n\n【政治焦點】\n\n民進黨全代會中執委改選結果出爐，新潮流拿下九席最多。藍營計畫上凱道反毒油，並呼籲召開國是會議，行政院長陳建仁強調中央地方合作的重要性。台北市長蔣萬安提出修《食安法》引發律師批評。\n\n【社會民生】\n\n中聯油脂苯駢芘事件持續延燒，食藥署預計明天公布原油及產品的最新檢驗結果，有立委質疑台中市府隱匿資料。此外，企業家宣明智傳出腦出血送醫，醫師提醒民眾留意健康警訊。另有私幼傳出不當對待多名學童，家長已提出告訴。\n\n【天氣交通】\n\n中央氣象署發布兩縣市大雨特報。花蓮縣政府也宣布，因應天候影響，兩地區明天停班停課。",
     "news": [
         {
-            "title": "快訊／大雷雨開轟4縣市！警戒區域曝光",
-            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA5WnBYN1RSYmxYdHhwU2ZXcTYwejZSWE9DSEpfcUlsWGxndHBjc2RfLWtGcXpUMjkxN1Y4NTRHaXBFSHhDQUhLUjl0cG5xSDVacjZ2Uw?oc=5"
+            "title": "美伊發動新一波攻擊 全球能源危機恐捲土重來",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9uNXpGai1BQW5YN3FLeE1pR3Bob3k4WVBIWnlTeU5KaGxfd1hxaTlTYWhJcVhRSnZpM1hoWlhEMXMzV2JodmdyV25ubGNkSlBDdUxVZ3lSREZfd9IBX0FVX3lxTE9YdUtXejFyc29uMHV0OFpiaG02TkwxZ0RwUFNSMmQyS0wtQXZWSHhYZkNYa0NpS0RsQk9sNVlZbTVwanhnTGNaX3JsMnRoU2hqd0Zvd25GV1Y0Z200bnRB?oc=5"
         },
         {
-            "title": "隨時可能潰堤？萬里溪堰塞湖「水位突破壩頂」　濁水持續流出",
-            "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1ad1V6V1JLWEZ5TmE3cndqTTRHcVNRVlhpRGZpcmdsaUJnNUpIbVh0X3QxVm9PWVBxQkd2ZVRnTHhRNGx5RG1wadIBTEFVX3lxTE5ndk5IRy1McnZ6UEliei1FRFFMOGswSXFZNlk1VVlVdk0zeTNQelhLa25JTG0yQVFGcDR6YTRFVnVoRFlxX2EyWWdkUXg?oc=5"
+            "title": "宣明智腦出血進加護！醫揭「10大警訊」別輕忽 5種生活習慣恐致命",
+            "link": "https://news.google.com/rss/articles/CBMiiANBVV95cUxQemIzRFZmS0dDcDlUMGVoeFpCeUtlME02VFV5RllERktmZG1jTk1iVnM2b3pDdHdQNHN1ZEVBbGFmT0kyRkNKbjl2SUVUQkhsaFFqQmJCLXA4WXY4X0lFdUlmdmUtNHR0X0llVUtuaUdPTVpJR2xvcnRxWGdJeW55R0Q1aXI5V1FwNjlqSS1GRUFPSEx6YjZwbmFEZ2lEZWF3VGRzMnRnQjRCRzFkckJQQjNZZmdOV0w2Q2FaMVdqNy1xX05FQU9KNGdMT1NoNWVCaDZfOEJYdVV1NFc2ZUpzNm96ekVJRzJQc2ZJQzA5b3otUnUyNF94U2xCdXQ5bE1LTjN3emhWbHhuUlVpYW1nUUlmdzdiWXdPZU9iTmJBZ0phTTdCV2RCd0hHWDI0c29BWEpDc3VmLXFKQ0tqbXBRRVdObmM5VkprMzBMa2pvREJvdVFkNTJUbXRILVh2dWZLcXJYcmtGSHdYQ2JTSEVLTnA5MVR4VnNwdXJoejV1T3B3VHpNMTlQNQ?oc=5"
         },
         {
-            "title": "伊朗轟約旦基地！美軍2死4傷1失蹤美出動數百架戰機展開報復空襲| 國際",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB3YXpuVG4tVWRWZ3ZYX0czN0VyYlIxVk5xZTQ1c2dibVY2X292c1dhRmtPY0NLb05jVnBYRjZPY2tKNm1UUnVLbkpGa3RiLVQtZWY5a0tndjlSSVU?oc=5"
+            "title": "綠全代會／中執委改選結果！新潮流9席最多妃系成功保2、湧言1席落馬| 政治",
+            "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBVcklhLXVqcFdhVl9WYU1Dd3Ftdk5DMTdkSG9LdFdqQ0xOblBiLVI0U3pVc3hEWHpkSTMzcjF2QmVkeHA3eF9VMg?oc=5"
         },
         {
-            "title": "原住民舉牌「不想當花蓮王政治宣傳品」被架走！ 網友痛批「這裡是中共嗎？」…警方回應了",
-            "link": "https://news.google.com/rss/articles/CBMinANBVV95cUxObEE0Zm5SNHYwVDFmUGFLWGY5QTl0VXFJYWpzdUJiTG5ScTZ1QmNsbE1lanhHMjgtRmR1Qms2aEQ5ZEx5NWd4UHBSM0R1NkJIOEg0bG1tQlJGWGQwREt0Y0pfVDRWbThFTG1kSVJ6bk9veG1IS1BZY2ZKZFp6aGVNbDY2UnRhc2M5V294V3hIaDJ0WGZkQU9hNWd6TEdTWjJ6d0phSWpteVNuMkNxeFlXbFpqMktuellaTzFlWXJ2T1lsZS0ta1J0bHI0bFJXT0ladVkxd3Fxa1VpWkltVmdoUklOcUs0LUdrdjZOQnEwX21YX0M2NWpKUEdIUW5UMkl2aHBIT1VrR0tYSFY5bmJsVHZqejhLamNFMlhUUGVqWWo4M2c3bTVDTmt2SldpdFVYZnYtVG1HX0tpTjBnSmJxQWRKQ3FSeThlNmFDekg5QnE3UzZiLWgzYWYxM3IzSFR4bDB3ZFJOVVBieVdKVWlZRWIwSjRHQk5LUHZteFp0SFJVVTVMRFhKYi1UUTlKODB1clFaUlRqbmFZSE1N?oc=5"
+            "title": "快訊／2縣市大雨特報！　最新警戒區域曝",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5sdHBOZkk2SlpSc3VPTnJKM2tWMVBXUDhnblhCU09KMzd1QnBSNjBpMktzVm15M0lmbmtDN2Q3cDl6cXRkOEJDUkIwNERXYWsycFIzWnl2S0dORFhzQnfSAWhBVV95cUxNYm9NaHRtNWFINzV1Qm5RWG9XLVVuYS1iNGZUR2FXWUthbG9NRXNSbjhockstSWoyNk9PNDBTRHlSSFFNSjdXNndIN0lTck9mTldDMkdlUkRiZ3h4VFVVSUNGZGljU0oxSQ?oc=5"
         },
         {
-            "title": "世足》阿根廷衛冕夢碎！托雷斯延長賽進球助西班牙奪冠",
-            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1uWXNWVTVvcm15Zm94bnpnWjhjS0MzM0lwRXE2ZTBZRU1NXzdqamR2VlVMSmJhNFk5MnNVcDIwTmtFUTlXc1o0YlR0NU5rZVBUMDZUbVR1RkNvbWt5Z0NUStIBZkFVX3lxTE1Ldm51TWxFN1pPd0E4dFlXb1puSWo3OEJXSHpzUVk5bFBnNnh0eVZMWGd3eGlLTjQ1WDhndmpYQWpLVU5Ka3JROE9od0lIOU9YbmxwZ3pFZHVydWN4c2ZIcGc0ZnBZdw?oc=5"
+            "title": "沒對中聯驗苯駢芘！溫朗東爆台中市府疑隱匿、造假資料",
+            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE55UVdxdVVTYXRoOXhySFZjRUFvcV90LUhXdkozSnJNelBVak9fVFJnNUdBVHdjTGRrNWZvNXFDZDh2a2pKdUEyWHo2cWZkMDNtUUhadWNwVHEyMlIyYXdrYjZ1V2fSAWpBVV95cUxPOHd2NldZX0tyRUkwbmozdnRnRDNCbm9XbTVtVGphd19UaWpHdExWaWJ5NndtaDBfcUM3UjA2aVYzTkxVZ0tfOEFsa2NzNk1QSHVMQndGUDYtSGpObnliQVcweEJiNVBmMXVR?oc=5"
         },
         {
-            "title": "新聞分析／賴清德黨內一把手 非賴陣營另股力量",
-            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1qRTBXbWR6MEpkbnlXNFpGT0NQNEp4OV80aDlJQTNhaDVkQmhLRnBlVGhCbUVLSnZXS1RLOE5HREVUT2p4YnZodHctMlhnRkhT0gFWQVVfeXFMTVp2cEhxZTRITk1COGJSbi1NcEdhb0NMX0JxTjNqWTMyTHNZRE5YLVhRX3FrOHpQYnNhaEUwNEFrdmJlZlZjSVNKUjFFVzZkSVpER01LekE?oc=5"
+            "title": "快訊／花蓮縣府宣布：2地區明天停班停課",
+            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1meDhPMkVBTHg5dXlNcW9HM2dBRE13aTlVd3JZM1EtOG1yMllCeEFPUTBXM2hSNzY1WjJsS0ZBOW55VXZ2OXh5enhHWG1FdFNyeGJyag?oc=5"
         },
         {
-            "title": "蔣萬安為何發起凱道毒油抗議？作家揭他一招「幫盧秀燕解套」：送出政治大人情",
-            "link": "https://news.google.com/rss/articles/CBMizANBVV95cUxPNGVFR2Y1RTZmQlNnNDJLQS1pT1ZPNDZ4UUhtUmhiNmRTb1ljdTRVdWtmamRTY2hVTUNFYkJJRm44R18zUjlUeXo3VGRTNnJIUE1GeUhKMmJFZkRaSG00TExUYWkySzN6eHNfNTFGZTU1YjNiMXQtVlAyUHJxcnlhUUh0TXRjT2pLNzZPZFVzUjhfTU1CWDF6WjBWbnpxbHpVU1R5TzFpdTc5WW5OYlUxYWFVUFlxeVlRTk1QcmRpVm0zVFhoMHFZajJWX2RUV2l0anhYRjc2QnpJZzF6WTU2QzN5RHhaajNrdTBxRFR4dDd0UWlGaWZ0XzhfbVh5MWlIcDB5STR3ajJOaTlIa2x1V0F4YWd4ZERlZGRHdldmb1ZvSDQwS1NQRnpxdkx6azhrc2lDdU1paXd5UXVwT21Dc000MUFuVzYtS2FpNnNDbTBQM3o0WFljZElrMWhrRFB4eG1INmJYT201Nms0SWdGb2Nqd0lIb3NZTnV6eDVtY3BKRlpzc1F3ZjY5YVRmUVlfdDV6M1Byb053Z3Y0MFBJd1p6akFHSTllbC1HMk00cWdWQnI0c3k2dEtMcmxfRXEwcG5xTG5uM1VCLXlT?oc=5"
+            "title": "蔣萬安喊修《食安法》！律師開罵：信口開河",
+            "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNSS13SjB4aWx1SEQ2OTY4SXQ3cGF3ajRrbDJoTGZmU0xnS2tVUGw2RmdtV2hRMnJLVTZUMXZCNHY4YWFxbkgzeHJtR2xTTjZEMlJsbWg4OXVpalVtRWZ5bzU2S3h0cWV2LUlmMFpNckRuUWs4YkRmai1DcEJFUmZnaF9EYVpUOWZodTdPX2FXMmFOZ3JOOW5xM0xxS1JpV1lzbVJRN0dqVUZTV216aTV1RkN0NGFWMGo4cG45Z09pNHJ6ZlFZaWJsaHVydUp2MUJuLVhNYmhJSlktUmpkdlF5UW1RV2JCVG8tT0tsUTM4eGJfNXNDTHFEZy01YkJpckY3SWZNa08zLWpDLWpjVXhtelVRZmJCdFU?oc=5"
         },
         {
-            "title": "盧秀燕：中央政府手忙腳亂還攻擊地方 下周要開縣市長反毒油國是會議",
-            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBmakk4QXBoNXFEWlVNY0RFWVhJcGR5ZlF5Q1BDbUdVaGlEM3YwcmhkalEzTlBHak40V3I4MkNkdUJrMF9qLXl2a2lSZVNwR0RnYU1r0gFYQVVfeXFMT2VqRlhVUFpsblJQU3hTdDFmSWFqeHA1YUhIT0hSQm1melNtT20wQ3ZEX2VKWExqUWtMUFp1V0xSS0tra0Fqd0dTY2VmRFZCMTNtcElNTVJXaQ?oc=5"
+            "title": "中聯油脂224件檢體完成檢驗 食藥署：明公布52件原油、321項產品結果",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE95c1ZmOHowcWdpd1c0VDdrQXRqT3JFS2p2ZmVWUXloOUp3WmJ4NkhNa2pfZmJrYkQ5ZW52YlhSazY0eVB3SG5YVzdfMndKNzBBTlZz0gFYQVVfeXFMUE1qZDZ1Ml9lZjhuVk8zNkRJazAxTnI5RjdxLWI1emN1MmROaTNkdUlpWENWU1F2UFRnOE4xVkQzdW9BbUk4RVlmV3pCaWlUc1Z0WVVhQnoyVw?oc=5"
         },
         {
-            "title": "民進黨評估地方大選目標「保5、進取5」 新北等5關鍵戰區拚勝選",
-            "link": "https://news.google.com/rss/articles/CBMinANBVV95cUxORUZlX0otS2x6S3NxVkVuYkxBM2tOQWZsS1UzR2g5X21ldVVhNkVEbEMyaDFCZS12YUxGM1R0Um5FR29zemZnZVhWVzJjWXloNHpyUmpLaVRlZWlma3h0d2xtZWhMVXVrN056RlRoMTlVYllEMWJ6WEVuSTV5WnRra0xnRzZPRHMzaW41ZTRjTmZtTVM1WUdKUUh0ZHUzV0dmcUZETHJneUkyWXZiX2VKbHI5cXN4Qmc4eGlOblM5TmtGeHRXUXhhY1RGeTlBWFEtM3c4eVV6MjMwc2NWb1dCdW16SHZSb2YyRHVBYTRVZWJHTS1rZEVUSm1MbDNTcGJOejhyV3p1UlNyVlpJWnp6MWdXaGlWZUVXZ1BwNnlyQW8wUkFUS1RfclVETkpjWk9uaGZnbndzRndMZUdGeU1ydFdRMW5IQnVoUC1EdGNkS1RIM1ltR255N3JXMENnalYwWVFpajU3YTMwRGNlVHNIcXlIakNsMm1kejBoQzcyWlE5eF9iS2RGeEpJWWFKRU5sblN0R04xdWdkN0pz?oc=5"
+            "title": "私幼不當對待13童 家長看800小時監視器畫面揪76起怒提告",
+            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1ZMGdFZjlacDk0TzQ5LWhYaHlHMFVfMC1QLU1Ma1huZVFWeS05Qy1haUxkRGlPSDA1V3U4WDdyQVVlZEFYWU5KM2ZNa0kyUFFx0gFWQVVfeXFMT0RLWXRNZ3h6VndTVHI5RmlzSW8tMVp6aUlQRFFWdUU1M2FTM0RKYkI0TEgyeG9oWEE4V3ZPWUtaVklQX1NxYUR1d2xOaENjX3FMOEdSbVE?oc=5"
         },
         {
-            "title": "矢板明夫批「毫無誠意」告到底！郭正亮急發27字重要聲明",
-            "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxNYzhxMTNJaHRIemlzbXlVckNIRnFrR1JjU1NlQlQxRTlNam53M0gtNzBiX09PT3ZvemNfSWVsejI1d1d6bXlBY21XMG1nS0p2UTFEWFlOVzNYeDByamRtSDMxODNOaTd6bUtrSWs3X05ub1VSaDZWV2dBNzFkd0x6dzgxV1NZbHdQSGNES0pEUmxHZGs3UGFyRU83T0tfb1d2V3ZFNmdKUXV0NXZzbmN1UEkwbjRSWGdRX0dxd21nT2p1NXpqRnZ4LUJDYzNPLTQxWmowTTF3V0xQVkZUQUt5SWdFUl9lb1B3VnhrU0NCS3FDVzNjLWRZU21WOXcteWNEOFlONDZYdXJoVlQwSzdGcllFMTFldjVVTnAwekJZdDNxeTJXMS1Wd2JBSFprMGQ1bnhzMlF1UmdBNlltWEx5Nkp1WGNtaWpTTy12dFBxRTYxUzlqbWRFOEJQUjl2Ql9pd2c?oc=5"
+            "title": "藍營要上凱道反毒油、喊開國是會議　陳建仁：最重要是中央地方合作",
+            "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE83UERDclhOMWlKQzRvd05uZS1CMDlzQTRMX1FTdnhGN0xBVmhQMDJNUUtHS2p4WXBQNkdOd05BbVJSX1dMNFp3R9IBTEFVX3lxTE53bEZScDZDSllmZXF2NnlRc0ZuUVVVTkJBUTNDV0JVMDNiU194NmRTM0JGcEZ0TVZPN2MxellZdUFBSEtWRVAwVV8yZUQ?oc=5"
         }
     ]
 }
