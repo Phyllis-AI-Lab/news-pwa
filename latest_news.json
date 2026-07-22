@@ -1,46 +1,46 @@
 {
-    "updated_at": "2026-07-22 18:34",
-    "summary": "晚安，為您帶來今日晚間重點快報。\n\n【國際情勢】\n美軍傳陣亡18人，川普揚言報仇，已連續11夜狂轟伊朗，並嗆聲「還沒結束」。\n\n【政治焦點】\n國民黨中常會通過，提名蔣萬安、張善政等六縣市長競選連任。725上凱道網路投票已累積兩萬人表態。盧秀燕面對苯駢芘提問時快閃，幕僚稱疏失；簡舒培則再向市府索取五年影印紙資料，限三日內提交。\n\n【社會民生】\n準颱風紅霞路徑北修，不排除23日發布海上警報。致癌油元凶疑為中聯黃豆標準放寬十倍，且製油過程管制不確實。新北大巨蛋確定落腳樹林，預計2032年開工。甲醛炊粉掀食安風暴，新竹米粉形象受創，業者憂訂單。另有少年酒駕撞樹斷魂，其兄去年也因無照駕駛身亡，釀家族悲劇。",
+    "updated_at": "2026-07-22 20:47",
+    "summary": "晚安，為您帶來今日晚間重點快報。\n\n【國際情勢】\n美國與伊朗衝突升溫，川普為美軍陣亡人員復仇，連11夜狂轟伊朗，並嗆聲戰事尚未結束。\n\n【政治焦點】\n國內政治動態引發關注，國民黨「絕食小雞」獲蘇清泉看診，稱血壓偏低。蔣萬安號召反毒油上凱道，宋楚瑜則認為上街頭非解決問題常規。藍營對無人機計畫喊停，侯友宜強調國會監督重要性。\n\n【社會民生】\n台灣食安風暴再起，致癌油元凶疑與中聯放寬黃豆標準及製油過程管制不嚴有關；台中和牛餐廳販售過期肉，日業者遭重判驅逐。甲醛炊粉也衝擊新竹米粉形象。此外，熱帶低壓已生成，估計明天升格為「紅霞颱風」逼近台灣，恐發布海警；新北大巨蛋選定樹林用地，預計2032年興建。另發生17歲少年酒駕載女友撞樹斷魂的悲劇。",
     "news": [
+        {
+            "title": "快訊／熱帶低壓生成！估明天變「紅霞颱風」逼近台灣　恐發海警",
+            "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9XMm5rVWgwWkRXT0xLRDhCUFQ3WGtkV1dVX0VkM2hmclIwekpoNDAtaFdDZDBSWlFyU3pNNWlCZkJIa1BwNlgyVdIBTEFVX3lxTE1kbmNFck5FSm1CQnJFTER5dlpiZnBjWlRic0pJUzJqRkR4SHR5YlZpZml2RjM2am5DN0Fxb0dfcWxicjJqbDRGWE5MMlI?oc=5"
+        },
         {
             "title": "美軍陣亡達18人！川普報仇「連11夜狂轟伊朗」嗆：還沒結束",
             "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1oSFhIb1JELUoyZTg2UktiVXNsdk1jUHNwancwVUJtZl9LRzBaeW9BVmNwZV9SdGVKTk41aDEtV2ZIdnJGaF83d9IBTEFVX3lxTE5jY1A1Z1lwTE0xQ290U3Z3MGtOSFo3TVBNWW9pc3F4S3JhckhZQ1pOLVNNbUhJaUpVanBsZDEtQ3B5eE5OWXB5QWN1UTU?oc=5"
-        },
-        {
-            "title": "準颱風紅霞路徑北修不排除23日發海警| 生活",
-            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1nbGZLV2tkQk5kYjFwWEpXa282cUpiaWVxT1FGcVA2YkpnWlFPTVo4YTJvVzVnUXkwaFM1ZXIyd0RuaE9lTEZYSFMwa2VibElIU3MzRWp3bmlHLTg4Um80?oc=5"
         },
         {
             "title": "致癌油元凶抓到了？中聯把黃豆標準「放寬10倍」 石崇良：製油過程也沒確實管制 | 張大任 | 新聞",
             "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE43N0lISlZrVE83c0RxMjlQcW9DREVwVEVmRHFmczNDUGgxaXZndlFoSU85Y0dPNU5Jbk9MVjl0MzdWRXZ4YnoyZ3p6Q2hhZw?oc=5"
         },
         {
-            "title": "新北大巨蛋確定落腳樹林！2032正式開工",
-            "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOLXRDZHQ3clpEWVc3WWlVMlFZd2djNUZySHpDVHE2Y3RuNmZGVDFNQkd3ZU9SVGtFQTF1NUp3LXRKYUwyS0hYeUw0RV9PLTAyeVJkSzByRjVqZnZTSmlHNWFaWVNYUU5nV3ZubkUyZ1RCeE1jQ2lYN1VwUl9NODNLeWNWSlFGenVOLWVUSU1lYVNHVEwwZ2ltc05sdHB1SWZzdGhoZUZqd05ZN0lWNlA4YWpPNzc0SHNCVXAxYnF1aThZanhsSThHTW9YcFZfR3p3S3FmazRDWGM1RzJkeGZCN0xESkx5cWxMSnRnWldfck1mVGRwQkRMSVR5eDJ3NGJYVUlBRTJGdmFHRHgzZHZV?oc=5"
-        },
-        {
             "title": "哥哥去年才無照駕駛身亡！17歲少年酒駕載女友撞樹斷魂 父怒斥一句話",
             "link": "https://news.google.com/rss/articles/CBMiqgNBVV95cUxPdnB6TlpYaEM4Rkd1UzZOSU1TR1RITHR2bHRrMXQ3Z3JQV3g5Z3FINkNQVmdvOE1pMk5jODhkdjhWbjlIOWpRc0lKWUx1c0hlWThwOV9BQXJ1d1BnUGhRcndqM0NvWGRzQWl3OEg2OVM0SS1CbWRZdTE4M2xDSE5uNVUxT0V2QU9lb2VWbm9FRXJhUFFtR0RpaEZRZFgtdlhrZlpYYkNRS3RxOWNkem1aS2E1UXBqZkxHQ0d6UVFhV3N4TGR5UDZxRHQxMHE3ck9PZXpKbU4wZklhZzIyNVJqbHpuX01HcF83V2lzVFRsdFBqVHV1aXFxV1Y2SEZDNkpJQVNob2Y3WDk1bnBZOW5TYm8xT182cHc2ZjhUb0gwZmlEM0FCNzNVNHhIMHR6Z0w5REZiTHFLRjVYdWppb0xrNjNYSkxoa09YMjltR2VJN2dqdzNTcFF0OU5GS0ppb0ZNci01Skd2Q3RsRDkyczJKOTdaYXd2Ni13S2dKOGpkeEd3OVd5YkhtRm9nM0k2enFhMURDbkJleVcwSWtEUXZLYkttWmtpR1d4SFE?oc=5"
         },
         {
-            "title": "支持725上凱道嗎？最新網路投票2萬人震撼表態- 政治",
-            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5pRG82d1c2bW93UzBycXNFc0Fod1psQTJDU1Z4ZHJHWlNWMTZJQ1dWb3JWcmxwWTFKcUstWXgwWDYtanplT0dhMHQzdmRYZkozdGptbWVPZDQ2VG9QUXpsVTBYeTNLOXZuN1lxZ1B3?oc=5"
+            "title": "為國民黨絕食小雞看診！蘇清泉喊：血壓剩110「快頭暈了」",
+            "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1zanJOZnNXamRKN1Z5Y0hxRGFPX05KS2V6Q09LR2tRSVNybkQxdk55Wjg0RGZWT1lxSUcwZmwwUkdEalpSNWRnWtIBTEFVX3lxTE9kWUdRdkIxVDB5QjMyVGNTVEE0YUFXalVuZm90SXVaWmZHUVZyVVlOVXZhTkdaa3JmakFZTE8yRzFQSGFGMUFNdXhQNzk?oc=5"
         },
         {
-            "title": "盧秀燕被問苯駢芘「瞪記者」立刻快閃！　鄭照新稱幕僚疏失：真不好意思",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ON2paM1NpajB6Qk9QTXlUUUlMR0g3VWZZczgyVlVzM3VtbzVQNmJCdE9heGVtRXprQ002M1BCZk1XelJkenZKcnRaSHhrVTlkYngtQkU4eUpZLVXSAWBBVV95cUxPQW1tcDV0bl9lenZLbzFCenZDX0FnNVR3NDBiMHRGR2dJcS1uRWVEcWwwN2NCMG9xTEtRRFA5N21BeDZuR1lCZGxaaC0wN3BjaXVPVFdvN2tmcmNsS3ZwaXU?oc=5"
+            "title": "台中和牛EMPEROR餐廳1客4千賣過期牛肉！日業者3人遭重判驅逐出境",
+            "link": "https://news.google.com/rss/articles/CBMimwNBVV95cUxOSEIybjVkTnI4azNSMWtMSl9LWnI5MkdyWDdaaXdZM2dkYjJLREZFbUFVRHRXeFBjZk1vOE9oeFY4cVUxUHhNTTRjQTNJOS1xRzNtQVJ5QWJCNVN4TUYyQVNrMmtpS0RxU2hWOXVlWGs3cDJjVkJULUZwWl9TSHU4UTJYRXlfYUVMS282OFlsRXhUMEpzRjdBY3J6WDR2R1lrNlAtQjVOd25DLTVrSEMycHlMVlZSdHZyZ1IwMEtHSThLS0JFdUljdExFMDRmR09EYVFCeWhnTmZXbGhxN05WYzhXVkNhWTFXNXlNQVVVbEdaVjA1Ml9PWlBjY0RwRmFTWkRLVzZSNFhSUVJuMks5RTd6c2ZacjRVN3R3RmlEN3FjZ0hWLW9yUmIxU0wzMmwtMi1KZzlSWGozbThrSHA2N2FENzZISzJ3Nk1Zc3VHMmZURjIxUnlXVVJ3dGtDQVdNWFNrWHNXbTRQT3hLUXpUa21SU1NnOXFjMEFhV2sxcy00UVhPS1JTTEtlNms5eFhfZHZlZW5RbFR3UzA?oc=5"
         },
         {
-            "title": "蔣萬安才轟「索資佛地魔」 簡舒培再討市府5年影印紙資料「限3天交件」 | 蕭宥宸 | 新聞",
-            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE52NEJmejVaS1U4V1VzS3NuOVIyV2JlWDBSM2tKY1U3b0c0ckM4ZFlEM05EYUlzN2FJSmNvbXAyVUt4MURyVXJycnhIV3d4QQ?oc=5"
+            "title": "蔣萬安號召上凱道反毒油 宋楚瑜：上街頭不能解決問題 不是民主政治常規",
+            "link": "https://news.google.com/rss/articles/CBMi1gNBVV95cUxPWjFWdUVYaURKXzBFa243MUk4NUZjeGFHVnlFZGJoVHN3YzZ2ZXBxNUptYzVReEYtOXNzbW9LQmJVNnVNbXZHS0I3QnhxQUhkaFRNN1F3Z1dWcnZfWF9FVC1ER0dWQlZrMDhiQTEyTW81SXBsd2NKVVc4NEZ5cWVDVW9FZjVXXzAwSDNOMW53UkJUVjdLSFVpQlEtODNXOHJrMnR3MFA4Y2tpcXJPU0U2SlRBdFpKUFRLaE9OX2lONmU2Wkpac2tmTVBjN0tidk5ZRXAyOGRRVG5FYVZkaE44Q0xGYlpFMWlnT2xQVDRXWUpETzhsMElsOURzYUxmdVRMc0FxWDNhYUxWTGN1NzNoY0pzaVlrTkpDQzhmNzRjc3ZJaUxMb0hqUF9BVEZqQW54RVN4XzFQaC1Ra0lCLXRVOTMzT0JxczVfT3djVlZCbDZ0Z3lYbmdqTHBmS21icVlSd1ZMLWV6bkJKQ0JHaDJqX0dmUTU3UUFNRHo4S1VLTGk3dE95cUlnQVcxRDV1ZDVEOFlzUkFCTmlXTV9ESk9YbVN5VGR2ZFRFY0ExcEM3THlUZWdUdFhxNHlFcEUzRlVRck03VFNlM0tzaC1XRHRQRWxwZVk2UQ?oc=5"
         },
         {
-            "title": "國民黨中常會通過 提名蔣萬安、張善政等6縣市長競選連任",
-            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1uZkk4SWtsZjl1aHU4SDJFTl9iTkdZYWNEWWlaV1JFcjhjVDRxZ1ZIZnRFVjlqNC1xVFNUQ0lWc3RpYmhGREY1UlZJNm5Fdlp4d21R0gFYQVVfeXFMTUJ0MEFlTDZJZzVTS3JDZGlxR2Znb0N4SjdsdmQ0bTBNWlNwaHJndGZWYmMtQmprcnpGOW1ad1pJdEpZRDJDUDFmVWhZNkpndW1SYjQ3TmE1bw?oc=5"
+            "title": "新北大巨蛋敲定樹林機五用地預估2032年興建| 地方",
+            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5zYnVCZnpsOE5wNXg1YmFtclhEajBjb0ZZdkg0VG1iZmloODJ4cnFaM3hDNkU3aGJMU3d4SWdOZVhZeUdpMG45YzV4X0QxMzFRZWdENGxzTF9jUXk3bWxV?oc=5"
         },
         {
             "title": "甲醛炊粉掀食安風暴！新竹米粉形象受創 業者憂訂單下滑籲公布真相",
             "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5oZ1BQSjRnRmRKVEc2cVA2TS05RVphNlNFR0VrMmFkT1o3alhGYm5xYnlQTXdpMGlsMkhPbHNkUzZVcmVwWW1XdUxVcElTOEpJQVRVYjNZcXZpT1drdV9HQ3pNaFfSAWpBVV95cUxOQU0za3NGMkhnTHVxdEhoZFdHTmRNMEhvd2VrVmd1QkxsRjcxRU1OZVVlQ0d3Z1duN0VKTHNJUTF5SjE2M1lwME16WmVSMEFleVEwNHZZX1BtcEM5bWhURC1UVjR0Wk9iZ3NB?oc=5"
+        },
+        {
+            "title": "藍營喊停442億無人機計畫 侯友宜：支持發展也應受國會監督",
+            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5McGpzbzc1SXlhVjVwblc2b202bnl0WHdGY0xQempmWnVVUGdMenpRR2diZFRHdmxqQnRhbGhyUVJQazBRalA4eUlkZ3Z3a2lH0gFWQVVfeXFMTkJLYVZGeDFUeHRYU1ZYM183ZUNaSFd5S2J6N1NaSGo2YjhDOTJ3c0xWUUs0cTBRTG9NZFRSOG1MbW1kT3VNSUl6VGRTRUlpVEJndDkybmc?oc=5"
         }
     ]
 }
