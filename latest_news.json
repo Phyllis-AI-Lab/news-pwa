@@ -1,22 +1,22 @@
 {
-    "updated_at": "2026-07-23 18:35",
-    "summary": "晚安，為您帶來今日晚間重點快報。\n\n【政治焦點】\n\n今日食安議題持續延燒，食安會議修法引發爭議，蔣萬安與盧秀燕提前離席，遭批評為護航。蔣萬安呼籲上凱道反毒油，但宋楚瑜則提醒應分工解決問題，勿動輒上街頭博聲量。此外，鄭麗文在直播中提及當年頂新油品無危害健康，引發社會譁然。國民黨也批評政府斷網演練為測人民忍耐力，而非通訊韌性。民眾黨則抗議監察院包庇蘇巧慧。\n\n【社會民生】\n\n颱風紅霞路徑預測出現變化，侵台有三種劇本，一個縣市侵襲率最高，提醒民眾持續關注最新颱風動態與停班課資訊。食安方面，連淨有機苦茶油被驗出致癌物苯駢芘，相關單位正進行調查。交通建設有好消息，行政院拍板確定新增高鐵站，將串連台鐵，提升轉乘便利性。\n\n【國際情勢】\n\n日本傳出嚴重災害，目前已造成上萬人送醫，相關搜救與援助工作正在進行中。",
+    "updated_at": "2026-07-23 20:49",
+    "summary": "晚安，為您帶來今日晚間重點快報。\n\n政治焦點\n兩岸情勢今日持續緊張，中國公布連兩天在台灣海峽部分海域實彈射擊。國防部更揭露中共今日發射火箭將經過我防空識別區，並有二十架共機越過中線擾台，國軍全面戒備。國內方面，蔣萬安喊上凱道反毒油，宋楚瑜呼籲以分工取代上街頭博聲量。同時，卓揆今日已核定高鐵延伸宜蘭計畫。\n\n國際情勢\n國際方面，美軍在伊朗陣亡達十八人，川普揚言報仇，已連續十一夜狂轟伊朗。日本則爆發嚴重災害，目前已上萬人送醫。\n\n社會民生\n食安問題再受關注，連淨有機苦茶油驗出苯駢芘。衛福部石崇良指出，台中八年來僅檢驗中聯苯駢芘一次，相比高雄台南明顯偏低。前立委鄭麗文在直播中稱當年頂新油無危害健康，引發輿論譁然。天氣方面，準「紅霞」颱風緩慢增強，外圍雨帶可能影響台灣。",
     "news": [
         {
-            "title": "紅霞颱風週五會停班停課？颱風路徑變了！侵台有3劇本：1縣市侵襲率最高 | 李伊晴 | 風生活",
-            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5fQ25oYVZWVTRucmpvbEltdEVfdlRFRjFvTnlBS25lYVlvWFl4NWNXeFZ1bDEwQ2N6ODBUOHZXVE43Rkk1cV84QVVvVHhKSWdB?oc=5"
+            "title": "準「紅霞」颱風緩慢增強 鄭明典：外圍雨帶可能影響台灣",
+            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1KVW9hbjNyMGtTRWtwbHBhTEZ3SURQN1d5T25OeU1wZjdLTGFiN3lNaHZrZ1QyU295MzZBanY3YnFSdThLblNLdUFzelU4QmRn0gFWQVVfeXFMTVF5ZnRKRFFkSFBBTkUyX3R0dFJyZDFXZFVoYm5tTVJyeDBwR2treWxQdEszYnFEYzdMdjdfV05HbGtJQ0JkT2JIMDQ4YkN4OHZCNENFUmc?oc=5"
+        },
+        {
+            "title": "中國公布連2天在台灣海峽部分海域實彈射擊| 兩岸",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAzMXozQW53OGxuTm1LTHFLSjlwbGJ5ZjRzM0VBcWZzRTgyU0VFc0pvenVET1I3VEs2ZnRQSGNvME83Q0pibDNBLWREM0dvQ0xFZTBQS002ZW05ZU9FZEE?oc=5"
         },
         {
             "title": "連淨有機苦茶油驗出苯駢芘",
             "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5LQndfYWZRUTljcURSSk1oNzlpbWFUMGZMZm5fUURsY21GMWtlTUFpeTUtZFkyZnpyTWlfZGlwbEtfeFgyVXliWlhjQnUxZHVvdUJ4NDY0bzFjOE9xeGI0d0cwV3MzOW8telZv?oc=5"
         },
         {
-            "title": "食安會議修法嚴懲中聯！蔣萬安、盧秀燕提前離席 張育萌：根本在護航",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBYNGNveEt0dVh3ZUFzSWRPQ3RDY3hzSnFMN0g3aTdFd0FNY1JhNW5qQms5NHZtc2dIZGM1RGpZdW8zcVRvaS1nemlTdjU3WV9neW1PMmFBVGFSOVZNSWFKdVMzMnpneFlRZVHSAW9BVV95cUxNQ2xUQ3Z3aHNkTTdQTFhadlFCWTBNbXYtMnBxVEhzZko0dFMyMWV6NTZGaTFKX3FmMlVTVnVsUGsyTC1vdEF2d0YtbFhsTTNScFotMDh5UHJ5ZlBRWE5fRUZoNllYNkhxYlZ3VHdiSVE?oc=5"
-        },
-        {
-            "title": "盧秀燕搬賴清德12年前發言救火：自己講的話要記住！反遭網狂洗臉KO",
-            "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1fem0wVVJTV3prZFphVmxSN2Nhb0s5bHExZUwzc2M5NXo2NWNDY2FPcWRXYXpGSjJpUE1TcGtibVNhZUU3VUl4ONIBTEFVX3lxTE9mb2RLVnRyZU83ZFA3WUlWelEtVDV3OFRyQkxyQmF5RWRybkZqcVYxWnBuWHB6aE5VQ1dUQ2dyRk8xemtva19XamtycFo?oc=5"
+            "title": "美軍陣亡達18人！川普報仇「連11夜狂轟伊朗」嗆：還沒結束",
+            "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1oSFhIb1JELUoyZTg2UktiVXNsdk1jUHNwancwVUJtZl9LRzBaeW9BVmNwZV9SdGVKTk41aDEtV2ZIdnJGaF83d9IBTEFVX3lxTE5jY1A1Z1lwTE0xQ290U3Z3MGtOSFo3TVBNWW9pc3F4S3JhckhZQ1pOLVNNbUhJaUpVanBsZDEtQ3B5eE5OWXB5QWN1UTU?oc=5"
         },
         {
             "title": "蔣萬安喊上凱道反毒油 宋楚瑜：分工解決問題 不要動不動上街頭博聲量",
@@ -27,20 +27,20 @@
             "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5BdHU1YjlHWkVKZkJYQ2dZMlZBYm82Vnh1b0JnZE1oSXplQ1ZPT09TempoYXVkRmRpYmJXNmdmY2lfYmM2SmV0RWtxTE1sZEJ2elFB?oc=5"
         },
         {
+            "title": "國防部曝「中共今發射火箭」將經過我防空識別區！共機狂擾台20架越中線 國軍全面戒備",
+            "link": "https://news.google.com/rss/articles/CBMi_wNBVV95cUxNdWFCTlhnSktzbzhLOWxXb1p6ZUl0N0VGdGVMcl9EMC00LUhqZ3pCVFA3Vy1zUFBfdUdKa19ZYWZXRS1pUWJpY0QwXzlUdWxYRG10cldvNEhZRmFxWUlkdndlZWRGb3lhMDhEVkNmRkVwY1NORDVBNm9ILS1WdVlBZWdVZlBTTVp6akxacEVWMjFXLVZIS1RfQ1k3YmNiUFdPV1pmRnpIRl9HUjBjZXFQUEpvM2NHQ2F5SGxrZDNQVmNzdV9Rd1pINjRwSGFZWVk3RUpQSVNOY1VoTnMycUJYUmRrMW1zTERESktIZVFVaDlBa1FKOWVESEgxa1lod1NSVGw0TmJoTDJTc3dJZURkZ3VqU3ZqZ3cwNUFYTUc5MVl3YTF1UjA3UlNjSjR0a1h4TkhraXVZN2R5N3o2bWVxcUtpZTBFZzJZcDhhbURVTWZoVWRsMmwwa1VHd2c4X1BxWllSbWF2dV9VUjBPV2dCblpTeE1kSnY5MHRCTVdhRzRfRjlBRk5FTEtXMjI2UnFqcG5HOElRT2R6aHlnTDlMYnNYYzV1WDVCa29NVFk5NklqWGxXWXdqVDhNS3BSM015eVJ2SVBMVl9KN2c0YmxsZEo2cFNEUXpiSUFWcEdZNWVBZExWRE0yVjl5Ukl3UzUzTVRKM0pvM0RHb01haU93?oc=5"
+        },
+        {
+            "title": "定案了！卓揆今核定高鐵延伸宜蘭計畫",
+            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1tcFM2ZmRhLWxVeUZWQUNTNVN4dUM3UFN2M0JrQlVIcVlBRzg2RWJoNXBTSUxkSUV2ZXZlTFpkZEp6dGdUMEktOVg2TzdwZDUx0gFWQVVfeXFMUDZIeGtzU2liRTRaXzJuZnUzbnJ6Y0JwWkk1amxSX1ducEE4OGNSaFV3cDZHYm1QN1hDVndNWkg5OTBuVWdad2pjUUxjaW8wYmlCLVpTS2c?oc=5"
+        },
+        {
             "title": "太扯！鄭麗文上歷史哥直播發「驚」句：當年頂新油沒危害健康",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5vbmNHaGlneFZFOGFVd2VfSk1wV1p5T3VUUmVMSnEyN2ZEdDBtYWhteGFka3hqMkNScWlzZUJsTkJSTXNEd01vWFNZaUFOU1hhY0dzYTJ4THM1SFJSdnE5enUzVEp3LTdHSHfSAW9BVV95cUxQN2NBc01rSHlITkVPbDFxYTc2OWczMGpxWTJMWS04Q0toZ3VYYU50NTY5aDVEN1Z2Wk9yMGRTUTdWX2NoeWlETHIyTjRrTlNKZ1VqeFFpTC1lc3dERV8yVnVEb2tlZk1hVzBlclNQQWs?oc=5"
         },
         {
-            "title": "國民黨批斷網演練「測人民忍耐力 非通訊韌性」",
-            "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxQS2RnV2Q2Y0V2ellyVWpoRHR3eG5zei0wd3hvVnREdnNkZHp5Z1J3TXV1cEQzSWpWdk1ibDJBV1NBSXVadXJCWXFoUHVaS09uT0ZJS3ZLZkZDZU1nbEN0cWdIcnQyZFVZdXM2Y0xTQ0Vkajd1VENGQTlTWlNMeV9QU3pwa0hpLWZabmNCQ3FQZ0gzZ0ltSHduUkh5dDlwdG80d0JMMmVDRFBBZDRsNEU0WXFzZzRIWFdiRWsxX3ZGNHlicGFaQnlDc0txYmZUWnQxcTY1RGZiZGFWZDR5UzJLdW9pUm0xU1ZRMTdEUVBCVUY1dUU1X3Y1TzBmYXJMNFdXYTRZT095ZS1CVDQ0ZWlrcnJVOVNTSU1xUTNkdHpad3Bvdzg4VGhHTDVHNXJEVi1mVlduakljUnU5UQ?oc=5"
-        },
-        {
-            "title": "台灣又有新高鐵站！行政院拍板確定了，「串連台鐵轉乘方便」最新路線、 完工通車時間一次看",
-            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBiTmw4and1aDgyenY4aGY1Ujh1ay1rbFRLeFo1UlhuS21pOUh1ZFFlMzUxeGdkN19LS2pqOEo1Wk96ZFh1R1pfSUdlZW9Sc3d3?oc=5"
-        },
-        {
-            "title": "民眾黨抗議監院包庇蘇巧慧 民眾突喊「監察院就是被你們搞爛的！」",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1LQzdGNW9VbHgxMkpnRERVT3RsQWxzYmRjSlFNMktEWXN4dGdpUVR4NXRPektDWl8xalhhclZjc2V2Um90aERVb3RiWWVsSEg2Q1huTmtRTmhrSEhMWFJLQUJCbWN2U2U4TWfSAW9BVV95cUxNeTdsQzdGMFdtVkhkWm9ZTzcyZmZJWWgyWDBCVEFLek1IQlU4aDVVNTVrSHJnRnM1djJXN29XSFdoODdsXzU5cFBDaXhpUHVDNTBIZ1Vsc3JNQXE0UTJZYnloN3AtNDlQT1B5SmVyZFk?oc=5"
+            "title": "石崇良：台中8年檢驗中聯苯駢芘1次 相比高雄台南明顯偏低",
+            "link": "https://news.google.com/rss/articles/CBMigwNBVV95cUxNSHg0QWVIVkw0TGlXWHB2MUpmMkRQSmZTekxwVXlwbzc3NTlPUEJITk5xWTdsSXZWVUZGZ3dSbU10TlhYeGFUdS1pb0ZNbHdGODJzbnpQZlNEZ0VXVXpvSzdCR3hBOVE3TjdvZmVXbGlYN0hhTmYxbEVsVmcyZ3JQVzBtVVNmQ19Yc2ZsUVFlZkVTd3pocnNqZTU2TjMzcV9OT2lvYWpzdWpKOHpPeXh5QU5NRER2X3pRVHhad0d6cUh5QTc2X2JBN2ZpTDl0dTNnV0F1X1NsWTBhbnRaZEx1SVpZbnFOTGFDWTY3TnJ4ZG1veW1wWkIwQ3Q3WWpmc2pIOUR6NjliR24wNTB1Q3I2MEpqVTNybmRNQWdsT3hPaXhpeWU4Ul9yb3Y2SHZOb21VTDlHNGdsUFhNTzE4anFpMGFKVkhuZS1MYlhxa01CanBVSzF2ZGVjcDBaZzJyQjlpdS1wTXhZRVZQN3FfOGVGSGF6TWNkcGM3N09vRVZodEhJUVE?oc=5"
         }
     ]
 }
