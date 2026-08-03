@@ -1,46 +1,46 @@
 {
-    "updated_at": "2026-08-02 20:15",
-    "summary": "晚安，為您帶來今日晚間重點快報。\n\n【政治焦點】\n\n民眾黨七週年黨慶，柯文哲嗆聲賴清德「絕不投降」。蔡壁如七天出家後還俗，稱將以新姿態掌握未來，引發2026選舉聯想。呱吉則批評立法院行為恐危及媒體生存。\n\n【國際情勢】\n\n美國川普突取消對伊朗攻擊，傳美伊已談妥兩框架條件，但伊朗仍強硬警告若受攻擊將報復。此外，日本凌晨發生規模5.3地震，最大震度3。\n\n【財經動態】\n\n台糖澄清五月即拒收中聯問題粗油，未製成產品，強調非食安通報義務人。受制裁影響，巴布亞紐幾內亞向台灣喊話稱是重要客戶，上半年已購112億天然氣。\n\n【社會民生】\n\n氣象專家指出，颱風白海豚侵襲北部海面機率五成，預計周五起外圍環流將掠過台灣。食品安全方面，苯駢芘超標苦茶油追溯至源春製油廠，業者已公布退貨方式。",
+    "updated_at": "2026-08-03 08:13",
+    "summary": "早安，為您帶來今日上午重點快報。\n\n【天氣生活】\n\n強颱「白海豚」路徑出現變化，氣象局分析關鍵影響。\n\n【社會民生】\n\n台糖毒油案延燒，藍委重砲批食安狼人殺。源春製油廠八批苦茶油苯駢芘超標，已公布退貨方式。日本熊本AEON女員工為救人不幸身亡，公司拒回應遭日網灌爆。\n\n【政治焦點】\n\n中市府深夜公布紀錄，反擊食安雙標質疑，籲中央公開決策過程。陳佩琪赴中觀光言論引發綠委討論。中共統戰向下扎根，國小團赴中人數破千，矢板明夫揭超低價團黑幕。\n\n【國際情勢】\n\n美國川普政府取消對伊朗攻擊，傳美伊已談妥兩框架條件。摩洛哥非法移民跨海闖入西班牙，總理視為領土侵犯與攻擊。",
     "news": [
         {
-            "title": "颱風白海豚侵襲北部海面機率達50% 氣象專家：周五起外圍環流掠過台灣",
-            "link": "https://news.google.com/rss/articles/CBMivwNBVV95cUxQc0dQSi1MZDB0emlFSE1HaklwaS1fWG5zdjdtOGM1OTZFWFp0T3h6V0VIekJwTWNfcXBFOWhYeklKb1JtSnRDRGRKQkJGRXBWOGw4UmI5WmkwUk9GZzVkN1JwWk5ZSVZFd2JGTUFpSGoyYWhBUV9YNWVzbTRsd0R6WG1LMzZsSmZ4eGUxMGY5b0g5Nzk0Z3dRTzBvRlg4WG5kblhJR1l0QzcxWmp0VThJZzhNOTNKUllBNFI3V1FxNnNEc2NadHI1WHJCdWczakszRDE2ajIwU1pQSi03ZDdCUndCVHJiOUkzb1M5WUVZeEdKajRURXJtU2dDREJLUkI0X0JGdU9adWl3WWpCUjNVWWxuTnM5Y2xpX2xPZlZ5Q09wZVc3Ui0tY0VOWGxiX2xZcTBlZjYyM2JONC01M0NZZEVSX3M2a2FSMnJVSnd4SVpuZV8zR2Q0RkduRE5DdlphUU0wWjVCSWhvZUhpM20wbWJrTnFBeXJwaHhLTF9vZUJ0YUxNR0NXdmItVDZxblhtMm43OTFXdXljSWhpZHliZ05UZXhtdDFYRlQ1SFdvWk5QSXVjRDNnaE43cE1Vekk?oc=5"
+            "title": "強颱「白海豚」路徑變了鄭明典揭關鍵影響- 生活",
+            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBFVmFjSzZUS2VJVm52V2IxeFh2djdmUWExSTQ4Zi1NU2lIbHpXOGMzUXllTENJVDZGMHlwQ1l6bk1zRzdpNElMVS12YXl4RTZGRWNqQnc0NzM5ZUtzUnV0VXQ2MS1ESTNRTW0wQ1N3?oc=5"
+        },
+        {
+            "title": "台糖5月通報毒油！陳菁徽重砲轟「食安狼人殺」：卓榮泰、龔明鑫滾下台",
+            "link": "https://news.google.com/rss/articles/CBMingNBVV95cUxQdHp3TVlkY1RHVnJpVW8yanJ4MlhfbFVOdlJWU1hrYkNja2FaS0diQ095MnZnVWtMX3BTdEg1aUNEN0dzUUQ5dUVGSjNVYWozTkY0VkRUVHpUeW9wX19VZEljUjEzWkdGVnctWUpqRGM0dTJoUGcwTFBwMVlZMU15NjhzQzRaUkJEU2JIekxTSE1zNG5ZZkYtX0JiZFREQnlVTmtJMFQwWjVJV3FFeHdITVZ6eXFta0pOajI5MWg1LTh1Q1J3NUdGdExnV3RlU01wN2ZlOWJ6V3ptb0k4b1ljQ0ZubnNrdWo4bmZHYm1JZ0FPcmNKNGNRN0p0QUNwRlNwVlVOT0JqamdFczZxaEo5UlFUTVVucDJpaWJfYmwtb1lFc1hDbTdZanh5QU9sU2VoUDg3TW9EN2hzcDJqT0h3VWlRRkdnQ0NqQ2Y4SEN3eXlkSnk0WU9kVDh0VW5JYVRHY2trendpcTJiNmtVM2FIZFk4U1Ntc3FaQVh0dG9OUVcxTk1yTzFnMk1wWDdyYjhlNGdZemNRRGlUYTR0Ync?oc=5"
         },
         {
             "title": "又喊卡！川普取消對伊朗攻擊 曝美伊談妥2框架條件",
             "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAwdU1SeUZzcWxBNm1RRGxCLWw3ck5SWkMzZG9UMU5UUFoybGRwdU15MmZfaGJnYkVzTTJ5VHZNX2Y0STZQSnNnMTZnTXkyXzV2RnlRakNtYkpIZ9IBX0FVX3lxTFBWdEdQZWJHTWVBME5DVXZ3d0Y3Zl9nelM1Mlp6N0JIUmc3WldsWU1Zd1NrSWdXN3VqZEZNbTF4ZUJENEdXR3NwWE1BTWo5bnVjanpFRmFpbE1iVGZQQ2Jj?oc=5"
         },
         {
-            "title": "台糖：5月即拒收中聯問題粗油未製成產品非食安法通報義務人| 產經",
-            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5KbERsTFpsZVAxc0NoTEk1alQtRXZGRndzaWNocjBYci0yMy1oUERNUFdRM0xndmtsbnNkTU05T0ltMlJObFRmVFZCUkJTUFBNaGRFbDdITWI3TkJlMGc?oc=5"
-        },
-        {
-            "title": "不是熊本！日本凌晨換地方震 規模5.3、最大震度3",
-            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE94WnhldXRDdE42ZWMwS3M0TXktdzRFMWF2VFFwUjlUQjRMVzl2d1dFT2RubUFGcU14d1l4Uy1pdkYtRkNGSnJORHdzSWZnM3RYRm9J?oc=5"
+            "title": "熊本AEON女員工逃生後再入險地慘死　公司拒回應遭日網灌爆",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBESnlabFJHS1M1dVZHYWtndlpCQUFmSy1XZVRrejdmc1R1Z2ttNk1XRDBwNmR0WENHV1BQdzRYMVRMNWl1UjlvZlVFaXFYU01sZ2xveGx4REVPWHBVYWfSAUtBVV95cUxOR0YxOGpBUzJaamtpdHFFUGlJbmV6U1NhMjh5Q3lkTm9pNmMyOGJTUWNwU3JhY2NaZjNRUVRwVGxHSFRyeTJnU3dRSkk?oc=5"
         },
         {
             "title": "8批「苯駢芘超標苦茶油」來自它　源春製油廠公布退貨方式",
             "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE15YW9iWTd5VzlmcDNKbld3SHJpNi1TaGRSdWtRM1gtRC1WM0NqaFhrTHE2bTNzQUg4NVZBRjFRbFpCUlhSVnNsatIBTEFVX3lxTE5UVmdWeWZoUS1kZ2VnQmEwUEtpelBhUnN1dkw2Y3NFOTJrb2RjSTF0S1gxaDNtZFhFYmdsTTVlS1hCMTdIU2llYkc1eUQ?oc=5"
         },
         {
-            "title": "伊朗怒了！警告美軍「發動攻擊就報復」　川普回應曝光",
-            "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1VWFIxMGQ3VEtsSEpsWG5uUlRHUlJnc1JQZEYyS1A0RWxvRENtaVZEYTJ3WHZKbDZNVFE3cmxscld2emFBNzJpctIBTEFVX3lxTE9vWGRjNl9tUmNnb0lYUXpvRmhwNlJiWjlSaGwyZWFpaUZiTE9ON2dCOFkxdUVYQVM1VUd1Y1NabEZoSWlnSWFwcmplTE4?oc=5"
+            "title": "摩洛哥6萬名非法移民跨海闖入 總理：這是一起對西班牙領土完整的侵犯與攻擊",
+            "link": "https://news.google.com/rss/articles/CBMi2ANBVV95cUxOOERkdENDaWlkUW1MVTZKQjROeFlUNzZ6dVZ6YTVqdUVHdGstQkhZSGwtQUlVX1d4NXJ2ak1Jd25PZF83WVA4SEs5M2w4eXB0MjhFV2xzVlJfZ1ZxemdkQ0pkVEFVaks5NlVkdWNjRHVGT3BGcXVqVXBUak03TjdqUEplRFpTTjNqUFpJUWhMMGE4Ym9rZG1SSEptTkQ5anI2U3FvTzFiUFNSVTQ2VDhzNUZJNnhpcUVnd0ZMa2dvMlhobGtSU1psbUNvVVlYVGF0c0hacHZFX3huNklVc1lPdlZjYUxtTFZJODhWR05meWl5VnFXMWV4bndVb0J6N2VPUlZBVTdiLVBZUUxhQjJQZHhMR01CUWlWQ1MwMXJ6Vy1TRVYzU0daTmZ3X0EyVU5HdzlpVVZEOHNFRTlTeFRrU04xMjNmZ245LWpGcmZUdXhIUWZWUFhrd1pCTlVtdGJMeWl2UzE3bWY5OUZWNHR0dnQwcWI2NEkwUC1vSV85YXdIMkI3aGk1VHlnT2tzYjRPaDhYS0M4MG5td3R4RzcyMU82RkJZcklWWFoxUGY4bTM4UTJyTW5nNGhpbDBVT19BMkdhQ2tlUDRUU2phZFRueFhyeTZRbVBL?oc=5"
         },
         {
-            "title": "民眾黨7週年黨慶阿北回來了 柯文哲嗆賴清德：絕不投降",
-            "link": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxPczdqOVZrcTNnY2Vkb1pQbHBYQVV5NVlzMVJCNTNDSjY5YzBKcktLa2FuaEk2d25jaW15RTVEX3RwSUhIdlR6LXBPaEUxbkNoZnctQWpyV0VGcHM2VUI0NUc4bWIzb0hzbENzVWZnV2VmZFdmM01JMHNhTnA3aFdTTGVreUdtVVZYXzNXSVI5dmEwcjFNNFRVRXV2anJVSE9ERGdkUnlPUTd1U2xKRFpabDhEM1lMa1JWQ3I4SDh1NUJPMDhLbXlRSWtsTElMU0t3bnlBa2NmenRVZ2oyektQbTFJSUl4OERlOElVdHIzTVZZVllpdlphYlN3emhHVG5RSy1CZUNINU00SmIxZVJsZWhWUnk4R0R5SWltd1dxNE5MTTVyeFN4WlRSQkNicEZwMlVUanRoUGUyNzExSWRYaG1zaVc0YzM2S19PMjBUQVdJYWZkNG94bUdNQlNDX0dYVFhoU09YQ1VYTFU?oc=5"
+            "title": "中市府深夜公布紀錄反擊雙標質疑 籲中央公開「20%免下架」決策過程",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBDcHB5Yk0xcVhFSmZTRUFPOTh3X1JfYkxiWE9kUExxLWJtdTdILXg5ajA0cnZTaW5xaXpfYVpaTmhBVENOLUN3QUYtVFRZY2I5TWVV0gFYQVVfeXFMTTdxRjR1ZDUyUmktb3hjY3VjMUVlRW1LeHdyUzI0Yi03aXhSbjJfbFYzR0tua2ZLcnFLR3hPQjBBZ3dXajZTLUtFeVdIQVUtZmpBSS1tUUVtYg?oc=5"
         },
         {
-            "title": "制裁發威！巴紐怕丟金主急喊話：台灣是重要客戶 上半年買了112億天然氣",
-            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE44SWEyNVBqMUUzOV9BWWI3bk1yVlN3R19sVTNERlp6RDBiMElvcW9HN1NYVmlnVEZJWDd6LXFRd1dFMHB6ck44TTRXVmtmY1l3Q2VSMXk0UFhxTkg2bFBJ?oc=5"
+            "title": "陳佩琪赴中觀光喊器官還在 綠委：可惜了",
+            "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPbGNKTkZibU9xXzZCemIzVlZta1ZlRzY3Z3ZhQ3h3Z2NUaFR2RkRkNWZ1OFdSSHpraVgyX1NybkVXUkIxVU9Rd0ZUM05FOXJKMk9rRW4xS3VzaWt4RERESzFoSDlvZEEwbXlPTlRtZWlFNVMzSXU4MHZHT0s2QzlrSXdrMkM2UEhyRkhmLUs0djdPbi1HcGFCMVdRMlRESWZWWVpVMFg0ZFR2TUVZTnU0YUFiZFM2YXBfcGJQRndXWjYzVVZ6YlVoSVFaRFU4cGNDZ3I1SGpoaVF3UENOMmRzV2ktdnZEVEtoaks0RlVqVTFKZk90WGJqSGZ2SHZKdEFCeEdadUNudS1zcFRoRjR3d3I1bTVRVUo1RE5CMk40bHY2QQ?oc=5"
         },
         {
-            "title": "呱吉：立法院正在親手掐死全世界最窮、台灣人卻最信任的媒體",
-            "link": "https://news.google.com/rss/articles/CBMijgNBVV95cUxNd1JoSFptNkI3NDlSTGdvTDVsNFN4SWZtamJMQ3FuUWt3Tk9mR3Fzd2tCVFZ5TnFldVQxN2dVVkgyWkNJWU1PN0FHVU1xdmIxSUVlTzdseGhEdTZWMjBYWU5xVGI2MExuUDRicXhMalhpNGpibEdENjdPdFoyV1BBajRBNnI2NzQzUGxydE5laU9LU2NOaTdaMk9QS1V3enJjbnRiRk90Y0VWazFTbDRfeW1DMFE5cWdjSHlUb3hVc0dFTThwZmRSYzZxNmJHTXNuRTRsLVZ1SFRWVk04U3ZfWkJKTmYzblVXNFUzNVNxcllGNUc4X1pHeGY5Y2lFc2FVaGNuaFo3Y241OVVxY01lR29RX1d5V19pdTRTWFFXMVktRncxVWR2Rmc0ME5zQTdEajB0Q2hLdUJ3cjFPMXNwM3hrVTdaWFk2Zms0bkVpdUtzWHlock11LWJRR0dFMmRNczBYMnFpTTYwWTBaaGRTcVlXR2Nrb18wMVhkN3BaU1ZDWnRWaXJqZVpZTnZtdw?oc=5"
+            "title": "陳怡君、朱政騏妻陪沈伯洋掃市場「尷尬」？ 里長：陪同理所當然- 政治",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBrcXRiMy1oNHRqb1dWdXFhOHM3SjJ6NHZZUTdlNnhsUTIza2lEYTFBRGFTdE5zUmFONUozeHZ4eFFfT1RZQ0RyVXdab3BHQWtCcVdKeXJhdEZvTHFFdUlQaWN6RjNtWTVfV0E?oc=5"
         },
         {
-            "title": "蔡壁如7天出家掀議還俗宣布：更有智慧、更有力量掌握未來| 2026九合一選舉",
-            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBKQ1IwLVc1WV9UU3VoSERscDlrRmlubDJ1UFpPOTk5b2lvSFo2dGs4OXByVklYUV8wSHMxVHRLWWxNMzFLdGdjeDRYc0JOUk1TS0RKVXFpWUY3WXR2QktpVjhsNlZxNHM?oc=5"
+            "title": "國小生赴中狂飆破千人！中共統戰向下扎根 矢板明夫揭超低價團黑幕",
+            "link": "https://news.google.com/rss/articles/CBMisgNBVV95cUxPeS1jNHJVdUpaTjNBa1cyd3BrY0Q5eUZObjIxaFBkb1VOOG9Uc29BOHlmTVJ4aUdxM1BlQVNPLXdCMzltTWxKRFZhTXBjekNzNFpMd0t4eTFhWFFoTkRXVzBIZEZFdGN0Y0NYZmM3a1hyOE5QZFRSTEZDXzhPdVlneGxSZVZKci1WLUlHekNHRnBIaURsREtISkZiZS15RXBYMmI0SGJqUjJPakhoNDFUV01zVkE2RmctbzhDclRNOV92U2hvUlM4dFptZGlXUGZGYjZvU2dRMl9PN1g3ZzNRS1RCZEdPem9yVUNIdmNxSXdCVlE1UWJkS1Z1RXdabzJtQl9PVXlBUlNkRnVFQXNGeUM5NTdzcjBEZjJhVHpGVkdYQTV6blZ5WUhxWERVR09OSmp0UTYyeDV3eWM1LXFjRThvck0zUVFxLTRaVHZuc1NTaWtwbmxmVzBJZ1o1S3pEcWpBVDZTMVlMQ2ZXdk8tbmJjTlpCMUFqZlBObHN6MmFpZmwzS3lPRVg1QVA5LVljcGh5cUJFU3JLVW5rWk5jRzJMaERCcDBkVTRLMGtIdy1CZw?oc=5"
         }
     ]
 }
