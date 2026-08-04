@@ -1,46 +1,46 @@
 {
-    "updated_at": "2026-08-03 19:44",
-    "summary": "晚安，為您帶來今日晚間重點快報。\n\n【天氣快報】\n氣象署不排除最快在七日下半天發布白海豚颱風海上警報，提醒民眾提早應變，留意颱風動向。\n\n【國際焦點】\n美國前總統川普急轉彎取消轟炸伊朗，稱是因中東盟友求情，並證實將於三日重啟談判。另外，日本熊本強震釀災，一名女員工喪命，社長坦承曾要求員工將錢放回金庫。\n\n【政治要聞】\n國民黨立委洪孟楷質疑台糖未通報致癌油事件，直指國營企業螺絲鬆了。此外，AI深偽政敵聲音掀起司法戰，蔣萬安、黃偉哲皆因此挨告。台北市長選戰前哨，一份最新民調顯示其中一人獲六成支持，大幅領先三成。\n\n【社會民生】\n網購實名制平台EZ Way被爆出是私人公司，引發民眾對個資外洩的疑慮。卡牌圈則傳出大事，小羊卡牌社突刪萬人群組、老闆失聯，卡友估計捲款至少三億元。政府推動城鎮韌性演習，預告警報聲大響卻嚇壞不少民眾。最後，爬百岳明年起可能要收費，《國家公園法》正啟動修法，將打破免費入園常態。",
+    "updated_at": "2026-08-04 08:15",
+    "summary": "早安，為您帶來今日上午重點快報。\n\n【生活氣象】\n颱風「白海豚」持續逼近台灣，氣象署不排除最快在週五下半天發布海上颱風警報，提醒民眾務必留意最新天氣資訊，做好防颱準備。\n\n【政治焦點】\n台中市盧秀燕市府因食安會議公文外流，其「抓門神」行動遭質疑，政治攻防戰火持續。立法院內，公視預算案爭議不斷，在野黨批其「情勒」預算，罷免議題恐再起。此外，蔣萬安團隊委託製作AI深偽影片引發合法性爭議，最高檢曾示警此技術危害。\n\n【國際動態】\n前美國總統川普證實曾取消轟炸伊朗，稱中東盟友求情促使本月重啟談判。在日本，熊本AEON女店員依公司指示喪命事件，母企業已緊急切割。\n\n【社會民生】\n國內傳出知名「小羊卡牌社」老闆驚傳捲款三億元後失聯，店面現況曝光，大量受害者已報案求助。台糖爆出產品苯駢芘超標卻未通報，台大教授詹長權嚴正指出，這不僅是食安問題，更已升級為公共治理與政府誠信的重大挑戰。",
     "news": [
         {
             "title": "颱風白海豚逼近氣象署不排除7日下半天發布海警| 生活",
             "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1vNGoteEx0STU0cmRFQkdSUUhvZmsyOEpNMXpUOUdwVWdxaWZDVGJkSjNtVUJ1SEZrRjZ3dVhvRjNxaGk5aHE1SGttRkFOY1h4aG1oYXp1ZW1MaEJkak9R?oc=5"
         },
         {
+            "title": "台糖未通報苯駢芘超標 台大教授詹長權：此為公共治理與政府誠信問題",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9qd1R0UWdMVi04QzZMN2tqRWFyWUZ3TXo3NGxUNVhIUjlRVC1nOUNKQV9MazhPaC0yRm4zTWlJZ3ZldVhLa1hqUXZ5Uzc4RkFNUjln0gFYQVVfeXFMT2VkMmpZb2xlXzY2UktMbDRGUHBCdXc0VG9uWFZpMm5lR3ZoNjQtbFlyNjNlQk9MNTVydnhWU1dGeW9YWV9QblpYQlFGeGFCUDhnaXA0OVl0Mw?oc=5"
+        },
+        {
             "title": "急轉彎取消轟炸伊朗！川普稱「中東盟友求情才喊停」　證實3日重啟談判",
             "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5GLW9KVWZsSERLazRfRWVmczJtcHU3NmYzM3ZYWHd1NXVpMFR1ZW96MDZLVHJ1ci1TejEyWFJ5blg1NXQtaUlTWNIBTEFVX3lxTE1pelppRlEwWFlzRnl5c3V4dmZfNnVHcFRrX1FIRi1xZWZROWpMRDB0QUJ6YUVnLUlaTjNzSTBaUEN6dVl5UVZvck96LWM?oc=5"
         },
         {
-            "title": "EZ Way竟是私人公司「強制實名制」 網購族傻眼：個資全外洩",
-            "link": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxOMW5UcURGckY2TEJJOGRHQldlZFd0NWloT1duMFAwVGpBZGxHeXc5S0FMaEZiVlZtdDlVSE9CaFdobU1OSE51a0t4UnVOMDhqOExuakFTRzhRMEhoM3ZjZmtacjlWNUFsUC1vUkZ3WUhOSkJic28xZ1c4UkdHck5mdjVHSzRNMXhGU1pCekV1Nk9LZUFWTmhQM2lpU09CSVJRZTU3Mml4MHNwYjVZaUZ3eGtyME1vRWQwbWoyQWVTMGQwaEQyeTQ0QVN2b3hRZ3hYY2dUckFSSmVQTVNjZWxSWjJQdkVHdk05dTRiSVdvRGlOQjE2OFU0bzlaSi13OTRJUlpmTmR0SnJsaEJmVHFHQktkbElIeUJhaFdDSDdlSXhPWmZMX2tRYWpIdnUya01kSzVIMHg4R0I5cktQVkdCRFFFRG5zM0F4cGJKZU9LU3pPY1FZSkhxQVVvTQ?oc=5"
+            "title": "「小羊卡牌社」老闆爆捲款3億跑了⋯店面現況曝光！他：3天沒見人進出",
+            "link": "https://news.google.com/rss/articles/CBMikwNBVV95cUxPRjBwUDgzNHBpQUktWENkanB4LUc5aVZ5U1FLSGRuMGViZlpfeDItbERiR3BjeVg1ZDdjSHRYbVBObHlsSHR2YUI3a1lOQzhTVVVZMm9tb0VVaWNqNFBreGdTZldVaUFXeEZqaE51Zms0UlNPWGk1ZjlVd0VzRFRXOTVvZ0pLRFhnMU50UTQzQ2NYOGo3dF9DYWEzNk4zbTNLUVFBR1FuLWpwTHcwMEpxTDA1a3N0ZTNhSzJybWk2VXhnVWhOa2MxWFpINHBKa1JENGp2UVpsalRrQlAzU3dFc0pkRHQ0bVVIbzJCWGx0Y2dhLTBiV29UbWJUa2ZoUVFiSVB6dzNBQ3hqRlFrdWhlb0M4OF93LXF4NkVtaGpFeHM3TElQZjkyS3NhYl9aNzFvaE5FZFRvaXJRdWFMWXk2UmxYRkx5VWVUOHFVQXNyTVQ2bWxNRW5CUHNiZVNTMDNQY1R1bmRiV0xlYmp6TTRnSEhzNV8zU01INEJ0b19HYmFuYkpRRW1Ob1pOZlNWVHlMVVlV?oc=5"
         },
         {
-            "title": "卡牌圈出大事！小羊卡牌社突刪萬人群組、老闆失聯 卡友：至少捲3億",
-            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBCRXZQWmpRTDlPSDN1dkZTSl9hb3ptNW9xTkVWakswTmFmN1QzTl9FeWxTdFJGalJxUDY0Vk1Sbk82bEE3cmxDVmtKRVB6dTQ?oc=5"
+            "title": "公文外流！盧秀燕喊「抓門神」前1天中聯總經理列席中市食安會議- 政治",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE54Y1AxeG15ZFhQRllyMHhrdlZob0w0bWkwVkdJdEFnOXd2RkpzMXJXOVA4RXk3cWRHaVlPRjRSWlc5TXRQeDVyUF9pV3NIeFVpQ1V2U2lNX0UtWG5aaHEtdjcxYjhaNWlza3c?oc=5"
         },
         {
-            "title": "洪孟楷質疑台糖沒通報致癌油「國營企業螺絲鬆了」　網反酸：不敢罵中聯？",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAzY0dlcE12M2paTHJKSlc3V010Mno2ZS1Tc2NXc3JfTVpkQlpweFdfWllfZ0tuWktrcFpOdHlzcUVPaXVCUE5SNE44cnc3d2pVSlBMYzlmQjVLdGfSAWBBVV95cUxOYTd2a0l5T2RvNDJYajBFX2I3bHhGSXVyV3BDcUhCQ0NTTVB1aXBFTGNWNE9uWVlJTVNkNnNVVHhOa0NKT0t2Z2pUeXk0SFFWdHQxRDgxdTY2QWF1am5ycVM?oc=5"
+            "title": "熊本AEON女店員聽公司指示喪命！母企業切割",
+            "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPVU85aHRmLWc2aXZLNXAzRG9IR08zWEpQcUI1VDhJM1VPTkgwZF8tRHN2ME1ISWtzc2VQa3BmQ2g0V1U1MjRCZ3kzV2hmdFhYdndaOE5DVExFNkpoV2NaUThtQUlUTThSLWtxZVdENllXcC1pbExsNmRoUE5fXzRrcFluSEV6Z084Slp5Z2tPTjhHUGpKb3pPbk9YOWJsQmNmZVFxeGpiaF9ZRkNsS2N6ejJFVFpSblpHRTd5RE1jbHRoU0c5Ungwd0RTLUpfaFRDbUtxV3Yxb0NOd1RZcWNVM2M0Z0ZWUzRnWW4wZjMybXhRcFNOUmhrNFhxS3J4bXFRTFhlSElDWERpTDBvOFUxUzgyTTBWLS1TbmNLNWI5bXA0b0NIR3c?oc=5"
         },
         {
-            "title": "熊本強震！22歲女員工喪命 社長認了「要員工把錢放回金庫」",
-            "link": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxOTm9nSldTQUNvSVRuN0FLTXQ2TFJSVF83X1FoOFU1dW1SMlB3ZUJIUmtLZFZUSGZZYTFBQ2hXTWN5UlcwMURkNUl2cDh3TERHN1czOEc1WDBhRGIxMjlIejI1RnlzR1ZqS1o0VmF5RkUyZkFLLVdnblFuTVU5YTEySFM5M01SdkZieWFteWdPX1h2VU5VY21LNHFnSUdTTDJtZkRoQno2TWhadGRzbUxPNHc1Vm5IY2hSQ2FJVUMwUjVUcUVWYUszRzg2RmRERnBXLVgyTlYydzAtOFB6RC1JZWpzM2sxaTFLY0NIQkVSMnZEQkVoNUloMGRJRk1wWXMwSGpJNk4wRTJMdzlHRkxsRjJxaEp6WVpkT0x1NmJkTGlLd0diTHNuTjZVc1J4YzFpRDFFbHlyaVJ6TkhqbmVPLVBpbjZGTjRBS2Y3UlJHWUVqRWlUR1dsQm5yc0c0VDUzOTFRS213MUVjM0NJakE?oc=5"
+            "title": "從「喊倒閣」到公園「抓寶」：蔣萬安的空戰試金石與沈伯洋的「首都 2.0」陸戰精算",
+            "link": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxPM3BOWnNWdGVYNGRqTkxMRTlFbVJfVm9ZUGQwYWU3UEFsUjcxaWVEbXdidFNLSkpyYmZvZms4eGd4T1NkV1lQek15ZkplenpqS1dJVUpKRjlNRjE1aFloVTJPTGtibUlpTl85alcwZjR1ZjFOYS01d0NzcGFueWFlOUU1R3JFVkNRUVlaZDEtbmpCQWEzcExqZ3J4Q0IwWUVEWEltYmlxdnhHQ3h6bUFLNkFiMmlTRUZoVWMyQnZpc3daSF9fY2hIZkpOV1N5SzhtMExWVGtjYjdNLWlHdnJZdGdVVnlKMFVCU1pPQ3N5UnFzb2VBUy1kZ0RKZ0tvVUQ3RHRrTE9zQUlvTWpvZEFUYWk4ZUk2R1hQc1l1b0wtSDM5a00xMGoxRVF5WG1pM0xLLUVrSjc2eG5sbTIxWmFPNklnaEtRWG1LVnU5UnZ3MmtBZXlXTDB3Wnd4bndJTk5mVVA5S0dZenVpU0xm?oc=5"
         },
         {
-            "title": "城鎮韌性「演習預告」 警報聲大響民眾嚇壞",
-            "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxNbkxzaHZDbTlwX1VqcS1Td2NoS19oVGxPb1pKSTBHQjh0eDB6VkcwSUtIU3ItNUZ2ZUNBWGl2bTJ6QXN6Nm1naFRKTFVqQkJTMUtiZGVUbW9rZGljWTYyR3YwNUVaUzJndW1vYXc0UVVCTkNwWW9xdXJGM3FCakluemE3ZEl1X281WnpaMHJjOU5oYVZVbGFhM19JX0xyRUFqV0Y3bHV1RDJsUDUyUHlQTkluaEZYcEdCUktRN0h3Uk9jVnFfYmo3UVlZVGZYY0ZFczBJdHRkNU9udjNtZlc3dnNYNDF5RUhlWDBkLUhCMEtaUUdkMWEzNGdGTjVJenRPU2hWZjhINTdfX3Jqb3VqdWRxRUs0U2dCSVN4b3BZbER6UDBvOTJjSHdlMlhxR1Z2V082SEZLb08?oc=5"
+            "title": "大罷免模式再現 在野批公視情勒預算",
+            "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBlUm9xOTZNckVYamdkbGtGVUpBeWUwbjY5bDVqbllqY0IwdXFrQTVlVnlkZjNWTFhWdS1SQ0VyVW1tYlpsb1lDZjVGN1JvYXMxcjg5Tmo2ajF2MVFhNVlySFJETHVPd1RMcEpV?oc=5"
         },
         {
-            "title": "AI深偽政敵聲音掀司法戰！ 蔣萬安、黃偉哲雙雙挨告 成罪關鍵曝- 政治",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE00VXpCMWxGbjhtWnVXZWVZZ0RLdWVqdkFLWTRLLVhWTkc5UEVkbHhLWFpRMmZocE1pZk5xR3o3MUhkMUNoNndMWW0wa3c3T2JDakZPZnV3N1IzQ3lhRGF1eHpYaTlvSGI5Ymc?oc=5"
+            "title": "委託製作「AI深偽」賴清德！蔣萬安稱不犯法最高檢曾兩度示警危害- 社會",
+            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBKODJQQk1oeVg5cHBVLUExX0JVLVJQSmhnT3kxbEtodlJCSkMzN25fRXk5X0RCTktzbDg1SnpWc1dlM29tOWRGWk5jQ180TXQxZ3UyTjd4ZTd4R0tCaHlERUNsZWhjbGpO?oc=5"
         },
         {
-            "title": "沈伯洋對決蔣萬安戰北市！最新投票超震撼 「這人」獲6成支持狂贏30％",
-            "link": "https://news.google.com/rss/articles/CBMikwNBVV95cUxQczh2MTIwOHpGTlVGNmpvQmt6MTF3c2JITEFWTHMxQ0x2WXR2UW9HeEVES3FBWEkyeERDd3diYU56dWJ0RXF0b3RnUm1BN0dfb0F0ZzZjRDlHYnJZRUZRZkVKbVJTTkFRTVhEam9PdUJNZk82UGJkUzlqSlNuY3oxTER3c25aNTg2d0FfS3pnVF9EUTY3Qmk5MFB0NjRTT1o5QTNRTzJxbXVEV3Vyd1NFWHlnVHBrc0x4emFaVzJQUG53b1Q1OTVFYkFHaGxSdHBGdWpIUi1uOHJXaXREYkpQR2xtQkVSMU5ONjVTZU1pSGxobXZkLW1DRDZNYlJlUm9SRVBhUlo1UGhmV243dTJzQUxVcnBQaTVIa3o1eDVaTU1UNDZ5VTVCWjJld3d0dC1zY0Z6VHk2SHpDLXRkOFZTbHNmQlRhWGEzSFdlVHV5cTZIS3NZc3BfSUsxUC1qNXhlREc5LTBSNWRqODlGYi1JNnNCUloxSFlSZWp0bklBUDF0NnMtRVJVaFRPMldaVEhhU0Nr?oc=5"
-        },
-        {
-            "title": "爬百岳明年要收費！《國家公園法》啟動修法 打破免費入園常態",
-            "link": "https://news.google.com/rss/articles/CBMigwNBVV95cUxPTVB2RmYzRGVnamV2Q1lwWThyM0hUQklSVEZzMFAza3ZWRzdxMTdaenpVb2dwMXZ6WTItaE9mbjFmMFV0Qmtob2pobUVnbDF2YnBrclRQVThIYnJmZTZSYWZoZHduSm1WaF8wcWhnT2hTdFZnMmxBbFdZTVNuX2JybFY4WEwyaXNwQmhHdlRqY0t4emlHMURBWTVYcWZnQmVsMkRweWR2ZUR6UVFFWU01b09Udi1rNk1oREFrN1Z4Q0ZLc0NMdkRVbzYtc2V6dEFPVndPalpZQW9EMG9VYmE0LWJ5bFVSQ0ltV2hSS3lwR1YxSGxYRDlHR18yZFZXcWF5MTl0cDZZVkpyNnVnWUVDQWY0R3dqXzNEOHBIbGpZYm1Tb282bDNpQ1R3TUVWYXE1S3dFdWlRc1dGSWI2Yko0VHZsVUlVaFd4S3RJcDFYcnA2RU1CaGNTSmlKc3Z6cjZlWkxVMVFwbW1KNzNmbW90aVdCN2JTVjk4U21yRkV5cDRXaEk?oc=5"
+            "title": "翻蔣經國日記驚見蔣萬安身世之謎？蔣友青爆粗口狂炸 蔣友柏這2句疑偷臭",
+            "link": "https://news.google.com/rss/articles/CBMiywNBVV95cUxQQXFCWDRZN1N1RWhTTE52MzZXUXNnNHJubnRaNG4zbVJBOTNQQmotdEhGOEdhaWZYWVdHeC01SFlJRlE1TE50VE9YTkZLaWNFUTduMFBwT2ZVVVEzV0phdnpPT2lDcHBMQ05wV2p5aGdEcDJQby1VQU1HS1Fvd0dOMWU1NGhkb2JaWVhaX1dGd0pKWTlVaEtvLWRGQzVSN3ZXamNWNUZzUFFMSmx6SHZVU2VQN3doSzFVUjhQcTE5a1R3akVvN3B2T0JjVlBVQUkyS2tDcGUxQkt1NUxsZVNqQW45ejFaQzZ2N0VzN19qUlV3NUMwWmJsLXJseWs4eHB6NENIWXh2OHI2aUxLYkJUaVVfZEJwOG1oajZEUUpYRTJMS0JVeHVkRzlrRktnMXJvQW1kVTgzU1RWYlBVSU81UjFqSEdSMWszV2EtOWtBM3kyTTA3YUZ3a3UxbTBnYkFIeGplN2w1d0VjTWZROFBzTWlhWnZHUHNJMnE3V05ZNUNpYVVWNXEyMlctWl8xcjFaS0RGUlp0YWJEeWYwMUdfbGltcEFuQ1pnTnJjdnk3UjlJVEozc0FHX1ZsWlNkS1lEU2I3RnBOa2E0WVU?oc=5"
         }
     ]
 }
