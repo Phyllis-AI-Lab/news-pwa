@@ -1,46 +1,46 @@
 {
-    "updated_at": "2026-08-06 21:03",
-    "summary": "晚安，為您帶來今日晚間重點快報。\n\n【國際情勢】\n\n首先關注國際情勢，中國近日實施「秘密邊控」，多名旅客抵達機場才驚覺無法出境，據悉相關規範已寫進新法，引發國際高度關注。\n\n【政治焦點】\n\n國內政治方面，高檢署主任陳宏達就某議題砲轟「雞同鴨講、人民智商沒那麼低」，台南市長黃偉哲則回應為「政治站隊」。另外，總統蔡英文出任立委陳瑩競總主委，媒體人分析此舉「蠻不尋常」的背後戰略。而東發號處理蔣萬安簽名事件引發熱議，議員徐巧芯表示不認同店家做法。\n\n【財經動態】\n\n在財經方面，軍公教明年加薪幅度傳出最高可能達9.88%，「軍警待遇修正」的最新進度也已曝光。\n\n【社會民生】\n\n社會民生焦點，氣象局最新預估，颱風「白海豚」的暴風侵襲率，北北基等四縣市已突破四成，提醒民眾留意。一起重大詐騙案曝光，慈濟遭狠詐十億元，據了解是一名女律師透過「下跪頂禮」方式博取證嚴法師信任。新北割頸案發生近三年，受害少年姓名終獲解禁公開，其父親也心碎發聲。通訊斷網演練將於八月十日中部、八月十三日北部登場，NCC預告明日下午兩點半將發布全台「預告訊息」。此外，中聯油下架會議紀錄引發的食用油爭議，「C專家」發聲指出，訂定20%的標準是製造問題而非解決問題。",
+    "updated_at": "2026-08-07 09:44",
+    "summary": "早安，為您帶來今日上午重點快報。\n\n【社會民生】\nBNT疫苗採購案爆發慈濟遭詐十億元，慈濟表示將全力配合調查。同時，擁有九十七萬粉絲的料理網紅「肥大叔」驚傳過世，團隊已證實。新北割頸案受害少年姓名解禁，父親心碎發聲。此外，知名經濟學者高希均教授辭世，享耆壽九十歲。\n\n【天氣與國防】\n颱風白海豚暴風侵襲率最新預估出爐，北北基等六縣市突破四成，民眾需提高警覺。在國防方面，漢光演習在淡江大橋首次封橋，進行阻絕演練。今日下午，國家級演習預告將發送手機簡訊，部分地區網路可能降速。\n\n【政治焦點】\n台中市長盧秀燕因致癌油言論，遭台南市長黃偉哲「兩問題」狠打臉。衛福部次長石崇良因中聯油列席爭議被批說謊，衛福部澄清依紀錄答詢，非刻意隱匿。\n\n【國際情勢】\n國際間達成妥協，伊朗將掌控荷姆茲海峽駛入權。",
     "news": [
         {
-            "title": "颱風白海豚暴風侵襲率最新預估 北北基等四縣市突破四成",
-            "link": "https://news.google.com/rss/articles/CBMigANBVV95cUxPNWUwZUtGem9TSl9FTW1zeGZtR2doZEZQN0Z0VlZzME02bkZDVEd5RnZBV0xNbWVsX1pidERkTHpZel9NeE5rTlpjeGdtUGdwa3prMDR0Qk5JTFpDMmpJbTFRbzJTSWM2bV9BSk96VGtQMUJibURPcmhqYkg4OVAwLVAyOXJzbDUtNy1QcW9zdXdDeUV0NHA2VmlYOUtMUm1EQmFtYmR6MFhlOXhBRkpnXzlOcEQtUVpWaFhTc1duaExaTklYNlBjMW9oUTc5dEFDcXlBUW9aMmo4bE9ud09qb2pYYUxPQ0ZCbUQyWVpYcHFaZXZSSEYyWjAwemlUWS1JczlwdE1GVXpIaUJUR25rRXBGYXEzRHREdzlqV0QweGstc182b01pbWVUb2xwejI5LUUwNHV5ak1XbFFPQWFyRTRJZXZHZUVsRW1XeEt1blpXbTdkeVR5WmhfSFM1M18zMXozSi0tSVF2UXFpQjhYdGx1cno0N3dmVG1LVkRWUVg?oc=5"
+            "title": "颱風白海豚暴風侵襲率最新預估 北北基等六縣市突破四成",
+            "link": "https://news.google.com/rss/articles/CBMigANBVV95cUxPdmVJUlE2TkpIb2xhV0ladUNFdXptYTlOUThqNklCTUpORE51OXpwX3VNRmotVWFaMEpMcXBGRmZybXI3YkNZMUFMZE54eU5oUmtINk00U0dTNHUzN0JYMEVpZXV5VEYwUDlGTWNBOGdyWVhIczJsMjY1bmRxU0dUUHVQQTZMdTBydHQ3N3k0WThEUzFNNGxNX0N0RVYtdjE2NUJZYWRTQkp3c2pnTFduaHFxdmNrRnJ3TlRKM2RSS3JGcTJtYWJvUDdNMmVkblU0WmlfZlg3ei1BNEdVNGI3Y0NyMFdjRzR3NlpWRTcxbXBXVHRIVG0tZmxzWTNiY3JsMlBTenJBN25XTXdod2VVX29JVXBYZjk0aktBSEs0MHpPVXRjNllTMlBKd1VONEZTSHh0bC1WcjRuYmdMMi1SRE56U1JHV1YtMENWTGkzSENEYTRLZmVtUFIyelJfX1VVY2M3aTlmWDFRVGNNMVRKdjgzM2NKWVBGbzhGUW8tVkI?oc=5"
         },
         {
-            "title": "慈濟遭狠詐10億！女律師見證嚴「下跪頂禮」博信任",
-            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1pZ1VGSnhjUUdwWjJpeHRTY004bjY0T0V6bGVOY0YteUpVRU1yMkVVWm1ja1ByYUx2RnFZUVBlc3ctaUxfLTdhaUNuTnVYMEx5M1Qw0gFYQVVfeXFMTWRvQi1tUEJmc3N4c1ZjUTVqd1ZkZWgxakczSzR1WlVvaVJCd1RrWkE4aUhHUmgtSDV5aDk5ajZXcHVxZGRINVZreTFrTlExMDVPWFl4TUhzLQ?oc=5"
+            "title": "BNT疫苗採購遭詐10億元慈濟：全力配合調查| 社會",
+            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBUckR4bFJMUG5wZUtiQk1kZTFUUFp5OXM0Um5vbWtVYWlMaGFyMEZyb3RIcS1hVWpzTUxLYnkyd1RUSk92cnVReS1FQXpwaFhyMEhuUk5HVXoyVWdWTkJ3?oc=5"
         },
         {
-            "title": "到機場才知出不去！中國「秘密邊控」寫進鎖國新法- 國際",
-            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9jWGxyaU9qWG1uZVM2X2tKd3pVZlMzQzh2S1hCbV9UbmhuUFczLVB3WEJDYzZhemRKNERRZl8yajVJNkZXYURrT1R1cjE5WkoxWnJGSlJSUTB5TVNIMXR5dFVKVHBiZw?oc=5"
+            "title": "才公告停播一周...97萬粉料理網紅「肥大叔」驚傳過世團隊證實了- 生活",
+            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBaTjFsY05PM0hELXZhaWkzNUVtYUt5Z0pKdVR6RkZlUFlNbVN5VzBOeVlCWkNfS2FlcjQ2VWpENEh5Yld4eElHQTNpZUNpSmNTNDdhdzd2alBTQVFlSEJtM0FnWVhHZjlHWFFyN013?oc=5"
         },
         {
-            "title": "高檢署主任陳宏達轟「雞同鴨講、人民智商沒那麼低」　黃偉哲：政治站隊",
-            "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBiVmtIZzBUWlNrVTgxSk8tQVN6dmhqZ0t3SEFnTDlpMVBTQWFFOHZDeUxlRnJpNHc5d3hfOFpMb1V2NWFxU2pkNdIBTEFVX3lxTE51bk5GZmplNGQ3dGJKQU1penZ3YTZfSjMtbk1YcGQyNDJmeHB0QlpZQndUUW9fcDNraHhoVkZBVHZkY0J3UEpOUENQTzU?oc=5"
+            "title": "各國妥協！伊朗將掌控荷姆茲海峽駛入權- 國際",
+            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4xcGFRSk10Z0JQZmxjUFpfUzNndDgtcjFQNmpVV2swSlRUYUhkWkNBd1otNkRsYWJDTmQ0YlJmY0gwaEFHcDlfQ1NjTXRyR0ZQWlJzUnNnMXM1WEVIczNYVTFMVGRMdw?oc=5"
+        },
+        {
+            "title": "快訊》書生報國典範 經濟學者高希均辭世 享耆壽90歲",
+            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBTa3VaYmZlRVBsNzY1Nmk4V0FQQ3dtUkNmVmNLZXdpZWNmdllFR2FDTnNvVGN0cnpucml5UDlXdUdNQmdna2FRWHl2RjZSRndpeW16cHRsenltY1ViUjBTbW43YjZMOHBBWGdla0R3?oc=5"
         },
         {
             "title": "新北割頸案近3年！受害少年姓名解禁公開 父心碎發聲",
             "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1fLWRJbzVCX0lUSVJlNjY5c3BNQXBJa2ppWjlBcTNFNTE4VTVsV1hRbVdwRzQtQ2cxOVNmUi0zZG5IMHI3S2hYOVVBanQ1bWxYR2Zzc1RB?oc=5"
         },
         {
-            "title": "行動斷網8/10中部、8/13北部登場 NCC：明14:30全台發「預告訊息」",
-            "link": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxOR2NXOERDUmpXS1daQWZkOG9FTkd1N1NGTTVMaU9Ia1o0dVVxZUdjdEV3MnozLWJUdy1xcDlqS2hSSk4zd3RIMTVnZzJaU3JBYnlTSGJXZk5FNTVJakhIaHpDU2NNdHA5UTVfWjJiaE1ydktCMmswU1RLRVBBMWpqbmkxOFlkakhEbTJYZGxDWXBvejZfVFN2QWFodEV3THRxS3RyLVdqenV4SkVMWjVqN2Z1d21kOUY5TWR0anZYTk90Wmx6emxHdlI0MlhuOEJZc0w2NVVaVjVjRklraXQ4TnZuUUNkTENJQThYcE1TSmVrVUtIRURia1FITFZBWUQycmtILXh0MG5xVlZVRXV5M2RtQ1lvanY2cGNvVDRUaUJYNDEyTzRQZHVyM3FIN1p4elhWbWFMYXJMQzgyeDk4RkhLQ2t2R1hDZWdiUVI0Wm11YW5Vd3JFaFBNcklDSEpGVnI2ZUo4WXVHd1hoZmc?oc=5"
+            "title": "盧秀燕甩鍋致癌油還扯台南　黃偉哲「2問題」狠打臉：我要通報什麼？",
+            "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE02eUhpR1FzS0hXZ0ZnRjcyNFAxa21ZakNZTWtXVHVTMmNKdWhoS18td25KYmtUNVNXdFZSMDZZa004TkI2czlYdNIBTEFVX3lxTFBONlJEc0EybDV5Z21tVmEwQlEzVEJEbXBYNUxoQ1YxT0FDRXZmR3BmTGI0MzN6R2hHY3ROSDZ4d3hkOGhPSGdfV1ZyTFE?oc=5"
         },
         {
-            "title": "中聯油下架會議紀錄「C專家」說話了！訂20%是製造問題非解決問題| 食用油爆致癌物| 生活",
-            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5yUFdrUjhrbkJ2Si05SzlPRnlndDloNDdGNDJkXzFkSnpOQ0YwSk1xancxYkhVeVBnb1JkbXpUaXFqNVpydXdZTk40ODlPN242dHY0?oc=5"
+            "title": "淡江大橋首次封橋！漢光演習阻絕演練 工兵設置三道防線模擬阻敵",
+            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1rNHNpc0tSX0NTQUZzcThoVUIwTDdsUF8zNmp4dU1DQUxxWXljWkY4dFl4YW9ZS0UxUjYxZzREd2hvYVoxb1BfZ0N3cTRHQ1JZSUHSAVdBVV95cUxOaG5IRVQ1UERfemxXdVhNMi16TGs5dk9paFNUYXRTa2dWRi1FbnJSNjl0SmpnbUljYzl2a3VyU2FOa09NdThxOUxsbEtIRDNLVWFYMlVnQ3c?oc=5"
         },
         {
-            "title": "東發號「蓋牌」蔣萬安簽名遭出征 徐巧芯：我不認同店家",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5yNlJYSjRlRDZEVmM4Uk8zZnB4U3lBSlBMTEsycGpPYkV4WWdOTEVMNW80Xzl4czJ5MHhxNWR4b0pMTnZhZXF5TG1la2g1TV9rV2ltVTVHSk5WeE0?oc=5"
+            "title": "中聯油全程列席...... 石崇良挨批說謊衛福部：依紀錄答詢、非刻意隱匿- 生活",
+            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5qanh3a3hpOGl6TFlrakxtbFB5VEZ5LUlKRzhzYm9acmtid3h1TmdyTXZOaXdTYWVrcDdlVFg3bkJ2ZUEzSG42bHVHeFRTYThwa1YybThrV1hybndWRWVYN2JydEo?oc=5"
         },
         {
-            "title": "蔡英文任陳瑩競總主委媒體人曝背後戰略：還蠻不尋常- 政治",
-            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAwdzRWdHd2Wkw3M3RWWnFTU3JOS0VnWGZlVjk0RERER19FUUMzblJHUlFYRHFpYzJnaVZoSXYxaHBSc2JnZVNObXpLX1A5clhGdVdOaTVodGo5YmN5cnlaRE5LazhkZEJBWkJDSjB3?oc=5"
-        },
-        {
-            "title": "軍公教明年加薪幅度最高9.88% 「軍警待遇修正」最新進度曝光 | 劉庭宇 | 新聞",
-            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE44X2NQSUp3dkZMUHIxOUZqcDlYdmV0RDQydEtlTk1zejA4THZvSnhtMVZ0dVFMYmEwNVVENWtjdzZXbkxabVRCaE1zNnpMdw?oc=5"
+            "title": "今下午手機響！演習預告發送「網路降速」　6注意事項一次看",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE54SXNqdGhKWjVjYldwQ0M3TUZXUVB2VVktUk5wUFhxNl9kSGRlLTlJQW1PNmdVcUhVeDNJbk1uZXNad0ZKcnQ2YWRETGZ1em9wYXc1YmdfVkF2d19LSXfSAUtBVV95cUxObTBOV0hDUUJjUzZ1WTI0TG8xaFJvbG5OZ0RyUTBqejQ5V1FhNnc5QXdheld2R1djM1JENmhGdFhoMDhVcDVLUVd6VTg?oc=5"
         }
     ]
 }
