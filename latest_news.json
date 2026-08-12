@@ -1,46 +1,46 @@
 {
-    "updated_at": "2026-08-12 08:00",
-    "summary": "早安，為您帶來今日上午重點快報。\n\n【政治焦點】\n今日政治焦點，國民黨立院總召傅崐萁，因缺席預算協商引發關注，他回應此舉是為軟性抗議行政權漠視國會。同時，慈濟疫苗詐騙案的起訴書也驚現其名，引發政壇議論。此外，台北市政府發言人一職由魏汶萱接任。外交方面，一個獨立不到兩年的國家宣布與我國建交，其總理更親自揭示了堅定挺台的理由。陳永興也自爆總統曾認為他不會被通過。\n\n【國際情勢】\n國際情勢方面，南美洲哥倫比亞發生規模高達7.4的強震，強烈搖晃不僅撼動該國，更影響拉美多國，各地官員正陸續通報最新災情。\n\n【財經動態】\n財經訊息，宏碁高層驚爆不倫醜聞，傳營運長與美女總監有不正當關係，公司已迅速對此事件做出官方回應。\n\n【社會民生】\n社會民生方面，漢光演習的伙食意外爆紅，豐盛的野戰雙主菜照片引發熱議，甚至有官兵笑稱願為此再簽三年。不過，民進黨立委沈伯洋提出「捷運站洗澡」以省時間的構想，卻遭到粉專與網友狂列三大漏洞質質疑。另外，台北車站的標誌性黑白格大廳即將走入歷史，新的商場藍圖曝光，將帶來四大亮點。",
+    "updated_at": "2026-08-12 12:19",
+    "summary": "午安，為您帶來今日午間重點快報。\n\n政治焦點\n立法院長韓國瑜暗指傅崐萁為「控制立法院的黑暗力量」，傅崐萁則回應軟性訴求已達。政治焦點還包括，徐春鶯恐遭驅逐出境，以及陳永興自爆總統認為他不會獲通過的爭議。\n\n社會民生\n今日天氣受西南風影響，全台午後將變天炸雨，大雷雨續炸多縣市，南卡颱風也預計生成。台中傳出行車糾紛濺血致死案，家屬還原事前遭逼車。神鬼律師詐慈濟案，意外揭露內部疑雲。漢光演習伙食因野戰雙主菜爆紅。海巡則傳疏失，兩名陸男偷渡上岸玩了六天。東部城鎮韌性演習本週登場，請留意台鐵公車營運資訊。",
     "news": [
         {
-            "title": "缺席預算協商...傅崐萁回應了 溫情喊話韓國瑜：軟性抗議行政權漠視國會",
-            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9TVWFTbFh2TmVtUGNmYWVTbkVyU2RDeHc2azUya3N5eWg2UWZab3ZESktZVkozWXQxNGE2M00tR2E5SGxQSW54NExkLW5jcDVl0gFWQVVfeXFMUGVCR0FoRDRGSDJDUjJzajRCMjhOd3hUXzhtUmVybWJDU3oyLVRrWW9QWUUyeGVLSkRfS0l6ZGZOdVdlYm91UXZycTlaaEdJOEFhbHhRUEE?oc=5"
+            "title": "快訊／韓國瑜發飆暗指傅崐萁「控制立法院的黑暗力量」？傅崐萁最新回應：我的軟性訴求已達",
+            "link": "https://news.google.com/rss/articles/CBMi3ARBVV95cUxOZ09DR09ITVFPS2gwTnJzb1NYV21jWkxVMW1LOGNWT0RpTG5LaUpSUzhlTVZrSHAtcG9GZENySVNuWTU4S0t6MWVocWduNmJzUDY2VHBOLXVmblphNzhSa1RneTd0TnFFN0FneFZ4UlZINXlXX0R4cXhXM0oxZWxyYzRULURfR1d2SXBEM19oODB4OFlYNzZmWTJ4VWZJYjUtSW0zbHJ1NkxxQ0hycjZQRzc5ZTQ4M2NVN1JzMnRVR1lNSWZkVV9OVlJNNnJFX09IdWR4YTNheWc2YmxiZF9BeWQ4cFppZm1iUXZvNi1FMlgyVkd2ZXRpNWRpcGx6VE5qQWtfRGJ1U1R5SkdPajlYbDJJVjQzWGg5cHdHNFFidk80aUY4QlRuU0FWZUxBaFdZVzc1S25Tc1NIaVdnTGFfdXFqbFhqeklLMWxLZ2s3YTZmTzBLY2RiSl9CREN0dFNPOGVyRnFUVjVmLXF1MEVMdFhKWHdFVG85T2h3TTRhTnJ0TWh5a2VzTVN1OVZKLTlrZFpkdl9ZbFN2ZEtmSlpEVk5TQTBFeXFaYjY2TV96WTBjbEhLX05wRHA3TEEzNURpZFo0VFdPV3AxWVpKYXU2SzFFc3laei0wWW9LQzRhZFBvaWFubFI4UHk0c2otVXFiYnVSLVY0MWtSSWhvWERRd1VXTHFITm5OZi1HblJtYkZwQ05lVFNiV1JFZEpJcHcyTEVZQ1ZMd0h1dW5hRG9BM09GWGc5RHhCWDY2LWh3NU53MFRrU1RnYzVBMTRxMjlEdG1RRXh5MXZ4YlJh?oc=5"
         },
         {
-            "title": "宏碁高層驚爆不倫！傳營運長偷吃美女總監「上摩鐵」 公司回應了- 財經",
-            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1BQXhUMFZURHN3Q3RzdUp3OHpZalVQTGhnS3JCM1lKek8xU1pkWHd2LWR5YXRUVVVXZzQ0NHl4d29ZUkpFYndGakIxdERwMmM2V0RHem15RklZaHc0NVU1YmcyWDk5cHR5ZDNrcTd3?oc=5"
+            "title": "快訊／大雷雨續炸2縣市！慎防雷擊、強陣風",
+            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5fbG0zYThIUUJnLUN0bWtrdkxuYS1vTGZWV0RUQmxkQjJVYVZmb1FUblhRb1lxYloxRlZRRVRBUm9SeUVycnZkeVlnWFFTZmxnUFYzSg?oc=5"
         },
         {
-            "title": "昔為護男友槓邱議瑩 魏汶萱升任北市發言人",
-            "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxQc0sxeEthcksxLU1qNkxJOU1LZDR3MFJXSVdzcnZwNW1XQ2VJVjF1YVM4RDNObGVzTUczWnJUemtNUUM2dkstZDB1bzFEZFRfWDNoTXpMSTNuSmVaOEVTQkJQRUVtV0ZZa3hJX05LdHRJRkR0dHg4dmRDWW1aVm9kNk5oVEhZNDcwZFdRbFQ2VTEzX1FXV0RZVXZrRWVHbjduS3dmYTQwNUNybUZmTERCM1pJRE83NGFMMnpsYUVxdGZvSmUxX2p6QXd5dGk4TjFOT1VDdG5jM2FGTnVKZWFHaElNaEJ0aG40VUFqYmxWcXp5dVBmRFpBM2JTblFsRXNObklCOXlVNm9mZy1DUG80eVQtUkh2cVFMWGZ6UW03U3dOeFg3Ql8xQ29JMnh6aXRqNFNvUExhWFo?oc=5"
+            "title": "台中行車糾紛濺血！阿伯遭打趴亡 家屬還原事發經過：事前遭逼車",
+            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBhZXctQVNMdGRpeFU0V1NJRzRmNk81aEw2U3EwMTBNaVoxQVJNTUNfc2M4X0tBdnI3S1lhRDR5X09vS1g3alVzSk15NXVrRUpZ0gFWQVVfeXFMTlRqZjZXUWM3MTQwcmt1algwbXE5SEl0TnlkVEZ3TjFnbFA3VXQtbkdtcElIb1pCeG1MRU5XVGZXbFhFWmNCb1ZsUWR6MmhuR3RJTGJyVGc?oc=5"
         },
         {
-            "title": "哥倫比亞強震規模7.4撼動拉美多國官員通報災情| 國際",
-            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBCODExYk1BMjdfZHg4ZUgtQjhfSlctUnQxZ3A4MXJ2d1ZSUUdmczFCbUxsTFlBLVBMQkxVaHZHUUh2YzFKMlItRmUxelpESno3d0NYVFhVMk54TjRRUXRN?oc=5"
+            "title": "「南卡颱風」將生成路徑曝！西南風發威　午後全台變天炸雨",
+            "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB3S2tJc2ttLW92WDF6V3RMMTdNdlFzeVQ3aFBDalI0Vnl4RWNoaFBaVlJwb2xWOTg3TlNUenVKb3h5SVotUkxsTNIBTEFVX3lxTE9GUkt3UnFtdmQ1TkV0ZlQ1U3JBUVRtU0FTRktFTmdtbmx3MDJZV1llTFFXRnFOc1h1VDRyUWZfb213OXBZYnJaU291cnQ?oc=5"
+        },
+        {
+            "title": "神鬼律師詐慈濟／付十億顧問費前證嚴已預警　神鬼律師連環騙意外揭慈濟內鬼疑雲",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE85OGpmNk85VjRXWVEwSlJMOU9SWUxrSnhxelZpMGRwbTFDQmlZVmEyVVVSbG41UDRXMXV2SnBmeVpnMGJ4NDBzZFZ1Z3gtOHU3d3RwNFpNbGcyM1XSAWBBVV95cUxOeEFLN2JLUml4SjdyZ1hOZjNaNzJrODBsVnZqSm1PeGExUTRtRi1lX01jTDllNy03M3R4cUdERXBwdEFhWTlPaGNWMlF3bUJVWGpnYmVRNDE0MnhGTFgyUEU?oc=5"
         },
         {
             "title": "漢光42》這伙食願再簽3年！野戰雙主菜爆紅　他崩潰：我的怎沒蛋",
             "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBCWktUeGo0cF9JWGdvMk9yMld0YU5zV08wbnRrNE1GT2FOZWRuaHR5YW93QW5Xd0JuVHNxdlBSYWlpU3l2RUNPRmpvWEvSAVJBVV95cUxQOEpFVno0Yk1sWlh0VlBmMzg5NVY3ZWN1VzdPWG91cVQ5eFN3UW9vczNYcW5FSEkwWkJXeVdtcTBmamVkUlNfWGhBeG5EVF9QdVd3?oc=5"
         },
         {
-            "title": "沈伯洋拋「捷運站洗澡」省30分鐘？粉專狂列3大漏洞：乾脆捷運泡溫泉",
-            "link": "https://news.google.com/rss/articles/CBMilANBVV95cUxOQU1XVS1YaHYwbFZEa0YtVlI5dTA0R19BN1oxak1aT3FTcllZZ3pDUFpWakl6V3VIcE1QRGx3bVFjMzdPTVZNM0ZRQmxNMjl6OWRjMTBMR0d2TGxPazBrcTFpME8tM3dPc25IZlloMWktSUotbFdIOXNGZ0g4Q3FSMV96ZGI1Q0tkUFduYnZ2ZVFpZmZtQkstMHNlSGtiaV9WbUd2SS1hbnFUVmc1VFhxdmNHZVN2Y3hPanBoU2daSElzazc2dk5TczRwLXlOdmMzbmdmMXptQzd5RmNVU2xydkVQcUJzVGRmaVlxWEZHTDFnR1MwYW9BRXIzeUx3eGE1a0RyZHVpSDB0MUtrdXhNZUdUX2syYUxDQS1pRm1nSkNnOWJ1U2poV3p3NVdROVlpbWwtWEdZaURnX0FGVngwYkl5WnNSdFlidUxhZU5GVmFMcW91VDRDQ25oNndmcXplOXROZ2dlanJVM2syZWJ6ZzVUZ2QyREtsWl9kYmp1SjZteFJ5WHhoU05sSVhzOVVjY2dHdg?oc=5"
+            "title": "海巡疏失 2陸男偷渡上岸玩6天",
+            "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB6S2NxdFJUbmJuamhtdWFZRy1NZS00Rm5TVFJTcVdTTTFsTkhNUDRRRjlkTGdxeGxfZGNIQ2lyQVJXOTRCREZoYVE4LW9FQmhFUmx0VmZ2NUFueEh4cGJhVmJLRHVwNnRseGdJ?oc=5"
         },
         {
-            "title": "慈濟疫苗詐騙起訴書驚見傅崐萁他翻花蓮縣府官網找到詭異之處- 政治",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5UQ3Y0UjRvc1ZwbDIzODJOQVBaaTRvYV81V3dXMUF2Rk5FMGtlLVVSc3BQZWlPUHNxelo5Qzk3SGswdVBEczlaUjIzeU5JRHJlQlJMOXhuUzU1ODlvbFhETWdfcUxGaVBfZFE?oc=5"
-        },
-        {
-            "title": "中共攏絡無效！「這國」獨立不到2年就與我建交 總理親揭挺台理由",
-            "link": "https://news.google.com/rss/articles/CBMikANBVV95cUxPM3VRVnJEVThNYkc5ektsX2dHSERUaUlRRnBBdkxQQkRTMWplNFZWUlVpTWpWLTNvOWhleUR0R3RCMW9pVEx6d01HT1d1dVpxdEdUM2pKRnl1UXRYZ29BV3ZWd3lOV3Btcl9XRlNKNmk3V200QTlTOFZ3U1FkblFfODdsY3lvVlJUbmtqNlBNU0VQb1RJcjVlYmE3NDRzcy1oczNOT0dlcU80eGtGbjlfU2tIQmY2MFJPX3hNazdjRFp1THhUVFMxYkdkV1hhNFY5SUtzbDN6MVZ1eF91dFdNcjFCV19wNlhRck9pek1tSlN5cW1uUFljbFNMQ2dNV0xFWWV2S2d4WTBNbkstUEk2QmZwWlM4Z1ZmRExLZFlQbm5BTkJRV1VLNE9WRDNRMVJIbGZzTnRxY2lMUVAtVm5BM3dnZDBjbFB2aGxqV1d0U3VPZEhKM0tqblRzSHVNZ1d2czRtbGgwa19PX2VyOGh0VldqaW0xRGR2UEljQWRZSU93ZzFDTjFxNGwweWp5NG5q?oc=5"
+            "title": "徐春鶯慘了！劉世芳認將驅除出境",
+            "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxONTBXQi1WVlQzcVlGbHA4a1cwRDJ6RG8wWklCU3FsUUxCOGR1Z1lzQXlRdm53SjYxWGJkZnlob1lyVXRRWDc4a3FxNnBjTWxxV2dPNWlFVVJRMk9lZ21ZelM0SVdJN0FoY0plb0JqQ1VYaG80bHc5Z3lTb1BpZlBjT1dkTzBQb2ZRWVRsRVlGVE9xc1dxRXlxcDQ0VW10dHNiRk80UlNfcm5aZmtjaXNPSjFEZV9ZRXB4M3FOMk5rSTlVcGRFT1JicGVNV0VkcGRPZGU5Zmc5djg2US12cHNza2d1cGIxMnBYZ1ZHcVhqZ0ROOGdvSGhfQXIzUGQ?oc=5"
         },
         {
             "title": "陳永興自爆「總統認為我不會被通過」",
             "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNdGNNX2NiZ1M2S1UxMHZ4TGVPZld0ZzFLQk44QnE1WjVwYjlMMzdKU1YtQ2E5QmdMaUhtZzl3aHpnbndBaUR5SjQwa09BQUR0WGljTkhjWDgzV3hOSmtXV1RQOVYySXhzUVN0aTZKR29VWU1LTzZwTzF1Umc2RFNySEs3R3RaUjZiZzRWSHhubHFULU9VN2swMlpwenQwT1M4RVRNS0Z6ZGtOM2g3LW9vMFJXcUs4c2dXbnp6aU9HbV94UEVObjRpM1U0ZzBEVjhVaS01X0JUajRISGc5aG8ybnk0UHFsZ0tJNU9VWTdNUnN1UEc1ZXRvMERHaVRveUpuUGpRZHJpWHI?oc=5"
         },
         {
-            "title": "黑白格大廳將消失！北車商場藍圖曝 4大亮點搶先看",
-            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1CVGU2VjBCTmF4SWxFdmswNnJSU29vei1vWGVmUUlHU0NBNmV5dzdHaFFJWmstVENqZmp6RUtXT0hyNklBTnZWN1d6b05IUHRX0gFWQVVfeXFMTTVWMExzVkFjcTJtOG1KdzZlYWJMdWRJLTV5akJIRlZ5dklVNGhudHhZbDZMOGtBUVhkYkdkTFBOWUxqbGJGejN6SFZCVndFZlBfV3c0VFE?oc=5"
+            "title": "城鎮韌性演習8/12東部登場 花蓮台東台鐵公車營運情況一次看",
+            "link": "https://news.google.com/rss/articles/CBMihANBVV95cUxPSmpNMk1sUzkwMm5SaU90blE0LXpQenZ3SVhoWE9tRVdsdi1BbjM5R2JrYnFaT1FPRWhxdEs5bjdvNW9WVmo4RGpTYjBlR1liSktYQkxZVm5jWFZ0dGkwelFNdFR2YU5MYnpPN3V4bkF0TXpnSFBHWVlacnFLQWxIaEVSWV8xNlE5WkotM0p3djdRVG5FRHhRandlTkxsc0NFREpjRU5SVjJBOWdUS0JKTEpRcG1TTGxYVnBkRS12VlpqZXVqbDVuaHdnaXp5X2xyTkhLWUw1SnVxOTNRWW5WNW1QSm5KNWFab2diRGJDVGVyYWtsanZGbHNWS1Zrb0Qxem1iRElxV2lqTGp4SzBFNXgwUnZTVlNlTFBBSDYwNC1DSXM1ZFk1SzZaUzJSdUxPNUd6TUxzaDhEMHRmSkN5LU02T2d2SGtHR0lxN3F1RzlsUldMUlFkQ1FnY09ldkh3ck1oc29pRnRBd1lUOVBUMDB1NW9fUTBYcWNxRzNBT1JmMmFU?oc=5"
         }
     ]
 }
