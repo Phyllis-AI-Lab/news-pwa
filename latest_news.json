@@ -1,46 +1,46 @@
 {
-    "updated_at": "2026-08-19 11:11",
-    "summary": "早安，為您帶來今日上午重點快報\n\n【政治焦點】\n行政院長卓榮泰未副署立院三讀法案，引發國民黨團總召韓國瑜重話，強調執政權再大，都大不過憲法。監委被提名人李光章指出，若長期不副署又無正當理由，監院應調查。立院內部，翁曉玲委員與卓榮泰因薪水凍結一事隔空互嗆，翁批卓恩將仇報；陳培瑜委員則飆罵翁曉玲「中國人主席」。此外，陳幸妤重提扁案，比喻時下政治情況；楊植斗則就現金發放議題譏諷苗博雅。政府官員徐佳青將再次出國27天，表示是國安因素不便透露。\n\n【國際情勢】\n美國前總統川普今日宣布美國新增領土，此消息引發各界譁然與關注。\n\n【社會民生】\n獨家消息指出，九鵬基地清晨進行飛彈測試時，疑因失控出現「大轉彎」，最終掉落山區，周邊居民受到驚嚇。\n\n【天氣快報】\n氣象預報指出，未來四天台灣將有較大雨勢，「雨神」準備Long Stay。沙德爾颱風最快可能在今日生成，其預估路徑受到密切留意。",
+    "updated_at": "2026-08-19 16:55",
+    "summary": "午安，為您帶來今日午間重點快報。\n\n【民生氣象】\n本週天氣不穩定，台灣受低壓帶影響，中南部地區將有明顯降雨，氣象局提醒沙德爾颱風最快今天生成，預計影響時間長，請觀眾朋友留意天氣變化。\n\n【政治焦點】\n政壇話題不斷。學者分析賴清德普發一萬政策帶來的影響。韓國瑜砲轟行政院不副署法案，卓榮泰則以十六字回應。徐佳青將出國二十七天，對質疑稱涉國安不便說明。陳佩琪發文指控賴清德報復柯文哲，引發網友討論。社宅爭議，劉世芳反批藍營縣市蓋太少。\n\n【國際情勢】\n國際局勢方面。美伊談判陷入停滯，美國前總統川普在社群媒體發圖，聲稱荷莫茲海峽為「美國新領土」，引發關注。另一方面，美韓軍演第二階段也遭川普腰斬，南韓收回戰時指揮權的計畫因此受挫。\n\n【社會焦點】\n扁家子女教養基金爭議浮上檯面，兩千三百萬款項歸還問題再度被提起，陳幸妤醫師看診時傳訊表示，待趙建銘先生返國後將會處理。\n\n【文化焦點】\n文化界傳來訊息。韓國光州雙年展近期將台灣館名稱移除，引發台灣藝術組織發聲抗議，要求尊重台灣的文化主體性。",
     "news": [
-        {
-            "title": "陳幸妤：立委告訴趙建銘是阿扁點頭關他 就像柯文哲說被賴清德抓去關",
-            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5LQkNIN2NLVnFZYUR3SGtpdUZTUUhqQUstR2JMMS1FUHd6LXpNWUdhN2FJZ1dRMGpsSTRXdU95dUZpbWloeERXOUgyRkc3SWw0aUYw0gFYQVVfeXFMTTVYa3lhYWtmc0hFZFJoTjJlQjNVeWtWTU1vVXB0RmJNTnV1ZUFCRzNXUGhBSHZmN21QYndMZm9VRVJ2eUtxcVJWdU9qSDFjSjJlZHZyd2Nfdg?oc=5"
-        },
-        {
-            "title": "卓榮泰又不副署立院三讀法案 韓國瑜撂重話：執政權再大，都大不過憲法 | 鍾秉哲 | 新聞",
-            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBpWDFXX0pkbVpfenlieTU2RGFlWkdYaEVaNkIzcmhWU2ZVQTVvQU1ZbWkxZl9tNHVGSFdob1I5VmlnbUF1V1Z3VFNiWWkxUQ?oc=5"
-        },
-        {
-            "title": "獨家》九鵬基地清晨飛彈測試疑失控！「大轉彎」掉落山區 居民嚇壞",
-            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5jVGdDZkxndTVmalloX2FCQTBpRHE0MTZ4djgwV0pkOE14bE10eG1RR3V5d2NBMHpldi05LUhNZGNCOXIxZEJzUTYxT3RYbDRjdmFIYnEwQlVvdG9oa1dxVQ?oc=5"
-        },
         {
             "title": "「雨神準備long stay」這4天雨最大！沙德爾颱風最快今生成 預估路徑曝",
             "link": "https://news.google.com/rss/articles/CBMihANBVV95cUxNc0ppQlpWbjZIN2ZGSDRXbk9zTUJJdGFiRzZvU1lhbGxIMl9GeFV3Y2RKZTduQjNJS0JyVHE5dDlWZUp3N1RWaklBQ28zdHpDVEpfQTJhRlA2OGZUb0ExWkJ1Mjl2UF9McVZ6WTFBb1dPUVZjcU5Ndk5lYmpDWl9aQXZsWkZLalA4YkpXVDhtMm11NHVfTE9hN25xX1lUOFJOeHdLNUhCWUsta2NxN09XVjlRRmczTjA3N0FfZTB3bVppN3VnSjZjT1NXcEVmbmxnUEFZUkZfM2t4aGVoNVMtQU9jOG95VGdtWGNERlhLZ3B2Y2ZzMG9vNTB2ZXVsa091MDNHV0owbEVOeFdRZGxBRE1nUVRxZ3R0aXFyNmFPNEt6QXBzRFRva1JtUmlCWGF3WEhVby1rbHZPTDdmdUFtQTMxMjhLRzI1MkdCSzEybzFRTGdNMmJEb0MxVGVrRWtUMHZUbkNYWTEydmx1R2Rnd2U1dDIyQkM2QTUxem5kNVZVMlpY?oc=5"
         },
         {
-            "title": "川普宣布美國新增領土",
+            "title": "不是蔣萬安、盧秀燕！學者拆解綠營3炮口戰略：賴清德普發一萬「他」壓力最大 | 李瑋萱 | 新聞",
+            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9LU2tDMGJTdl85OU82SjNuNlFza3NWc2pHWFpRNnh6Ul9KZ2hveXhxNHA2aWVuZml3VGdHRXdGUzFyVnRZVmc0VjRpZjM0dw?oc=5"
+        },
+        {
+            "title": "韓國瑜轟政院不副署法案卓榮泰「16字」神回- 政治",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA0Q19maWpMV1F1RU84SDVBTHVZTEVBRmswY3FsU0VLOHhkZlB5dFB0Ty0yM05Nc2dJWFBlakllSkdXMDQ2VzVZNnoxZHhfeDdYa3VNSnlmUjFuLXA2RGZBM2JZbUVCYjhyb2c?oc=5"
+        },
+        {
+            "title": "2300萬孩子教育基金拒不歸還 陳幸妤看診中傳訊：趙建銘返國要處理了",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1kOHdRVEl2Y1I1UnhJWUxmbkR6STUzdFdERGIwd0FPcE81WE9ZOC0zWWtpcGZTSWdZS1RhWEt6MjdHd18xZk5Rc3dwcl9iQkoxU3pF0gFYQVVfeXFMTlpjb3FXNjBOTDRGSUdlVC1ST211Rk5XbVF0VEg4ZFc4X3pRTS15RkhrNVpBcVVfRXFkelJ2dm9DenNpYi1nSWliUEhoc3Nnek10ZTgxZGxGQQ?oc=5"
+        },
+        {
+            "title": "美伊談判停滯！川普曬圖稱荷莫茲海峽為「美國新領土」",
             "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1PcGg3NU05T2ljTTYwbmdjNzVJYWE5azQ1ZGRjQ05RUVdoRV9xcjlKQmNSWXhEcjU5YzkzZGRVaFhqYWJPTGg2YnhRNnE1YTFtMFZn?oc=5"
         },
         {
-            "title": "賴普發現金楊植斗譏苗博雅「假公道」：更佩服釋昭慧了- 政治",
-            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9tM0Z3T0FVQUtCTFIzQnppbzJ3TUhldlU3QjlKazkwOHFveUMtd2dxaEladW1iVXNXd2JhR0MwSUlhdXZzdkRISGxPb3NBVUpCMnFkdU0yenNxQ2w5N3Ria1ZZemo3NUYxYzg3LVV3?oc=5"
+            "title": "美韓軍演遭川普腰斬！取消第二階段「南韓收回兵權」受挫",
+            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9TVFFxdmdxLW1MQmE1eUlOZmJMZHhSTWp0WnJvc2hiNS1SNEx6Ul9jMkcwbWh1dnI4ZUtRMXRCVkpyaXpMSDhjYkhFV1FyTmhBLVk1UnhsRTR6bUxYNmJCbEJFM083dw?oc=5"
         },
         {
-            "title": "又要出國27天！徐佳青：國安因素無可奉告",
+            "title": "又要出國27天！徐佳青嗆：涉國安、無可奉告",
             "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQUk93UmxmYjN2Q0gyWklOS1o3VXdRTGlIVk5jODdJN0lrYkxYcEZ5VzJQT3N3UHJGQTJheTRMSUtIamsyZkltOFJyOElsVzhkUy00QkJyLUs0SnRrU2gtVDBrRzJ5UWFwSUNkald6TkhHbmJ4YkVIT1NpTVZlME1LX0dwLTZVQy1rN2NYdjZrSjU0V2dLaHVrTDZYTUpkaThCYWhfX2h1WGRsekpjR0RnTktEejN4TWMzMnZldWp1VDdDSVVNd0VjYnFVOG1hZnRpVVcxUFVQbEM5NDY5WlpPRk4yNW9iZkIzMzhNS0ZlN0M0WXJXbnEtU0wxMVVrdmZMdVRFd2FKaW8xWkZFWUhrTUpjaDZKTDRO?oc=5"
         },
         {
-            "title": "陳培瑜飆罵翁曉玲「中國人主席」 張育萌轟：翁的威權人格刻在DNA裡",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE03dG05ckpOQzVsbTh3Um5raTlQN0R0RnpGMEtfaTdHM1RlekU0ZW5HWHI5Z3BmRG5PdURaVnREdF9HQzRnSlg1Z09jM2dDU1ZoRlRJaGRtYi1QUzZka0h3ZXB4VlZ3TXR2ZlE?oc=5"
+            "title": "控賴清德懷恨在心報復柯文哲！陳佩琪發文扯陳幸妤網友傻眼- 政治",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBoYlotX3JldjVMOWRiQk5mUldiRzFUSHBFajhCbnN2aDFoZ200cDVDeGFBQWZnVWxtXzU1R2ptZDd6a3VyVW9hOGtjR3JsN05OVVozel9hMEM2M1N2YkxWVlE4bWVkMWNqa3c?oc=5"
         },
         {
-            "title": "才凍結他薪水…翁曉玲大罵「卓榮泰恩將仇報」：立院不該再委曲求全",
-            "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1MQW1LSDliYWVfdEF3MHFtczBQdW5XcFJWR2FtOV9qdmdjR2JiNVg2LUpfTGNjcjkzaW5XVTh5cDlWLW9YeTVsTNIBTEFVX3lxTFBCZllCOV9sRmxFQ2MyWGFza0h1V0VRNVpTU3FLOUtEZ1lXMnZVdmQ0V2lHQjQyejFPbFJZUUIycnMxcjk0bzZwbEdFUmE?oc=5"
+            "title": "遭質疑社宅縮水！劉世芳反嗆藍營縣市蓋太少",
+            "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxOcFJQNG45OVF5d3g4dHFQWjFHNUZtWlRjQUFmTjVOOUdPVUF1cS02aXJSTkVfbXhCSVFUd3NaNWhQR0U2LWQ5YTJkS2NxVlE2NU0zWVhrVG94QU5OaVlSWTQzOHFRODM1c2phZ2xaanVRVmZkdEd4b3FCdHl2M2RiQTR3TzhyNmhUVGZ0LWdDVk9IWFRTYkFmVnB3Y2dhSy1KRm9XOEQ0ZHpsTEtpeW9SN2tEOFllZ0NpaW1CZENHVmlhTzBUdzVWd3g4eVVydmd3OXhmS3ozWW4wLW03V2NYYXhwLU9yQlh4UGRTd0ZKSm83bE5UaXBxclF5OHZ0TV83MDhnd1BEd1pDSDMxZXJIVk9ETHVRYTZGeHVmanZmMVNfdm5TZHgyd01IV1RQV3dITUF2LTBZRFY?oc=5"
         },
         {
-            "title": "監委被提名人李光章：不副署若長期不執行又無正當理由 監院應調查",
-            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1HTThNUGMtWG9icm4tMFg0ZFhNQVpjVXpZY1VpQUcyQmtUNVdiUjVwdUJVRkxqZVVIR0UxNlM0ZE1Zb2N0R3JkeDB6UFR2Q3Rx0gFWQVVfeXFMUDNDbUJiaDBBQUZIM0pqLVcwMWdVTjE1UVp3aDBhUlRvU3lUU3UzZE9FMmlib0hzRW03bmd2VnFpbllfV0lXV0VzME9yenZoVEZoZ3ktTUE?oc=5"
+            "title": "光州雙年展抹去台灣館名稱台灣藝術組織發聲| 文化",
+            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5uemtkb0o2SEUzZGdZdGxaNmxyX25lNEFsYXRtdmxHZUJyTVNaVUV4TnlMSkVKYXlZOVZlN1FpaERzUjZseEFob1Y4a1hhTkxOWnpMaERHTmhMcjBhTnpZ?oc=5"
         }
     ]
 }
