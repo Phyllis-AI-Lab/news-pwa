@@ -1,46 +1,46 @@
 {
-    "updated_at": "2026-08-21 19:42",
-    "summary": "晚安，為您帶來今日晚間重點快報。\n\n政治焦點\n立法院今日藍白聯手逕付二讀，嚴詞譴責行政院長卓榮泰七次未副署相關法案涉嫌違法濫權。此外，國務機要費全數刪凍，引發弱勢中秋月餅受影響的爭議，賴士葆表示願認購。在經濟政策上，傅崐萁再次提出普發三萬元現金，王鴻薇則建議可透過特別條例來尋求解決方案。同時，白營小雞也傳出對蔣萬安站台方式的不滿聲音。\n\n社會民生\n受到豪大雨影響，水利署已對多處發布二級淹水警戒，提醒民眾提高警覺。在司法方面，備受關注的立委涉貪案二審宣判，陳超明與徐永明改判無罪，而蘇震清與廖國棟仍被判刑。另外，有業者因機車遭查扣，創辦人強硬表示將「不停地送，送到統一為止」。政府也宣布，2026年國旅補助將於九月一日起上路，提供詳細的申請與獎助資訊。\n\n國際情勢\n根據華爾街日報報導，台灣國防預算首度突破兆元，此舉被解讀為向華府與北京釋出關鍵訊號。",
+    "updated_at": "2026-08-22 07:38",
+    "summary": "早安，為您帶來今日上午重點快報。\n\n天氣快報\n\n今日起全台嚴防豪大雨，專家點出降雨熱區與顯著時段，提醒民眾留意可能出現的閃電雷暴及強風。\n\n社會民生\n\n台南安南區凌晨發生火災，造成三名消防員及十一名民眾受傷，多輛消防車毀損。高雄另有民宅火警，一名25歲男子為逃生跳樓，不幸罹難。名人動態，陳幸妤疑違反保密協議，教授分析趙建銘恐要求上億賠償。\n\n政治焦點\n\n阿提哈德航空廣播提及「中國台灣」後，總公司已致函我國民航局表達歉意。國內政情，有民調顯示藍營在執政逾二十年的縣市面臨翻盤危機，引發參選人急切回應。台北翡翠水庫管理局長林裕益因疑涉犯法，蔣萬安市長下令免職查辦。此外，立委游淑貞揭露有「香港」帳號在Threads發文澄清後隨即刪除，引發境外介選疑慮。國防方面，台灣國防預算首度突破兆元，華爾街日報認為此舉是向華府與北京釋放重要訊號。",
     "news": [
         {
-            "title": "豪大雨襲台！水利署急發二級淹水警戒 範圍曝光",
-            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1pQlh6WUNwQ09UeVNNMTc4R0lHRjV5SU41aFpUMG1oY1pMUkNZM2sxT2RKUlVpRkctQTVQbUhLNTFGZ1pIdmw0YUotYVJpY3dnLTBSRw?oc=5"
+            "title": "今起全台慎防豪大雨！專家曝降雨熱區和最顯著時間點 恐閃電雷暴強風",
+            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1JQlV0MXRIS2pEYWJiMlFfdlY2dkJZWmdjZEpBNEc1YWRodUsweXZKWlpQM010R1l0ejI5dGdsQTVVU3JyM0oyVjZWaTBsRjVX0gFWQVVfeXFMTUwyY2RzRzVROE92c21KN0N5b0NhdWZuRnRWY0JIOFh3TkJ5TFk2OUpZS2xmMGZPdGxMUFVCVjR5U3NXdU5BWjNoczFiTmU4d3VzNGpHTFE?oc=5"
         },
         {
-            "title": "立委涉貪案二審陳超明徐永明改判無罪蘇震清廖國棟仍判刑| 社會",
-            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE80MC1ncnY2OFFybXpPY0lzOE1obExCQUtDWkJxc3E0RDVQa1A3c3hwdDdGWUN5VlR4bDVlNEdSZXQwRFNRQ212SERwOXp5N3huc003OHNwVVktWnFrUXFB?oc=5"
+            "title": "台南安南區凌晨火災驚爆！3消防、11民眾受傷 多輛消防車燒毀",
+            "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxOdXUxM0xLbVU3YS1USGRoWHgxY250T0JrTTQ2UDBzSF85M3NTNHBjemUwSHRabm9zdWx1N18xdFpQc1JWMmZaTS02cW8zb2lzWlFCV0JjOFdZY3V3ZlZ0YmpvRjFrM2NKMDRtUjN4QTVFYWtnSGVuOEZ6ZXFVOVdSdWdnTmpBRklwd1ZmLTNkRTVvYng5azBFV2FLYXJzalFRckk5YWUyMUVRd3l6Mzk5Q21EczBlWHlfSENJQVhIVkJrcnhCdHVVaVY5X0RFVHBqVkRGSUQtazlRYkxaWDEwZDZlS2lDZWlwdGFxS1ZLLVl2STVpRXhNaVFPeS1JLXY5VjROcWJ4bDlsS3JXcGlxWlNRdWt5OTFuVUdOZU9CRWFTcV9tVC1vVUc1eEpaUUlScG9VVWFvRkg3TDZrbFc4aEhvTmhRajlzZUpmMEhuV0cxeHlwSEE?oc=5"
         },
         {
-            "title": "張雪機車遭查扣 創辦人：不停地送，送到統一為止",
-            "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxPclduMkQ0ZmNxcUtBd19Lb0JUMGxZeWtiQVhLV3d6aXNJbTZaM1JfcmU3aXphZlFDZlBFNW54RDNmUk5iUG9ZNTFfeVVKVzhTNS1UTXI5YzhuMkJhN0FsUjZwUDhGbjFmNks0MnpiTDI5NWc2YTlqRllYelQtQ3pxbUlIQ0tVOGpHMXR6SmRHU3ExY0cwSjdRUW1IYjNsUjJxM3Vab2JyREI1alVuQ29pbDNyZ2lCR3hZV016WFhoTmpiQ29PdlM2RndDV1V5UFVDbzVPbGFnTk1aMmEyWnJ6MThYQUMwOXRaSU9TM2tJLXVwbllEZlZPOVBGSnhSMUZSYnBZT1VqMTR6Tks0Y0Ezdm5UV01wak1zY3lEUkRvZVQyVGtkSF8yZ3FXSHZuY3Z1ZV9wdHAtdzVLVkdY?oc=5"
+            "title": "阿提哈德航空廣播「中國台灣」 總公司致函民航局道歉了- 政治",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9DSTI4aDNjLVRUWHpOUmJlTm5BQ3ZmSENmeU1YZ29MTWx0Tk5zWWtrTlh1RDE5ZTV6SmJOX3d4WHM5TkFDUlZNZEhmQ1V2cmRKeWI0LUJqRmYzTTAwOGFtcHlSZl90S0V1alE?oc=5"
         },
         {
-            "title": "陳幸妤毀滅式爆料趙建銘 女醫猜保密條款：說出來男方生意都不用做",
-            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAtRTh1TW8yeXh6ZU1ydm1uSUh2cjZoZ2FyMjM5WHVUNGVxWTUyQlh2bkZleUdzQUtHaGwwM0x2SWNWTWVITjdUMEdZbWxtVjF2SXhN0gFYQVVfeXFMUGhwLUdyNnR6REM0aUpmWVNXdmZDVlZxVVFLOWt1c1pxeERCb2k1THdKdjBUb1BQdzZhTE9ZRFpfaURQOEd6RmZlbEl2Nlk3dzkxODJEYk5jSw?oc=5"
+            "title": "快訊／高雄民宅陷火海！25歲男急跳4樓逃生「倒血泊」亡",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9IU2dDNXBBdkVxcHhaS21nZjhNUjJpY3h0Ykg3TG5YbkRqdWxyU18yVE1tQUh6eXlqaWo2THBlMW5tejJyZlJtdEMydEl6RjVfU3VqRWRB?oc=5"
         },
         {
-            "title": "2026年國旅補助9/1上路 申請方式、獎助內容一次看",
-            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9naVNDcHR6Y1ZkckhWTmR0WGZPS1ozc0J4eTJYYUFVcVd0NjVSZzE0MThRYzA5VGhYdmQ2bk5WOHBFY29wQm1TUHhUZllyQ1E?oc=5"
+            "title": "陳幸妤違反保密協議？教授3點分析「趙建銘恐要她賠1億」：真不留情面會爆更多料| 李瑋萱 | 新聞",
+            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBsZ0lRVElPRkpPbE80Rmh2Wk84azFubm02MHlOaXJsNjZZR0JHNkhCdTZXRE5uOFJHaUJkb3l6V2FxTGtHdUpqOWFQMmluQQ?oc=5"
         },
         {
-            "title": "同意全數刪凍國務機要費…害慘弱勢中秋月餅！賴士葆喊：我認購沒問題",
-            "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1fd21yTnE0MjlrZTNRWnpxWVdzczhYc3ZGaUVrNDdnYW8zSGd3bnJfWFNqZXZ5cVYwYmF6SlBGZlVKTUp1bVNqb9IBTEFVX3lxTE5KSVF2SEhyNl9NcnJTY1B6aWdGdTJYNXowZnE5Qi1hM1JOMF94NnEyYVVVeTF0cWFfSXBWOGE0VzhqZFlkeGdlOUE2Tlc?oc=5"
+            "title": "快新聞／藍營被「這民調」嚇慘了！執政逾20年縣市驚傳快翻盤 參選人急回應",
+            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5OMFJmeERNczhoSXAydlU0V2I0UUZRNG1mSHBVZHh2TGttSzctX3Z4VG5aRDV6MnhRQTN5Ym01NDlIM3Itb2Ruak44Tm15N1hXQ05adjdRdkpxRjlWOXp5Yw?oc=5"
         },
         {
-            "title": "傅崐萁加碼衝普發3萬元 王鴻薇提特別條例當解方",
-            "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxOUWpoU1Nwam96RE9HWjhfNmZUamJvb0RKa1dCeVB1MmZfTEhUYzMxaF9oU2F2ejVwcGVnLS1rRHRGYTBMRkpQTEg4U2txcnlxU1ZuM1BMSEdSNmQ3MVdDSW83NGZXeFpSeG4tUG9ubVpTTWVqa0Zxd29yWUQ3UG1IZXZ1RDZYaGxhT3Awc0MyeHdmbWk1NG0xc0Mwamx5TmxPYWhLNUFjbWgyVnRPWnJIN3I2cksxcjVfZnZfVDRIYUZHRi1QcVhwMW9OaEdmNXdhT3ZXQVhINWNWX2gtVW5Va1ctVUpoa0lHTUxxbjRDZmZCOFloNGdEVnhTOG43NkNuMGlsdlRzU3g0Y1pXVVI4Y29oTW1HbG94SGZ3SEVqcnNWbC1OcmswT0tGVFk0ZlZsc2oyNjd3U0NWVGFxSlBSM0pNV296MExObzlrRHZKOEpUUQ?oc=5"
+            "title": "台北翡翠水庫管理局長林裕益疑涉犯法 蔣萬安下令免職查辦",
+            "link": "https://news.google.com/rss/articles/CBMijANBVV95cUxQdTFfUFdnUHJWbGlVTmFQSm5qNDdPR284azUzV3hsaXFFTnhFMmc4bGZnVllXMGtLWGUxaGcwQUxiS3VJN2lUel9HRlhDTTlZX0drSnp5NEpsQWNNbmRCRTVzdER0YU1NMHVwY3RxdHgtdGlweVp6UldLdTZ0dVRBWlNEaU9VUmRiVXdHeVhfMG02Wlo3aUpxUkRDQXE5NkhrVDZZRVBfQVI4cm9ieVFCY2JzY1M3cmtwSUduYk9DNTNBNXFiRkxmZ21DVlF0RmRpV3pab0llaEpNUzNxSG5HYXpXbTRZaEVta1hQMldHSV9OcDhKT1MtbWdVTENLd2QyYzBiNkFYMUZVTW52QWROVWd3TkhwLXRzQ0k5dHJBSHpqdklkUmJudDdGRnJtckJfS1ZnLTVnX250TVF5Q3NGUjh1R2kzZFNSMnk3a09BRVJhOGk0WDItMjZidW9GX2doa2ZvN0JwQlFFdWJJVVBUcmNrdDM4Nk1Yb2VFU3VjUVZndTBuX1Z4SmdDTEk?oc=5"
         },
         {
-            "title": "七次不副署！立院藍白聯手逕付二讀譴責卓揆違法濫權",
-            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE81bDJvcmNmekdXS0xQamlENzk5QXhvaVh2cUM0NjdxMnptWUFjU25VYmpIeUI0eHZiSFBWdHk2R05BN0hfYm9pczdBc2x2bGZW0gFWQVVfeXFMTmNLVGZDMGpqSFNDZ0JWYUI4MjhMZ3dkMUk5dml1QUFwRElNaW1Ca0lQdW5aZVFZc2wxSUQwLUYyQmNMck1Xdm4xekFGVXpJUV9IQTZncXc?oc=5"
+            "title": "境外介選？游淑貞Threads驚爆「香港」帳號發完澄清聲明就刪了網直呼太巧合- 政治",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE80S0UzLS1YM0VQZzZHNzFLQVlkZmxWcU5wZ2xMZ204MVhrVFZDY1V6TXljS05nb3N3dW13M0VSQmpFVEpTdGpWazFsVW5uSlhyWTgyN3FBWWkwUEluYW1MWTBRYVl3SGlRZ1E?oc=5"
         },
         {
             "title": "台灣國防預算首度破兆華爾街日報：向華府北京釋訊號| 政治",
             "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1LSl9RVEViNzNlU0VsVEFNTEY1MEFEaVllZFF1cE1ReVQ0cWg4S19rV3cyZ2pnX3BmbjBjdTFXRW1EaFNiTUlUc1lRZEI4dlVKaVd5QWRFdmxCMmg3c3lB?oc=5"
         },
         {
-            "title": "白營小雞不滿蔣萬安站台施捨喊乾脆不要 戴錫欽急滅火：重視所以開誠布公",
-            "link": "https://news.google.com/rss/articles/CBMi1gNBVV95cUxPdXhjc3JScjRKeUoyUUtUZDRnVEVMUlhZeEtOZTN6aFhhRkdOaXhyNVFEZXpLalJ3VkFKSHhDRVc1cm1kYmw1WS1rM3Q1LXh4T3JTU1NORVBlT0FZR3dxUXZhN3Y3cGhRNWFQZEtQNGRaYXNoMzhNU3BkUjRtNFFnaUpHMFJXeUJ6M1hFUlFGcVFMRU1tWlM3aFdnd2d1dkhvbE4wNVRxSFpwNTVBaHlWdVQxT1pKNU5GRXRqbzJUQWhkWVJ1b0htM0hGeWFLZWF3ZGxxQzdfV1NfSlY2ZFUzR3NjMmdMSHJ1Y0g4ZTN4ZjR2amM2YVl4aEI5NWxPVXdlam5wM3M1b1BrZURsdk5Bd1FiMEU0SnYxMGNTYmhpTXhOWlpYY3JfTmNSNE5tQU1pWHhWdGZuMDJPeUpzTVUzdzRKMTBNajAtS0dLME8tZW41ZzdDaHUyQ1RoMlNyNUZVZWlQOVlVMEcwQVhYdDc3V0VqV1JsR09oVFJObXJ3Y05mbW1WWFlCMEItZk5kdEZ6SnhZRFFKRkJQZFZmaHpkaHVLNER6ckdLOWVVdVpVTE1lNlpqamREWmRfdE05ak9tR091bF9EXzhSZmhiWFB1Umc4U3JjZw?oc=5"
+            "title": "午安快評》韓國瑜的「廟算」失算了（夏一新）",
+            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1rQkFQYmpWbVJpaEpMMURfZjBPLW1DUGdFYVNpQmdHSTRxeW5ycTd2Z2Z3Qmh6dlY5RkkzTmNmZl9acmx0cDJLTXZVd2FyeUxSbG4xTE85am81XzZ5UzJMZVlsdzJSZEtEZHFULWZB?oc=5"
         }
     ]
 }
