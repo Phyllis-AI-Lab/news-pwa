@@ -1,46 +1,46 @@
 {
-    "updated_at": "2026-08-23 07:34",
-    "summary": "早安，為您帶來今日上午重點快報。\n\n【社會民生】\n台灣天氣極不穩定，南部地區今日須嚴防大豪雨，颱風沙德爾預計明天將升級為強颱，並可能於下週四接近台灣。稍早兩個地區已宣布今天下午停班停課，全台19縣市發布豪大雨特報。台南安南區也發生非法廢棄物爆炸起火事件，目前正追查來源地高雄的涉案業者。此外，上午東北地區發生有感地震。\n\n【政治焦點】\n政壇動向頻傳，翁曉玲委員稱詢問國務機要費遭已讀不回，總統府對此澄清當天已回覆並確認其有收到。藍營內部出現紛擾，有藍營縣長四度拒絕與同黨立委同框，反向賴清德表達感謝，引發支持者強烈砲轟。徐春鶯涉共案再掀波瀾，傳訊對話中驚見與柯文哲的合影。游淑貞爆料網軍後，隨即發聲明喊冤稱綠營自導自演，隨後異常帳號即全數消失。賴清德則拋出新議題，建議將立法院與行政院遷至台中，以達成區域均衡發展。\n\n【國際情勢】\n國際方面，東京上午發生規模5.5地震，最大震度為3級。",
+    "updated_at": "2026-08-23 11:15",
+    "summary": "早安，為您帶來今日上午重點快報。\n\n【天氣防災】\n受到西南風與低壓帶影響，南台灣雨彈狂轟，嘉義、台南、高雄三縣市已宣布明日停班停課。中央氣象署預警，南部地區仍需嚴防大豪雨，同時，颱風沙德爾預計明天可能升級為強颱，其路徑接近台灣，民眾應提高警覺。\n\n【社會民生】\n台南安南區發生非法廢棄物爆炸起火事件，目前正追查高雄涉案業者。在旅遊補助方面，身分證尾數為4、5的民眾，今天起可搶國旅補助3200元，請留意Agoda等平台不適用。另外，前總統陳水扁在分享與女兒互動時，將史酷比誤認為史努比，引發陳致中轉述姊姊話語吐槽。\n\n【政治焦點】\n藍營內部出現波瀾，有藍營縣長四度拒與鄭麗文同框，反而發文感謝賴清德，引發支持者砲轟。關於政治人物的言論，陳玉珍對於李四川的身材評語已做出回應。政治攻防方面，葉元之在陪同掃街時遭老伯嗆聲，他也反擊並爆料內幕。有分析指出，賴清德連任應無問題，重點在於2026地方選舉如何小輸為贏，並於2028搶下國會過半席次。\n\n【國防安全】\n國防專家對於我國無人機國家隊的發展提出憂心，認為目前缺乏長期戰略規劃，恐有淪為提款機國家隊的風險。",
     "news": [
         {
-            "title": "明天天氣南部防大豪雨 颱風沙德爾明恐升級強颱下周四接近台灣",
-            "link": "https://news.google.com/rss/articles/CBMipANBVV95cUxPckRqRmlJaXpQWllZU2E1cUozZlRycnFLMDBzRnFBLU9ydXVKSFl0VVZHbXVodHQtUXpZWTdZTTlRMWRtajQzNmFTOW1wbGNueXRpT1Jwa0UxNG8wVXcweWJ3Z1lzVzN0UkVSNWY0S1VDUFBQMndLMTRiRldnbWpCQmk4ZWEwZ0ZXNnVvUU93eG1pME9QNTRVdTdIVUVacVVOeVhDWWxwLTBOMGJESzJjS19nSFJyLTVyLTlNMFZGcWVfU2k1WmcwNnhRc21ZbkQ1eXhCMTRETFZ1TWhybG1pR3dQWU44bWVTdEdkV0R0M1VrenprWk5sUk1Ma2x1UTJZWXk0OXBDQWgxS0ZqaW93MXhzbkZSUEN3dUxnUXJCWl9fbloxcVZvWlNBczNJZ1RaU2JTdkF3T0FVbDluS09iNXd1UUpXOVU5d2VuQjY1amJZY2p0YkNpUXZPRnRmcXZJT2U3VUhwTmlBMEswZUdRYlhiMUtWSXhHSGJDbGdnd3FqZXVYRkxNZGRCb0Etb3dXUnlTS3pnVjkyYlE5WWxlYjlBeUg?oc=5"
+            "title": "雨彈狂轟！西南風、低壓帶炸翻南台灣 「3縣市」宣布明日停班停課",
+            "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxQaXBkQklTSnVJSXYwMVFleHViV19CSFBHSW5zMWpvTFhqc1FNbWZkZU13LWllekptY0k3M0RqbW9Pa2w2VHpPOF9xZmxDQXNEUzJGVHFDb3g0N1RtWlZveDNzM0sxZF9heVpTMV9TWW51WnBUajVxNzhhdVM2TDBhWDJBVDJHT012Vm53LUNyaGltUjJlOTdHQ2tGX01TdTN6WGROallHN3VCOFlEMnlPZTQ3TFhmY19EUmMyZ2VYUEo2OHlCYXZuc2wwZDhxSDFsUjNWUlVlY0lpVk9UUkYtRVpHNEFFTEJ0U0NySlhVeHh3ejM1RlFiUFNRbGtuZlZ6bzl3WmZZcG1fbGlwZWFZS3JnbTFMSzYzX2RLS3Frbi1aOUtHVDJ6OTRldGpYSk9ibFpwd21HQTFsQ1FBUWJNMXZFWlNveHVJSFBicjJCc1ZBMHFjM1h0bU5TOEVPZ2FWbG4zS3BtdHRLbENUd1c1UUdnaXVPSGpnTTVweW5jeHhoUXhEbXc?oc=5"
         },
         {
             "title": "台南安南區非法廢棄物爆炸起火 來源是高雄正追查涉案業者",
             "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA1ZmVSV3N0ZFNCc21od3VEY2F0TDFDdTZtVzVkazdYZDVwRmtWQTVhY1lpV1VHV1ZsUXFwd05QS1QzZ1NaeHl1U2RSTV9TYVM0LXg40gFYQVVfeXFMUDgwLVluYTNzdFdlQmNLSENjcEg1alY0aENrUVh6YzduVm9MQWt1UmdCdktjYXhCRldPRHRPLXdqNVZfclVXMmVfZmVIc0RkcktpUlJBeUZ1Mw?oc=5"
         },
         {
-            "title": "快訊/暴雨猛下放假了！2地區宣布「今天下午停班停課」，19 縣市發豪大雨特報",
-            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE51aE95em5DNTBvbDc5VHJmWnlOY0VRSldNRkRxVm5BMWVYUkxOMEdrdVZHaUxKSUoza0VKRk9sRHdHN0FZUFRadG82V1Z1VVZX?oc=5"
+            "title": "明天天氣南部防大豪雨 颱風沙德爾明恐升級強颱路徑接近台灣",
+            "link": "https://news.google.com/rss/articles/CBMimANBVV95cUxPRnI4WFJrZ01JQU5iX3dobTZ4RFJidGRGUmF3VXhhVDRLbk1aTzZVRVdYNVhTOHlEVGhMS2x3TE8ycW5yWGpUWHd3dm5lai1WX3hkTHVYX3JzemVqdkpTM3lOc1JLQklJX0hWTGZxUFdZSWZMcjhuRXhLNUxra2NwNWxnbUVubkZrYWQwQkNxYzJfd2oyejRTeW9UVGFFSUhUYmdXSHpsckV1N25OSHRFZmlwX00tSVdVdzZpby1Pd0s0TEVxcEpvcHJHMFgwdThvLWl1TmtUblpLRlNPOHdxZHR3YXFveHItc3B5ZUt3eUtCV3lnRFV5RXAtWGpOUUJUME4zREpFX0FzOUxIRU9YeFdRbmUzSVhZS3JQX0thNnNjV3lpZlRpSmp1UUhhLVRraHJmWFIzREtLYTFFc0MxM1BlaF8wdTRTeHFFTV9DVnNkOElZTTBMSDVOcm1jQTN3eDNHZExVbnVXeTlJRUtwTjZ5Z0V4NFNjTTFNVG1Lb2IyNjZPSC1RZ0dTX0tOblB3TmRINzk2X2U?oc=5"
         },
         {
-            "title": "翁曉玲稱詢問國務機要費遭已讀不回　總統府：當天即回覆「她有回收到」",
-            "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1OcVpxUllTcVlHNEx0RWZaa2hHYndNRmNmNkRZdEtnRnVXM3ZPaVo4OU85TW1oMmcyd2hwdFJTVE5EYkZOOHRUQdIBTEFVX3lxTFBpVW1TX3NfWmFkODQtQ3hlUndJT1JsYkhnX3NXS3hfaGQzV2xTRl83WC1EY0p6Y0wyOEQ4VUFsdFBDYktQQkIzN250RUM?oc=5"
-        },
-        {
-            "title": "東京規模5.5地震 最大震度3",
-            "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1QSzlWUlBzTlphSjJSQXhpVWM4TTVpcFNLUDlfS0dBYzY4cXk2S0Y5OTdkb1JSQ1h3TTE1S1NDcXJadTVtdmIwQTlqZVIyZG8tVDgtT0QzbURXX1dKZWZKYlF30gFnQVVfeXFMT3loUFpueG02QXQyeEg0MlNwLUR4SmNQWnRHa0pQWTJXemQzT0NwVnRJUm5WV3dsQzQ5VDBMdGtwXzl2TktHeHZjVVBRRng5TDNIZkhteExmMnZTaDNCSEF4aEZnMzlodw?oc=5"
+            "title": "寵女大翻車！阿扁錯把史酷比當史努比 陳致中轉姊話狠吐槽",
+            "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE93bk1fY0N0SHpaTGZNd3pUbzkteDBvR0VMWXg3Q0FkaXFSOFNzU0xFdTJOdHk2SGlQNUpNS2ZKMzV1SEZfOHpoNNIBTEFVX3lxTFBmQVE2elY1R0htaDFUYU1mZjlUclN1cTMxYi1GTFNBeXYyTjY5NldUUWNWekdpaGVxMWV4Rk5GNWJxR0JVT210VEU5aGY?oc=5"
         },
         {
             "title": "4度拒同框鄭麗文！藍縣長發文感謝賴清德　藍支持者砲轟：後悔投你",
             "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4zdjZEWnhwTG1vOG1JOTRXSDY1U1RSZTNnQ29HOWNHVjZVWXlQQ1BFT19BQkgzUVd1cjZMcHZPU3lEaDFzRUJpdThmUDVNZS0zR1VvakFUeU1zT001OUHSAUtBVV95cUxPRUtSdTlacEdfYUpRbkt0VWdBVURPbmJBcnFmR3BLaTRvTmU3dTk0MEdyemJpQzFQYVVsUVlNNjJNWnhMdkh6NUpRTVk?oc=5"
         },
         {
-            "title": "徐春鶯涉共判7年！傳訊中共對話「驚見柯文哲合影」",
-            "link": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxOZXoxZGhETVBvRVU2VURGeDkzdVRlNDNRbG9hdU1vSnBmZzQxZi1LS2tST3BWQTc2S0oyRE04VUs2elpTeWlQdzJqb01fRVNMeTFFTWM1WUphdUFSTENjWlI1Tkk1NkN6MHZiRXBOOGlFVkxrMktnTlExRWxiSTBGVVV4emhUcTNfTDNpZlI5c1U4aUFOSlBWdjkyYmR1UWRJNDhoMy1XLS1haWNCYVV2R2doSEZZS2FsZWNXOEdQd2h1N2lqdGJHWFh6dDZxeHBPYlJUUHRodU1SVXhQRW9FYUNGb0JfMEVCMEtuNEpHS09LazBPMUZ6bHo2SXAxLXVrTXAtWkFidGVSYUYwN0gyY21sbEhmRENWbWxfQlQydGRQVDF0bS1NSTRJR0IxaTk2U3BvQ1ZmZ0thZHREZmFoaE1MUml5TVEwSmc0NGJVeDlXUFBsR3YyM2RJQzcteGdxb1ZINy1HZThDTGs?oc=5"
+            "title": "「身分證尾數4、5」今搶3200國旅補助！登錄3步驟QA：Agoda不適用",
+            "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBrRk9WT0pUSDEwd282d2dWcU4yclI5Ry1IRHRpQ0dUcDlZajlwNmZjQ3BELTkzOWxDRjNDY2FBOGg4Y2tZLUIyZ2NnNE3SAVJBVV95cUxQQU5Odi1fRmxvM3ZQbXFJa0dfOEI2d25fenAwQlpPWmRpMW9lWllIU2FGSUhTUExnQlc5em5uSmtvaGt3M21QMGtIbG0tUTE4d1B3?oc=5"
         },
         {
-            "title": "游淑貞爆香港網軍！急發聲明喊冤「綠營自導自演」 下秒異常帳號全滅",
-            "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE50blpVMDAxaEVKYUxCZjRlWGxwNm9lLWFUUldjSjM0Z3NJRFFPaXQwX0ZyeHNINkNiRTB5b1RCVjJOYmxLckFvSdIBTEFVX3lxTE1Mb3pyZGxNVkdfc2U5LUoxR1Z6NE9uYTJ4MWprZmU2OFJLenBIYmZBSHUzbWFmNjJ6UWwxT1hNbTNWZzlPSjJvdmJUMFE?oc=5"
+            "title": "賴清德連任沒問題！如何在2026小輸為贏、2028搶國會過半？",
+            "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxQRk84bjh6UWdWVTJjWC1zY0dKd2tNN0hSMWZaTW8yX1VlaURpT0p6YnBmV1JkNURORTZRNkI2djBpTjh5eHFNVENKNWRKNzZPU0JwdlhVRlF1VUlNcmJoQ1NlZlZ3ZjlaZnA2STlkWWFOc1Btc05uX05VOExpZ1J5T2l6VzFMQ2RUaV9JVW5uNC0xb3R5cWFNZTROT3VCU0NFa3hiazNKeEdVeV91Zl9vdUtKcFdUVzI1VW02TTdBV2xBUXJFOGFmVTdHQTJTaTZJR1BLenZWeVB3WXZLeU1zRDd4NmdCbjFld0toYTFTVlROb3BXR29GSDF3SlhBLVg4QUpyQ0NNM3dvZllYZ2tSMm5CZG5qdm9Ca05mUEwwSFl6a1dDU29KbS1jT1BzdDFNZVhha0dLWmxqbmU4bTk2d2F4WE9IQ2hTdTltdk42MWM?oc=5"
         },
         {
-            "title": "賴清德出招！盼將「立院、政院遷至台中」 以達成區域均衡",
-            "link": "https://news.google.com/rss/articles/CBMikANBVV95cUxOUmctekFtNm01WUtiLWpsUDFjekljNGU4ZlRPUDJVNk5VbFU0X1ZhOEtaRTAtdkUtYnJqbGh6UGd3Y0xNZm5HbXVSOENKalhzX1FQbDlYTkNBUV9iRzJoYlVtdkh4NHkxU3p6WlRYSjE0elpBZWF6REtQWUVpZzhDenlNcVlxZmlzRDVwT1lqeEdNYjFSQzlUNzJKX0IxNkVWSzRUUW5qT214WEVjRnRlVkxlamxtTXdCc2JjdGJqUEdpa19PY3ZQakl6SUlLZzBmMFJ1a3NLZW9XcHZPX3RzRjg4QnJ5V0tZdDJkbXBWa2hqUkNzbTcwa29jTTNnQWxmUWdJS0Z6QllnZFlBajVfdEJwbnhMcHNaeW1UaE9pTTZuLThTY2hjVHlBNXR3OGFPRk9oc2JOZGhzRWh2eHc3d2R6MlM5aVZScGNaWnQ2TzNhV3BaMHVtSEZINEZIMHJubTVnbHotOVpYd0JmZC1ETHdoODB4YVBxMEV1YUNrXzdMTklsUkhpNU1peUx0dFJk?oc=5"
+            "title": "當事人出聲！挨李四川評身材陳玉珍：其他人在湊合什麼- 政治",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9CNUVzd283b3ZPdW5TcWQxNFF4NlJjRE1KWUhUVjRBMElKRlpGOFZXeHVmdjFURkdEUENLMzlfTlJiclAxTzVhSy00c1lWcHluR3F2aVRUN0lTbFhNd09uV3Z4cTBHQVNrcnc?oc=5"
         },
         {
-            "title": "地震速報！ 08/22 11:40左右 東北地區發生有感地震",
-            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1QSU93WmpHQmpfSXg1Mi1EWUIxMVptbmdDU2FUbGFMQmRkYi1xUGNGMGpGRFQtV1JKRHhpSHp5d0YxRU9LY0VnSVEwX3ZnQldBNmd2bw?oc=5"
+            "title": "青鳥慘翻車！葉元之陪許甫掃街遭老伯嗆？他反擊爆內幕- 政治",
+            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9ac1EtV0lIVVZrWU50TUpJYTFZZ0ZCazhGOGZRRmhQT28xdTFlTkdYUjhkeERyWjRPbVBhaE94cE9nV3ZUVlA0RHpqWjBLc2Zja01RcENoWWhfa0h3azBKcFBiMG81UjI5eUdtcXRR?oc=5"
+        },
+        {
+            "title": "國防專家憂心…無人機國家隊缺長期戰略 恐淪提款機國家隊",
+            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9LRnc3cVZnZGVVR3ZxZC13REFCNDE3QnE1bWRhQ0YwSFBfN3pPODJtY1Q3dGltMklaT3BzU1EySmVZcUFvbXJvTGx1dTZEUEhKOVHSAVdBVV95cUxOU0JqcUNBTjI4Y1dtTUxtdmxJa1l0VDVZOUJITWxLTTVzOWZmbVhSaTZEcHc1RlVZQktHSVl1cks0cUVocjNFeUJVQmkzNm8wWWpzRkduSEE?oc=5"
         }
     ]
 }
