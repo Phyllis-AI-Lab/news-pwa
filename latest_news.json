@@ -1,46 +1,46 @@
 {
-    "updated_at": "2026-08-24 19:44",
-    "summary": "晚安，為您帶來今日晚間重點快報。\n\n【天氣民生】\n全台今日持續受劇烈天氣影響，八月二十四日有六縣市停止上班上課，十七縣市發布豪大雨特報，台東及南部多處達「紫爆」等級。明天也已公布四縣市停班停課。此外，強颱沙德爾路徑受關注，北北基桃週五颱風假有譜？受豪雨影響，花蓮玉長便道沖毀，一名醫院保全疑通勤中落水失聯。\n\n【政治焦點】\n政治方面，國民黨立委陳雪生辦公室今日遭北檢搜索，疑似涉及貪汙案。國民黨內部也傳出，有藍委不滿翁曉玲處理群組認購庇護工場產品的方式。行政院長卓榮泰因勘災預算遭刪，卻仍赴台中，被立委徐巧芯質疑「說謊成性」。監委被提名人則因未提及曾任廢死聯盟副召，引發討論。\n\n【國際情勢】\n國際方面，美伊緊張局勢升溫，美國宣布將於八月二十五日啟動「經濟D-Day」，並警告伊朗已踩華府底線。\n\n【社會要聞】\n社會焦點，藝人五熊疑涉對日本國寶潑油遭逮，引發譁然與國恥批評。另台南安南區火災大爆炸案，當地里長等三名嫌犯已遭檢方聲請收押禁見。",
+    "updated_at": "2026-08-25 07:35",
+    "summary": "早安，為您帶來今日上午重點快報。\n\n【天氣與災情】\n沙德爾颱風路徑轉向，北北基桃侵襲率升至63%，颱風假動向受矚。屏東一村已宣布25日停班停課。連日豪雨導致台南六甲邊坡滑動、道路龜裂，轎車陷落。\n\n【社會民生】\n台北指南宮60年歷史的凌霄寶殿全面焚毀。台南爆炸案，涉嫌勾結業者里長遭羈押。藝人五熊疑涉日本國寶潑油案被捕，引發社會關注。\n\n【政治焦點】\n立委陳雪生涉運油弊案及詐領助理費，檢調發動大規模搜索約談。行政院長卓榮泰決定不副署《廣播電視法》，強調有執法爭議及違憲疑慮。\n\n【國際情勢】\n川普毀滅性制裁下，伊朗貨幣面臨崩盤危機，已達200萬里亞爾兌1美元。",
     "news": [
         {
-            "title": "8/24全台6縣巿停止上班上課 17縣市豪、大雨特報 台東及南部「紫爆」",
-            "link": "https://news.google.com/rss/articles/CBMiogNBVV95cUxObk1pZi1kU3J6MmhyUzBERTI4RTFZY19DblUzRlJvYTJwTnhJa18weDdzMVRkb2NucnVwcjlaRWhOUDRyUWU5NHNuZWhtREpmUTFJWmpQcXNmZVdDQjZadTVPZzM1Z2hCdVNLUzJuaG1RelRSUzlwbVlzVkx1SDFWcXNZTTMtTFFMNWZRX2tuZTZVS3J3UUZvQVpqSU9ablJDQ01lbVhKRVpZVDZSRlFXMi05c1MyTWxldkNGUGo4bDJOcnFTRjBwM0doaGZYcUtxdTh1T1FIXy1KVzEyUmMzdjF4eERCenhVVnNOMFNQcExXc2FFdk5KTm0wN2d4Z0dZWjR4VV9IbmZ5b1dzcmRaT0VnV3hTd0QtMkxsZF8tal9jSUozd1VPYmZfMWZzUXVRY1dpRy1CR1ZQb1B2a0lkM181NmY1LUY5UjdqblJWNGRMYjh1T3V6YWRYZmpDR2FYYm1lcS16emVqZUN5RmR6WEpDWnVibjVnTmRJLUxSV1h2eFlEOFlEVFBySEo4V25lYVE0TEdlazJaMnpQenppcGxn?oc=5"
+            "title": "不斷更新／6縣市宣布了！屏東新增1村25日停班、停課",
+            "link": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxNT2FaaGZJV1JXbzU1NXpHczFBTkxzcDV2N0c2Q1NxaG1ORTRzNU9tRmFoRk15N0libS1oZC1LR3ZWZGJGRUNDeGFyOXRQWDhEUkdnSkxUWktjMGFJd3NOVU9wMkFtS3hZbklrSmZaM2N2blh6MUdlRnFocEFWM1FyY2FYc2ViRHJhTElmSXVnLUdfbU1rYXRzWDEtb1dCd1FaQ183ckZpZU9lTWV6TS1FTVFhUzJQa1B2NkdfclpKczRvbWdZSm1abnB6ZVd2MkRGbzVrSGRtN1F2VnEweDFBSkdmZWpPMTRsYlRMVVUwR3ZmX285dTFwdVJmUUhJU0ZLXzVBSnNCSTNmMlV6WXJVTW05RzN3cFNMeHVNTGYyLWNGc3pjM19OSDlsT2oxckJ0c2FxMkpwejhTLVY5STFMUFpPTThITXlDSllQTDNWTDdMTGV4NFhUcXNDZjFxdGFFVHI3SA?oc=5"
         },
         {
-            "title": "天氣／明天停班停課4縣市公布！紫暴雨沒完...強颱沙德爾週五颱風假有譜？北北基桃暴風侵襲率、最新路徑",
-            "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMmtYUTA0LTgxeHVQRUNEVnBzeVo1LUFQRHlNdVQ0V0FtMTR2d055VE5FRGJ1ZG9BRVNxdkl6cUFWYkFWX0UtYm9YY29ZbDhsSWFsQmtkaHoyMUJsM2VmLW9wakI4Z3c1Qk1hX0NmM3hweWh1bHM4Nzg0VkdVd284aw?oc=5"
+            "title": "台北指南宮全面燃燒3小時撲滅 60年歷史凌霄寶殿焚毀",
+            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFByR1ZiLTJPTnFDOU9UMHJvd3lZb1JFQU01WTZHMGJ3cmdnYXFsdmxURnZNdEJYNlAzcjc4NFJSS3ZFNkJXeWw3X3djS1NhWVhs0gFWQVVfeXFMTnFmU0pnU2Ixc3I5bkNnOHhEakd1bXhBM053Z25UbXZUM0poOU5HRzVuZWp1dW5VZmM0b3l4WmJqdmNicV9iaFN3ek5qem5TdHFpZ3RHUmc?oc=5"
+        },
+        {
+            "title": "8/25放颱風假？沙德爾颱風路徑轉向了！北北基桃侵襲率達63%，蔣萬安回應了| 李伊晴 | 風生活",
+            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBFQXRlWHZ3WFhKeDNXTTg1bHdOQjVSeHVvWS1Rc1pNbkVvZi1vSTljUF8wNm93QnR3VWswSmhuOW1JaHR3QUlCNmZEOTk5cE5U?oc=5"
+        },
+        {
+            "title": "陳雪生涉運油弊案、詐領立院助理費 檢調搜索35處約談27人",
+            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1LVHZPNno3T3c5QjNrcnN0ek5VVUdfSzM4NE05cTRwMmJFczBoYVd4azRId0o2OFlQTEUydzU1RkczZUFWSzhoTFJhRGt3RmVf0gFWQVVfeXFMTWthTWtlMThrYU1YNDJsMjB1RVpEVE9qM0J6bUNLOGZ0c0VoVmVWNXNmZVdibmRIWVh6bFlSMnhkM1VyZ0NLMkU5NnM0NXNWNXpzaUxlRGc?oc=5"
+        },
+        {
+            "title": "川普毀滅性制裁！伊朗貨幣崩盤「200萬里亞爾換1美元」",
+            "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBSWjV6b1BVSUxHdlY3aXh3R1ZBbGxwOGdVb09BeUVjSnA5VXNxdGN4RWQwd3dUWU1tWDY5QjJkQUpVRl8wX0F3c9IBTEFVX3lxTE50MTVnVllTcEZNQXYzVzh2TVRCZGItWC11VGJEUXV5ZWxIMUNmbjhNMHVvaVlacDJjQ1JrT1pYVW5IR1UzZWM4Z05jeTE?oc=5"
         },
         {
             "title": "昨天生日…五熊疑涉對日本國寶潑油被逮　律師嗆「盼日本政府送大禮」網酸：真是國恥！",
             "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9zQmF6S2VISmFPUDZaUHlqUnZ3dGo0b3J5TVJVTEwtRlRmVTJsdHpweWJtMzMxLUhJQ2Jpd1prZnpwMlB4VHpfYVQ5VkRPbHotMEdQSkl5SzVjSU3SAWBBVV95cUxOdl9LdXdyazM5YTE5WVFmMlc5bloyQWVqV1VMaG9ZWURHQ1RqenU2TmxSWXVpUVcxVG5IZFRrM0VsQlNpaVhvb3lrYjR3SDVBOFA0Nlo4bFRSemMwNWtJMFc?oc=5"
         },
         {
-            "title": "藍委陳雪生立院辦公室遭搜索 北檢：涉及貪汙案",
-            "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxOZ3dnbFZISGxaajRiX0hfZ2tfZ0JqMmM2Smd6RXdBUEdnYWtJQUdzUXJzSTFDR0tJa1NlZTdWTWRzZ29LYVNTMXpJQlZValdqTERLYkphd3hfMlVYRDFqbnk0OVVWVG1uWU5ueC1qNXZBN1V2T2ZGREl0WmYxZDUyRDNTSkE2ZG1MZHFWcVNORVVyUGdCMUxZLVFyRGh2VEptSnJSeUtYV1RfVUw2OFFkNG1CMUpuMHU2MGFfQ0dSSE5nbVBGcVBzWHB4ZUNRam5nbTlLR3dKNF8tRERGNENVdGpFbnVSTTBUUURYcXlmb3JtTXpPd2pwRnFxTDlnRTdrUGxiX1ZEZUY3MHc0dkpZdXlLOFJ3ejU5MUUxbjd1dGlHSjNJb1A5U3FTaEdJVUFQbVRNSVlOT2RvZEpoSnpnY3h1eEk3dw?oc=5"
+            "title": "連日豪大雨台南六甲邊坡滑動 道路龜裂20米「1轎車陷落」畫面曝",
+            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB0NDlteFFNVXhBYnRlcDlnQkVNVVlKeGdTd0gzbE9WTGppM2pXcXRCVlI4b1h0STQ0NzJpR1lsc0lsOXkwc3FPYUNsclhnalNI0gFWQVVfeXFMUEZYWHp4OGtoNHI1YkVJR0o4RlpSTzNIbDlmTHZVTnE3clRGTVViWklfbzBfLTI4U2x1NWlOczlfNDcwZ1VKX0h6NktBN2VFaVdNWXpLTlE?oc=5"
         },
         {
-            "title": "美伊戰爭最新消息》美8／25開打「經濟D-Day」 貝森特嗆伊朗幫凶：已踩華府底線- 國際",
-            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5BOWZDTTRkRDdSMUlSNnFOcnJyVEp1ZjFwWHZ1R0dDSV9QaHpBWnBRNjhoejZTSk50aUVXSmxHQ1I5dVZEbmdEU3R4SlZPV2NZRnlzT1Rpb2R0bkluZnREc01ZMTlYdTFnVWJCcnhn?oc=5"
+            "title": "卓榮泰再出手不副署《廣播電視法》 政院：恐生執法爭議及違憲疑慮",
+            "link": "https://news.google.com/rss/articles/CBMimwNBVV95cUxQZFRfUXZ0MXlIbUJta2l0YTRjYUNSZ2M3d19keEQwcUF6c1N6T2ZGNVJhYkhrbmgybklYVVlaaEdYaEFLa3ZGeUlxeE1zX0tvQWFQVGVoaUIyUmtvSS1DVXdnN25pU1FlUlNFd1gxM3ZxaW5yREllTmUzVmpSc1ZUMkF5WHVrMXl0SjV6V1NQbHRfV3cxekdoNUUyRTk2MkJHN012emNuZUUzcXpmZXJUZ1p0ckFhT2hoVk8tOVNIS3l0NG1OWVgtbXh0Z0d3Ql9pSWJLTktDb2FXclpPNDNXQnVJM0Yzc2JGN2Q1bGxSclliZEE3UGhRYi01UGxjcXpxXzFJN0FxejAyclNDYzMyNjRxU3N2di1pOURnTU5wSmFNWmNCVVhxV3dmSHhKbFQ3SHhBQXJpT2tRN3laUDNMSmxMd2UxeFdBOEZSa3didk85cmlfa09jOVl3R09zVlZRbTh5a09LSlNETzRKb1Btckd0NVZ0UTA3bkxrVEI3VnRDQWpmUlIxYjJSZjFUZU9zMHhTVXBiYVZqQmM?oc=5"
         },
         {
-            "title": "新聞幕後／群組認購庇護工場產品！知情人士：藍委不滿翁曉玲「捅婁子」",
-            "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9qTmZaMU1GREN1bTEyUUtSUzBzdDZhMGhyODVWblZPX3RyNUl3NG9qTFVYODFBcmFvUzNIWFdoX0hwMEhNWmhpU9IBTEFVX3lxTFBmbjdMVW9zcUVYaFctaFVwcnpfUGxQd242bk9oc0dQSU0tRHJaR01iaDRwU1Nhc0ptQ19fMWdDd2o1UndOZTVVUl9zc3o?oc=5"
+            "title": "【重磅快評】「北京沒冰箱」上微博熱搜 賴政府跟廖美然沒兩樣",
+            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9yeFc0VHVnZ0pTY2ZXTTFia1FHSlh1ODBmOGdFTUdNNUtFdTZlTE9SYkhTdVdMemd0S3ZDallVcnpEbmlyYk4yTUJ2UGp0eUZo0gFWQVVfeXFMTTVxR2VJSk9ndHdzdmZQMS0xbnhNdFlCQ1ZteWRaU0dnb2lkMVV1V0RnWURnQVVMQzQ4aFBoaWc1dnl0bzF4b2VYUUJPN19TSmVfQm5UZUE?oc=5"
         },
         {
-            "title": "卓榮泰稱預算遭刪無法南部勘災 徐巧芯：昨卻去台中「說謊變成肌肉記憶？」",
-            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB4U2VGRHFpazNXRWtCZ24tTUx3M1JkRkx0Qlltd1BWOThGWklGX05Vb3BEWXFIQ1oyTTZ6cC12VU1tNjk5S2xsUDhFWnUxcWgxbWVr0gFYQVVfeXFMTnJ4N2JNeVo4VVRGZGl4WkRiWkRUQ3ZOTmtYVFIzVFpNcFlDc015OE9JLUxXUzJzS0Y3dG9GRGtOQnlIa0lsXzkwUDIwNmpBdVNDZW1iQkhSQQ?oc=5"
-        },
-        {
-            "title": "不敢提當過廢死聯盟副召？ 監委被提名人：沒注意| 政治",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE50cUhIQnE3OWJkWUtZYmg0WlBNRXZaNWtjSGd0U0R1bXp4dFJ0Z1NfSnNkRVZNcEc5U2tGU1p1cnhjVWI0T3BEVWM2YTBzTkpKejB6ZlNWRzNxaE0?oc=5"
-        },
-        {
-            "title": "台南安南區火災大爆炸當地里長等3嫌收押禁見- 社會",
-            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBRbDRtTmtLZUlzd0JsMWFMY3JETXAzTXpJZ1Z6djVwd2NWclBHby1mWEJvRmhYcUF2dUVhVHg4X05rb3lyTEVVUzB0dzFmOFVwcjVhXzBvUDFaN1ZqNUtuS0pXN05qRG5h?oc=5"
-        },
-        {
-            "title": "花蓮玉長便道遭溪水沖毀 64歲醫院保全疑通勤中落水失聯",
-            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1jZDBjb2tlVThFTkVrbFdkUzgwNjhUeGlacWJucVpDQ1NkQ2RabnpDekhvOFBjeTFiTkFnQlE5dENueThQcGlHaUpGbzZ2QW5B0gFWQVVfeXFMT1hqN0RxeGZxZUZkTTVOUTVRYUh0TXROdWJZa000N045WW9qTFJtRmRqUnZQamd3TUpuZ2tLQVB1ZzlfX3FTRDdfZkRhM2twSVkwLWJFY1E?oc=5"
+            "title": "台南爆炸15傷里長涉勾結業者遭羈押網揭：民進黨籍- 政治",
+            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9UOXhhb2cyZmVqTHItNTYzdDMtYWRxRGZqSzdDZkVac1hKWlBYd3V5aFRFb3A5bFlTcmNQNWZoS2tkUlFaZVJDNXpaTjNoMVVFNkdoa29RTnYtcWUtNUV2Zi1JWU9yVHRfekJJRVlB?oc=5"
         }
     ]
 }
