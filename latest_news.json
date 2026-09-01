@@ -1,42 +1,42 @@
 {
-    "updated_at": "2026-09-01 02:01",
-    "summary": "晚安，為您帶來今日晚間重點快報\n\n【社會民生】\n南投傳出悲劇，一名英勇消防員為救援泛舟受困民眾不幸殉職，留下三名幼子。沙德爾颱風動向持續關注，明日是否停班停課，各地資訊正不斷更新，請密切留意。\n\n【國際情勢】\n國際局勢波瀾再起，美國與伊朗在荷莫茲海峽衝突升級。全球秩序正經歷洗牌，美國收縮之際，中日角力態勢加劇。尼泊爾一校長則在洪水前及時疏散九百名學生，避免憾事發生。\n\n【財經動態】\n觀光產業投下震撼彈，「公主遊輪」宣布全面退出台灣市場，即日起停止銷售，官網也已關閉。\n\n【政治焦點】\n台灣政壇消息不斷。竹北市長選情藍白合出現逆轉，協調後可能共推人選。麻將最大黨主席郭璽投入北市長選舉，李敖之女也宣布參選士林北投議員。蔣萬安市長則現身庇護工場引發討論，並將於九月四日召開會議，檢討十歲女童性剝削案件。",
+    "updated_at": "2026-09-01 09:49",
+    "summary": "早安，為您帶來今日上午重點快報。\n\n【財經動態】\n輝達公司宣布，首度以千億元鉅資入股台灣聯發科，執行長黃仁勳揭示雙方將展開長達十年的合作版圖。另一方面，公主遊輪則投下震撼彈，宣布即日起全面退出台灣市場，停止銷售並關閉官網。\n\n【國際情勢】\n國際焦點關注尼泊爾的嚴重洪災，已造成超過九百五十人死亡、四千四百人失蹤，家屬仍將希望寄託於手機最後訊號。中東情勢緊張，美伊雙方再次交火，美國前總統川普已聲明美方將予以反擊。\n\n【社會民生】\n台灣內部傳出憾事，南投一名原訂明年退休的英勇消防員不幸殉職，留下年幼子女，家屬悲痛萬分。氣象方面，七縣市發布大雨特報，沙德爾颱風有望復活，預計週三起將影響台灣天氣。\n\n【政治焦點】\n政治方面，竹北市長選戰傳出藍白合可能大逆轉，林為洲正積極奔走協調，藍白陣營不排除共推人選。另外，有議員候選人爆料花蓮選舉有買票情事，點出台灣兩大選舉亂象。而麻將最大黨主席郭璽宣布投入北市長選戰，李敖之女也宣布參選士林北投議員。",
     "news": [
         {
-            "title": "救泛舟受困5民眾 50歲南投勇消殉職！3孩最小才五歲",
-            "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxObU5VLVc3S0tYMGFobUN0RmFiUFVSLUNPbTJmWUI4SWpzdTltYnExYldETVZfaFBwZ0syQUVQamw0cWFMcWFVbmlISEdOWk5wZ19kWHJKblhLYnRob2NpY3phMEYtaE93d0Q5VXJlb0FrRDFhSTZfem5lbW5PNUdkOEtadDdGVFlMdFVXU1M3WWtKWkRONXNKTnJFd0tmb3lVbG42YjNhUV9aNHRKUHBWMkFiMDVDRnpFMG9rVnZmSXp1NlhWclpEVmVoSW1tc0VMekhDbXBHaG1fVjZCT3BlRHRhZDlVbVJibk1wVTBONFJXNkpoVWlSZVlYdGJyZkltcC1tZVFLWmRkR1djdnN1NDFGcEdXZEFYUFBQaEYwT21KLXV1dC1KM0JDTWZZaENTX3pXd2NPT0tZVTJpQUc3b2U4dmRIdHM5UDNv?oc=5"
+            "title": "輝達首度砸錢入股台灣公司！1100億豪押聯發科 黃仁勳揭「10年合作版圖」",
+            "link": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxORHc3U090UE1wSzhvNVNEU3JsOUJnY1BwVkUwVmtTeHRQQ0RXZ3I5UVZCZElmUHFjMUxEWUxQTFBFby1ENmtBeHFJRG1sX1I4UWVXeE1VRm5kSWh2RGFiOVRCMmdyd2Y2YXd0aG5uZ1JDbmVNcU1jRjBhMVNPOGFLbmh3UDE1OW5hY0V5aU91VTRNbFJJVmNNSjQ5dW1EZ1lXUHB4Z3NGbFliZFNaeTFXLUM3cG1NOTROaXB4NFF3UzVYSGxPQ1lUYUFScFluNDMtSC1GSEZfTGY1ZXduMTRLRkJPLUtqVTktZUZQRGprVDlhTnQ0X2ExVUpuam5nRENuLTNfWUVYNldYdDg4MjhvRlY1V0VMT3JTdHFEbTNxYy11XzUtNmRFeW9ST2RkOXM2UnB4OVhHQ2dxNndjUFpHMzQtbUMzOHRTZVc2NkpTWG5lQ3BXWXhCREVERVNCaWZQY0pLcU5Fb3lsaG96cXl2QXZSMnBpLTV1Qng0NkgyN2Z4czNTOV82LW1lSHBNQUJVZ2lrT18zRTYyOG9jNGpISllzRE55R3NpVUNz?oc=5"
         },
         {
-            "title": "美國襲荷莫茲海峽小島伊朗開始攻擊駐約旦美軍| 國際",
-            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1oeENYeWZPWWg0NEtZbnZqQzJWZmhrWktxVHpLNk9wQWNnR2VNdlo1RWFfeUFxUll0RUFyVFlYa3VlZkUzOXZJcU93VWhSTThVaHVnMkhHdy1SSzlJNjhN?oc=5"
+            "title": "尼泊爾洪災逾950死、4400人失蹤！家屬將希望寄託手機最後訊號",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9KUUdWenhNQzR4OHMwOTIxcWlFRU04MG84SzJCOE1WR2xzOG45WnNacTM1U1FFc25ycjUxRElLOENRRjRZbjR0TG9UQ1pHVk1vbmJB0gFYQVVfeXFMTXhuSUlRMFJQMGx2UHNhREVJMko5V2JGSXlDV1BwTThWbzVMYmVXSlBnSnRYSHphdkpkVEtJN2JHRzhENUIwT0VkajJndE83RUd1cDdHWGJrSg?oc=5"
         },
         {
-            "title": "明天9/1停班停課最新通知！沙德爾颱風復活會放颱風假？全台22縣市放假資訊不斷更新| 林俐| 風生活",
-            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBhbWpnc0tac1hZS0d3Q3pJd2tRcDYyMG9ESVF4Y1dISUIwZVduUzhPQlVjYzNjdHRoR2tCbTRwWHNyU3pTWG1EbnRwamxoTUZQ?oc=5"
-        },
-        {
-            "title": "尼泊爾洪水來襲前幾分鐘，這位校長及時疏散了900名學生",
-            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5acFFhWWt2QVpCNXdGbEtqYXlDWG1aem1DdDRIeEluNHoyVndYTVI1RnpLRF9xNnFvMHIxNlZWRF9ZeXE4cVo3TFYyYVdtR3RpYV8tRlJjVEpsMGtqbUkyNTZvZUxQd9IBa0FVX3lxTE93VmRPVmUxWlkxckd6MzB0UVVWSUZvQy1UbWFXSXF6R0dvWEFEV3FPTW94b2ZjUDRCN3dmRGFuTTlqZGhGYzdYdUxhTkRtTjViTjk5UHRoOEs1RzRGQWsxNFZsTDUzenZ5ZTNF?oc=5"
-        },
-        {
-            "title": "全球秩序洗牌！美國收縮、中日角力升溫",
-            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9GQzE0SjRTMG9SdmRnUlgtUkVhMElUOV9jZHFSc1hzeXFYY0NSakJrbUU4OHRIb1huQ0tuLXFLOUQtRExWNzVxU0JIdlV1cmRJSzdr?oc=5"
-        },
-        {
-            "title": "震撼彈！「公主遊輪」退出台灣市場 即日起全面停止銷售、官網已關閉",
-            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1WTnpFQzVRRDBlZUxySjBtOTRZSkN5ME1BN1VwXzIzanh1SDd4a204T0F5OExnb0RZV2tzQklaeDBhcU81TVVkUElyclJTNVg10gFWQVVfeXFMTnFha1NESmI2VndQbEZHVENlMDFxdFRRMkpWWE5xV0VZYzVCTGtSYkJnSkM0ZjNWdEhHbGN4UDh5eGtOeWtCOWx3dkZ5OVplWXNRUElJREE?oc=5"
+            "title": "孩子最小才5歲...南投勇消明年想退休卻殉職 家屬崩潰",
+            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB5Q3pvREtZUC1KNkFDeTN2eC1zVlRydjlCUlJTalJpYlZ5eS1VX0h1bTNBV3o5eThKekotbldRcWhOMTUxNzM0S2FZOFVnSTRp0gFWQVVfeXFMUG1zMk5vLW1sbkp0NHJwLW8xVEticDlfa2J6OU8taEVhdUZJNzJuOWwtZ0xfWk1pNzc5U0Q4V2FjeEF0Nmh3TlQ2dU1vN0V5bTd5WDF3aHc?oc=5"
         },
         {
             "title": "獨／竹北市長藍白合大逆轉？林為洲奔走協調 藍白可能共推「他」",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBsY3Y3Snl0elRMYU1lVmNaTUEtamlTLVZDblJ1OV83WEUzbHE2UGlPV2ZIUVRTQVZ6NFptSFBGenRSeWVtMFk1RGp5R0RGd1hra1hkMWNQcXNPdmF5M0YxS1JTS2ZHRHQ5a2c?oc=5"
+            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE41VjhseTBWWTM1S1ZVMWEtUWZiOVlkdm51UjJYRWN6X3lzaEY1X3ZXdUc2QzlkUUpJaUEyaDdZUC1CcXFXanlwd0VRZ3lDU2tnWFJSMkVVelI?oc=5"
         },
         {
-            "title": "蔣萬安被民眾直擊現身庇護工場！喊買至少30萬 沈榮欽：演戲都沒天分",
-            "link": "https://news.google.com/rss/articles/CBMiqgNBVV95cUxNaGhreVd1Sy1zU2VOcEtDZ2FLRWluXzdabGRJaERxd09MZTlmd19yY2Z1dHFDX0pyY3RDU0M3MTJ5cFhZd2dGQ0R5dy1SVGZkbGFEb09iSkVqbTNsZ1IzYnlyMm8taHVBTVRxVVhuRVVMTXNTWnFfbE1aSzh2cThrV0V2WTZyM1hhMkFmNDBvY3ItVlVpSk9oQXFBRU90bTFvODZPYVFGU08yMzd2Ui11TURlU1p6bG5Mc2tpRjB0MThEVjlPOVkwR3lXOUtqeXA4RzVBYzFabGJUcmhoZkpNTnBnUmJ4bXNSNEM5aEFFZkFfdVVNZ1RVTWsxamdma3c1S01lWWZTTmJ5S3FDQzM1YV9OdDhPaUtQcHhRcFVaU3lTSkRCN3lhUWlsVW43MzA3Ym9BUzJyQUlmbGtfa2lRSjJiWU5OZ01nMGc1ME80YmNlM1Njc0N4N3R3Njc3bXBGX2tIb0lqTmphNDhoZXJZOVh0OWZoUHdxRWdvVmMzbm51U3BpcG9YOE1hT2wydG1jUjN2dzR4UXotNk8zTjlqMWhUNm9JMS1YckE?oc=5"
+            "title": "震撼彈！「公主遊輪」退出台灣市場 即日起全面停止銷售、官網已關閉",
+            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1WTnpFQzVRRDBlZUxySjBtOTRZSkN5ME1BN1VwXzIzanh1SDd4a204T0F5OExnb0RZV2tzQklaeDBhcU81TVVkUElyclJTNVg1?oc=5"
         },
         {
-            "title": "苗博雅當面通報「10歲女童是性剝削案件！」　蔣萬安：9/4會開檢討會議",
-            "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1nMHRMamlTY0xzcy1hRjJQbmVRREd6NUNhUlFaV0hmczRUV3VDU015QVBDeWtKT1M1UGlfOHRvM3g0ZEF5X05UctIBTEFVX3lxTE1JVExLcF96dElaQThVTEctdm90dTdLcEN3eXc1cUNYQThmWng2dEhzYTF6SFNiUVRQZ3BneTdtTVdvWHdlUHZYVlkzZVA?oc=5"
+            "title": "快訊／美伊再交火 川普：美方將予以反擊",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBiTUlrbml6cGJfdWlMQjZHUk1oLUhRZFd0TXdvVTEwZjIxTWpEd0V5WTREeFRQaW42MnhJVW11dmtjSk1KQ0c0SGNhZ3QwYWtZbk9F?oc=5"
+        },
+        {
+            "title": "7縣市大雨特報！ 沙德爾颱風有望復活週三起影響台灣天氣- 生活",
+            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBvWnlnUFE2UVo2UU9ZOG5mOTNMSHdtMlM3MVg2MXZPNHV3bzY2b2RhbktvWUV4b0FpLS1hcmpZU2p3ZjFYMm1PVmRlc0hKZGFhTlFPbVZRNmxNMm9jQUJMSy1INV8?oc=5"
+        },
+        {
+            "title": "席佳琳爆花蓮「票都買的」！傅崐萁急喊抹黑 她再揭台灣2大選舉亂象",
+            "link": "https://news.google.com/rss/articles/CBMinANBVV95cUxOWHZfNjBTMDM1ODREUHJRcmlTcUxrdXpQQTAtUnJyZy1KdjRhZ1BQSWlvZEJmMW5DYkRjUVJqTEYtR3lDRkoyT2VpN3RubVNBekZtU2RJTlc2UHNsU0FwWi0yenZ3NV9hUUZvM1d1TVpvS2k1OEJsTTJqQ2IxUl9hWDFRend0ZmlNMjl6MEgwNk5qeDlpMFNxNk1PXzhRWGdvYXNVY1RwSUZValhtOGNROG5xYWxWUUJYRW9XRDRvdDlJWFJvSFlmam9kdUFUOFp4b0hDS0V0RkhHRUN0WjA5VVpQbnZzemE4ZzQ0RkdBSGp6aGRocXE0bENNcVRTS1EyZDBqV3poRHlabHRoWDlnU0RMQ0p2RzhsWHlPNFh2YkRxZnU3VW5wbF9fc0JQRXhneVJUN1pfTjNwbTMyZHFZNzBqRkJRNzJ6RzFBcGk3Y2RISHBzTzY3al85eW1jUGI1NHVacG12UzJpd3N6V3BlLXlrX3VLMHVFZ3N1RWhJdzhQeERjU2pLQ3liNGZLODVmdnFHTURYakZMY2h1?oc=5"
+        },
+        {
+            "title": "聯合報黑白集／綠色黨證真好用",
+            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBybk9KTHc4cGVkWV8zbDJrUjhLVEZ6SXpzcG9xX2QtUHFkYVQ5SXJTNEl2RTRSaEJtUGd5QlBXQUVybXl3aTZCVng3ZkVwZ1cw0gFWQVVfeXFMTXpEYjdpblBhaUhTc3p4OVFEakl4NlhXeEozOU01UnBzVE1fNEY3VXNNbk1JZG92OHhBbHRCVUg3QU9ZcVlKenduWGpvdVRsc1NZQnZKSmc?oc=5"
         },
         {
             "title": "麻將最大黨主席郭璽參戰北市長 李敖之女宣布選士北議員",
