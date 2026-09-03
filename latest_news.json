@@ -1,46 +1,46 @@
 {
-    "updated_at": "2026-09-03 09:07",
-    "summary": "早安，為您帶來今日上午重點快報。\n\n【政治焦點】\n台北市長蔣萬安之子蔣得立獲傑出市長獎並將赴美交換，引發外界對蔣萬安廉恥的議論。竹北藍白合議題也傳出破局，國民黨已對此做出回應。在新北市選情方面，最新民調顯示兩黨差距僅0.5個百分點，分析指出白營選票流向引發關注。\n\n【社會民生】\n板橋安泰淞鶴診所爆發C肝群聚感染，負責人雖否認診所為感染主因，但非首次出包。令人痛心的是，一名勇消在救援泛舟客時不幸殉職，家屬悲痛期盼玩家能到靈前致意。此外，名人陳幸妤與陳佩琪因教育費問題隔空互嗆，言辭激烈。而蔣家第五代蔣得聆也因低調實力派形象受到關注。\n\n【天氣快報】\n北台灣雨勢預計將持續，氣象專家鄭明典分析是南北風輻合所致，類似東北季風共伴效應。南部地區八月雨量則超乎尋常，達到「灌到發黑」的紫爆等級，專家驚呼雨勢已下到發霉。\n\n【國際情勢】\n尼泊爾與西藏邊境的泥石流災害引發關注，堰塞湖和冰湖被視為潛在的「定時炸彈」，對當地構成嚴重威脅。",
+    "updated_at": "2026-09-03 15:12",
+    "summary": "午安，為您帶來今日午間重點快報。\n\n【政治焦點】\n行政院會拍板115年度6076億元追加預算案，將送立法院審議。總統賴清德宣布，軍公教明年全面加薪4%，為十年來第五度調薪。此外，台北市長蔣萬安兒子赴美留學，交換學生爭議持續受到關注。\n\n【國際情勢】\n我國與帛琉合辦「台灣之夜」活動，場邊卻驚見操中國口音人士猛拍記錄引發側目。而中國救災進度也受質疑，有影片顯示救援人員衣著乾淨，對淤泥喊話，被疑為作秀。\n\n【社會民生】\n受颱風外圍環流影響，全台13縣市發布大雨特報，其中高屏地區更將出現大雷雨。新北安泰淞鶴診所C肝群聚案持續追蹤，目前已匡列召回1118人進行抽血檢驗。",
     "news": [
         {
-            "title": "蔣得立拿傑出市長獎、赴美交換！她揭「被罵關鍵」：蔣萬安有沒有廉恥？",
-            "link": "https://news.google.com/rss/articles/CBMinANBVV95cUxNcUlRMG42S3hWeENmRkc3Q2xXVU1xaXh5ZFFYVXhmRm10YXlyeGJGaHNmd2JXemFkbEpQRU5sYUZlNlZxaVJkVnVFQWxNNXJaNVBLeHBkbXRHYUNjZ20yeml5Q1FMUGRxRnVyem9hQzBsMlBXcFdUSFV4LVJ0bDlWYUNhMFdDZFZZOUQ4YmNWN1Bja2kzRk1QWWhNdkk1TXphMHJXRUhWaExHcEtJUVYtSXM1VldldTd3RF85ZkMzMDlJVkQ3UkVfaThwNFl2Y0FXaHFPdjhfWTlPdTRDXzU5bXJUU2k1S1lkTjc1QnJ1cVhFMEVpNFpESW9TV2NtZngwNjNhT2M1dTRTWkp4QkZfdVhuR0lsaTNZRk1DRllta1FvVUFBbUI5TmE0cWk2VkdRMzNfT3JjU1dZV2ZpdkhaY1VlQ3hLTnBSNE1tZkwxazFhODlHQlZqUFhKbFlYd2ZnbnB6ajM4cEp3V1JkRDliY09uOVltMUwzaDZRc3N1eXotMFhUOHpweVZEdVd3dmVxNXFDTmlCV0p1Wl9y?oc=5"
+            "title": "獨家／交換學生爭議還在燒 蔣萬安兒子蔣得立8月下旬已抵達美國紐約",
+            "link": "https://news.google.com/rss/articles/CBMiswNBVV95cUxOS3lLS2FtaTBXWE13dnlYS3Y4WUlrU3NhYjd1cTNtRTRkN3hrbm5rU1NvY0V6dnBhRHN3QzJjMXVFd3JVdDk2dmxXUWliSzFBaERYR1Q1VTFiWGFEbVA1cklrMFFZNU5VZHE2LS01WDRMc0JGV2FZQ0tXSXpKd0dDQlFtYmR1bzBTWDRRV3piMUZzNTk4VHdIX1pWYjBiUDVvSzkwTGc3dlJRRWdBalN1dHNTN3I5bVdya1J0TG9RUV9UbWdhd3JTaHRfNmJQSHcweDluaXgyRHoxY2JpRERQT25qSDVGQmlQU0lpSktVcnAzTlZCcWdhQmxBVnNweWNRSmE3aU1VWHVjX3RwdTcxSkFBX0xuV2dFNWZEM2I5VXlMU3g2amdFRVBGVnBqb0hkb2hkbGVveklocUsyeTlURnhiZXMzRDJVZS1JeHF4VXRiTGhYaUFlaGh2MTlabXpzbDZIdjBtSFZxc0xWYW9tRUdqMFI4ZG9Ma05Hd0xQVmtNLXdYVlJFVVVldkJPRmZUQWJLWmxFOGNlVzBCNWlaclU2Y0ZCNEViZHVtWHdkaXppckk?oc=5"
         },
         {
-            "title": "北台灣雨勢恐持續 鄭明典：來自南北風輻合 類似東北季風共伴",
-            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1GT0JJR3ZuVDhhV2Rkc0pJcmtDQU9DVFh2Y2NTT1FraGt6WGZjYXNicUdpcGwwUzk5VjRBMy1aRGp2SXRCZkh0eUhMcXpGNlR00gFWQVVfeXFMTjNKdDRxeVBnaXFKSkh6cjFwanVsS3drT2JuUzg2cmp5NjVzWFhOWGoxd0hEM2Z4SG5EVjQ2dFBjREJsNTNGM242ajNVcXBIWUl4WE9hM3c?oc=5"
+            "title": "想幹嘛？我國與帛琉合辦台灣之夜 場邊驚見「操中國口音人士」猛拍記錄",
+            "link": "https://news.google.com/rss/articles/CBMitANBVV95cUxPMmZ2U3JpUlNQVzVfTmt3azFFWEtHbVU0Z0JnTlNNVWROdW1GNHVibS13RE9jdzNkeG4tclJnUXJ5eXJfdHJpdWo1aU9Sc1pnM3VkNS11UWNqRDVmcVRYSUxrUElKck5IYmhiVUdNTnQ4ZHA2dWZ3NnhIai1mLUFmZzZsR1VxQ2pHbWd1bE9SWnBubUNUYngzajN4Z0Vrcl9sZFZyUW45dWxYVjhSWURlVXhGTktiZWZnZDRvUi05TUdBSWF1aE50UnZmQ09MS1I4UUVJajJpRjhkTEU5c1RnZ3ZUdFZmRHAwT05YZUNNeGM5QXVwVEtiWjA3UE9nblpOREU3Z3lpYUtoUnVVdkJHODVGczRuRU4yRFNHYmxTU0xrck8xcFRhZHF6cVFsaWlIV2xKRkRMVVQ4NXJCSlhzVVU0eENCMERlUmhEYVpBRmpOMXdUcy1zWk5PNk93UDNsN28xREduNFczNS15bl9QWS1ncFB4ZnRMUXJqbTRldkxiSG4zUUt0T0M5N2s3SHZGNkxwa2lOQzNtR2NVQXFoRDVQb2F6amlEaC1fdl9wa25yUlBu?oc=5"
         },
         {
-            "title": "尼泊爾—西藏泥石流：堰塞湖和冰湖是下一個「定時炸彈」？",
-            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE95amlwb3dIVlE3blBPbDFPVUR6alV0R19zNktoUGlMNHNoWC1HbVNIZjFTUmtlZ1hvVUhJZ0xPb1JSWGF5YW1JTWw5ZkxJSzZXa3IwdTdobm9mekJFMC1JZUI3MXdRd9IBa0FVX3lxTE5tNmN0ZERIRndQeWxnLXhzeTYySDgyaTZwZG9ZRlU4ZU1fS3FDSkp4aUt4blNMalJrRVIzYnNVUGxDWUk5bnhRelBXVW1Eb3M4UmlpTWxZcDlCV2xfZDhDM09OVGFXVktLTHVV?oc=5"
+            "title": "(影) 中國救災秀？挖2公尺就「救出被埋者」 救援人員衣服沒沾泥 對淤泥喊「有沒有人」",
+            "link": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxPRTJHcDhFZ2NPclFEc2NhRzZyUGcyODV5azhtYVY5dEZzUUxHZDVrbnQyb3VpQmNpTlRwbmpZMFVNQzJoYVNsMi1JUE5UcDhXX1BPaWo4MmlOZDZvaVkxSEdfcFlobWU5VDYxUUxHaUUyUHBMaDNrTEFYN0lpRWhtQUNqWmRCT0o1VEx2djRwT2VQRE42ZmcwcnF0X00yNHlGaWhKSkE0TldJUGZPcS1EdV9SUmJvYVNWdHYzOWF3VnJvUG1vMVZLNnNjU0liY29NSlE4Q3dNRDR6LWJobmVOSlExYkpBV3R5aVJHTzFiRmpuQVZjT2RlSHFZamhhMmdJUHBmT3BhdjBTU185YW1fdGFoWjdweWdIU29aMFFWQkg0Qjc5aTBReXhFS0NtYTNzM2NGQ2M4cm5aQm9Hb0djZVpKVVp2dTJhZEpwT2RILXJ6LXhDU3p0akFLVUdHWUlUYmdMc1kzTWtBZTQ2UWFLbU04S2dxdmFlMGc?oc=5"
         },
         {
-            "title": "非首次出包！板橋安泰淞鶴診所C肝群聚 負責人：不至於是感染主因",
-            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBGTERwQmV2T3FTYnpkTkgwNktKU3NEdmJRYU1jSVNGZWJOOWdnanhFbGlVSU1DQnNDXzBOU3U0NGY3ZG9tV0thRjBuenA2RXVOay1j0gFYQVVfeXFMUGFMSEZodXNGX3JIajlKeWEyaDRiMUg0bi1hQUFmOWtnUUp1MUxSWWpSdnVuSWEzeGpWUC1GWk5mOHFQMnJkcUQ3MldhSS1RN054aml4Smc4Mg?oc=5"
+            "title": "颱風外圍環流影響 13縣市大雨特報 高屏大雷雨",
+            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0tc3FYc2x1bHFhN3lVV3RUSjJvZlBNajNDZ1NIWnBlMXl3a3ZSSzAyb0lzSnRHNmx4cjRkRjBJZTZXT3RJLVRaSjZJemp1TzZF0gFWQVVfeXFMTmU5Ymg1TnJoUDF1c0h4ZFp6RE9Eb2pacEdoYVk5OEFxQTVHc3NBOUoxVl9FU1ZkZXZESzU2NXo5TUxpZzdWY2xYY2wyUWYzN29Iay1KUFE?oc=5"
         },
         {
-            "title": "竹北藍白合驚傳破局？國民黨震撼回應 陳以信引藍營1大咖說法",
-            "link": "https://news.google.com/rss/articles/CBMijwNBVV95cUxPZlhJc2tZM0Q4NldBSm9CV3FEUE5BQ3g3LVYwMUIyX0Z6ME1EUXhMSUJHQUVLdnBkVnBIdDFwOS1GaTJRQ3dfdXVUMGF2OGNBa1FRQ3ItSzN5dWllaEZ0T0FOaS1zZDFvdnFxRUprd05JN2Y4QjR4c3pLY21OOE1NSnVFZzlNZmxQNHpjUmRjZXBPZkVxUnZpS3h0QThtLVFqU1l0X0FrZHh2ZDlWSE1mMWY3eF9GUGNIN1Zwczg4Z0l2Q1R4cmtKTzRsSzR6V0lpSjR0Tk5xdHdkZG12SmpxMXl0anlCRWJySENLVEQ2Tktvb2ZVbDM0bGYtTVFOOTY4WndfMklXczExX3BWWGlPSGJpR1V0VTNZU1BGZDBoLTZ5SWhBalFLbmJ6REFycFo4blBnRDFISEdjSXlOekE1c1BWNTlHdnoxOGRkS1NTUWdST1FNSVBDT21ZdHd5bnl6UENpMVI1ZHNEQXBreGJ5WlRoOFd1N09mV1pfenRfb1VYMFBSNWVkczlLR2tndmM?oc=5"
+            "title": "鄭麗文被洗臉！新竹前縣長：最大戰犯就是妳",
+            "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxPanROOVoyYjZkZjdORTlUZy0wa3Bua1ZyaTQ5Q1pqbldhYk5lOFlmYmxyYnRSQ1N1aUZPUzBROV9jZmtfZFNQMUt5UWlzWVBvX0kxQ2daYU5wcm5LVWZJcExaYmRHOW1uSTdSTHBHN1kwZ3ItZi1Cd1Q0d25oa0wySlhQR0sxaWMwUU52RGZRcUhjV2lLTTF4UUlNdFNub2xlNjZfb1RJaS1iU0NqMm9fY196WmtKSWd2WDVmQXA4Mk9pcXh4TTcxaXoxZjY4RS01MkxnbjQ2V1ZoaDU4UFo3Mkg2SllsOGE1eUZYR3BYRmpad0FPSFltVXRUVlZBWEpNTE9qRDFjOGQyRlM5aERST0hIbDhrMnVsOUlyWEdXeTNPd0xMeU9aU21sc3pJdw?oc=5"
         },
         {
-            "title": "影／勇消救泛舟客殉職 家屬悲盼玩家到靈前：看看他為你們犧牲",
-            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE41TlNIMDAzLWxwNnZxZnJaTHdpS1hRcUM0Rk1VTlZXSVJnUmNCcV9RVVBrSXpGTlVTSnNMZ2QzcV9pOUtEWGVKbEJtXzRqVkhy0gFWQVVfeXFMUEE3a0JScWxpWnR6Vk0wZFZGU080b3d2VVNFdElpNlVnb0I3VERhSWZOQ0x4NG9XSmZ6V1VEcFZvSDV2TXE5Y1R4TW9iXzVWQjBIa2VIWnc?oc=5"
+            "title": "編列6076億！行政院會拍板115年度追加預算案 將送立院審議",
+            "link": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxPaEJkZGdPMk56bUI1LVFYai1sR0RDaENrTDRTLVNBQjNDZ0I1TnJlR1RGb0NRYlNLMVNITlBLVGVuOE91U1dXTDAwRjdhd2ppMUhyNGFWX1NtQl9LVjIxcmZQSGRSeW9xVzFtRFJ4clVBSDgzeFZHaWU4T0hRWU8wVzJBRzNLRVRhTVpmbV8tU1oxZkVxNXk5YVFOYVpYSTQyOHNkaEN1SVlRU1d3ekFWdG9tZzJIOXJlbFZQT0Q1N0t5ZGNMMW1DcDI4dUY0cjdzMDZUdUhfdXlPbnExS3o2OWxGdENXX0tRZi1hTjRfa2NjNlNpRzJKZzJvQlZpSDJoN0UwQXVEUy1rY2FWQkU4dE9GcU1JWTZBdVdjSThxRW5saWhBdllVeHhNaWJFdTIwVTJndW0tanVCNVpWMmF0VVZnT0ZZX3NLaGxQVDRPVndyRllOTTEtZG5xS1pnSnRkT1o2aTRWRQ?oc=5"
         },
         {
-            "title": "有何仇怨？陳幸妤為兒討教育費 陳佩琪竟嗆是「潑婦罵街」",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1YTjZGU2VoODRLNldlN3hjRWVfNThUOHQ1U1F5ZGtoLVVYTnBlSzR5UmZYWXdWb0YwNDRYTzFHWFd0SUpMdmd3STZIVmpmOUxHXzEyNkNGRzcwelhNd2R1cjQxcjdyODV4bHfSAW9BVV95cUxOdEtCdXVGQTYzVzNObnAyZ1pfNFk1aG5Mb2tYN2RBTTl6eGJzZ21mRmVxS0dMUjB0UE1pUlBQcWNzZGlWWmp4Uy1Oa0E1SFVGR3RET1I3ajVSYXhQX3RsOERKb19iWk9UVEozby1uN0U?oc=5"
+            "title": "快訊／老媽服務處變競選總部！佀廣洋何時登記？本人回應了",
+            "link": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxNUFBfUS1XaFVlV2xWWGtQWkVZRHA0M0F0ZHB5ank0YkVnMXZzb2Q3Nlo0UGpKUmRHdHE2N25OT3hxbzZlWER5UngxODE0YnZsMTZ6MUFEb0NTRnV4R19DdnY5elZ4Wld6allVTGlIbjFvOUdHQVpZOTBxUl9FR2tybTlISDlxTzRCLXQ1aVV0WHhhRzdUZnhrcVlUZ01VdVRodFBQRmZ1ZEV2V2JfWHlINlNPU3kyZkZZX2did1lGV1A4enpHbVdaT2JocFVqOG1LWWx6M3hEZnRQZzFsRTRWUWppdzV4ZVBZWlFaQVA4UXBUQVRnaHF6WVRhTUh6R1VoVXpwb0U4WkxFQVY0ZzA1WWtsVDFQdjR2cFlBaHY4ZnVtbHB1R2I3bVB0TmZWaVZ2ODcyRFdjYXJDRFpZUFh4YWZVYWhuemtYR3pTMU5vaUlBZDZtTUZTVjZsT25UdHdxM2l1T0NaZTRuRnhkM3FLWFBFQkhELWs?oc=5"
         },
         {
-            "title": "新北民調只差0.5個百分點！黃國昌禮讓、李四川卻沒加分 戴立安揭白營選票去哪了",
-            "link": "https://news.google.com/rss/articles/CBMi5wNBVV95cUxQT0doNUZJUGZEckZZUDlQTnl5MlBzN1JuVFpEVDRvd1hDX1VLRlJ6T0xlSDdaUXdQUjliSEQ5a1R0Uks3dDd5OVhONGNBN2JoMTh4bjdmWEhES09URURyMDg2TjJSaExlX2VrY3ZPTV9YU0ZhUk1wVVhHVmIwSXlTRmVuQ20wLTRXekVLQko2UGh3NC1oYWU2dHJvS21vMVE3M1VsUXdzZ0JPSlFQV1lmclU2UU1aX2FFb1dGd285U3NBQ1owUmtxWC1FZ0dsUjhHVkhGXzB5QmNvZm1pc0xnblcwbmZQbGFCX0l6N0psSjVvd3NSR0ZmSF9lQ0tQZHZBSzZmdlNYYmhfOWtsbmRsVkhEU19xR04wVFRKVXNXN3hxV0tGQXVtejBsbjZHYjRGWXdzYy1lQVI3ZThkRWVsTHJOa2lOaHdfRzJ2bWpaTkEyRVJGcWpzbFdJM00zekJnMUtaX0oycFVWbm10LXdIdVU3bkpteWxfdWFONmJNSGlETk1wRDFxdUE1cTYxZnA2TTI2dWpZU2JfYW5Yb0taeHNqQ1ZQWDhfd1lzcDFjcVV2NE5fd0Vtd2VtQmZyTmNaanRNemtmZXdmUmRCbkZxMU1Ed1h3M3RUOURBVWRjN2ZtYTktOTlZ?oc=5"
+            "title": "前助理爆料被暴力丟手機 温世政深夜致歉：是我的錯",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5UMkFybnNtNWs5Um52YTJwSXRja3lxS1k2QlBuRmF5VzhDYUViUGxuSkxUOV80Q3Y3SWdXUkJiYlpXbWZfOVBEN3ZLanFEVW9RUGFB0gFYQVVfeXFMTlRXU3NWLWlxOW1qTG5oc2hmUlJzTzN4eGxLM1lXUmtrdHBPTUI5U0FweGFZaXg5QzUtaW1pUGVFSUdzTC1ZRDNzNWs5Wl9idElUY3dFQmVvSw?oc=5"
         },
         {
-            "title": "南部8月雨量「灌到發黑」超越紫爆 專家驚：下到發霉",
-            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE43bC1YUUJRWXY0dmNhVWdnQWpfaXEyTk5EX2Qtbk90cnlkNi1JTTM4N3I3ckw1a2ZtT3dmQjhsWC1FVGhNNVlYdmFqN0dzR0p1dU4zMA?oc=5"
+            "title": "十年來第五度！賴清德：軍公教明年全面加薪4%",
+            "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxPZ0w0RmlKQzZobDd6WnBKVjBCVFFndk9nYlhTdnN5NUdpNmV5dHZ6WmdNNE1ENThfTU1sci1nTktVSDhLRC1HZ250anJVZFg1WWQ2VnI0V2tCbTRHZE5ESGJkbVo2NFRHb1FLUk9EX0RjOHIxckticzZrTzNkUVRKVk9WVUc0UjF3NjlxUzNfTFM4RXA5NzRPVXRtNGhHS2dMQ0x4LTBuQ0diSF9zRmlVeko2T2M4dlljYVlobmZCOGFyTEtkNXZtYXNWMXFXUmxDeElDbkR2UzZzMXc1cE83bHZRYW41ZDR3WnFPY3NiYzllYldDTWdXU2R1cUVfVHhhWTVjdkNDUU9VRUpHWnMwT2lPczc3aU1tQXZ2NnZHVFZDMHRsdjZIcWpkWUxaY3k5Nk8wdnRBU2ZOTmVnOW8yazRqSDU?oc=5"
         },
         {
-            "title": "蔣家第五代蔣得聆曝光！　網挖舊文讚：低調靠實力",
-            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1CTFFFWkxsdDZjVDdnQ1d0SXZTOVNmM3V0UVdfNWR0eWpZYWFiNXViYmsxRng2RERCd21HblJONjdPcThYYkU0UEZZVHlHc2NxWjZZNENNd2hYbEVsNUHSAUtBVV95cUxNVVdZcnVzV2phd2ZjOVQ5SmFMZl81UGoxY01EM09LbUdQUVgzODFLYkh3WllMV0dOOU9BY2gyMTdjTHBEaEppejRvbXc?oc=5"
+            "title": "新北安泰淞鶴診所C肝群聚案匡列召回1118人抽血檢驗| 生活",
+            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE52SjlHNHJVMVhFQ1p3dUZpcGtVLXRhYmMxZUpzeVQ4cjlfUHhhdGNNSklBNktjeUw4enU4LTBOVlc3di0ySndFY3FxdERubjhnaHNQNS1PM1BpN1AweDJR?oc=5"
         }
     ]
 }
