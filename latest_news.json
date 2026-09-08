@@ -1,46 +1,46 @@
 {
-    "updated_at": "2026-09-07 22:15",
-    "summary": "晚安，為您帶來今日晚間重點快報。\n\n【政治焦點】\n政治版面，名嘴吳子嘉因徐欣瑩禮讓爭議，對柯文哲等九人提告，邱臣遠陣營反批濫訴。選情部分，國民黨李四川一選區驚傳失守，民調顯示蘇巧慧大幅領先，本人已做出回應。而陳時中對蔣萬安面相的評論，沈伯洋解釋為牙醫角度的玩笑，並呼籲未來注意言詞。\n\n【社會民生】\n社會新聞，高金素梅助理張俊傑涉貪，破壞電子腳鐐潛逃，已遭通緝。淡水藥師被爆出有前科卻遭壓案，北榮院長表示將徹查，絕不護短。趙建銘對兒子的言論引發關注，陳幸妤現身未發一語。另有中國女律師一家來台求援，已獲三個月停留許可。\n\n【天氣快報】\n受鋒面影響，台灣多地午後雷陣雨突襲，中央氣象署針對五縣市發布大雨特報，預計降雨將一路持續到晚上。\n\n【國際焦點】\n在國際方面，日本關東地區遭遇破紀錄暴雨，東京都發布最高級土石流警報，山手線減班、多所學校因此停課。",
+    "updated_at": "2026-09-08 09:14",
+    "summary": "早安，為您帶來今日上午重點快報。\n\n【政治焦點】\n\n首先看到政治動態，資深媒體人吳子嘉指徐欣瑩未承諾禮讓，進而提告黃國昌等九人，民眾黨對此痛批此舉挽回不了政治誠信。柯文哲被控侵占六千八百多萬元，一審幾乎完敗，今日將迎戰二審首次開庭。立院修法引發黨政軍重新干涉媒體的爭議，行政院長卓榮泰聲明他並未副署。此外，行政院長接棒人選引發關注，蘇貞昌預告某人重返院會「坐很前面」，陳其邁也鬆口回應。\n\n【社會民生】\n\n天氣方面，今晨氣溫下探十七點五度，吳德榮預報早晚微涼，週五大台北及東半部將轉雨。而備受矚目的威力彩頭獎，四點一億元由一注獨得，獎落某個幸運縣市。蔣孝嚴在和安里的房產曝光，引發其孫蔣得立師大附中國中部入學資格的討論。地方則慶祝「大象來了」全球第一百場，數萬民眾齊唱生日快樂歌。另外，一位台灣「女神立委」被網友發現在巴黎鐵塔晨跑，引起熱議。\n\n【國際財經】\n\n國際情勢與財經方面，美伊衝突有擴大跡象，荷姆茲海峽通行量創下五個月來新低，受此影響，國際油價衝上六週高點，布蘭特原油價格一度逼近九十八美元。",
     "news": [
         {
-            "title": "高金素梅助理張俊傑涉貪破壞電子手鐶逃匿遭通緝| 社會",
-            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBISUoyVjdnZFJwNjZ6VlRCbjV3T2VEdDc2cnF0ekdLOHhuaUdGRnlqaG1IeWZSY240TWNIeGFMXzNPUTVsejJiQ2xGWl9Cbl9oV1g2ZW94ZXctMUgyamVR?oc=5"
+            "title": "今晨17.5度！吳德榮：晴空輻射早晚微涼 周五大台北、東半部轉雨",
+            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBxblBhV2xCOWhCbVR5SGpHRThWLXZqVlNrTl9rb0tTRU5oUjJ4OWxDRTBBUFQ4azVvb25UOUNfYnpvM0V3ZE56eDhmTW9ZWFZz0gFWQVVfeXFMTmxaSWUtUUktTjhmbWZPemw4SGs2WDBQVFlBcTBCUm9DQjNaMmJnZzlDd3hqbmRXX0NYQ1JHUVpxZDhsdTdpX2lvMndzcEJZUkt3dkRULWc?oc=5"
         },
         {
-            "title": "淡水藥師被爆「早犯過事卻壓案」 北榮院長：太離譜！我不怕家醜外揚",
-            "link": "https://news.google.com/rss/articles/CBMinANBVV95cUxPWXF0TUhGTndrXzYzNnpzZHRmV29vSEtIbUtRZ04zYlhKRXMyYl81ZUhWRUh4aW9wS1RQSFk5SGdWc3Q3ZEdzYnNRODdxTFdXdjdWTFNXRWpvWmRHeUJDOF94N3dVS2p2eVdTLWhJVlNWWjI3NG9SNVlJbVNFY0hZaWZvRFUzN2U3TDRlRnRUQkh5WmRLZ19HUjVtZEx2SlRDSGZTd0hiZW83QU9DU2poYko0d2RLTWc0MnhSaGRHVm5WR0dhUXQzYkVDQ053MTB3ZWZjdEVWTkFsaGdkdmFOOFNCNkNJekRTQXJjRXhycXBWbi1FQWJHZEhkZDl5UDhvc1hmQjE1WWhxWHpTUi1XM09PR19NdVctWDZYdWxuRlAwRVFOOVpQLW0zd0tQMGgyNkc0U19DZHpyQ0ItOTI5bGVXd3ZZbGNiczFhc0dtRXNDdkRDREFPSHFDYUtxQkVtREt3UWJzWnZxV0g0THRhUEtydksyVWFPdUVjYWk2MkJQUUpudHc0V1UwX2tOYk5tWm9kVFFlb1FobjVG?oc=5"
+            "title": "吳子嘉稱徐欣瑩未承諾禮讓…提告黃國昌等9人 民眾黨：挽回不了政治誠信",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Ba2NJUVdMa3l1YjVrRGJXbWpkZ2duSkpKSG12QkltTWY3M1Nwb1k1WVBLMmJraW42MEdTSXlQbDF4OE5zVmZZd2hLLWVjakJaN1VB0gFYQVVfeXFMTWxlRXMxUnk4MXFGVkMxbE5mZUZvajktVTFYSUFiRko0LS1Uc0dxLTdQV3RtMjJvNkliOTE3ZmRuaVNPeXlpX3ZDaFNBbHU2eHZCZGlIX1F6VQ?oc=5"
         },
         {
-            "title": "影／趙建銘對兒說「你媽再跟媒體放話就不還錢」 陳幸妤現身不發一語",
-            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBVeHJzM1dIb0dfVFgySXJiajZhbWxLYmRwWGY2c3lPQWFHU0hSek9YZl83VWlqcERYdThCWjFMaDQ1ZjFiY1NxTDhBTkZjQ3JI0gFWQVVfeXFMUC13cDZDeEN2RDRIaWU3Sl9SZ1d0T1pTNWE2eGxZQmdtZnVnOGs0UVlvS2JrcWU2TDllOXY5eWk4Yl84Nm91a3RSXzhhdUdCdkdDZ1B6aUE?oc=5"
+            "title": "威力彩頭獎1注獨得4.1億 獎落這個縣市",
+            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5TV0NTLU9leWUxaWNGZW1WSzNYcGJJdVZhVk1zNE1IRGRxSWVBU3JVQm5nWTRIbjA2T2lWOGZGRkNReFFqMkxYbHk4R01CSzFiUkJ4TDkyODBaOWlhNjRr0gFkQVVfeXFMTVFqRzUzQWpUbGVsbnRfS3pCTTEyd2dBUG95THltVVBSU2k2RTdldlg1RXZLX2hzcjlXZ2Z0MHFGVS1WeEVlSWxaTmxmWktST1JOUmx3am8xN3J4YUY1c1NqUVY0Ng?oc=5"
         },
         {
-            "title": "快訊／雨神突開炸！5縣市大雨特報一路下到晚上",
-            "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9SQ2x6QVp2RHppUHZYTGwwZGJ1QmFWa2o0MUNLWUZ3bksyM3lMNnhsekptTkh3ZDhBcjlfYURzcGpQUFlvUzVrdtIBTEFVX3lxTE9HYzJ5dTZRaThRMTJXNlQtaEZzdE1XRUhncnE5OFh1Z0FzZGJUX3VncXlfaDU4dWtoQ0NtdjV0N2lMcFYtczFlcXEwS1g?oc=5"
+            "title": "獨家／蔣得立阿公蔣孝嚴在和安里有房子 師大附中國中部入學資格曝光",
+            "link": "https://news.google.com/rss/articles/CBMivgNBVV95cUxNMTNHSjRNR0JVYmdrZU5wMThJelJYTEdNNFF2RFR0WXdKZVNqUVBONVVDS1FCaHFSdm1uRVpCZFkwTWoyZzdGR1RfbmJWeWQyUGJfbzZ0ekdPYVNBdXh1MFJnYllzV0J2MFlGbS1teGpNUTY3SFFGSTJXYnVTTnRQV182VWpxeDdNX2ZaVkQwZnFWeWRfUTRldTJMN3NiTS1zVHdSQXRidExtbWVFN1JSaFZINld5UVJqd2NoM1FTektUcEV0dVZieF9ZRldaVnNwN0U5cUpKbUxqUC1oaEhVVk5rUVFINlBoUmpMZ1E1S0daNFV6eXNhcGtpbWhkd3ZYSzU5WWh0NmVuU251Wi1mdnZURVh3RTJWMDF3aGxiSlBvMDQyOXQyN0lqYnNKUzRYdkxQZENnZVZFYUhSQWxGY2hrUGFxeUR1RjFtMTk1LVFVSUpkMGlqT0tBMGV6QnRBbmp3ZDlGclVHb2wwYXkyUWs1WFpsazBEa2tKTGtkS19sUXNrQVhQYjhpcE56VjBObkRsY0FYc0otZGtZVmt2LTlseENjMDhpSUJMZ002RGdtMGpWM1BfUkd2WVk4dw?oc=5"
         },
         {
-            "title": "吳子嘉查對話「徐欣瑩未承諾禮讓」告柯文哲等9人 邱臣遠陣營：濫訴不會讓她票變多",
-            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB4M0dEWWtuZ3RFZ3AzNVhnaE1nZGI2LU1YWmwtYktETDVPbjY0cEo1dlZUTjNuNWppRklVa2ZCWElBNzc3bzVxV3A4N19Ob3Z1N1Jr0gFYQVVfeXFMTS01ZFFtWml0bzg3MDE1d3hHc3VSTDBva3lNNmhwenZOUUY5U2QwdlBmVl9ZRHFUREVjWDhQaFFFZmxFWU1vOTlzclIzVGhhYkxEVTNjYThhUA?oc=5"
+            "title": "〈能源盤後〉美伊衝突擴大 荷姆茲海峽通行量創5月來新低 油價衝上六週高點 Brent逼近98美元",
+            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9qeF9aZE85WTRKUUdqbzhwRW10UklEczFnQUxzZ0RkY1Vtb1I3V3BQU3lmcnN1SjZoVUZJc3pZVWdvWHlXVjFYbncxY0NqTDQ?oc=5"
         },
         {
-            "title": "東京都發最高級土石流警報！關東暴雨破紀錄 山手線減班、多校停課",
-            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB3MENsRkstQXFLaHVsLWdXeno2dG8zOXZmWjZCVG55Z3hoUDNrZWdQQUp1eXo2RWtQemV4SzFZU1ktTE5zcnRQUnBxeEtOQ2M?oc=5"
+            "title": "慶「大象來了」全球第100場數萬人齊唱生日快樂歌| 地方",
+            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE44RWk2OVJXN3FrU0tXZjRrQ0hNdktWZHNnR0xuWjZWOW4xUTRYdFEyMkk5NWFDeUJCaEtJTjNJQlo2a1g4cF8wU2t1TVFmVnZzdHZpV1pZb3NweUFCV2xj?oc=5"
         },
         {
-            "title": "李四川1選區驚傳失守了！蘇巧慧民調大贏數據曝 本人回應了",
-            "link": "https://news.google.com/rss/articles/CBMigwNBVV95cUxQYndWNkVUaThLMWZZU0JsOG9fc01oY19wTWM3aS10ZTBGMnVobjJCcHZVZ1hsZjFEYXVRUHJ5azkwN0ctRjFTeUFyY2gxSVd6QlBoSE8zTW9XTFFEWjV6c2tRR0RweTFrSXk4VWJ6ZHRTaW4xTU0zZk9lbW1ZLTNrN3oxcENMeU1Ha3pPRFZSc0tsVXZyd1hkTmkwN204WjZ4Vkp3WjZDR2ZKOWVFRG5TZ3BpcEUzMmFPZktTV0VKNVd5RHdTSVF0R2paVkVPTThlaXp4ZGlFSi1mSElNVmFOQV9vai1GdWVjVGdOcjFnTDY2OXpyVWhIZmJfUWFPZEtCODlzVE9KR2dLRk9IS3ZKcnk0TzVVcHQ1U2ZWbmh3X2JlTU5NTVh4VEluMW1OeHZQZWlRNHpIeHI0dTY2UXRmTDhnaUJ3cTJZYUJ6OFQ1bnRBaEhyTEUyV3VmMm1YQWx4UmdkWWM1S1hTNjZkcmlXR3plUW1DZDIxMEcxYlJobFV2WFU?oc=5"
+            "title": "被控侵占6834萬「一審幾乎完敗」！柯文哲今二審首出庭 先迎戰政治獻金案",
+            "link": "https://news.google.com/rss/articles/CBMioANBVV95cUxNUk15c1BlLS1sRHhvS3lUb1ZJWUQ4R1k0cUhTZE9fcHJkeV94eVpUQ3k1cllNR2cza0FlLVJqcFlSTlpmdWJZWFdPeno4RVdhWTJfZXFuMU1oU3MyQkVOZ0RwQUgwbHlpRFV3M2VYUlp6aWpnOTc4U2NGVWhNZ1ZHbWtxanZOVXhaMlBmUGo3NWZRVnhTNFN5YVVYSmVIYjlZYVlUT21UdUVOeTNmTjJ1VGk0MXd3MmRGek0tQjhLc3VPLV9XNWpvSG0wOVJ5MElqSnhxNDJiUXM1TUMyR2JZTHl4dEMwbkl3M3d3MDlUY3llalY2WGZnZnoySW0tSUVyVnVtN1pFQTAyai13bWtQbFdtQWplVTlJeld2N0h2QWNlQzBpNUR0QmNjOVFvWWg0QVc2YTEzUEd1dmZXWTRqNjZnSWxnbnVQZTlvcDlmeHBnREdNQ28tY0owNnozVG5WRGEtQWhTSFdScEdvUXowbXBKN2JpaHYtVFZCVGV4QjhXcWl5RmdzeXJUNlZoZmtKWW0xSjVwLXhDUDFPNjZ6QQ?oc=5"
         },
         {
-            "title": "蔡英文現身庇護工場挽袖打蠟 喊話別等逢年過節「同情消費」",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5SajNiSU01eU1zejI2bWxtdXk3aUdaZTE2MTR4MjdXQTFRWS1PeXZicEZFMzI3Qk45d2s0LVVtZk9sY0NIRE5FQ0M1WktSYTRfdE9POEZZSEd1MHY4UXJUZ2NXdWRBbUJ3VXfSAW9BVV95cUxOdWZGYU5zWi1lX0lBVEdRZEVBaEpwZGlSVDlpaHhLOENjRWlqbHU5WGxtdnRFZS1aREk5N1pzaFZBSjJDeFlhOGdnRk9QcVQzS1JsbEp2azdYSzNaaElXd3FIdFNuTTRHdGRiRnNYRE0?oc=5"
+            "title": "獨家／接棒卓榮泰？蘇貞昌預告他重返院會「坐很前面」　陳其邁鬆口了",
+            "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1XZXhmN1NFZ1k4enR0TnpVVm95RHFuOHowY1QxeUlmdkRvcjF3YVVwNkw2R2ktN2FBT0wwejNObk5xQkZjWkhnU9IBTEFVX3lxTE9GQzh5MDhsTnRUZ3ZQcGlwVjhjVXp3cWJCQnhPbzFJajFka3IxRVZtcktLVDBxZ3NIV09Tb3ZuQVE5c1lMSk05M0g1Rko?oc=5"
         },
         {
-            "title": "中國女律師全家逃來台灣求援 官員：先給3個月時間停留",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5VVnExZWZPMnRfVXZIeWJCUU9LSmsyZmRJbWFpb3ZOUFBIZVpJTnQtTlJoT09SRldiN0Jtd0ZXYWVtTkVYcGlaTFJubklidWNGMUxtMUJ5c1BJZ1Juak9IaXNtZDVHR0lIVlHSAW9BVV95cUxNOTBHR091UTkwZDBfUnVGVGRlaTRxU2hUVEt3dFp0OUhRR1RtRGhjYjhWZFdvb3dSd0Rtd0ZnNE1yMVJNZ0RzX0ZoNHI0cUI1N3JlZUtxRHktOWY1MldlalJRbXVQMDRNbGhGdUpadUU?oc=5"
+            "title": "立院修法讓黨政軍重新干涉媒體 卓榮泰：很抱歉 我沒有副署",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5NbjM0b0JKb1hRRGx3OWpNN1BtWFlIVzRWNU41M0VJbjBFZkNCSDY4ZXFNTDhIM2QtT0N5R2ZqZXhQNFhLU0V3WElLcjg1VEpCNXNkcmpOclBvM2JBbW5XcHpMbTRQcFc4clHSAW9BVV95cUxPSzJueFdpRDl2WmNmLUVjUlVzVlJWc2FXLXF3S2YwdlprWEhjVlc3SWd6OGN3cE1xdEs5NUREUWM5VnRDZm1yQzZsTlcwY2VtV1FRNi13MUZIRUk0S2Q2WEFtNUl4SFhlWVVEd2VsOUE?oc=5"
         },
         {
-            "title": "陳時中暗諷蔣萬安面相難看 沈伯洋稱是牙醫角度開玩笑：未來注意用詞",
-            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE82bEE3MWRncDZWMHY1LXgteDNsMU84NWZKWEI5UlZVblROcVpRTUluYURaTURYWmRCS0hSdjdxWmZPZ09UOEJ4aE5KTld6X2x4dFgw0gFYQVVfeXFMTThYVFlHcUZPUVpYWEZ2NTU1MG8xeWVSb0JXQlVNelcyUTA5OEY1U3kyLWFGdTFIT0RoTTYwU21JUk9MUVluYlptd2RhZ1FfN2xqSVBZLW9lQw?oc=5"
+            "title": "白皙正妹到巴黎鐵塔晨跑 網一看竟是台灣這位「女神立委」！",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA1M25nOElHVS1sLXFoYUtNZkh1aGdoRkk4ZHZRci1qWmJWYWlTNm9uT3FsYjhseVUxbTdkaG9hS0YzcWNIQkJyU3RjZHZQRExYWGlzZjVnTkRJMEVGUG82RzJjeFcwZTl6S0HSAW9BVV95cUxOaEJMUGRJb2tOWU1FaEozbmxiSjVSenota2FVMzUzb1BPZkdqSmhkVVp6akE2TzhscUNJS2dwTnNzV0tHNk5YbnY2c1h3bHowX3JzY1hYdjl3dHRxb2ZoYU83VWVpV09wWWFGUmdvRzg?oc=5"
         }
     ]
 }
