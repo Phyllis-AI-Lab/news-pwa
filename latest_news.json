@@ -1,46 +1,46 @@
 {
-    "updated_at": "2026-09-10 09:04",
-    "summary": "早安，為您帶來今日上午重點快報\n\n政治焦點\n國內政壇動態不斷。九合一選舉將至，美國在台協會處長谷立言示警新型態AI認知戰威脅。前總統川普則點名我駐美處資助反川智庫，引發關注。監察院針對蔣得立交換生案致電詢問蔣萬安，蔣萬安回應「君子坦蕩蕩」。同時，黃國昌感嘆國民黨在立法院長選舉後，利用完徐欣瑩就一腳踹開。總統蔡英文也親赴庇護工場洗車打蠟，展現力挺弱勢的溫暖一面。\n\n國際情勢\n國際局勢方面，中東火藥庫持續升溫。伊朗飛彈連番攻擊美國軍艦，美軍隨即反擊，摧毀五艘油輪，並高度警覺中俄兩國可能暗中協助伊朗。\n\n社會民生\n社會安全方面，震驚各界的賓士男二度輾斃女護理師案，起因竟是將對方微笑誤認嘲諷，警方正深入調查。而天氣將有變化，好天氣告一段落，首波東北季風發威，北部清晨低溫將探攝氏十七度，週末水氣增加，提醒民眾多加留意。\n\n科技資訊\n科技迷引頸期盼的蘋果發表會登場，焦點落在摺疊iPhone Duo壓軸亮相，但標準版iPhone 18卻意外缺席，引起市場與果粉熱烈討論。",
+    "updated_at": "2026-09-10 15:19",
+    "summary": "午安，為您帶來今日午間重點快報。\n\n國際情勢\n伊朗飛彈報復美軍基地，傳A-10戰機遭擊中、F-15輕微受損。此外，川普幕僚據稱已心累，不再勸誡其「放飛自我」。\n\n政治焦點\n行政院針對「國家機器查蔣得立」一說回應蔣萬安金句。藍白陣營要求法案補行副署，卓榮泰總統一律拒絕。而力挺陳幸妤的活動在阿扁故鄉加場，吸引800人擠爆現場。\n\n財經動態\n台積電營收表現亮眼，股價卻「不動如山」，引發網路社群「委屈到不能再委屈」的熱烈討論。\n\n社會民生\n台灣人口危機加劇，從全台減半至超老齡化。大巨蛋驚見老鼠闖入，迅速遭球僮專業壓制。同時，入秋首波東北季風報到，今晨低溫探18.5度，週五將迎最大雨勢。此外，高金素梅助理疑棄保潛逃，千萬保釋金恐遭沒收。",
     "news": [
         {
-            "title": "街頭短暫交錯「微笑被當嘲笑」！賓士男妄想被針對竟二度輾斃女護理師",
-            "link": "https://news.google.com/rss/articles/CBMisgNBVV95cUxNVXR2RkVMRlh4MDdYNy1peWZVNXBhRGFZamNDOE41ZnoyN0JUampFSWlBcE8tV0paMW95b3ZyeEpaalBwOHYtZTZmZjhVcjFUS0NyRDFEU09sdnBLeUJyR1BiVVJKY2R6d3JHcGJwNWVHQnlIY282SmtJbkhCcWpBV3JfU1laQmNUUUcyamdUSlFKd0hGVGlzM0pQcnlsVzVwbkhDb0F0X0Y5TWdjN19ROWZLZ3VGYWlzdFd0djVMbC0wSElac3BpN2JvY0FQYVhrbHVTcE41VGZ0NWdDRzVDeXdvTUJJa19oeUZuTjRIS2ZkRUw3NEpiaDlkSGVWdWdxU1FBdmphb2tIVV9KejZqOVp4TUZLNC1TQU5FTVJNNjYteUdtWWQtbk5VbkJvYW1RVV9BanJWa19CTzV4bzVITXVIRk1CNC1Pb0RJMjhjcHplRnI0dmdGUlJkTldmSEpBOU5pMlNjaDlDaERSc0pKWXRqNXViLWRwcGxmSUxpM0tMc2pEZVZrcVlZRTI4RUR5NUtkc3prdTE5RmM4SUlucjdyZUx0WWhnemtGR250SF9YUQ?oc=5"
+            "title": "台積電營收太狂股價卻不動？網喊「委屈到不能再委屈」5大熱議一次看",
+            "link": "https://news.google.com/rss/articles/CBMi0ANBVV95cUxQVGJVeTZ5YXhqN3FTd0cya3h0cGpzWDFWNWFpZFp4OVptMUtHalpTZFl1dEdON0NKYXlLbTl4dnpoTjZKSEw3eU1VcEkyMllZeFMwVF93MHVFOGdqM2FqTUZyYVVtU01MWUZEOUpmcGo2aHczYjlsM1FRaHpreHczM1JRS2tpdzRKQ2RQTjByb1BNSF81V2FpSUpRaG5vdXdsZlI3TjF3aTlya1dPcGZZenI2RmIxQTJVcDhwaVVCS0VNbE52SUdpWHF4NEVmUjZCeWNKczJiMDEwVGhVc3MyVk5mNlBzQmdPTVFGT2xnSzVPdlJjOVNldkhWb3pkWnNKYmdKcFlDWjRSaUpsQXVIWk5jRV9qM19ZYWZPOFdIWEFlUzFGNmtIZjB4X2JHWVBnS1NEOThnaGhIa24wRWFLS1JYdk9yNmRZR2pLYzAxSlJUeHMtZE9QQkRjTm81WUFjQUgzdk9kN2ZqVjZ3d1pnQUJia1BzMlVjRU4xSFdzRGc1V2ZkWWZ0ck91UlVPaVVBZGdhNV9GUHByRGRBdUd4ODJ0WUoyYVdUbTZGdjZKYkgwQ0s0UE5lTGtBWE41ZWZsekR1ZTBpX0xidVZlTkdIcw?oc=5"
         },
         {
-            "title": "伊朗飛彈連攻美國軍艦！美軍反擊摧毀5艘油輪 警覺中俄可能暗助",
-            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE90Y3lYeE5RR3JIYVhKWFJkUEdXMm1PZGVoX2wzOEt3U3Z2LUo1elF3bThGRnJwdThyckpjYk9NcFRwYm9mc1BPWC1XUzMxYTR4bWNB0gFYQVVfeXFMT0l5T1pUSFBRSml6c1Zrd2IwWnNVWTdfeGdFdDhPN3R0ckVwSUZOeW14M01MNHdFM29nNHlJYk43ZUpSUE9naTExZkZMdUpldDZoMjNzZ0c4aw?oc=5"
+            "title": "伊朗飛彈報復美軍基地！CBS：A-10遭擊中少一側機翼 8架F-15輕微受損",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9VQ3FnbEZXQW4yX1BNMnlzVG5HUzZSaG5HU1lKRkVxQ29XS3RuN0oyMmIzQ2szb0pBa0RhVGNQLUpvWS1HdFNBZ3FqVTdqclRTNjQ40gFYQVVfeXFMUGtpelRhR2JldUtWV1k4bkJvWi1Xd09rbTd0Q0hHbDFpdUlLaFo3Rm1GVDhvT3FWM0Q0Vm9lUE13V2pjdi1HUXBraTVQWk9RTjdpdWdDNWZmRw?oc=5"
         },
         {
-            "title": "蘋果發表會一次看！摺疊iPhone Duo壓軸登場 標準版iPhone 18卻缺席？",
-            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1OLVFkZ1pWdF9TVzNGOFE1TUhzckZFRFhVdjRmNnZiMFpTOFJmZ0gtejF6LTNlWjNKY3VOQzhoQ1FJUjM0cXRmQ0NoS2FZVzQ?oc=5"
+            "title": "讓川普放飛自我？幕僚親信心累不再勸誡：何必呢？他是老闆",
+            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1hcTB5bnZPX2dfMUFlcDRJQ2F6S3cwaXJmalA2SFJUckJ2cmJiYlF2Ty0ycTgzUXBSVHA3Wm9ieHRYREVZeUNWRFlFMGE5YlBI0gFWQVVfeXFMT1dMRmp0WUo0Yi1pYTNNT0tMYVFRNWZHQm5BY093Q3JyTWtEOGl1anhWRDloWG9kcVBBOVUzcXNJRzZrcklKUVRTTGlGMEh3R2x1TzBfZHc?oc=5"
         },
         {
-            "title": "好天氣沒了！首波東北季風發威：北部清晨低溫探17度、周末水氣增",
-            "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5aUWpKNk50OHhPdmtyTmN6M1dnOURkTzNiTUFFdlJ1bm5CQzdpd3RqdGFDdnJycjB5VG80T3FyMTlZdjBXMmFvTE42QUHSAVJBVV95cUxNNklXc2txZGd4MXJITU9HRVd3TmJhUnptQm9keXBGdmlad29tbmR4RUROUzNNeTVJU1BIb3gtS1NoXzJWZG9DTmlMbmlMczY3Q0tB?oc=5"
+            "title": "消失的人口！從全台減半到超老齡化 5張圖看懂台灣人口危機",
+            "link": "https://news.google.com/rss/articles/CBMigwNBVV95cUxPbHp0c2d4akdmdE5tYmZxeVdxZkJhM2ZWQTdKM3FXdkJrZUF0bnllVGJLeXlJNzl5RW15WGhmTHplVnpfSjhReEs1elEtX1NSdUo0Sm9YYWgxYVB4Ui0yT3dkTlc2NHBYUHN5X1N4MWJIdFFCb1lOLVdlYlpLM29yQzJZb3JkYllQWkxZQjVzSHduaHlKVzZtY3pZUGtDck1hNm11SU9YWXRyRUZ5WXV0cERXQlM1Z1F5TmYwVmFFQlBtVlhyYXNVX2F0a1M0bVpIV29RT1VpLXdYZndxQWdwR0w0VUlKRFNhUDNRaWxRUzZjekhmTDhvam1JQ2t0X2RHbk9hdGxfMDNsdHU2QlQtOW5oQ2F3am9hdlRnWHBpdUxCMHIyY1ZYTm5FcENEMFJRcU16SHQ1TmJUQ0hNRm5jZWVBZkdBdGFaQVplVVpDYTByUV9qQmlBMlNJZTZhM09ISThoTEkyUl9lZWJCcEJkT2xqb21iZVRzZ2d0SEJ6blpVZkk?oc=5"
         },
         {
-            "title": "爆徐欣瑩民調數字「崩盤」 黃國昌嘆：國民黨利用完我們就一腳踹開",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB1aElaNGpWbWgzRmdkU1MtODBPeWp4N21DLW1VamY3bDFId2d6UkNWTXVTTXZmcXdGYzF1LXRrSTUwU24zQUNfaldBNGJhWS01UzFWZU5sQ3gzSm5BeXRETktuZUptdFBlZFHSAW9BVV95cUxQWFNvY29pOGUzcVJBcnkwZFI3NENQUUpKaGYyTDRoN0ZNOENLV3lLYmExOWtLS1JUUXJNNlB3cXV1VERlanVZUE1YUnFYWGozV2dTaXdlSnNWNGpxQ0xsbU5LZmt5ZW5WWU9yMlBZZms?oc=5"
+            "title": "影／大巨蛋驚見老鼠闖入！慘遭4球僮快速壓制　後藤大讚：專業的",
+            "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5QRVlFMkNMdmRqbm42TEZaLU5RUC1ENXVqb2I2elFhb3RLbFV1SnNCelNhS0oxN1p6anBFWXY2SDRnRHUwUy1TaTBwOEnSAVJBVV95cUxPaDgxRkZHb0ZldWJ4d3FOS2Z1ZThGVGdaVnRjQmVpVEM2NldGNWNjRm1Remd6bVZ2RWxqYWVjeXJUN3d5UUJWQ2tJbm00U2FKR1Jn?oc=5"
         },
         {
-            "title": "監察院致電問蔣得立交換生案　蔣萬安：君子坦蕩蕩小人長戚戚",
-            "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9uaFZWdlhhbmZUaDBHUHZ2blZBenhPdUp3OHJDZXl4UzVCU2cwRXQ2elVvN2tiV3VSenRwTmFDdDlGVXhNRDhqZtIBTEFVX3lxTE05NUNzUU9iTTlpaVVBUEZ5QVgwcVpaQXBISUd4YmdpcWZ2OVUtOTJnUnB6QzB3MWg0YnkxUHdnV1FKYXE4R1RCcWFXbUE?oc=5"
+            "title": "入秋首波東北季風抵達！今晨低溫跌到18.5度　週五雨最大、雨區曝光",
+            "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5pVVU4ZGo4UjVmdWtKelpVMEtYajk0LWtpOTlJV0NXaFBUeHVkYy1wREwxY2FxbDJEQ2JFN3kzTXlzWklxMkV0d9IBTEFVX3lxTFBxbTZhQUw0aXZJVmFiQUZFUWZKNm1qajFpbDFBaUt1c1I0dmxsWF91WGV0Nnh5ZmY1bmVfaEhEUVlSRXBCNk81OWlnRG4?oc=5"
         },
         {
-            "title": "布克獎執行長親送台灣驚喜禮！ 楊双子與金翎疊影藏深意",
-            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE85NVhNc1NyMDdvQUpUeW1rbk9HWk90VTRDNmYyZmVjRWdHdHVCenR0TjN0aGlrNUhiaW9GNmgxUWQ3Q1FESHUyZDhCR1RXaUZkdkNzX0w2YUc1eTVOb3pzMNIBZkFVX3lxTE8zMTFQSGtFOU9HLTFaaVZGcktmSFo5THdPeTdLcG4yUVdwX2tBUnZvMVQySVluUmlMTTJzUVktT2ZNOTNYZHZYT0tLUDdnd1p0LXExR3FTTEIyWTdTVTU3VXJKcnI5UQ?oc=5"
+            "title": "國家機器查蔣得立？行政院回送蔣萬安金句",
+            "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxNUmlYWXdjYnN4TUVXZ2ZWVGJyaGJUWUxTX1c5STgwUGszMUhFQjQzd050OTE4RURCUGdraXgzYWVCQkk4WXFrUEVzYjktZXhva2NNV291TWFWRjJ5MEYwM21WQWltMDAxOUdWTGpwRW5lVEZwY25kVDdtNlZFOGlwSjRCU3RITnEzTzd0ZlJKLUZWb3RLcjlPRGdCbzFETXlBQnBFcW5UQnFGenpkWHh4SDUtb0lOTW9EVnhQWmo1RzJhYkxrQmhXT3BBa0g1QkFtdWg1ZXV3ZUZZTl9ubWRlV2ZhbzZEODJPNUpXSXRxblhrQmJhRElKa05weFg4MkN4M2pPNG9ISHVicHdnWF9GYkk2d0hYSjBzTkpCR0p5U2I5NVNTUEZCc1N6ang?oc=5"
         },
         {
-            "title": "川普點名 我駐美處資助反川智庫",
-            "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOd3l5YmtMSHNqaVE4MWdOYkdwNlkyb19KSEc2S1dYYWhIODZRRXQwdG5EMUFIT04zaFYyaGgxZzZuemJVSlgtckRxT3BxVVhNZ252MFl4dTZFY0x3TkRqTFI4MENyNURvLWRBbjVpM2lYT2M3ZHh3SWJha2ZhcVlfVGU1WXFaUHFXQm12RjB6S3lzQVBzNkM1Ti1rUHJUU0p6NDNIZHpZNEN6cUx6U0hvcVQ3MTlkUzRlYnpYbXVwVTNkZTZJVDQxam5CcWoyd3hlSmFFdXZpb3lrMTdZUXdqaTQxbHZzd2dZcDBySFpvWmZqRDZhc0ozNlUzQTM?oc=5"
+            "title": "高金素梅助理疑棄保潛逃！要沒收的1千萬是張俊傑「本人的」 外甥女：不知道人在哪裡",
+            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBrVG91NmQzY01yMEEtYmxQSU9hQ0pGczZBSF9FdEJLUnVBdU43Mkc0VlFKampicURpUUdYbHRZM2VTcEFUenJkVzJuMkl6NDUt0gFWQVVfeXFMTWVKNkItWFJtOU1jT1R3NzZfZ09iNDVPVVJuck9GZjRFV0VYNlF0QlF3S0cyWTJMLU02RTFiZi1lQUlHT2c0Nk5XVktYTzRDQldhZHJMWEE?oc=5"
         },
         {
-            "title": "九合一選舉將至谷立言示警AI新型態認知戰威脅| 政治",
-            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1wSjRiNFNWOG91N0JVNS01OFBMV2szbXlXUUNKajU3X2lrdkQzcEo1TUNxaHVQWHA4ZWJzOURUN2lxLTFtbGt4ZTk1M1hKYWM1Mmx3NVFNQXYwdzZ2SFJn?oc=5"
+            "title": "藍白要求法案補行「副署」？ 卓榮泰斬釘截鐵：沒辦法",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBNajBwcGxOaV9sVVZNMG1UaktVUWZMZERiV2hvTmxnVjQ3cjVRYmxmWENmUkJEMDlQV2NhQmZTLXZUUm5McUNzTGhrQmpGSGttMjZNZk13b1J0NF8wX3VRWERhbkpYQkFLTWfSAW9BVV95cUxOUTBZY2w3ZFBaT1F3N25qSWlWd3JJaWs2TFRfNC1pS25MVVMwTHRxcUoxOHh4bUdxNW5VNi1kNDNCbDFpTU5MTHg2eE1PeUd1RUpsOFVpU0pfdXgwSVdscEpPQ0lQMFVnQUpicGxGYk0?oc=5"
         },
         {
-            "title": "力挺庇護工場！蔡英文「打工畫面流出」親自洗車打蠟　嗨買一大籃麵包",
-            "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1sNmVybm9pVFZ0R0VnLWdKOTZkaHdkTm5zX2pLWFgxb3dsZlJjalRqTWN1bjFGN2NtSWszOXVoZFVPMGwwRjV0VdIBTEFVX3lxTFBCa0diYXJiOEtfbTJDWEFmQm1tNjFVaUtCRnJUTExueVNBZnJJQldKZXN3Z055Skt6YzFOcEphLW1jeEtDdlBIZExGazU?oc=5"
+            "title": "力挺陳幸妤！鍘美藝術節阿扁故鄉加場 800人擠爆西庄：很久沒這麼熱鬧",
+            "link": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxOZ2Z6M19sVWpxTTd3Z2lZYzZKNEprd0tBMXdCWUtQakVNelI1eUowSWxIMV9XQlB4NDJ2MUZXVnVHLWpjUDJDTWhTdDI1djRQWmRlbjRXX1V0SmZadXVaNlFaWFJsNEpoQ002ZWZYQ0dEZkJmLXhWb2RFTXllQ1h6QS1yb0cyUk9FWVBsek54LTlhRm1OYTY5ektUQVNZQlR4RHV2eWhxczFHTDJNVjQtV3JJb0JFWDUzeHFScUxGOWI3NGlVZFM1LTFzTFpnbGZVcmh4c0lZd0t3LTE2bjh1d25GRDlDRDVJVGRhM0ZfT0tjLVM1UHQ2OWtxSDRiVjNNcmlVM1ZxQzd6LWRmZmJxRW1MbGVBYnFYdFMzcEtBWTZRUEQxdWtQSkxuV2VTNjNpekJkSERrSlZhM0NBR0h1THVVT1c4b2F6blVXa1F6cWprOGxZaXU4d2ZFc2FzSzA0ODFyMkFqUWVxN29hT2VQNl9kYXhxS3NQanZyZjhSeTBuQ2c2Qk0zTjlzSUJCaWxqbk1wQU5uRjc0YkVVUHB3cldpSDhOQW92WW1F?oc=5"
         }
     ]
 }
