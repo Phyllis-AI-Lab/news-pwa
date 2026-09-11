@@ -1,46 +1,46 @@
 {
-    "updated_at": "2026-09-10 20:55",
-    "summary": "晚安，為您帶來今日晚間重點快報\n\n【政治焦點】\n台灣高等檢察署偵辦共諜案有重大進展，確認張俊傑為共諜，並聲押高金素梅的兩名助理林怡君與陳智葟獲准。台北市長蔣萬安針對綠營打蔣議題回應，即使重來一次仍會讓兒子赴美當交換生。觀光署出手管理赴陸旅遊，引發外界質疑政府為何懼怕人民赴對岸看看。此外，立委沈伯洋「市長給我聽好」貼文吸引上萬留言，被解讀蔣萬安需更加重視。\n\n【國際情勢】\n國際新聞方面，伊朗飛彈報復美軍基地，CBS報導指出，一架A-10攻擊機遭擊中導致一側機翼受損，另有八架F-15戰機輕微受損。\n\n【社會民生】\n台北市中山區驚傳地基掏空意外，因鄰房建案施工不慎，導致一處辦公室下陷逾1.4米，所幸無人傷亡。另外，總統蔡英文重返台灣大學上課，成為校園熱門話題，「同學」蔡明忠也幽默發言引發關注。\n\n【天氣資訊】\n東北季風一波接一波影響台灣，預計明天北台灣與東部地區雨勢將較大。氣象專家賈新興也預估杜鵑颱風可能於下週生成，其路徑及對台影響仍待進一步觀察。",
+    "updated_at": "2026-09-11 09:06",
+    "summary": "早安，為您帶來今日上午重點快報。\n\n【國際情勢】\n中東緊張情勢升級，美伊海上衝突不斷，胡塞武裝成功奪取摩卡港，並劍指曼德海峽，伊朗也擴大荷姆茲海峽「禁區」至阿拉伯海，區域戰線恐持續擴大。\n\n【政治焦點】\n國民黨立委高金素梅前「大帳房」張俊傑，涉嫌收取上億元中資，落跑前轉交的隨身碟在立院被搜出，引發高度關注。台灣人口已連續三十二個月負成長，國安危機隱憂浮現。台北市府證實，包含市長兒子在內，共送四名雙重國籍者赴美留學，引發社會討論。此外，地方藍白整合問題持續發酵，新竹與竹北都出現分裂跡象。\n\n【社會民生】\n新颱風杜鵑預計生成，未來一週全台將降溫並有雨勢，請民眾留意天氣變化並做好防範。",
     "news": [
         {
-            "title": "張俊傑真的是共諜！台高檢署急收網 高金素梅助理林怡君、陳智葟聲押獲准",
-            "link": "https://news.google.com/rss/articles/CBMiywNBVV95cUxPbGtxQlZtd0tuTXlvaHRkYzU1c1E1UVpOLWtHal94ZXBkY0VEc3VtU2V2M3B1RmRYTUh2U2hDRERxSFFkTC01MlpkQXB2SEZGMVV4eXE2TFY4MllicDg3clVzUGFrNWJXSzB3dEI1ZjZDSkl2bUhScl9ra2E1cVNLSnowc3VWOFpkY1hmenJLQ3RtU2h5MHVNTGxQU29hX0pkRkpKVkZITF9ncVFvN0JfQXdqMFNidmF4WVBOZ0d6VXB6ZW9IdmlVbDI1OU1VZFo3czVmTHpoa2dHSkJNYW50VzJXWDF5NjVZbjEwbW9MU0JjMFJabElPTHFxR2EtUi1HckpwWEhnU3FpckVpYlItaUwyd0pTRWN4VnRwUUhaUjZMaHRpa0FkOS0wQmlqdnFiSER5aHdIMnNXSDFSWGFrWURxUElVd2lpLUNiT1lYQzBweFZzb0lONnVmZDl5UDdfQmE4cGJRZmVocngyaWRFUWxLa3o5YmZoSWJUendkMzFScHhTajNINDF1Y1RuVUlqR0NTMDU5XzFnQk9KRlZGUzJJdk5WdjhWZW9KcDRBdVZqdkw2aGYxQkFlUEV4OVVkYk5IVC1qUWRhZUE?oc=5"
+            "title": "美伊海上互襲 胡塞奪摩卡港、劍指曼德海峽擴大中東戰線",
+            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE44QlFlc1NrOGNpRXY5aXVkdGd6NVBsZTZKNTMtLWpVdjQtUzNFRDJ2ZkFvd2tkSXhldGxjUUEtRWlmN3RMMVVXQ196THZldGs?oc=5"
         },
         {
-            "title": "圖看降雨分布！東北季風一波接一波 北東2地區明天雨勢較大",
-            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5yRWNwU2xRQlNCZVE2VVY5NHNkbk1Rc21WMjBTUjFTZEk1bjBUUENoLU9xa3M5dXpuaWFWR216a2ptSS00YW1VMkFsYU5jbXlm0gFWQVVfeXFMTzlRR0VNOThZcVJOM3luaXJXTVAwNG80Zzdtc2VCLTMteUFhelVSRFFFZzJsdWpyVjFBNXRWRkdRUkJLTzVTS0kyMUE5OG4tZDk5dzB3d1E?oc=5"
+            "title": "國安危機 台灣人口連32個月負成長",
+            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1rNXZvc29iQ28ydjl2Ukg0SXhqQVZnMzFQc2hYRTFSdEg4WFFUeXJvdXBtVUxlaDIwT1FDcEtqSU1GbDQ3Sm9QQVRDSGlyU0N40gFWQVVfeXFMT1paRnZnYk1GTjNJTnpSTDh2WnZQaUd0S0R3MmFzZUFWRTF6bV84eGR6Yl9TYXlKYUdSY05pMG1qdU9PTTYzNmMxMlFOajdkcjVKS1hxNXc?oc=5"
         },
         {
-            "title": "民進黨全黨打蔣…重來一次會讓兒子赴美當交換生？蔣萬安這樣說| 2026九合一選舉",
-            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE83c1ltOU93dWRlZ1ZaMWlOWEQ4ZDQ4S2t4NlZrcFRiOXVkczhOem10S3dXVGNyTTFLTHM1TlI4dUtsakZjblFud0d2X3VTeVdMSW5JdlV0V3A?oc=5"
+            "title": "「高金大帳房」張俊傑另涉收中資破億 落跑前轉交隨身碟在立院搜出",
+            "link": "https://news.google.com/rss/articles/CBMipgNBVV95cUxPQ1JxQ2pCc3ZPTDYxQlJibGRRNnFUczJMSzZISEc3V2hBVzhnVGlUd2RiQmF2QjRNYzlwNFhkRUtqcnU2bmpsV21UNGlUQWNpaEdKNVhEaFNrSkNUY2tHZmhPS3I1YU1oRE4zSk5tN3VUMUxXUlBhdWNKTHhPa3FYYVZLaF9mRElCanByVVVKb3ZXTnRzVkNlMEdDS1hmYnI2SGZsUURMYzhJZWM2Q3g2SV8zRS1KR0xtdEg5Y0pmcFhKMzJ3ZVRNcE1GaXV4QlJWV29qMmFlQnhEcHdtaGhtRGJkWU9pbENlWm5JR09CMVVEbl82WEc3TDJ0WlpVMnVYQUdPUVA5QnR2ZFVfbTEtLWpMektoOGMxR1NCYjE3VjlVd01rSGJHUFVfSjVrMjZ2TGx5VHJVSEo5MHRhSUdzbFhibWZZQTVJVGtjdVN6V0ptQ0FCSnlXa3NWNlR1eHdzNWZVdjY0VzVJcnVxWjRGZXVJWGJFdlhuZ1ZpeEVfXy0yaU52dVZkeGlWWHNFakR5NF84M3pYTkREMjRqSTU1UWRvMjlxUQ?oc=5"
         },
         {
-            "title": "伊朗飛彈報復美軍基地！CBS：A-10遭擊中少一側機翼 8架F-15輕微受損",
-            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9VQ3FnbEZXQW4yX1BNMnlzVG5HUzZSaG5HU1lKRkVxQ29XS3RuN0oyMmIzQ2szb0pBa0RhVGNQLUpvWS1HdFNBZ3FqVTdqclRTNjQ40gFYQVVfeXFMUGtpelRhR2JldUtWV1k4bkJvWi1Xd09rbTd0Q0hHbDFpdUlLaFo3Rm1GVDhvT3FWM0Q0Vm9lUE13V2pjdi1HUXBraTVQWk9RTjdpdWdDNWZmRw?oc=5"
+            "title": "明天的天氣/新颱風杜鵑將生成！最新路徑曝「全台降溫雨下整周」，直到這天才轉晴| 蔡惠芯 | 風生活",
+            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4zNmdQZ1JCZWNBcEdNcWJIWDdlNlY4NlZZVFhudDdaRVE3UWRsOTZPUmRIamFhR3ExX0JGOEVCSDVOLUdxQnI2QWpmMGhmT0x2?oc=5"
         },
         {
-            "title": "興奮死了！蔡英文回台大上課 「同學」蔡明忠先喊：她爆的料都不正確",
-            "link": "https://news.google.com/rss/articles/CBMinANBVV95cUxQVERUV01tQmFqM0pyRnR3aUs3QVA5SmhvRnl3YjNWY0l1UjZCazZYdkxyWDl1aWxHcFhwUDJKQ0pubmEwcFRqOU5rcFlCalgxd2Y4dUJrUFBEekJPWjJwR1hVNkRFdDB4NUtOa0d4OTl4Z1NzeVJ6NDMtMjZPMHFyR2xPS3AtWTdaWjNwRnJaNXhHaF9CMkNiM3Q2em5CeGVEa0RKOHVLbmpyY3UxbzNfUHRKcUY1aC1ia181Zm1iQTMyTWEtc0xmQWdkM3c0dTNXOGl6eDl0MkNfcWw4UHBUQ3ppT2xkMzBaQU9rSW9qbXdwUGVDdTJBMGxiNVRlYV9rcVpJMXlzdXlRMzd4R3lzQlVfQXgxTEZ5VWtjZXZlYlpkMmdKbk5Fc1lwZnVmVTd6U2padm9GN01zT0JpS1BUTmt4bzdzWDFZSGJzZHlkaWNyd19BUGNORDBPd2pxamlvMDk0Q3l5YUtWbGtlTkhpOWw0VDEycUFwalFUczV5VDltQzNPcV9qb1k2V29KRGg5QThvZmVPOEx4cnpU?oc=5"
+            "title": "新竹「無意綠白合」…黃國昌轟鄭朝方家族：光電賺飽飽",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBMTnFmMjRvYV9qUkRWT0lkNno3RWYwLTkzZG5BZE5mbkIxbnBDOEZkcXEwQ29mQXJpcU9Wa2doRS04cWxMdlEzbzVsMDJqZGlOZ3dV0gFYQVVfeXFMTzV4RkVqTXl6d0Jid3VudGt5VHNHVWROTHlxN0gtSFRBLXFDNG5aN0ZhMW9VamxmeUhZLVZfa3NlQklhaERkVTktSTVnNkQ4U3B5WlNZSGRKYQ?oc=5"
         },
         {
-            "title": "快訊／北市中山區地基掏空！鄰房建案施工 辦公室下陷破1.4米",
-            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBFRGMwT2gtTkdjUmtDMUM3R3ZadjdGVnZmbjh5bmRsWnh4ZDctcTlZU3czT29scjRPdnRQOVRfYThTcE92NGN6NjhiSmh0QVk?oc=5"
+            "title": "伊朗擴大荷姆茲海峽「禁區」 延伸到阿拉伯海",
+            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1JVElOSGI2elBXWmFKQ0FnSy1kYWF5UGpqWEotUExWU0ZiTE5JeDFHYnFTRThkZ0VEWDY4MmcxeTNxYWl5X0VFOHphb2VhbnpiVHNaV1RIUXU2YS1BXzlnV1FheHJkUdIBa0FVX3lxTE5YaXlvWENPNWVqamUxZUo2dVEzeXFjOFNWaExPa2FESW45cFcxMjBLbEo3a0o2Wm51a1lVMHR5T2UwQjVVS1MzYVlqVGpjQ1BPa0xwcUVTbmczWlVfaWpQbGdTUjBQWGhwbjBz?oc=5"
         },
         {
-            "title": "【重磅快評】觀光署出手管赴陸 為何政府怕人民赴陸看看",
-            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1XMzMya3VqaFhJRTdZWDQzdzM0ZW5zOU5aVncwcl9taGdwbkdFVkhqd2ZsSnRGYW12eTctUmxBX2lZLTBnbmtIQ3A1MWg1Smpw0gFWQVVfeXFMTXZhVWYyNEsxcW1WX1NUNHFha1lkUnpNSm9IS1ZKaDNFWGtlRGF2TXBuRzlJZHg5YldKUkxiN1FtRTNRRk9aRzZ2RWVRcnJiN2xfQ1g4SEE?oc=5"
+            "title": "王偉忠讚沈伯洋選情順 指蔣萬安議會質詢「都快昏了」",
+            "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxQazA1TE1pNVFzU2pFUWtwVndOSWNubTRDVXRuUEE0NTZfX2M1bmxDQzcteEpEWFdYODRYdlRBLUZQQUF2TUdDUjFMMGZiX1B1Ukc3WEhYT2FSczNqbTZjLUF6NjdnSUpWQnBFRnJDaWRjLVZPTGJGZ0xTV1VHbnRnYXFYM2gtRU4wOXFyZjdVSTluWTVmVS1yNHpBRkJDblpNNURVYUlEMU42UlpMcjV5RUYtQjRna0I0YklJYlVqSmo3eWNkNFpnQ1RDMDF6SXRzdzJXYWIxa0tYWXBjNU5NQlV4dWtwUm5SYlI3czhTbm9KblVOZTVfc2tKSXNyaTlNUHpUVW5mNTExcHlNS1RibG5ncjltdzVTcHlqVk1UZzhEQXhiZkNzc21yZ01Wc2huNjZYMkFZUUh3RkVXcHpoOGhGdmFkWWVCMXhkN2k5emF2TjZiUXJKMkdiNU1SQQ?oc=5"
         },
         {
-            "title": "杜鵑颱風估下周生成賈新興曝路徑、對台影響- 生活",
-            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1mNWY5VGYzOU5jc2R4RnJfUmtUM0tiV1ZQQzRwRjFuNm9rcnlIVFVMcEtJWGtuMWl6dW1VYWZVTi1rSEV4MFp4LWtxQ3hVeVJsb1JVNWI5Y1J6RUVLWGEyaG9IZDNkRFNwTHlqSEVB?oc=5"
+            "title": "不只蔣萬安兒子！北市府證實共送4名「雙重國籍者」赴美留學：有美國、加拿大跟瑞士| 張大任| 新聞",
+            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5MWno3Z3FNTmdVMEJtSVdnYWotaU9nOWpqdGZfalNxdlhpX3g5T0hsUW9wcGhodUZFUTNqTC0tanNNeGZyQ18zVjgzVXM0QQ?oc=5"
         },
         {
-            "title": "沈伯洋「市長給我聽好」36小時吸1.3萬留言 周軒：蔣萬安要緊張了",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5hd09walB4N3hMYjllaDRFcEVCb0ZYWmxYQXA2ckRWX253ckdkTzZJSVZUSlNubkJzRWNHR2N5MUpxbDc2NmdpSVRfa0tyZGwxak1SQXRuc0d4YmdwVDljQXBLZ25ZQjNuckHSAW9BVV95cUxOS2dFRkJiTkxKc1ZzcUtMcVNVdVBJUG9sV2VKSmd5NUd2WlA2bk9icHd6X3lHZUFvRHJ6RHhBV3BYTE9YQUtJVGR1U1U2STVibEsxcVJVeEpETkUzLVJjNlRjRnZBOC10UFlEdXpnbTA?oc=5"
+            "title": "不挺魏平政卻見卓揆！王惠美深夜曬協謝衣鳯拜會照 藍營支持者炸鍋",
+            "link": "https://news.google.com/rss/articles/CBMisgNBVV95cUxQNnQtR242dmRGd01NSFJVeWtHSWdDcnNLYnFVbnZaWFF6anM5U1NVSzVxYUh3WlJoeGhpMU0wajd4TmRyYUtqNGoxZnBaOGFkZ3VrMWg3TDNSdzZ0SXNDZzNxRmpicnJpWUE5QU9xRUt5Z3gzWFRObVViTmFvUlFSb0lxcTJOVG80U2l6em5BOVphakdvd3Z5QzF6d1ZacGFJRDBhdGQ0R2VhMXpoTTNWdVU2T0lfQkt2MnlpcUxTSTdyMW5TcDJCOUVHbVVxWkNwT3h4THFiT3JCdXJCVmYwZmlGcFZLOEpXU25LVWNWT0NTV0ZRSWlfbkUtdUU4aUNEVHB2LXBQRXR3SWZBZGZTNjFYaGNKVHdheldKaDB1ZXh4TkN1Sks3OTk3Wm44NkdXMDJ1Qlptd21NMDB1LUJ2VDk3eHVUWklxU05nendZTEcycVVVT21QQnlVS3psRHJyNlhSdUY4NUYxUlhIaXk3WnliT0o2ZFo2TGs2TTI5UGIzYWtYOXhaeVY0NnRzX3VJa2J2VFdibm56NEZ6Vm44N2JueDdPdFNzeUFvNHdLWDh0Zw?oc=5"
         },
         {
-            "title": "「支語警察」越來越多？梁文傑：對岸鴨霸行為所造成",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5xUmxpZlA5M0xNR19rUUV6VFl5ZTRYdHRFdXlMNlI1ZXlPMUsyeHhmNjViTmtlQjdvZm5QVG1hTVVQS0dQc1J4cGR5OW1GU0hvM2t2MWpqejV2YTVRd093emp0dUU3bUF2ZmfSAW9BVV95cUxNVUY2SXVJTmp4em9MajFFRzNtQjVRbG44TXJXVFRVSlIzRnl4anVpTGktLWFpVVFsYnRQY3ZwWmdiTkNnNDNyZFQzM3BHdjN0Uy1wMDF1aXpiZlg1ZHByVmJ0TVRhSnFpY3FhTmRtQ28?oc=5"
+            "title": "竹北藍白分裂 邱臣遠曝陳見賢私下提醒「你玩不過這些人」",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1vVUJhLXVQd200VWhGUjdEWEYxVkdzcS1LdzVkUGdDbnJNdk5URHhueUE4RC1ybDlySzdLR20zX2h6dmdBOXhxX0cxVEQ4VzJiUDJj0gFYQVVfeXFMUHZPamkyRkphNlltUW5aT1BfM1ZmY3owaUV6dVRsVzNoN2tjc0djQjlrQWhrYkNCOGZhTG5UTk0wdjYydzBqcUhEVWtGVlNKNDA1SDdQSkJSSg?oc=5"
         }
     ]
 }
