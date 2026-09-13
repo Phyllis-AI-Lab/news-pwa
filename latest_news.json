@@ -1,46 +1,46 @@
 {
-    "updated_at": "2026-09-13 09:01",
-    "summary": "早安，為您帶來今日上午重點快報。\n\n【政治焦點】\n國民黨新北市長侯友宜在板橋造勢，李四川力挺高喊「新北要兩顆蛋」，展現選戰氣勢。前台北市長夫人陳佩琪則針對賴清德太太的公眾角色發聲，引發網路熱議。\n\n【國際情勢】\n國際方面，共同社報導北京威脅美國若批准新對台軍售，將取消高層會晤。歐洲議會副議長則反擊中國抗議，宣布將接受蕭美琴邀請訪台，強化台歐關係。立委沈伯洋訪日穿防彈背心，透露自己遭中國通緝，凸顯區域情勢敏感。\n\n【社會民生】\n天氣方面，東北季風持續影響，下週降雨熱區曝光，中部以北日夜溫差恐達七度，提醒民眾留意保暖。台南「作十六歲」成年禮等在地活動，帶動當地民宿住房率飆升五成。\n\n【社會焦點】\n中天電視針對周玉琴事件再發六點聲明，曝光兩段對話紀錄，駁斥賴岳謙說法。高金素梅前主任張俊傑傳出棄保潛逃，接應司機陳俊翰遭羈押禁見。驚悚社會案件，小三替人夫開槍射正宮，預謀犯案情節曝光，令人髮指。",
+    "updated_at": "2026-09-13 15:28",
+    "summary": "午安，為您帶來今日午間重點快報。\n\n【天氣焦點】\n今日全台高溫預計飆升至36度，提醒您注意防曬補水。然而，明日將迎來入秋第二波東北季風，氣溫將有變化。此外，氣象單位預估下週恐有強颱生成，目前有兩條潛在路徑，請民眾持續留意最新氣象資訊。\n\n【社會案件】\n震驚社會的夫涉嫌教唆女友射殺妻子一案，女槍手今日已移送。涉案的丈夫與小三已雙雙落網，目前雙方互推罪責，案情仍在進一步釐清中。\n\n【政治焦點】\n前閣揆江宜樺提出警示，閣揆不副署是當前憲政體制最深刻的危機。總統賴清德日前酸台中市府，市長盧秀燕則回應，認為總統頻頻關注或許與2028大選有關。立委沈伯洋在東京路跑時身著防彈衣的舉動，也引發各界討論。而在高雄選戰方面，有綠營人士表示已掌握私下狀況，最新民調顯示選情競爭激烈。\n\n【國際情勢】\n根據CNN報導，曼德海峽失守內幕曝光，顯示美國與中東盟友之間在事件處理上互相指責，形容是一場「史詩級的搞砸」。\n\n【民生福利】\n好消息！2026年全台重陽節敬老禮金將陸續發放，全國22縣市最高每人可領到七萬元現金紅包，詳細發放金額與資格方式一次公布。另外，政府也放寬四項條件，多項福利每人最高可領六萬元。\n\n【地方爭議】\n台中踩舞嘉年華近日引發爭議，有市民批評活動封閉街道，導致交通不便，且表演內容被指稱主要服務官員，而非廣大市民，引發民怨。",
     "news": [
         {
-            "title": "東北季風一波波！下周降雨熱區曝光 周四後中部以北日夜溫差恐達7度",
-            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE40VUpqUFpyd3ZNamtnbUFXWGhOdmVhMHNWRTBoeExsVHdnSjN4NjVCUGxQZVRvc29tWWZpQUFKbHRsdllmRVpqdkNGek5XNnVU0gFWQVVfeXFMUDBiSW9iUER3ODIzc25Za19EUG9qd3RxUHAycF9BWWxkSHk2TG41VHliWkpLQ2hXQ3JjWC1wZmlFOFBDdG1OdFpZZDc3RFg5cFE2OGZxLUE?oc=5"
+            "title": "今高溫飆36度！明迎入秋第2波東北季風 下週恐有強颱「2預估路徑曝」",
+            "link": "https://news.google.com/rss/articles/CBMilANBVV95cUxPMUtuVjJOQU5iYTdldy1kOERYdUVSVEVmZjRHOXVHSDhBWF85YWIyeF91ZHg3RTBfS2ZMQmhHTGhkU011SWNhYzQxN2wtczhfVzcyc1BqbVJXRkpEQ2tvV1VmS0dKSWRaS2poaUNPS0pvd0JSdlY2V19GbXFoQk43R1FfNmJUNXg4VVBDbnN0UTlMYVR3TmZSV0VWM0dIVG1BOUlLRHBLY1NsczVDWFlSd21HNmdzRURlWVVqczk5UXFBSGE0R0RyU0ZPTWhTd1dEMEJ6TE51NG9KSzVRRFFlaHZQZFViVVRPRmxKSTlKWDU2enlvY3VJUUpoWldjNXctc2JoMFN1NXZQbjh1eUxuZVhHVS0wcTNjbHR6RGwxamtXRFlGVENuTlF4UzNsVEdTNUFEcWRsamJ0cEUwb0tBb05MMzRSd09XeFJRRkNqeThQZWFCWmZJVFNVZ3M2a0EtR19PakNFekJZbmRUNkVVaHgwNC1OTjdiWi1IZWhHNEN0c0RnMWRlS2hobU92ZEtqR0tkdA?oc=5"
         },
         {
-            "title": "板橋造勢湧6千人！李四川喊「新北要2顆蛋」　侯友宜力挺：比我更會做事",
-            "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE8ySHc2RU1RdHF5MGp3c0lBSUV4VUJENXdUd3kyNXdqWkNGRUFkYzdrbENvNEU4VVZNUWFSUW12TXJHZHozQUtES9IBTEFVX3lxTE95Vk80eVJRSHlMaVJyUFZqZWNYdDh4YkRfNFFUYUhXNmp5TEJZTkJmVDllRUJfZ2ZzVWU0R3J5aGR4a1dfblNwT0VWTDE?oc=5"
+            "title": "夫涉教唆女友射殺妻子！女槍手今移送 夫、小三落網互推罪責",
+            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5kR2p0MGNnMXo4MnRqOVdGX1U0Z1ZSZkUxRDRLOFcxZTFTV2ZmZlRySHJ3WjRKSmpZaWpfb3hqVUotR2Z6a1hlcHdaUmRlSUUt0gFWQVVfeXFMUGs2OGRFdE4tM05BR05zbThaWDlfNjZyaHZDYUFaUEpVMkJJMmJRTXVWelJPdlUxZ0NtU2JnT0hvdGwwWkZTYTNocVNkMDlEVGtxV0dWMWc?oc=5"
         },
         {
-            "title": "中天6點聲明再控周玉琴！曝2段對話紀錄 斥責賴岳謙「謊稱被退通告」",
-            "link": "https://news.google.com/rss/articles/CBMivwNBVV95cUxNQWtZTF9hdnQwd3BhcnRMSWd1X0NBcjdDU0pLMlBjOVNmSG9aRk5QT0I2clE5V1M1aTdGSThIU3ZGTVdsMzZ0YTJ2M0JiMEFzZjdLSFl6WV9qLWh2OTdidVJfZ01sdkYwdUg2dGJKbkFaazM3eGhOUzEzdlBOZnZiaWFaMVZZOTNRRzZoeUt3cDl5MXc4TG4yQW5DaEFqUFlGeVJ3RTRkTjdVbGc3Q183MXQ1cmZwb1pDU2NpR1dOQkRPcU1xWkhUTU5HcGwtV0NUWS1nVHA5QmFFUy0zelZZb1AzTVRSWU9reHhYVXpvWWE5VWsxaDlGQzluLTZTM2oyUS1WcGVKcE14SXNBT1lENFdURXIwZzJlbEd4dFJIN285ellfMDNYeXVmYjMzY2VHYnZvd0FmQXJCV0dZcFF0aEZXSVMyaXN5Sk1tSXRPMHhwaW13V2xKRmt5TXcwM0gwUXRENE8zSDg2QXd2OUI5SHNUSTlJWURmOFZ4c3BtN0M1ZnNmN2JOSl9oSTk0N0szTkVnOUktRktDTjB0d3VNZDhyZjBCa3huU0Z5YkJMSUdLTF9oUk9ILVRpRFFUZXM?oc=5"
+            "title": "沈伯洋東京路跑著防彈衣 粉專酸：青鳥心疼淚目 網問：演到國外不累？",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9UeUxOamZYWnVwNndySUFtRXE1clVHTmxLUkR6Q1czZVgyV0ZpQ0YzaG5tNmRVdjV1dzd0Vm1Wc3ZIbzZxNl9RWDloYk4xQm5Od0JR0gFYQVVfeXFMT3FnT2VGai05WkZBQVdTclNkcWFuNDJXeXFZczhjRVRmN2hRbHZQbGpXeUVkOVN5RTgwbEpwbnRMeVJGUnF3VHRMY0VwOW11MHVPYTBSYjg0eQ?oc=5"
         },
         {
-            "title": "共同社：北京威脅華府若批准新對台軍售將取消習川會| 國際",
-            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE41LTNFRFEtdjB2T1lJdHBmTFVjaDFzeHdOTExSMTRyWU01Vm9VcTJjUlVKb1BUcHdzYW5GcEgteTQ5aFhoWUg5eXRZLUg4cms4dlczaVVJU29JdTJUWnZN?oc=5"
+            "title": "史詩級搞砸！CNN曝曼德海峽失守內幕 美與中東盟友互怪豬隊友",
+            "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxOV3laOWhndTV3cmxnN0U1a1hLWkxaRUtzR2VwdlotM1NTdnc1WkhsdFFDUHZ0SUN0TUEtWklfZzA0TFhhZ1drSjdKYlM2elQ1WU5qMkFjNHdramZpM0VVUThWWkJtc09GQ2xGNzE2bFBlSl9fYTJuMHJnQi05MnlJX25wM1piMnlmTjNCTUpjLVpjOW9yX3pjME5MeWRpcjJHZDhXQlJhYWo1bXpWZU5uQlJKNGpzQUNBaVJfbTlOajZydnhfYzB1bHQyTzdaaGxDVWpyTEJvZTJuOTY5RnBudEpqR0J2WmdsS0pGTm1aTDFjMHBNWmo1cDlPZWhZU0hpUnN3bGQyaF9VUGpwQkNQSWtudkprbGJTMm9UMUpyRHZlQklLTXE5aFA3Zm9YcXgwX2tMNzVFRk4zYVJ6OUs5bGl3djgzcXAxeXl3dF9taFNxbEU0LVBIc3RrVk92UUhZTFpIeHZfc3F3MmQwSDRMREd3RVVzbUhnTDJpMGhSbnNTN1ZqTHc?oc=5"
         },
         {
-            "title": "影／訪日赫見穿防彈背心 沈伯洋「我被中國通緝」：出國都會穿",
-            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBKbzBreG9Lcm5UWk9XR2pHTDlpZDNCSFZnLXhWMjAxUW5XRjFrazdqZ0R3ZXpvQWItYkZ3Z29ndlpfOWlmMUxnUVZMek1pQjdMekpZ0gFYQVVfeXFMTWdXUHdjN2V3emdwNWthcko0VzU4bG1lZkFQb2I2S1l4UmVYS0wwSEU2SllTU0cwSV8zZE5ISUdVMEVDNnYzRUpnU1FrUGwxM25JcjlYbHZMcA?oc=5"
+            "title": "2026全台重陽節敬老禮金來了！每人最高領「70000元現金紅包」，22縣市發放金額/ 資格方式一次看",
+            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB5SVM5djVqOUxNaS1oYkY3VnFlaVhsWDhKU1BwcmQ4d2ozeVRtX1NKZUFaT2NxTTdlVFlSTFhzaEUxMmc1M0dTMW05QVJ4THZN?oc=5"
         },
         {
-            "title": "高金素梅前主任張俊傑棄保潛逃 接應司機陳俊翰遭羈押禁見",
-            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5kaVA2eFEwTkQ3ZW9xbzU2YjM0QTZScjNSemlyWHFWTk41OUFKbGsyNV9pMldnTXhQcVNvX2hjT29icmx5UTkzSkJzQkU3Z01f0gFWQVVfeXFMTlNjanlQdnFKNHAyMXhCMF9ua1Q1UEhIbVNyMXFpVlhONkR0MVhnazB6ZXhoeXpGN0R3VUZQRG1rZ0RGSUJnMm9peExMbjE5MndZbUJhRUE?oc=5"
+            "title": "發錢了！放寬4條件 每人最高可領6萬元",
+            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBzODdfN0VidDBUVU54aFhJRlgyZVF3OEZUeklJb1RWc045Y2JrWXYwamdYdUNKVE92QW9MRjV0Qmtvbzd3ZWxKWmRVV1FXMXEwcW5RTg?oc=5"
         },
         {
-            "title": "鍘美節夯 台南民宿住房率飆5成",
-            "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPT1FEUTBEMXc0bDkyWWZVYW9PMkVfU1VBUHpoRjgwVjZNSG12M0p3cGI4bkMwSkV3OTViM2tsRk5lNkd5T2tGVUQweGFlSUM4SWRkZG1rRk11djBLTjBVS0laY01uU3NZcFQ2YXU5QmpBTHZ6NjBReEdIM2xqQllhck5fSGZ2cktaRDU5THVxQ2s5Rzhla0FiMzJ1MmltMjUzX2lUbXNMWXVOTzlVbUwtUlVkX3pmUG5HNHp4WE1zNFFxQkNIZEw5bjE3a00zYmYxQnFxVTFIVzREbmkyN1VmdXZfOUYxU05NSjJ3LVc4cVBzUQ?oc=5"
+            "title": "憲政錯位…江宜樺：閣揆不副署是目前最深刻危機",
+            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBhZ3J3QjBNcTR0RDF1aEdvdEJIZkY4cUpTaGFuN08xbU85ZE9pNzh3NjY4UkRFRXcweVY4U1NkSVdZWW1uU3hTRXhORUFoeUt00gFWQVVfeXFMTWh3RkJaRWpnSmhJaE1oRXo4UXFfQXprVEl4X2FuRzA5TlQ0MlYzLTJCMnBOMEZkUVNnZDc5SDdmakFEQkJKUHN5bXEyNVVoMkZpTS1GLUE?oc=5"
         },
         {
-            "title": "教你怎麼當第一夫人？陳佩琪突轟賴清德太太「躲在官邸靜悄悄」 網酸爆",
-            "link": "https://news.google.com/rss/articles/CBMiqANBVV95cUxPQjJGdUdEVUExWHVkcU5ndW1SZk9EbXd5blFxRDhqbEtNMjJOc3c5Y1N4QUY2WE5OcW96el9URE53elQ2TkVIQ214ZlkxMVpqZ2NQY0ZCR29fbjV6Vk14T0hWVC1kNXY5dEVKbS02dkU1V2lsRzl4V0kySy1wOXVvb1VNdFFEV21xUmdSSlIzR09PV0xpZHNhODlZeFFwOHdvYkdXTHEwRzBxRjNLSkFadHBZTTNtOFdLNTlyZ2FtMG9qMUp2RVJpdEV2RERHQmVhZjc3UU40NUxzZC1sTmZhbHlnUVNhWG1NWHVfakt3dW5FUmhQYjM4RHZUQ2VnNGYtTTJ6aWhud09wTE9UMy15NXdwWVhma2lBY0YwWFg0V0twUzI1SXZRMDFhY1FITTNDclNiZU5ZYkpMa3hNaTlzS2RBT3pTY0FUV01kZ0tHX3ppRzZHWmQxNTVmQkZ0bHpCV3VEaldLaVRtUWxmd2VLaUkwc2ZadmFzSVVGRjNqSVYwQjRJd1NjbktOeGdKZTB2cWlacjBpbV9KUy1SWXNUcF95MkRKc3J3?oc=5"
+            "title": "總統酸中市府 盧秀燕：有人說賴總統每次來只關注我 因為2028",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9meElibktxdnVtaklfYzJDSGx4Nm12Njc2d0lhVGdZcVVENXJRazVYUHdsM3k0SWxDczNKOG5adDRSTXEyN3N2MnVmRnZxOHpzYThj0gFYQVVfeXFMTTlhNlVyRGRQRDFJZ05fbnpUcEw4QTVLQ0V1UGNZaG5yN0VtWXVPeEhzRThqZmpoV05HUGNPWTZvZUk5LWthSDNwaWw2SjU0RUZfNEstU3VYaw?oc=5"
         },
         {
-            "title": "反擊中國抗議歐洲議會副議長：接受蕭美琴邀請將訪問台灣| 政治",
-            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ENC1YeWh0VmNYQlVYbHh3UllKclpzWnN1Rm85TmFXeExCS0hnVzJINlhWM2VRYS1nS0lORk0yakNFYmJXX01SX1plQkdGc1B4cWNQNWZtZkxIOTRLdldN?oc=5"
+            "title": "高雄選戰到底誰領先？賴瑞隆爆「私下掌握狀況」 前綠委看新民調：恭喜柯志恩 | 李瑋萱 | 新聞",
+            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9XdDFBQmM1VnBJSWNMZWhMcVJaNURFYXdyOEZNLXdBZmRrbV96NXR4WVd2V2Z5OTh5ekhfTF9MNmV4WC0tMmdhRlZ5dUFYdw?oc=5"
         },
         {
-            "title": "小三替人夫開槍射正宮！怕被斷金援 槍藏絨毛娃娃「事前蹲點」預謀犯案",
-            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB5YXQ0VE5fWjkxeUtCNndCM2lOZmNvVnFuX01icUtkUUNHd0NsNGlOeE5JbWsxYUZuZGdMUVkwTl9mRWRtUXBESXpmNTZpaDY30gFWQVVfeXFMT29wVThPTUk0N0pGdU85N2FadzRlRU83bUVqZUZXMjhDSDN4dlF1VjQtTnJjX1JIMzE3Tk85VE5CekxJeFhQV1BZYUlkOXVFMV9QVGt4NkE?oc=5"
+            "title": "台中踩舞嘉年華爆爭議！市民轟全街封死「表演只給官員看」",
+            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9iYkVtR1RDNjJ5b3g1enl1d1NJUjd5OF8yUDBidmZyZGZmb0t0Vi1lcVRINWRGaGZvTlRlWm9BNjJQZGJ0UlduQlFhR3o5S3V3NFdMTlpQbXRQcTRiYjVZcmdRSk7SAWpBVV95cUxPcTFVRHprSkFqZ210eUQ5Y0RrY2V6YktzSjRDMDhmTEF1cXNhZFB6d29VRVRPUnJpbVdRX09QaUtpUzdHdndURl92LW9YZ1NBOXhad2VVSnJnZWx1TkZ5STBLWk9XZXhOUnFn?oc=5"
         }
     ]
 }
