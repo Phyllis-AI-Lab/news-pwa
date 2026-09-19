@@ -1,46 +1,46 @@
 {
-    "updated_at": "2026-09-18 20:58",
-    "summary": "晚安，為您帶來今日晚間重點快報\n\n【政治焦點】\n\n立委沈伯洋掃街時，有民眾舉牌「我是中國人我選沈伯洋」並合照，引發話題。其專訪也吸引超過246萬觀看，獲于美人肯定。然而，政壇也傳出涉貪醜聞，謝典霖父子因涉嫌公款宴請遭收押，鄭汝芬則以百萬交保，檢辯雙方都擬提抗告。此外，北市府被指禁夜市「洋流」標語，引發綠營批評。更有評論指前行政院長蘇貞昌不僅鴨霸，更是司法的特權幽靈。\n\n【國際情勢】\n\n在習近平訪美前夕，國際間高度關注台灣議題是否將成為白宮宴會上的「菜單」之一。\n\n【社會民生】\n\n不幸消息，一名新加坡遊客在台中行人穿越道遭大客車撞擊，搶救後仍不治。而文化活動方面，台南「鍘美藝術節」登場，雙神一同觀戲的彩排畫面曝光。另外，台北市動物園竟傳出黑猩猩逃獄事件，長頸鹿因此拔腿狂奔，畫面令人稱奇。\n\n【天氣動態】\n\n杜鵑颱風預計明天將轉彎，週日北台灣的降雨量將會明顯增多，中秋連假期間的天氣狀況也提前曝光，提醒民眾留意。",
+    "updated_at": "2026-09-19 09:10",
+    "summary": "早安，為您帶來今日上午重點快報。\n\n【政治焦點】\n國民黨謝典霖父子涉賄遭羈押。高雄選情緊繃，總統蔡英文憂心。立委沈伯洋掃街時，民眾舉牌「我是中國人我選沈伯洋」引話題。\n\n【社會民生】\n共諜案張俊傑潛逃，涉接應軍人獲交保。高雄班機鳥襲延誤，百名旅客受困。全台秋老虎炎熱，中秋天氣、颱風杜鵑動向受關注。\n\n【國際情勢】\n彭博報導，美國擬延後對中產能過剩關稅，為川習會前美中緊張降溫。\n\n【兩岸關係】\n曾遭中國關押的蔡金樹臉書發文「我回來了」，「台灣間諜」事件受關注。",
     "news": [
+        {
+            "title": "影／張俊傑涉共諜棄保潛逃…現役軍人提供車輛接應 檢方諭令5萬交保",
+            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0yR051ZXlISmFXWVpOWHc0dWIwOV9xMkdzUTlVX1FYXzQ4RDl3cDU0SUYxYnVLN040TEdlSl9lMXJ2d1FKM0ROYTZwLXFRZVg40gFWQVVfeXFMTVd0bEg0VjhNNi1JVTIzYjBjSVc5LTQ4QWV3ZUE5bVZyTURncFNod0JwTlhjbjJHTlpuaS1jUUZyeE5UMXRxU2ZoSUtDQzlQWGFDeWlmLXc?oc=5"
+        },
+        {
+            "title": "獨／高雄飛澳門班機遭鳥襲延誤 129名旅客從下午等到天黑還沒飛",
+            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5FVTk0N1FTRGgxVDlxX1VoMjVhMVc2c1JwU1o5VWRYM2dMbVVxY3Z4NTM1NURETGdtYVM0Z1ZLM2p5MmZBek5rTlA2UEdrSWhL0gFWQVVfeXFMUFR2YVQ3dEdWM3A3VGNpM3cxdTkxWXZ2N01ZZExKVlczanBSdjdseVlKbFdXVFRrSHNGSXBGNVZxZnowVXEyMUR6QjNTRmJJd0NjcUV1NGc?oc=5"
+        },
+        {
+            "title": "謝典霖父子涉賄選遭羈押看守所編號曝光 宵夜嗑泡麵早餐吃光光",
+            "link": "https://news.google.com/rss/articles/CBMipANBVV95cUxNX2hfUlB2NXQ2LWNvenNHa3BTeVZvZzdPU0daUjFUWlNraUpvaTMzQWJzOFp4SWo3QjdMSEtGQndNN0JGOEtyTjRIaXRLNXVZbkJnYS1CWGlpQ3dncFJFMGt4dTlDNjEzMl9udExMYTdOQ0hObkg4SjlYQmFKMkZFZXlmS1lHZ0V6OWxvUlJJZ0hhYThBMXVtOThSblFWU2s5Wmt3SnE5TzBZaTRta3dHYlc0a1lKdmZnSUp2aE50WDlsV21aTXRSUTBOVVVzTW9SZk9xeWxoY2pmcHV0cHp6X0NFNjNIaGxDVWNHeXNPUF95bnhsM0lnWGp3b1l1RkM1dTNFX1I4b0NHdVhQSndFbk9IcElWWFJ5aW9EZUlKZUZ6eTFseFV1dnNDRHZoVXJ1MW94NElHU0tBMldrb1ZnNjloOHdkMHhWamtRMlhldndSbjRsV0x0VEI1dVhvdjhSZ3F1cUdSblUyR1NXekl3NWFfd2hYQlIxaFlvSlc5c2VZX1E3Wmk3TnVqSGE4bVRWVHN4cFJxYUpKRzJUQ1Z6c3ZNd18?oc=5"
+        },
+        {
+            "title": "秋老虎報到全台熱翻！下週杜鵑「直撲日本3地區」　中秋連假天氣曝",
+            "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1vYy1YWmVBVnRpV0lleUxXU01FX3ktR3NrOVUyVFVnZ3dxZW1BR0oyaC1YVnZUVlFwb0tra0xhQ3VHRVdlZ2RCRdIBTEFVX3lxTFBvdWhYMEZMVTJNTHpjWUpWZzhEVDlFLU5udWl0eDhoRnRsVHE2eTRLUGNTRUhVTXJXOUYtdENzSGhxOFJZVGl1MDJ6M1Q?oc=5"
+        },
+        {
+            "title": "川習會前踩煞車！彭博：美擬延後宣布對中產能過剩關稅",
+            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE53ZG1sTjVFMkJFMkJ1N0lSVnRMMHgxdXpDdHZGbS1kdVprRzRGYVo3WndRMTBHYmlFZEhPam5NQVlKV3pmbVhCUEE0UDh6WDF40gFWQVVfeXFMTVFIUjRvakpDcGRsUWs2aXhlM2NKNHFPN1RXQkYzRV9tQ2U3TFBTX2dLNkpCU3Z4Y0xSclNKM1RsZ1hIeDBTX2tfYXluaTJRcm9FekhSMVE?oc=5"
+        },
         {
             "title": "突破異溫層！？沈伯洋掃街　民眾舉牌「我是中國人我選沈伯洋」合照",
             "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE12Mnl5aTZ1OG5ZTjQ3NThha1VRVUpDeUdxVGZRZ0NxUERveEVxUG1TblhVOXVtbXFOM3FBUlBpNnVGQ1VPMnFGctIBTEFVX3lxTFBzYTVnbmpiTjBhNE5kSExmeFZLanlsRXFSY1RCT25mNmtFck1OQ19jdVlPZGRsWGN0cWFRMjlRM1RyeVBQaUZZc1drS2c?oc=5"
         },
         {
-            "title": "沈伯洋專訪吸246萬觀看！于美人也驚呼 讚他「這點」：比以前好",
-            "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxOOEczbTc3a3lDaFdreEJ0dVp2SE9tQ3NqYUtISDhmMS1QZGE5VjBqbWtMLXR6RlJlb1VEZW5JWEhMTjFlWnNtQXpucFlOUlo1NWdNQXB1RzZ2S2Z6ak55ZmdiQlhaaDNNWUstOHpFREZ4YWVJX2RCVTN0TmRZSFdfRTAxdHVPampjdG5ZZjByNk1HMTNPUTlZaDh2S25BMENqS1JJNUpHMUtrUWJxdDJwQjBFbnlCakVyUU5DdVhTNS1GN3M3ODRhRHR1ZlUxZVNaTnJBYS1uWFEzLVM1SFNwcTRYX0NrM2J5S1htbmdvTmpkZVJrLVBsOGxQNHdYZzRtZzhwcmV3bURKYVBkd0gzS1JOWlMtQlVfdTJmWWc3elluNzY2YUUyWHlrXzZ6NVpZeVFpZklIYW1zRnU4WE55aFVUSXJPV3BSMGlCbzNZczhYUk9HMHdEVkMwM3FRRDRLZzhvX1ZwbGM1X3NhbUVPaQ?oc=5"
+            "title": "蔣萬安2024哈佛演講英文能力挨批 旅美教授看完力挺：選舉競爭也要講武德 | 蕭宥宸 | 新聞",
+            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9vLXRlOGQ5UGJWNFAtRzhzd1JPZE1laUdzTlkwelZXcmVoX3g2Nzl2dXlxZHE0X0loeE91TWY4Y0dwdUtKcjNDNWlWTmVqQQ?oc=5"
         },
         {
-            "title": "涉A公款請選舉飯謝典霖父子收押、鄭汝芬100萬交保 檢辯均擬提抗告",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9NSVJveHJoVzFjbkk5aFUzekNoa2R5UWdlUWRxbnkzNTk3OXJnOWN6cnE0SERrT0UwVVhjVXNHcTVzazJnRmVHVF9ia3Jlb2hzcWdLRWpXaHZlNG1XYnlFVUF6NjhOZDJ2enfSAW9BVV95cUxOenJqbXNLRkp2X0lQUmwtOTFDa0lSZ0lSb0lZbzRGRDRESXpSNkNzZXI2SnhYbE8xaDJaUnRoWjZuRlY0ZmdjeEMwTmxXQjVZSmpNUTBVWWRDSUpFalZrd18wbzVRWjloVkZQb3dGUjg?oc=5"
+            "title": "高雄選情緊繃 蔡英文憂「高雄會不會掉」",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9Qczg2YWt2bnNPM2I4T1U1NTliQ0ttYzIxRmFjY0c5VlQ3d3VCZG5HTWpZVlpKaEJsVllXNXdVRGx4MzVNTm9LajRfcGlNajRhaWow0gFYQVVfeXFMT1h6MFlOUzU2MDhpNXJ6MldmYUZoWHU4VHpkeXZLUzZRNkZYcUpQbE9NbllmQXVGOVpXZGRsaTg2d1JqV0pxOTBNZWFIeWl1ZTA1VUU0LXZObg?oc=5"
         },
         {
-            "title": "北市府禁夜市「洋流」標語？綠營批：蔣家是戒嚴第1品牌",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE53cEp2OVdkbGxwZG1vWi1wc3pzcHhoUEE0SGlTNDJFYTNOVmZqcFVkOFptZFZxTDBtVWxtdWQ1M284OVBlWmlEckE0QkJ0b18wODlNVEd6RU83aUl3MWVfXzJRQ2dGRUdRc3fSAW9BVV95cUxNTk92REpSSnVEMVFsNzhrSXNBUmpVRmstQlJWWjRwY3FzSFEzaHlibUFQQi0tWU8yN3QxOFBSb3dKSk9zeUNTUXNLRGZzMzZ3RVlQQ2daXy1CYVEwRWdMcjZndXhheFFuelN0MGZSSWs?oc=5"
+            "title": "被控「台灣間諜」遭中國關押 蔡金樹臉書發文：我回來了",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4weFlrNDBGUHlNZm1RcllxcG9kaXNndU4xMDAzQjQwdkgzX1FwOXZPT1JHZXFYV2V6cVp0U0QtbEVPR1BRTWtSaDFxWm1jYlAzV3JPLUFMbVRWT29XLWd3YjQzdUdXZ25tQmfSAW9BVV95cUxPeGoyWUhTWFJOeV9TNmFyOW5zUjlUN29IbjVDcnpELUxZbzBhRlN4TFcxSmRmWGxsWWdTT1VZTW95RDhaOGJQVjgxc25WblV3dDdVekV1SFg2b0taczVsZkFwb0RRbTI0WmdrZlRyQVk?oc=5"
         },
         {
-            "title": "新加坡遊客走台中行人穿越道遭大客車撞搶救仍不治| 社會",
-            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1GR1htY1ZhMW5aNHB5UzY2NFFORzdwUkdkd3pnUmZIZ0tBb0pjNkJwa05wSDBBN3NnRnZmTGFGNjVkNWozMXBSZUp0SW5aOTNoVFQ1YVkxNE5QTkZWajl3?oc=5"
-        },
-        {
-            "title": "心疼陳幸妤被負！台南「鍘美藝術節」今登場雙神一同觀戲　彩排畫面曝光",
-            "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE0yelBRcjVnTUxDNF9OdHU0Q0lVaWpMTG05Vk0wWldycjhUVU02dmo3Y2RWSjZQVGlZR3VNMGdoeHlSQm1EYW9kU9IBTEFVX3lxTFBGRGlsZDBpNUFFY0lKaEtNc2ZDM0VIR0VxQnd4XzdMbG8yTVRjU2pqRjhGYVd1TzhNUmtxWXdnV0VoS1lsUGVyTmh1ZUw?oc=5"
-        },
-        {
-            "title": "杜鵑颱風明天轉彎！週日北台灣降雨增多 中秋連假天氣曝光",
-            "link": "https://news.google.com/rss/articles/CBMiggNBVV95cUxPSEdTNnVCNU9NbnNKbnZVRlRMWkVsZGtLMlMyY3lOcE5XNjFick83eDNnS0lPdTFwUW04SmdIQ2Ryd1dJRTA5RlVwWHNmOGljc21fLXBEQk1qZmZQTUx1TGNEUDRwODNsbEs4X002UEQ0VGhJTDF1bld6VXdPSzY4cjZNMTFtZWJ2VkdrVlRBUjRiaTlXWE1CYUJVUGNsRjMtYVdxdnBBeG1TNVNQT0ZTS0NVUU02Tl9JRzVSZGE5Nm44NFNGWXlwMXMwdmQzYTA2TzdqeWdxWWhyX0JuV3U4ZjFDczFSRExSaVNwb3FqTVFvZ0pFUHhIa0NiYnZmanhQVVdQUHM1Wm9XbnI1QmVkNHZuT01icVJmWklMakVyenFxamdOWG5OZ1IxU20xTU9lZnpHSUs4YjFpTG95QU1QWnVidmF2VzR3SmFzMWUyQ1lfaGJKcU1KU0Z4MXY4VDJRTVlJaWtUc1NKSEl6c3paMG5rQjZDOXg4Mml2ZlRWZndMZw?oc=5"
-        },
-        {
-            "title": "【重磅快評】蘇貞昌不只鴨霸拍肩 還是司法的特權幽靈",
-            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5XS0ZOb21NLXdMVXozcDFoY2M3d0FHVkxmanhzT2g5SHdlN0VGZjNWTld1Vm1JMTlfb3IxZEd3RGk0d3Y1eXI4Z05VSEEwZWs3N2Zn0gFYQVVfeXFMT2owREtwMTJzNk5GNEdaVVdvM3JTc0lxT1pMak55UUEzWjEzYkVCY0c2Vm9DMlFfTlBNZEFjc3FwaG5JV3pEUUplLWVMVHQyVFpYMGs2X0JKUQ?oc=5"
-        },
-        {
-            "title": "習近平訪美前瞻：當白宮舉行宴會時，台灣會出現在「菜單」上嗎？",
-            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9rTXlTMVpuOV9US3BubVBHQS1RZ0M2bDZsMGZ3RXllT2c4SHI3WGlrRG1TTXhBX0VfZnJNRlR1dGEtNFJCWnB3VlVfYzdLTnVfX0JSakM0VERJWkV1U0FJX1FEN1R1b0HSAWxBVV95cUxPRWNsZWozaGpQNmxGTDQ0NW1PdGxQYjdNV05BOWZzTGl2LVpjd0lQb1AxWHdNMUpjbjRGcHlvY0szY2xERk9HbGNkMy0zeUlOT1FRV211Wk5fUUE2aUxuSk9DWUZWMlZMNjM3X3o?oc=5"
-        },
-        {
-            "title": "《馬達加斯加》翻版？北市動物園黑猩猩逃獄　長頸鹿拔腿狂奔影片曝光",
-            "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB2dklVLTNaSGRmWHBHR3Z6Q2tHMlVfOWRadUVkcmNueWVUT01ZUEFXaHB1bWZVSUxOSmlvQjlHd3A3aGd1cTc4V9IBTEFVX3lxTE1rY2g1aWhScVJOS0YydjgtRU1wVEo4RGhZamZraUxHZ0NZX3k1VFdaaXJGcllqbXd3RmoxUkZvb3U0MFBWNFVGV2hVeGc?oc=5"
+            "title": "小孩怨營養午餐難吃死了沈伯洋拋解方謝寒冰傻眼酸一句- 政治",
+            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE56NE9lMmpEenNKcExlb21ham8weXZRRGlJcHlNSTNCMjk5OVYydzA5VmF2MHltb3V2Zl9HX0RPSVRXX0hBR282aGZpNXRONk93X2R5anBJaEtNeFFaRWNvV09ERUF0dk5TT0s4Vkh3?oc=5"
         }
     ]
 }
