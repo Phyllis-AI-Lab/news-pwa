@@ -1,46 +1,46 @@
 {
-    "updated_at": "2026-09-25 09:31",
-    "summary": "早安，為您帶來今日上午重點快報。\n\n國際情勢\n川習白宮峰會剛結束，雙方在會後記者會上對於是否談及台灣議題未給予明確回應。不過，已知在台灣與AI發展等議題上，雙方立場仍存分歧。此外，日本全日空客機稍早在沖繩迫降，導致3名乘客受傷，現場一度驚險。\n\n政治焦點\n2026選舉逐步升溫，沈伯洋深入萬華夜市掃街，令當地人驚訝有市長級候選人到訪。而賴清德則展現大氣，公開稱讚一位藍營市長為國政級人才，獲得對方回應。\n\n社會民生\n新北市發生一起駭人聽聞的校園喋血案，一名國三生持刀刺傷高三學長頸部，險些釀成死劫，目前已依殺人未遂罪嫌移送法辦。\n\n交通生活\n中秋連假首日，全台國道一早即出現紫爆車潮，其中國道五號恐連塞14小時，各轉運站也擠滿返鄉人潮。天氣方面，中秋連假將持續晴朗高溫，「秋老虎」發威，戶外活動請務必注意防曬。",
+    "updated_at": "2026-09-25 15:50",
+    "summary": "午安，為您帶來今日午間重點快報。\n\n政治焦點\n川習二會後，北京將「反對台獨」議題常設化。國內普發現金議題，傅崐萁喊出今年超收今年發兩萬。地方選戰升溫，李四川邀韓國瑜助陣，蘇巧慧預告與沈伯洋將多合體。此外，國民黨因「抹綠王偉忠」事件破防，而邱建富也因退黨後又遭開除黨籍，質疑黨紀。\n\n國際情勢\n美國前總統川普開酸，指控拜登在白宮接待習近平時，其肖像竟被換成了自動簽名筆。\n\n財經民生\n7-8月統一發票開獎，增開四百三十五萬組，財政部提醒兩動作攸關獎金領取。中秋高鐵擠爆，有商務艙旅客反映遭自由座人潮影響。\n\n社會安全\n高雄學弟殺學長案今日開庭，受害學生母親質疑自首減刑。另外，張俊傑傳現身屏東山區，警方正大規模清查。",
     "news": [
         {
-            "title": "川普習近平白宮會談結束未回應是否談到台灣| 國際",
-            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ZZFR0RTR2dU9mYjhxbUs1eHB2UzJvYll2b2JOak5ST0ZNQ2hKMGNsTUFtUF9aanMyTkNlZTcxekU1M0tpbHFobzlhQkQ1a3BwdV9ndWpPT2Y0YkxieS0w?oc=5"
+            "title": "川習二會 李翔宙：北京把「反對台獨」擺上桌 與美互動議題常設化",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBQMHQya0puNk5TNDlIVS1pU0NqTUcxd0RzZ2hGNGh3T05tdmZBZjRpRGlfaExORHYtdG05ODZzUDB2MmY0STlZZFJXNUVVbVphY3Bn0gFYQVVfeXFMT1RmcXZ5NWFoNHEzaWZzMGlGelBpb0puVTlHWXc2TnptYk9XbkQ2eDVKRjJNUWhvaEdKT1JwYkpieTM2clBpWnM1c29yS0J5enczT1BORzk1WQ?oc=5"
         },
         {
-            "title": "國三生刺高三學長頸險死殺人未遂送辦 高中生家長：手段太凶殘",
-            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBwRzlJMDJGM1ZGTFdHRjJIQVZFNm42N3FDSkxyZ2tUZEhPWlJDOTc3c2ZvSDZqUm5ycmVWQ0dNNWp0UHVMMkNnbk5fT094bVJr0gFWQVVfeXFMTVhiUG9XU3prMXJuQklUMy1kbEpkSzh0SEZpWHJGMEpHeEFvaDg0c2F6eWlwWHVYZUxnV0p6RWZod2NSQ1VDVWN6NE5DdGdUMnBvZ3NsYlE?oc=5"
+            "title": "115年7-8月統一發票開獎！增開至435萬組，財政部曝：「2動作」 沒做千萬獎金恐充公",
+            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1DM1NzZGxqZGhqYzYzclU2WGhac01keFdKdmtCaVVpZnRMMWppVDJ2X2MxaEtaQlRod2FXVnNWWFJTVVBFdWdrb0J3eGJicjJI?oc=5"
         },
         {
-            "title": "快訊／中秋連假一早紫爆！國道「9大地雷路段」出爐 國5恐連塞14小時",
-            "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQWjc1R1l0YTJvRDlxUlpyVTRycW5lQWRISUZscFo3TE8zTW91VV9ZLWVhZTgyZjlxM2hGTG9iSUZ4Tkg2QXFZMndoSTU3dWRKeFV6Y2xWZnJtY3VlYUYtekRZRE5IRUJOZmM3WjdELXowRl9ldVdBZW1CVVdfQ0hDRTZGRnFqcFpyNU11SUhLSTJlaGR6SThlTE1Ob0x0VW5FdDAxMnFVUjlDWmxMNE94N1p2d1hUTHN6SEtVZ0NBN3RLX3lYWFpOS19fUzhORDh6QXladmktejBKS2NxYkNycnFjZWdtcEk3N2d5c2w2V0Z6SnZMLXpIUDJ1UnYyQUNpeEdTdlpQWjNLa0RBM2FiQllRWXRMcTJGMGc?oc=5"
+            "title": "帶習近平逛白宮！拜登肖像竟換成「自動簽名筆」 川普當場開酸",
+            "link": "https://news.google.com/rss/articles/CBMigwNBVV95cUxPcEtWd3JzV3VEa2E2bnJhZ3JQNWVZdEFqMGJBaXNHUmxDQUtSMVRoUTFHR2JfdkNFd0EzRnlpVmR1MWQwZUJLb0tTclZSWkt1Uzc4dWdURnVxbkxtQURXZXRGYURZazd6ZUM4TnNDRUJTX181ZXZPNFVTQ3ZxZTAxWXFJampjZllOa3F6MVYzY05oZEx4UEhzak9qb1QyZTJHNk5XaU9TME9sQWpFVy1CbTc0ZjF2bnJXeTVCOUJJZHZ4M1F5THBDX2FXVUhRVzlKS1ZkeDlYRmNybXBtbkJsdEhYeE41d0c0OUdUV21uRnJGRzZwY2FiaVd3SUQ4R3ZkbGVYQi16cHdkTU10R3RiOVROam1QbGs4WV94TDhpV01CenFJR003ZmlDUkNFRVlZZDM2aUx4Q21ZYmZxaWpLS3MzRkRUWnRFRnpTOUFXdGl5amxwcm5GRnF6aGMwblJUcXNDRTNOb19PZzdkeU9sQ1llOGlwcW5BeGdwM01KOXlwMTA?oc=5"
         },
         {
-            "title": "川習白宮峰會5大重點！台灣、AI立場分歧 習近平再提「修昔底德陷阱」",
-            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1vWEdyWThWVHN5MHgwMmR4ZVRKRzk1TllYUVljaWRRd1hNc3VGOG5jQUoxTy1mWV9QNnhFZ3Z3dEJYbVc3NDBmQnUwcDZWYkZ2R0Zr0gFYQVVfeXFMUE0yQUd1WU1kWVo2VDVGcDB3RUE4bjJBT0xndWFzQUxoc2k5Nms4YVU0RGltTEtkMXlfRDcybUY4QjVmSkVFREtPNDhXaFE3M1FtMG92OC16Tw?oc=5"
+            "title": "中秋高鐵擠爆！他搭商務艙卻「遭自由座人潮擋路」差點上不了車",
+            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBfSzZXbXJLMHlnVF9CcDJSNXhIY2hDTWN2OHNtYlhkS0FKNldBa3hib3ZyMWNrUFNzRm1zbnVjVE5ndDZlMXNVM3I1YjlBRkx30gFWQVVfeXFMTld4TlYxOG5tT01WS2lDZlhzSG0zaDkyeEMtdHk3YXBqd29ZWTYxUU1tLWpWYUJCeTBTZlV2cXZGbjM5dl9vTnpWMF82eG9lTF9UaUZCSFE?oc=5"
         },
         {
-            "title": "4天連假返鄉潮炸裂！市府轉運站「人龍看不到底」 乘客搭16年首見",
-            "link": "https://news.google.com/rss/articles/CBMihwNBVV95cUxQVWdnam9haU5VOWtrUktFS2k1dEQweVMzUG9ONWFWd2wtdjRCRGJFb1NXa2pQZTZBdF8wNTZPUVJkS2NCc0xHTGE5VTJRcW5PQktfMlo1ejF4N1BRdWJJWmlYWl9tTjUyWGJlTlN3T2pWREJUaHdvWlYyaDVvcjdIbnAwenhNdkZoVERlcmsxbmwxYXhOR1Q1UXBJcm12RkxkdHB1MGVjdTZGSTQwWVEtQS04QnNIWm1WU1ZSRWgwZGdKa0F0TzJoYkpLd2thUUM0RXRPekd6WUtNZVF3WEJXV2JIQ09DWUdOZHVhaDhKdl95WnJBNDIzamhuWWxXMUh5X0duYzdIdDdLTHpMbzZ2YndUZXRfZG9vcXUtWUxBNjc2MUpySDZGOEJzWUhnQVVHeWlYWk9lR2NUT2hlclRURGI0dExTdmVhZzQ1dk8yTlVIMjJrejd4by01NTRTRWR5bDJRejIwR3ZUYkJnd29LOTAwb2pRd0pUOXZEM0MxdjllS2R5RmxF?oc=5"
+            "title": "學弟殺高三學長法院今開庭 高中生母：自首就減刑玩弄法律避責？",
+            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5zY1hpaFhlSU5PbnNaVm1EaEItc1BVU1ZpcmpaVldOeVQ0b1ZLeUN5b3RaRXQ4T19TU21tNmFqcmhtUUk4ck1kQ043QW5ITEw20gFWQVVfeXFMUGx6WlhYXzdiaWNhbUZSWjlIdWd3S0ZKR2pBRmZUZUJzS1N6elhoV3l2aGxhOUIwbmVDcmVuaDhnb1J4RTUxTDdJY0kzdTVHXzZYZ3NMZEE?oc=5"
         },
         {
-            "title": "全日空客機在沖繩迫降3傷 乘客驚魂從滑梯逃生",
-            "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxQaUo1ZHdLLS05SkRkOGpBZVhiYTBraFk4ckM0X0oyZWNrUVo2WGFSOEZkM3N6SnJ0WTRlanJlaVZKQ1RhWU9ZcHlwZlp3dEFwQURlbHcwQlhWZU5pbkI1aVFiOFRHYXUxbTBBRElNcFhlODJybUVCQnEwYm1nZkxGNTVoNEtNSnhPb1FWbFpiLXluX3ZBQ2FVY2NFNGE0cTRadUZpLS1MOFdhTHNQSVFYeHZOTzNCMFEzTzVoZkRMQzZUazVyQ1VjeFFXcjhDWk9lV3FjMXNPMEZPLTJaaE43blYxUUpKOE00VUYxeVhFMnM1ajY2aUlIMkZFemo1Tjk3ckNjam8zb1hKWXVRUXlXZWZ6dkd4OEpIcENxMlIzMTZGMVRZVkNYOWJjUDY2UGZpOTBVVXNuZGhxbWRkV1Q3blozYkdQdw?oc=5"
+            "title": "普發現金不只拚加碼還拚速度 傅崐萁喊：今年的超收今年發2萬",
+            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5lb1BFQjRFY1lxcjFKOWlaUU1GdXZKVklocTA5VmlTeHVQTFQxOE5JTXhKME95ak1kTUstazhNT2hEVDlwWG9mS1JjNkdzczdS0gFWQVVfeXFMTnN0bEY2bmYzZDRCclVRdWs4dEplVDhGazRzYS1MV2JDSG1yMmFGR3FXUnQ0NS1ta0VjMWVGNC03UzIyalVYMU1kYWlkUGU1R0dqSldIQVE?oc=5"
         },
         {
-            "title": "沈伯洋「中原夜市」掃街！「萬華王」驚：第一次有市長級候選人來",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBienMwYU55VXBsYnhWTjBKQ0R0ekt5WkQ4LXM5UlVqS0JvMzh1cWJZcmZZN3VMUUEzbjZfNHMzR29aOTM1ampPekRjbWpOZ012T1lveXRrbmJUNG9mckNuTUhyMkZPRERZUVHSAW9BVV95cUxOZzBBV0gzOTN2WVEyei13cFBrSWJmRk5Hb1ZEOXdsbzdrUHExUGFCMVFzY0s5TUtodnFRZ0N1VGo3dzZ5Qkt6eFpIelpDMEMyelNBSE43bmcyRzRzM2RMZzRuZWw5MXFfOEtzZzVDNUk?oc=5"
+            "title": "韓流大戰洋流！李四川邀韓國瑜助陣　蘇巧慧預告：跟沈伯洋很多合體機會",
+            "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE8tQ0p3cGl3ZGlpdmEwMXVOUTVzOUpvWVVVa19HV3JubHVYRUZGbW1OWjVFNUowSUVfMmxheVFyOHlxYy0xaE9ldtIBTEFVX3lxTFBCa0p3M1Nmd19rZE9jZGVkWGVIQ2NabTYyMGYxTUdXX2dSMVI3X0FWQ0FvVzFRMUw0VzFHYXM0VTIwcWJadmplS04wMkE?oc=5"
         },
         {
-            "title": "賴清德展現大氣風度！稱讚藍營1市長「國政級人才」 本人回應了",
-            "link": "https://news.google.com/rss/articles/CBMihANBVV95cUxPOG95RTZqQ2o2ZHo3anRueGg3Mk1hUU1ZcDRSZ0xOSkhJaDB4TmQ1YjJsdXR0RXBZdnVmcDZvNDhQVkp5QmV5QzZmLTNDdlRMUzFMbWd3UXo1SXZGMWRqaHZlWmxQc09lUXhKMkw2TDRRbWhva0s3Yy1PNkRVajYtS3NpR0tpN2xWb2hoYkJ1MF9Gb2R3WFJSdkctMHBYbjNydmdCd3g1SHpSalU4dkNuRWxMRkNDdDlMV3VDcnB0aW1FLTQ4ZkgxanFnMlh3eHR5MWFjLS1kQm1mb1FOQ0QycU0yTVJ5SEVuZ3htUncxODk0Vl9pNTZQMmlHQUNibkN3S2JOVHVmUVlOemhZUVh4cEZNWWdBLTIxdk1lLUtRb193WXBBMHhIekxnR0NpOVU3bEdncUEzZzJ4Z3lZMjh1Nm9DUkJrRUxYT2otaVZLQWhKVFhMczR2LVNCSUlNUEp4OEk2NGhNdUY0cWs0c0xUQTBLZDQ0MFdyTG1JcVJDbXRJMzBn?oc=5"
+            "title": "張俊傑傳現身屏東 警展開山區大清查",
+            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAteTRIcEtDUFd3V1IzN1lEMnBveUF2TXJ4cEkxaHM0WHRZWnN6YkRFLXBBVFYxX0xnaEpLX0ZfY3phVnczRWdLOHJrbEl5cnVOR1l6Ny1OMi1mNElsSzE1X0hnWkdNdGlH0gFuQVVfeXFMTlV3V3BrQml5UFpxekJ3eTluMUdncnhUQjdpbVpld3dVbktTQnc4TE5PWXdyNEdINXNpUE1yeE5wa053YWRyQ0J5dHpRQnlYM2paQWxoaE5IbkNRQ1l3SFhaUmlwMDhXSmk2Y045ZEE?oc=5"
         },
         {
-            "title": "舒力基不來了 秋老虎更兇猛 中秋連假晴朗高溫「曬到會痛」",
-            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9zVXoyVTJWVGpSVmo3ZTNjeHZHQkM2eENxWHJ0MnNQMHkxajFsdjFFVVB5c3dQV2Q1V25lUTFCX0QzM2stanN3Qm5hMzlWVUpX0gFWQVVfeXFMTlliQThJRVBMeV9mYVUwUXM0TXpYUVcxc3BDb1p5TFFIVm9sanVHYkF5dnNJckVadlE5UVg0cjlLbzJnYVl2Y18yVEd4UWw3Q3BCR09FSGc?oc=5"
+            "title": "藍營真的破防了！竟群起出征「抹綠王偉忠」 沈伯洋火線聲援",
+            "link": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxOcnMwU1F6SzFwZWNfLVZEMnp2TWdWMXN0WkFHNV9rbEQ1dUVoaTl5WFZtN0RmZ3YtYTgtdC1OcExmVmVybks5bGFSZTUxQU1jWEprV2JfbVRfMW5CdFRTVDZGRzg5OEJzZXhCNlBNM0RfblpCSjlzNmRwMWxlaWVuVGVCQXVGMUdCeVZZVjJNU3NPbWx5OVdVcUNmclV6UkdCcUt1c25DdTYzX3dpZE9fYTBTSFJnS3Z0WjBPQm5yeHlubmRZS2pnZ3NWNlJjVjVLVmhXbVhRQ3AxSy1FbmlBUXBXMThjQlFwbU5Jcl81OFQ2YmRwYjZVaFM3WFpVeHdXRTh1d3FHVXYteHBZQ19FekgwUmd5UWdaT29qaEQzUkVyQS1RTlFYNW9IVDVUcGhlY0wzYXcxWDcydE5KcGF4QlhlaTViNFZFTFVFNldMNmpBU2JDc29WdlRKb1BVOFpxNjYxeU9xa3BjaWNnZ3UwX05CWk9DU00?oc=5"
         },
         {
-            "title": "2026中秋節快樂圖片來了！20款長輩圖免費下載　祝福語、由來一覽",
-            "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFAzZ1RhZlF4ejk0RXBvNHF0Wm9obFN6TWRIZ0RaLWlVazF6TGtDMDZoOWo2ZGNJREZZOVRzQUFyU1hfd1dadW9SWGtrdDTSAVJBVV95cUxNUXlkeTZCSk9nT1hDemhfb2FJdFNSdTdZV1MxMXBrX2llTGM0cHU1SUNSY0hvc0duNjk1dFQ0WURxWmI4M3c1SHJRd3ZjTkdXZGdR?oc=5"
+            "title": "退黨3個月又被開除黨籍 邱建富嗆「多此一舉」：林宜瑾、徐佳青的黨紀處理呢？",
+            "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxPeW1WeVJlci04UnQxZ1ZBeGE0dUVWMTNUNkc1NTRCTnVtRHItR3NMTXZ4N205bXBfN1U5VUROSXlhWjBwWlNzTFpDOXVWWHozYTk1UmlXUjl4RlF0UVVhb0xzb3RqY3FsaHNRc05JTGthQ2RseUF2cEF6N1c1N0RVSUZXRW9xa08tSDN5QUE1STJuOEhZMTIzUV9LNnMyWEpkcWIzamwzRUVDWVhpbHBRWGZXZ2xfc0FtQW1GYmhOcURFNGV4LUt1Ty1kUGpreFZvZXVpQWVqcmRHb2h5TDdJcTlSZnRDc3JMZERaMzBPMzRvdkQ1ekVrZmVrZHdRZUtMcG5GMjVVUWxuSEk1T2hCV2VZUEduQUt1eTdMbkp3TkIxc1diN2VvTUgxTUxEVl8ya1B5bVp5R2s0T2xhbDdBb3FXaXZnMmszNFE?oc=5"
         }
     ]
 }
