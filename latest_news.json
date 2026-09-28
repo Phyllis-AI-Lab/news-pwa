@@ -1,46 +1,46 @@
 {
-    "updated_at": "2026-09-28 09:40",
-    "summary": "早安，為您帶來今日上午重點快報\n\n【國際情勢】\n美伊關係緊張升級，本週雙方擬再展開談判，但美國前總統川普明確表示不排除恢復軍事打擊行動。在敏感的對台軍售議題上，美國國務院急忙澄清，川普在任時曾向中國國家主席習近平詢問購買美國武器的可能性。此外，川普近期於國宴上款待輝達執行長黃仁勳，藉此機會高調展示美國在AI領域的強勁肌肉。\n\n【政治焦點】\n監察院第6屆監委的績效表現引發各界爭議，被外界點名批評有「躺平、灌水」之嫌，監委的守護神角色備受質疑。國民黨內部一股「洋流」聲勢漸起，台北市議員秦慧珠透露，蔣萬安市長在非公務時間已進入選戰模式，其個人魅力甚至被認為比特定人士更大。然而，學者分析，這股「洋流」本質上更像是當年「韓流」的大罷免2.0版本，但目前仍缺乏庶民核心的支持。\n\n【社會民生】\n快訊指出，高雄一處已停業的SPA館發生重大命案，現場造成一死兩傷的慘劇，目前四名涉案嫌犯仍在逃亡中，警方正全力追緝。台灣高鐵自由座旅客違規「擠進商務車廂」的亂象頻傳，短短三天內已有30人違規，高鐵公司已對此致歉並預告將加強勸導，特別是明日午後將迎來超尖峰時段。天氣方面，強颱舒力基的最新路徑已曝光，全台今日收假熱飆，部分地區高溫上看36度，但預計本週後期受東北季風影響，天氣將變天轉雨。最後，教師節為什麼放假這個議題再度浮上檯面，其國定假日被刪除的歷史由來也引發速看討論。",
+    "updated_at": "2026-09-28 16:42",
+    "summary": "午安，為您帶來今日午間重點快報。\n\n【政治焦點】\n民眾黨競選總部成立活動上傳出意外，主委在致詞時突然昏倒墜落舞台，所幸送醫後意識清醒。此外，台北市長蔣萬安的學歷爭議持續延燒，引發藍營反咬綠營立委蘇巧慧，蘇巧慧本人則強硬回擊。台中市長盧秀燕針對選情，預言國民黨候選人蔣萬安及江啟臣將大幅領先當選。今晚內湖地區也將有政治活動，引發各界關注。\n\n【國際情勢】\n美國前總統川普在國宴上展現對AI的重視，輝達執行長黃仁勳坐主桌備受矚目，資深財經專家謝金河也點出中國企業家面臨的窘境。同時，美駐中大使透露川普曾問中國國家主席習近平是否購買美國武器一事，美國國務院隨後緊急澄清此番言論。\n\n【社會民生】\n新店發生一起令人遺憾的悲劇，一名孩童迷途受困客運公車三天後不幸身亡，年邁老父哀戚現身，檢方將相驗釐清死因。豐原自來水工程也傳出意外，造成地面三人意識不清，還有一人受困於地下待援。適逢收假日，國道湧現北返車潮，國五宜蘭至頭城北向路段上午已現紫爆，西部國道預估午後將達高峰。\n\n【生活氣象】\n好天氣預計只到週三，隨後將有兩波東北季風接力南下，各地氣溫將逐漸下降，並為北部及東半部地區帶來降雨，請民眾留意天氣變化並準備保暖衣物。",
     "news": [
-        {
-            "title": "美伊本週擬再談 川普稱沒排除恢復打擊",
-            "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQQl9yOHdWaThuMnRqMlRFM3VpQTdGRHJ1UTNwRm51ekRUNWgwc0syOHVFM3UzbDVQcVQwSDcxeHd4cGdKQldwdjFnMElrS2JqQlFNXzdzWjhYNXZUOXJlWUJNRURSc0drOVEyLXJVNXB5VVV5MlpNaHJqYk9kZS14cVA4VUkzOWh5MDZiQ202Y1pRS0tvejlQVjZxTnFSVnFlM3dhS3pTaDZ6alV0TGx1dmxabGxuM0VObUlzSXByc0NCbW5zeVNaWjBPa25QNUIxb2pVcUwtRGd3dHNVSXpyUGZhcVFDQlJjb19CVXo2eDlDVUI3eFgyUXVEUGQ3bTNaa2xwd293dWlnek5pb2pLcTgxYVBWZVNYT3hJWlBqamg?oc=5"
-        },
-        {
-            "title": "對台軍售還卡著！美大使曝川普問習近平買不買美國武器 國務院急澄清",
-            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE45MklSNVE3ZnBOdkx0c29lcjhoVjZDTEYzenVtRnJmVGdURktwU2xRVHdtc1pRWHhQbGpFdEJPdWtEQmN0bk1WMmRxZGd0YnJURTMw0gFYQVVfeXFMTzU5ZG8wRTdwSHVmeTJoMm1ZQXozTmlmcEhtOU1mMXAzbnBGRHZZSXE2V21CUTM1YlJIcWphZkF5OU9tVnhsTEdVaXJwYnJtalMtb1Jab0VMaA?oc=5"
-        },
         {
             "title": "黃仁勳坐主桌！川普國宴秀AI肌肉 謝金河曝「中國企業家窘境」",
             "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9PdGtTUFVmSkhfWmdnYzNhR1Y2VktTMjlYUnRNcG5QNzQwSFpNRE5QSmtBZHJaNGpSQ3BHLV9ZajVzeWF4ekFWTnZtZW1PdHNBeU8tNVBkd3lRQkZCanNv0gFkQVVfeXFMUGNxTnhrQnV2blhKeDBMbzZyZzF0YWYtU0ZMc1djMHB3LVI2d01zb1ZaNUxSbTdWckJrR21wbTR5dmFHUXUwclpDb2l1RlM5MnpmMlByRXRDZFhodEpMWlhGTG5Ibw?oc=5"
         },
         {
-            "title": "快訊／高雄停業SPA館命案！1爆頭死、2傷…4嫌犯逃亡中",
-            "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxQRWRGSVp3QVoxLXI5a3h5NEJvZW5xa0ZSeXltdnhFODJmZ0NEX1JzNU0yT0dZZmtnYVZYRXlCbGlCSEhqS0MtMUdUcW9yVEJWY2hDY1E4NEtZYWN0eDZCNlJyWF9NSUJZSHpQVmI1ZHVfTVVmVGhOaENoMUJ3N2k1eGZJZnZfNV82Ry1iWjl4OVlJTVNucXFBaUhiUUhnNmxhWk00dVhyZUxEYlZ5aThvTzB0Si1iSU9pTTU3Zm9RcjZReDVDZlFmejF3dURPZ28tUE45N0JiNWlBUWFZdDRWelZEY0hIWnljaEl4a1BPdXVzMFBRNUdWSUNqbzZYTzR0VFg5dVdHQXNsRTJORG4wdTgxMGRCSi16TVZjbzlPajZlbnBMY2xVajdvdFpLdnBkLUNvcjdtMlU?oc=5"
+            "title": "兒迷途困新店客運公車3天「是猝死還是餓死？」 年邁老父哀戚現身！檢相驗釐清死因",
+            "link": "https://news.google.com/rss/articles/CBMi5ANBVV95cUxPeDBXMXhYUDgxenlsT0lNaFNXblVWSjBoQXo3TGQ5QTFKcnBGS2RBZTdSUXBNcWlfOFYxUmpXT0NlRVc0NjdCNldaVnpyREYtTzM4d1NjSFY1WTd1OE5LRHo4Z0RpcTFTZEtyNGRWb2xFeXRDeXVoMFJVYmJuS0Y4c1otYVEtNTZEY19YNFhnLVBKM0txckZKQXRsTnhNaVVJWGxuWmhyUTU1SG9QY1VrY2lPbC1FQkliWTBIMkxkNTR4NWUzNFNMWS1SWU1JWk5LZTZfQ0pFZE41YlZTcG5JWFpESWlyVkxkbkZKSTdKZ09XVERKSXdKQ3dBUWZWdmNqNTF6MGloN3NHZnJ2a0tUdTlhN01JNEMyRnFCR3dWc0NXeloza3JrcEJnOF8zMElJZnY1ellLcHdPbkxySEpTNVEySEJDTUNfMEs4ejFmUzlfaUNQQS03SVRBMUZJTFBBcVk4b0NRZ09Ba2dzemNPQ29QQVdZLTlWVnpEaGk1MWhyM1MzLWhqTkpPdmpOVkR6eFhoTjlkSWxrMnlVRXlxZEl2Y2RLRjExRXBSNDBTNzBwWG96d2NZRUNKbVpqRV9oa0ZFSl9lSDZ5QXQtd1M4MW9CQ3lDek94Q0h3bVJsVmM2MVJ6?oc=5"
         },
         {
-            "title": "自由座「擠進商務車廂」3天30人違規！高鐵致歉　明午後還有超尖峰",
-            "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBoZ09SVXRYUkxTMHZuNlRkbnNINFgwdTg3X283R25UeUw5b2d3RWFidHpMTGlTN2Z2VG9BcHo3OW5nNk1zbnlxUNIBTEFVX3lxTE5ud1p2M2NtZWtKRzQ5cHRQcjJZMlZ1alktVGM5b1JVaE9OOFBtbUR2TVZCOTBBZk16YmpMaDZMbjAyU192TFQ3MHQtSnI?oc=5"
+            "title": "快訊／民眾黨競總成立爆意外！致詞一半…主委突昏倒墜舞台| 社會",
+            "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBFMDJDa2xsMzJPUW1qMEpkYm9vZ3p4RzdscEh3UHF0SGxLNGZuY2hOVWdwb0tzVXdBSnRTeWVQdXEzU2hXdDhtQg?oc=5"
         },
         {
-            "title": "舒力基變強颱最新路徑曝光！今收假熱飆36度 東北季風影響這天變天轉雨",
-            "link": "https://news.google.com/rss/articles/CBMiwANBVV95cUxQUTVVT1djQWQ4M1Z4cXpMY3dMX0YxMnBVV3N0VVhBT1piR2VfMURZbUplVThCMUpTUkZuR1dCYmhzYXdpT2dBUmFhY0QxSWJvZGRTcUtNcjZENGtUOVhWOVVzQjE3ZWpmWHZqNmhKUFZCTVpOQmNnd2FnSVVwNUppQWlsZ3dvcGg3NE1jZmx2T2JBUkJHdnpkdW1VY3RKMEJLQkRINFE3LWRYOGl3aWtvNFJUa0oxY29HMHprb1BFU0RjRGFreVBUR18yZzNvSXFOa2ZIRThPcV9oWEwzUjZGNXlFU1lITHNNNXlZNUpQWWFvYkdTMVJEVFgwSEFYM0FpVkVndXZuQld6LUpBc1pRM191emIwZHNJWWtnNHBiTlZ0NDBiTDZDNDZLdHdpZG9WUjc5ZFRxX05DMDg1VnFNNlJHYmFQVDFaQmxsMVUyeF9XVklIa3pOdkFKd0JzQ0N0YVFNcVE3MTF6UnMwN3JFZ19SUklLX29yT0RkcFVmVnhxS1pmVUZGaGczVXI1UHdvRS1ZbTlDM2g0bkw2MXZWeWpQSmFSYUJuZ24zbXBNblMwb1VDYUV2Z3JRcVdBaFNC?oc=5"
+            "title": "豐原自來水工程意外 地面3人意識不清、1人還在底下待救",
+            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB5U0d6R2dVSmlzdVhUR0JqenpHdWd5cy11dEJIYkR1RjRGV0xXcXVjRnZPRDJHNFBsd3NSY0RLSWY3OHRUWWhTaU1QOVVlY2hu0gFWQVVfeXFMTzh0SVpvVm5Mc3NkZXlWVkNaaHpoc0ZpdUtzNG1PdlVMZWxGY1JSaEN1MlZ0eWdfOXZEZS1LdGhQLVFCUjhHVlU2UnF5OVAwMkpJMzMtMVE?oc=5"
         },
         {
-            "title": "績效檢驗…第6屆監委躺平、灌水、當守護神| 監委表現爭議多| 要聞",
-            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1STzktTDB2S3ZQSFpCR1g0R2pqN0dTLXkweTdvS0lXa01Jc3dmeEpxZ3dQOHlfLXIwMllMMWVZR1k4RElUdlZIV3hoT0paT3A2elVr?oc=5"
+            "title": "蔣萬安學歷講不清楚！藍營竟反咬蘇巧慧 本人火大回擊了",
+            "link": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxQWlEzemYwaURYWlVEODJWRW12ZUF5MEJzUThwaVBZYlN2LXR3SHdRUWpZM2ZwTU9sa3p3UmswRjQ2LUxMeUlNRkJuemFabW5lTFo3SGhaUmhZdUt4RVJmOW9nbGdCR3NsUVpfRGxkbXhsNEs1OEd0VEh1TERGa1RnXzhmdVM0VHVtU181dXJSSFhmanlCLUs0UDhNX1JfRmtKS3JVSXNIZnFWYVhLX1RIVFI3RFRrdjJlLU56d1hJeEtMWkI5c2YxTWlENTBTRU1tTkt0MkZubmNUdWVRaXkzMThobTYzbXpVenU2T19FY3NqRlVWbU4yRk1DR1VhaTB5bVpoeHRtZ0tDcl9IQXFHSE5qRkVlalhYMmhoRkR6RHhBai1MOXRRM3JFS3U2QzlxZTUxY0RUS2c2YXBNUUNvWnVEMEZLYWNzaHFPeUtqUEpCQWUyM2ZVWEppUzJqS3kwdWx0Qkx1SkQ2YlBZVS1heTFuNmNCUQ?oc=5"
         },
         {
-            "title": "洋流來勢洶洶？秦慧珠曝蔣萬安非公務時間選戰模式：魅力比沈伯洋還大",
-            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE54VFFycTQ5RFJqZkZBOE52aExDOERUN1lIUU5UTTFSeWUxQk9EWkVyWTJaekIxcEFjakE3VnJKTktNWVRHX0RrTEdlTXZHRExhTFRv0gFYQVVfeXFMUG1mU3NZV2ltXzlPWFI0Z1lJRXJ4RU03SXBBWDNHQlNnRkVaMnFmUWdkUEluYU03MlAzdWxqRTZGa0dXSk1sdTRYU3hNTk5OTzVrZzVtSWV1ZQ?oc=5"
+            "title": "美駐中大使：川普曾問習近平買不買「美國武器」國務院急澄清",
+            "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5nOVp4bnhWSUY3d2RpcUJ1XzJQWkVsdFM4WGVNaDVUcUVGV3FkZEFXLXRHUllWdzJRNUh0Q3phWi14OWVILUZsQTNsRENjekYtTUVNZXREa0luRi1Xa0RrN0Z30gFnQVVfeXFMT2tOblBkelNtTmNTQWlxeEZwZjM0MWlvZmhxWU4wLXYxdG9BMVJ3dHl6TTdSYlN2Yi1yNjBRaHlncG16S0x0Nm1Xem9oMjNobVV1MUVxVGxreV9iUVNHdjVXellDQnM4aw?oc=5"
         },
         {
-            "title": "教師節為什麼放假？最早不是9/28　由來速看：10年前被刪國定假日",
-            "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE95V196SW82X1hvSHVSUDBjdFQyTFRxVjYza1V5UE9MNS1YSG13VE1ROVRCUUNUSHdQcG53ZXAxTmxyT2FBYm9FOGRFdXLSAVJBVV95cUxNTWNfSFY5LWlUWGxFV0czZHptMm5QR3hxVGtnYzBOZE5KamthcVlhbWpRS0tOdGxiSFN2eW9UTEF4dXpveURfSEN6Rk9mUFBFNDB3?oc=5"
+            "title": "收假囉！國5宜蘭至頭城北向路段紫爆 西部國道估午後湧北返車潮｜不斷更新",
+            "link": "https://news.google.com/rss/articles/CBMi4gNBVV95cUxNLVRnbXhHMlVHdzkwcVA2SEg1dGY1WkRpOFMzZk84anlGT3JCUERTdWIzTmVhTzJPSDdOZjg0Q2lYNUhTOHJxTGdTQ2xfZGloZEVUWmJTdjZaOU92bXNCSnk0eFFiR3ZobWhGOEJGMUZPWVVXYl92UTJYWWhEbTlYNzhzU0JQT3FnaUgzOS1EOUczSEFTYkw1S1BYVzZTS3FDZTZaRVhpRUpwWkZqVnBXcjNEdjNCQmU1QTRDZVcxZHlqRmtiLUVRaThidHhGREdyNFl6ajNySk44SnlfSmlDNmhiWF9GTTk3emE0dDUxaTgwX0NzaUNJX2Ywd2xSWnJucFhOcDdidDVpNTBLQXZHeU93Wml0MXkwdkx4X1RCbFNUTmlwMEwtYTM4emdvWjdxWlpXRHNLWFhBN25RSHhkVDJYQ1cwMXBJR0JsN0QyckxSaVpFclJpbFh0WWhyaUtrR2RETVBOZm93dnNZbVpkVG0wZ1k3bDBwQmdLeHAwb2dhOGNZRTVjZ0ZJYVkxdy1iVUVva0JRUWNjOTFJQUFlS3U0ODlVTmNRQW9EZmt1TENXc1RiUVQxcGZ6OHpkYnIzMVNFUURPa2JwcTZQbFBFS2JRNFRkZmJNZ1owXzR1Y3JDQQ?oc=5"
         },
         {
-            "title": "洋流來勢洶洶？陳冠安：本質大罷免2.0...對比當年韓流缺「庶民」核心",
-            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBuODZCdXVfQmVXaDNfeXlpdzFELW1mMDlxZjNUSm5WVkZQTnZyeWF2RXdZZm44Ums5NHpBa1pMMUt1ZGNJWWUydXZOODFGT0RwMENZ0gFYQVVfeXFMUDVDWF9QVHI1Y1NQU3hsb2loODI1ejNyTWRMZ2pvVDZTYW1zNzlIeHJQXzFLaUNIelRneklwWWtuWThhcjI4dkwxd2tvdlRsMzdPNUllUTA0dg?oc=5"
+            "title": "盧秀燕無視「洋流」強襲台中 預言「蔣萬安、江啟臣大幅領先」會當選",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBNWHJBeTN4Z015WklSM0dFZVhYM3doejI1UUd5OFZvaUpSbU1QREJzWUtCS0tXcXBaR2RwZ19VNlhRU3lpYWM3aEpydUpyTm0yekZiRlZETVV2SEtybkxHLU1IOXFWSjhobmfSAW9BVV95cUxOSFpmRVpuSWVlTDF5b0twd0VpWHJrQk9DamN4N21UbTh5MFpLMG1zdTdOdGstZjBFQVhZLXFSX083V0xPUXN4Slh1YUtsYkEyR3J4ZXpEbHU1ZW5LSllBYXN1amkzaUkzYUZVRENmaDA?oc=5"
+        },
+        {
+            "title": "好天氣只到週三！2波東北季風接力殺到 降雨熱區曝光",
+            "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxPUnN4TEZDR1RCTDZfYWN0WElEdEhqeDQtNkctdkVVTnYwbWJjekNMZktHMjJUNEdtdFFaN3RfOHp4eW5fNnNyVGhWOEdTTThtcHRNMkFXR096SkJ2Mi1zTlByZkFORDZ5VzZmSkFVT2xDandDcnNRYTloSndTQ0N3WTJscktIRTI1T0hqNEFlUzg5YXoyVldxbkNLZElaVlhuX2NPcTd0QklsaGF1blZfWDhCMFRFRmhHNzVfbnlGRlpPMnl5M0E3ZC1QYmt0RWc0YWNQeXhnN1hwNlozel9melpNU1Z1ZElPS2RjU015QXNyOXFYZ2tHVXlPN1ZCZWdpQWpkWnlqS0RVcUd5WVQ4Q2JZbWFiM2dBS3BBRGw1azRrWHlWdnpLMU9HYW1SUzZZTzRUSExlckx6VlB6dzFuSjd2bnFRY05DMkN5LVU1MVlYR3ZQclR0V0R2RFBydlU?oc=5"
+        },
+        {
+            "title": "洋流今晚掃內湖737夜市　在地女神放話沈伯洋：晚上見真章！",
+            "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE03WmtGemRSaWR1NTY1Z0VoWFl0Q21tUGtOVk1DeTkyUUJKNlFEdnJuOXBaM3c1R3FLRzB2c0I2b004VThQcUw4MdIBTEFVX3lxTE5DblBCc25lai1xb3VUYmdPSm8wZlNocVVFcno5d2JRbkxKaWg0SWpGLXhlSFBUQ0s3M1VPTU1uTjZMcWpHaW9aVHBkQ3A?oc=5"
         }
     ]
 }
