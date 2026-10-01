@@ -1,46 +1,46 @@
 {
-    "updated_at": "2026-10-01 10:09",
-    "summary": "早安，為您帶來今日上午重點快報。\n\n【政治焦點】\n台北市長蔣萬安丟甘蔗事件，傳出董事長驚曝當天反常現象，戲稱可能「土地公附身」。民進黨競總大會則被質疑出現「人造洋流」，5300人動員令曝光引發關注。此外，兩岸關係方面，川習二會後掀起二戰史觀激辯，學者分析華府內幕，指出習近平短期內不會攻台，兩岸和平成為主旋律。\n\n【社會民生】\n高雄發生一起駭人命案，一男子報警後自首，後車廂竟載著屍體，死者疑遭鈍器殺害。另一重大消息，史上最大獄政弊案二審大逆轉，王令麟及北監前副典獄長等被告全數宣判無罪。天氣部分，秋老虎只到今天，明起將迎來兩段式降溫，第二波低溫預計下探一字頭。\n\n【國際情勢】\n國際方面，杜拜航空驚傳駕駛艙喋血事件，兩名機師均受傷，班機一度墜落四千米，所幸最終平安轉降，虛驚一場。",
+    "updated_at": "2026-10-01 16:57",
+    "summary": "午安，為您帶來今日午間重點快報。\n\n【國際焦點】\n杜拜航空駕駛艙驚傳喋血，幸經乘客英勇制伏襲擊者化解危機。此外，滯留夏威夷的兩架F-16V戰機，今日已飛往台灣。學者分析，近期川習會無具體成果，台灣反成隱形大贏家。\n\n【政治觀察】\n民進黨立委沈伯洋抱病跑行程引發關注，其競總大會「動員令」引發討論。台北市長蔣萬安在宮廟喊「凍蒜」遭打斷，以及市府處理學生餐點鹹度爭議，皆受外界檢視。\n\n【社會民生】\n社會焦點，高雄權利車行發生凶殺案，凶嫌載屍長途自首。政府「健康幣」正式上線，鼓勵民眾健檢、癌篩、打疫苗累積點數。天氣預報提醒，把握明天好天氣，週五將變天，須留意颱風「彩雲」生成動向。",
     "news": [
         {
-            "title": "蔣萬安丟甘蔗出事？董事長曝當天1反常「可能土地公附身」 監事也驚呆",
-            "link": "https://news.google.com/rss/articles/CBMiqANBVV95cUxNU3dPSDBLSVpTZ2xxeVI4SVNuWXBRMWxta0MtT3ZWYUZxTnZDTGRNd0Vqc1JzU3g4emtMYXlxTEs5WG5aQ282RVVneXUzTDY3eG5lcnRacWpFZ2htVFEzcDBjWGVib2c0WDE3UzFtbWowdHFpMVEwRDRGaGEtbXIyOXl0d2ZfSEhDYVBYZlJWb0ZVTjR1T1NOeHZIeGZuQ2JHa0V2QkF4Vmk2QXB3QS1ia19tSHU2OUQwWXBGWE13aGpPT0JOb25HMnNFZ09TQ0h2ck1TQS1VbTBhZG9TSU1YSWVDSkRqMkIwR0dPbzhJUDZlVU85YU0zcjN2YndvYU5DVVo1ZkhlV3pLYjE1TnN3SDhDWEptczBaYkFwei11ZGk3Q3VxdHE2b2t2YUdsX1hWQmxZUExIeGRHUXM4QzlKeGx2bDU2STQ5el9wN2oyMWVHeWppSjdXNVNGMEFpSkJCQkVvNWd6RERjNHV2UnpMQjVjX2hJRWg4YnhqVFZfdEcyOW5wdDhfMVhBY2VFVG1EOWJISjFxOEZhWFJ6MjRHakdLblM3RmJK?oc=5"
+            "title": "杜拜航空駕駛艙喋血！宛如《空中浩劫》神救援 乘客勒頸制伏襲擊者 拉回操縱桿",
+            "link": "https://news.google.com/rss/articles/CBMi-gNBVV95cUxOYkJYSWlVVEowYTc4SEVnUWhESXZJYmdPWGJLNW9WcXJ1OVFINkh2ZUx5VEFJdkdlbTdfWUNlZ19nTU55VEpkRTZmNmpXVlFZSjVad3RDWFBKekMzY1Z4UUR2RlctSi1kVEd6WkQ0SHplSktZRTdtVE1hd0dLQkpXYzBHZjdWbU5mNW9BRVoxYVJhWlpNTm91aU5kU2F4OHB2c1BxNm5yaDFCWWhKWURQeXI1a2hpeEZrMjdFdzZVcldONFA1OFRpaVRXWllYeDdTM3o3RU5CTTZNQmlKbnA1YW4yRm5yeXU4eWZYS2JUTUN6RG1TQjdTSjlvakxoZmNabm52TmFSbkhSS2JTaTFFU1pqTkRadHM1MTZ4ZXM2VWpCSlhFbkVqaElsVHVmQ0FSUE5zSnlQVkFyQUdYeU00Ym9Eb0ZBV25OZkJGQ3hLVmFkZ2lNSzU4N1hHVWtLWnVUZ2VCTmRMZ3duVWVTVDNGX1czeVpWTGdTWTU2ZW5iSldyUzZ1eHBrcy0yUnV4QUFfUHRjeHkzak5ValZSc1I2bWxuNzBCVXBzTFRFSTNjUUNjRmdUZm9heFNHZndBdDNBZ1BySzJMVmNuQkNDR3hHdWpCZjhGcVhHR1RaaklMMGtRNlV6cC1qYS1wRmMwTnFXRHoxb1J4WmhzUQ?oc=5"
         },
         {
-            "title": "恐怖！高雄男報警「我殺人了」後車箱載屍自首 死者疑遭鈍器殺害",
-            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1ydWZ0UlFvTVdZQXdjemh1bzdoaEVCU2EzVmxKZzlCV3pPajBldlZyYnIzVjBrWWtHVnA5S0xiMkltTThENGQ5Z0JYbGxVUmo10gFWQVVfeXFMT3dkWW00Njc4dlhLeW5hbFhPLWtBeTJlUWk3bU9wTEI4Yy0xQjdDbFJ0b2tZZGR0TVp6UkZBV0QxazdWeEt2VXJRNFF2M3V0aEdPY2thckE?oc=5"
+            "title": "打死權利車行同事！凶嫌載屍高雄往返台東332公里才自首 凶器疑拋大海",
+            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE02TW42TVU0a3FTcWc1d2JCZVVZaVpWbzZBemo5Tk9ndDZob09IR2c5SXB2em1FQk1QV1NmRWYxRlc0blJSeWV3YmY1QmZXUnh30gFWQVVfeXFMTmFTd2lwZkRuODRPSU82NU43ZUF4aTJybFdDSkY2VzlUVUVfQmNEWWVPeXhMQU8wZXRpNkRNSm5UT1lTNmlNVGI0S1Z2ZDNHQVNhX1JfZUE?oc=5"
         },
         {
-            "title": "大逆轉！史上最大獄政弊案 王令麟、北監前副典獄長二審全部無罪",
-            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5BNWJPa0lDQWJxMExVSG9mYUlSUzhGS1B1cHdKaDNucnpBbHNmMEJ1RnplcDRZSk1mVXo2N1o3ZmVPSlBVZDVNb0g1MmpRbzR60gFWQVVfeXFMTkNXYWlXR3BhVmowS2J2T0RlSkNwb0Y4THlOa1lSeWE2XzdwRlRwb19FeXJNRnhHS3VuOHYxNzhWZnZJQmdnNWdWbGY5U18wZnM4bVRhdnc?oc=5"
+            "title": "王定宇爆停滯在夏威夷2架F-16V「今飛往台灣」",
+            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4yZ3ZhWllBbl9aTHBQOVpuUnNhVDUtTGo1cTV6QXZ5LWhaTUFibDNVM3RFNks4aU5fMnpyOFpxU3BSbjBPalF2SGZwd0IyeEdUeGs2OGdmMjUza19xZlVDdVh3ZmxhSDhUaHVyazdn?oc=5"
         },
         {
-            "title": "秋老虎只到今天！ 賈新興：明起兩段式降溫 第二波低溫下探1字頭",
-            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5PYlc1OUdfNUVFZW5FeXFzM2d6WlpObFg5WXV3ZHJJQWZkc0VtLUtHaGRaR004MFRMaTZQQlh5REtMVnRYU0hPVDBQY0Vfek9H0gFWQVVfeXFMTXl6TjJUaDN0eWVFdXRad0daRGpYT2ZTQ0ZtZzgzbFp3amFmSm1XVVVqMldPVnFPRUZHRndvbmxpWUpGY0Fkc1ZtNnlZRU9FSGhWb055emc?oc=5"
+            "title": "發燒跑鐵人行程網心疼！沈伯洋直搗南門市場 外省阿姨激動喊全家挺你",
+            "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1oMi1xb3dvQlUtN3J3d1llbG9KWG9BU0MzdWY2a21iOXFSYk9nb1hvZ3dVcFBPZ182bGMzVWh2eklSV0RWUXZwVdIBTEFVX3lxTFBQckRTM1o4QXY0YjVJSXVzSW4yVW1oYUlhTVczT09hSTFiQmc5RDN4WFdRSVpvVmZyV29wZDhfNEJORGRDUDlXcGhqMlg?oc=5"
         },
         {
-            "title": "杜拜航空駕駛艙喋血兩機師均傷班機墜4千米平安轉降| 國際",
-            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5tZ09xaVVRaFhaTWV1V21aVUNNSVBza0xmVUhzeXMtUEwxSnBUNlBEOHNvdkZGdmxYSm91ZGRLQ0JSYVBqeldDQWNBT1VqNWtYc3RUSGNqdzdITTZaNHo4?oc=5"
+            "title": "把握明天好天氣！週五變天 「彩雲」颱風生成時間點曝",
+            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ZUm9hX3k3OENyeEVRTWhhVFY1Qnh0b0RUQlNJbkhIbldtbE1QVkxqSnhMRzRhUFNXaURGT3VWVDFhSnFPTXhfQmpXUGN2MFZUS3FueXByZk1KdExGbUJxcTJvTzTSAWpBVV95cUxQbXNaZ0M4Q1E2NmtwRmkyR29zR0ZyaVZVVm5tdXhub2J5a3I2UWw5T1pOY3VOZndYd2hxeEMxbzg2UzdMcmRvODhkSVhWVURkUXB4YzJFNmswb2RtLUlUemMyeUJzQWcwLTV3?oc=5"
+        },
+        {
+            "title": "健康幣正式上線！ 健檢、癌篩、打疫苗都能累積 再抽Apple Watch",
+            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE54QmpqZ2hlRlJWUEFjbGZzNkctcWRzTGotYVdwMTFGMTkyN0hiWnlSZDBKUHdHbFlOMmlNczdtaWk5OWJTVFRjaE1fTUxrWWtY0gFWQVVfeXFMTjJGYWFRbkRRc1diYmFqWDliUUxGaFdJMU5xSXNiZzM3MGI0WWpmMjNTU3YzNmdPa1NYUXE5Vy1WU3hCNXp6U0llczJRbmtEOGVBakFUWEE?oc=5"
+        },
+        {
+            "title": "蔣萬安喊「凍蒜」被宮廟董座打斷！知情人揭內幕",
+            "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxQU044M2JTUmVSdjZ1bTFVazVyMlFJNUppdWxmX2doZFFkOUd6TzU0bkV1eDd6dmpkR0h0UU5wQkh1Z05vdlUwVEdaM25taGdSRFFNSFkyMWdqU2lEN3hFeW9jYkhzWXNIWkZnZnhiaXFBUVM0WngwNTJLNzlqWUg4UE1qdENQU0xWbG9jamxJVWNNOXJja1JKS091aWpyNUJLYWtnMUpNMzVfLXl0cFF6dEFMVmQtdEo5Smx0TGdkbGZ2TXRjUUxXSFRaUmRpc2ZrOVRGc2k5QXF6eFJGTVVLc3ZEdFZIeERtSVR1c1dNQTdzai1FMGVDNTNjWlpiMHVCQ1lqLVRWd0M5NkFrNThfQW1FTUFRQlJCT2tmR2toVzFMNnZNY2l5aURFSFkwY2hKQ096NzlOQUZpc2c?oc=5"
         },
         {
             "title": "人造「洋流」被抓包？沈伯洋稱競總大會搖滾區秒殺 民進黨5300人「動員令」曝光 | 蕭宥宸 | 新聞",
             "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5LM3ljM1NZajNKREJ3YVhtSXhsX2lhR0RpN05aYmZfcG55MTEwVkl4T2xnYUhiSzE5WWI0N3dMdndvQVNXN1RONGh2V0pvUQ?oc=5"
         },
         {
-            "title": "聯合報黑白集／言不由衷的「典範」",
-            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA1U1NyY0ZYclMyUVF6OGlVNEJnRkQ5MWNwNXRUdVdFTjV3RUo2X1RNY2pzU2pKdzFHOXNfY1oxaDQwMU4tVExLdzFKTkU4QURZ0gFWQVVfeXFMTUNfb1ZWcE9aUG03bl9UWlBPV0dJS2VEWmgzZ1JORnZSdEM3SE5OUTNfMFVZeVROVno2MW5mVUljXzN2NTJRdVNkb3pkVXRQTDRGNHpGT2c?oc=5"
+            "title": "學生拉肚子市長測鹹度 她點關鍵轟爆蔣萬安團隊：台北市民沒那麼好騙",
+            "link": "https://news.google.com/rss/articles/CBMivgNBVV95cUxPMW9ycFlGZXZHY0gxVUNzM2lkQzVJVkoyVUp3aGpXRktPNG50T2JyQ29qQ2hsQ0xlYTlHdWN2ZXNNWGoxeHBrTWtwOUVJN2JGZmpKck1wRk9ra19UQjlDU1JBQUFUWEZvYlF6RWFOUEFlZVZNQUJhYnFyVFNLRG1veGQxcERVbGtTY2diOHpmSW5HMEJSOW10cnBIOXlIemkwcmU4YlNFZWhqRjYydk15cXVNMi1LUzJwQk1uQTlFX0xBYlBUS3lybk1HUlVQNk9MUlBZRnlINF9TNUQtUEt4bHJKXzBLOW5TV1Fiek15Z0QzVmRycGJKR0wyZ0JBNldFbFVRNmlqV2VSVl9ObEtOT2kzSkk5cGRCMTBBWm1zRkpRVHVVRFVsT3AxcjRNUTd5VUNLUlh3YmxKWmFyUE5wdUwxVEhFQmhyOEQ0SzM3UG9LMG12bG0zZG5SUGtxbWc0eTM5VGxyVTZpa2k5WVVZQ3FfSDNiTG1YOWNqMGVCQ1h6Rm95Qk1hcWJBQWI4YXNPWVVpY3MySkdYSG9FWHNLMmROX3VvcVFVbVJTQlNJQ0dLM012cWU0Nzd2Q3Zjdw?oc=5"
         },
         {
-            "title": "川習二會後掀二戰史觀爭議 台媒激辯國台辦",
-            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1tOWhvb1g4cEZicWFGWEJYMTFodWczanJjcmFSWEUtMEhGN0dxLUxoYlp3dktjNVlGcjkydlhfRTRKQ1ZuQlBYQnp2eFA4emY1dUtJ0gFYQVVfeXFMT3RMaDFxZndhZ0t1VW5lcTZPdEJGX3RUSGFpRmtNckFtZWEzNWQyQWtNY2w3WnBQd0NtcnRPNWdLUE9UbGFZYkpKRFA5UENsWDdpTmdBYmh2VQ?oc=5"
-        },
-        {
-            "title": "競選照修成網美？網看本人傻眼：年輕30歲　超扯對比曝光",
-            "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1LYmJPd3Jjd0VjSkhvMUI0V25vMnp5ejJNa3RqVllOZkNqdXduVFJjOUlxdnAzR2thTDhpeklQZEdFU19TUDNXNNIBTEFVX3lxTFBDeFdmWUI4RkpDSVdLMW9tdG9UYktrSWttUXJ6NkZXUVdnR2xKYUM0TmxRenhGSVVDdmE0YjIyY09yWm1kbWFBSEw4M3I?oc=5"
-        },
-        {
-            "title": "圖解》兩岸和平成為主旋律？川普沒有出賣台灣！學者揭露華府內幕：習近平「這段時間內」都不會攻台| 楊騰凱 | 新聞",
-            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE01SXhfaVVxR1UtY1VpWkpfWU1FZHh1NmFSUGVGd3l6NUduVzgyY2JGdnFWQ0s3ZkRLLVV1S2s2S1JjNVB2NndZR3dzaHRuQQ?oc=5"
+            "title": "川習會一事無成！台灣「隱形大贏家」 學者：習近平把台灣牌打爛了",
+            "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOX0VPNmtiTTRGUWQySUY1UFhrYURDdkk5MkVMdjNYMGhFdENOcExiRlE2RzBaQ1dsaW1xOHVTdU1TSTN5d2gyY0pNcE9Wc29vWkJyTmRtcVl1R1Qyc3pRbzJ6b1VFQ3hpMFQxQVlfQUhRRl9qZVBPNmk3VEpxbFNQNFU2a3pLTnR0dXMwVHVXMFI5R2E3M2NiMXo4MDI1SjhiZGhldV90UkVBN3YzTS1zWF9QYW1ERUNxOHRBcVM2eTdGTVBwQmpkTUhPZlJBdWlCY0ZvVldHc3NSbGQ2N0RHOXRFTjF4a0J2ZEVmcy1CSHN5V25HTXRLZ29qRFZUb0xob3pWXzlSQmVvSWM2?oc=5"
         }
     ]
 }
