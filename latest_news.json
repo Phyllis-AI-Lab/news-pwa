@@ -1,46 +1,46 @@
 {
-    "updated_at": "2026-10-04 10:44",
-    "summary": "早安，為您帶來今日上午重點快報。\n\n【生活氣象】\n首先關心天氣。東北季風今日增強，全台變天，北部及東半部有局部短暫雨，並留意局部大雨。氣溫方面，後半周北部將下探至十九度，請留意溫差變化。\n\n【社會民生】\n社會事件方面。宜蘭員山一處建材行深夜發生猛烈火警，火勢迅速蔓延，造成屋內的老父親、妻子以及兩名年幼兒女受困，情況危急。\n\n【政治焦點】\n政治焦點方面。台北市長蔣萬安與立委沈伯洋因美沙冬計畫議題隔空交火，疾管署長羅一鈞也發聲回應。國防部針對美國五角大廈派員長駐台灣、參與我國防決策核心的傳聞已做出說明。在野整合方面，民眾黨主席柯文哲與國民黨立委柯志恩首度合體，柯志恩呼籲藍白合力下架新潮流。此外，備受關注的新北市長潛在人選街訪民調結果也令人意外。\n\n【國際情勢】\n國際情勢方面。杜拜航空安檢漏洞事件引起國際關注，涉案副機師曾因激進思想遭阿曼禁飛。俄烏戰事部分，有報導指出普丁對烏克蘭下達了「孤注一擲」的命令，戰局發展值得留意。",
+    "updated_at": "2026-10-04 22:05",
+    "summary": "晚安，為您帶來今日晚間重點快報。\n\n【政治焦點】\n今日政壇活動頻頻，民進黨立委沈伯洋競選總部成立，主辦單位宣稱突破三萬人，藝人蔡康永也現身搖滾區支持。另一方面，國民黨籍民代李四川板一造勢開場即湧入逾兩萬人，韓國瑜、黃國昌、蔣萬安等藍白大咖皆到場力挺。此外，江啟臣競選總部也同步成立，「禿子、漢子、燕子」再度聚首。而蔣萬安臉書遭灌爆，醫界人士質疑沈伯洋當年曾提「海洛因輔助療法」。行政院長卓榮泰在議場內秀出洋流船員證，國民黨則批其利用公務手機助選，將依法究責。\n\n【社會民生】\n氣象方面，明日大台北及東北部地區須嚴防大雨，未來一周將受東北季風影響，氣溫偏涼約24度。社會案件則有，北市同志酒吧搜索爭議，萬華警分局已坦承員警言行不當並進行懲處。宜蘭一處建材行惡火釀悲劇，造成一家三口不幸罹難，屋主面對家破人亡，悲痛萬分。\n\n【國際情勢】\n國際消息方面，日本沖繩傳出美軍陸戰隊員涉嫌殺害當地女子，引發日本社會譁然，日本外相高市早苗已向美方表達強烈抗議。",
     "news": [
         {
-            "title": "周一東北季風增強 留意局部大雨 後半周北部下探19℃",
-            "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxPcGJnT3pkRjIyOXhaNU0tdmRubXpOdzZwQUQ4OXNRZHN5NC1FTXE1R3IwcVk2c3pOY2RHWUwzQzFMTjhVa28xbVJUdFRaZVo5d2lScGtEdmtEcThrY0g5UUZNVlAxd0lRSXB5aHFqdWt4V0RqZ1FWWkVwaUstMjNja3ZEX0kzNUY5QkRtRXl6Rjk3Z1V4alh0QlhYLXd0Y2IwRXNCLXNPSGMtNlFGZWtsYjI1LUdmczUxVlFXZTJuQUhKTjllUzgyejJOYmlMZEhsLWg5RGNENnZ3Ni1Da2lWSXFfclpUanVER3VFNmloOVIwNGYwOGplTFBBR1JTWm1PTnh2WVlGX282WWZxRzRKZ1BET29uMmJycFF1a2puQ0hZVlhFdHlQSVBNTm9kc3NlTXlyTUthZ1NzLUlKajRZN0hKZDk4cC1SeTIxeXNnUTFhSnZmWjROcDg4aGZpalo0?oc=5"
+            "title": "明天天氣大台北、東北部防大雨 未來一周東北季風影響偏涼約24℃",
+            "link": "https://news.google.com/rss/articles/CBMipwNBVV95cUxOb2hSRFZUcEVNZDZ0Q0NNUjhXZW5XOXNSMVNPNjFkdzFjcldoRE5GcGJ1ekxqdEJjc0RoQWxuelZCNFpVbDdYZTZJZWlqS042V3U5dXJ2T2hXZ2ZIZi0ydTA4U2RoWWlTdG4yWWhUemNJSDJxZGdDa0NDdzNFVGEwdnVaT1B6UDlFaDZHWXFXVFFLYXo5QTVLTnJJNFVocGdCaWxxYk9fRU1SNnlweUhuOEpEUkNTb3d4RXFscjA0ekhFNVVUbkU0a2FqcGxpUnlXY1hFTEdCdjVoWXgzRTRfbDIxa204Ulo0d0MzblpidHBROG9ibXhvMEREd1ZOUEd0cEVkbmg0NWFSYzl0Qk1BMHk3Um1BdzZJb29hRjhMc292QjVBYTk5dVVoZ3BqcVZiaFBuYl9iN0g1ZE9WMFZvbE0tS05yWm5zdDMzYjBnOEs4Qk04SGdCYmRiSElZVWFZVlR6Q0hWcUJBbHI0V19PMUNNUURwM2dtQUhsUVplYXFhOUpXV0FmaW9hcUtlZEtlblBEejJKRk1TUXAyMURCUnJGZ21fVHM?oc=5"
         },
         {
-            "title": "蔣萬安嗆「沈伯洋別拿美沙冬計畫遮掩」　疾管署長羅一鈞不忍發聲了",
-            "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9zQTlhZXJMVFJ3TWJ3d2JuRmNuWi1XNUE5Q0U0UFJQbnpWTDlSenRaOEZaaEdkc2UtWkxiZGV2dk9OeWVDQm1Hb9IBTEFVX3lxTE9xTXZjTWNoWmlER3RYTDJWN0NFTWV6YTNubW5ReWd3aG9sYVFpUnphM1Y0NEY5RThSWjRQS2k5YlllNEVQeW1OV3dHczI?oc=5"
+            "title": "沈伯洋競總成立！主辦單位宣稱突破3萬人蔡康永現身搖滾區| 2026九合一選舉",
+            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0wWWo2S2NoNXVHdk05Vk4tZkx4dE9TUnNjUXB2Ym9JTDJiTUs0Qk16VWRaa205UUdtTml1VlZLQmZNSEc5YnZMcEp2NmtmM3lNOUc0Umd3LVI?oc=5"
         },
         {
-            "title": "宜蘭員山建材行深夜大火畫面曝 老父、妻及2兒女受困",
-            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5yeDlxWDNGbDNiakZXUnpBcEs2dHlrY0Z2elJRMGExOFo0akV6cGhhWjJmVm44bFB4WlYxd0s2emFzUEI4ZkRGQWhsQ3JTMm1vVTR0N2M2NS12a2lsTFVLXzZzYzlsSzZF0gFuQVVfeXFMT0FzRktqRmxfTGdMeTgtXzg5cUpkdGJReVF5OHhLbjZNQ0dvcE9CSG1yczVuQTcyNnNfMGlLSFZsOFNqNmtGNkJNV3NNeEZlVWVGQzhLVTFHbTRQUndzRGpPR3BTTzhoSWFva2FoQXc?oc=5"
+            "title": "蔣萬安臉書遭灌爆 醫嗆沈伯洋：你當年說的是「海洛因輔助療法」",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE16SEp0bmRRcmlwZ0NVMEZ2U1NfSU5CUlJqTnN2dW1YZkFGZGpLUW13ckNSVTVXemRtT0IxN0tucDdYTVdRWndOSGpMcXh6NTZLVEV30gFYQVVfeXFMT1FIVzJHRzl0U2NHeXBrSHhidEJwX280RGFsNHdYZUp1VXFMTU5SRUo0TFV1cXN1V01ZbHZGYnZzNEdyRWxLc3F6TEJtaERJOFhVZWJtSVRibQ?oc=5"
         },
         {
-            "title": "杜拜航空安檢漏洞受矚行凶副機師曾因激進思想遭阿曼禁飛| 國際",
-            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5OdS00dTVBWmhJX0FYRG9JbnhHYXNzTGlaLU5HZ01qUm01c29KLXZFd0JRek9adlg2am1XSVI2dEJNU2FDUGx0LWU3bXRUd3daXzlwNWt4dkdjYUQyUkxn?oc=5"
+            "title": "北市同志酒吧搜索爭議萬華警：員警言行不當已懲處| 社會",
+            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5BWV9DWHU4YVJlWDZCSEg0NG5mNzA2NU4zTWpsbDRiSGgwaUFueXp5aS1JQzhFV1lwRFFjM1dXX2pibG9JWTRWM0g0Z3dHOTQ3a205NXg2eTdqRmU2S1l3?oc=5"
         },
         {
-            "title": "五角大廈派員長駐台灣「參與我國防決策核心」？ 國防部說話了",
-            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5jSEpNTWVjNmpMalp6Q0RZbkc3QU0xSWpPWW91ZEJyaXBmcmhIb2p5Nzd5VjBhWHEyeGF5TndlX0xlUGFZVmFuMVBISGttbXFZWHfSAVdBVV95cUxNWVJGak1ERWxsTnFJR2FVbFc5YnUtU2FFY243ZWtWMmpzV3lGdGhaRGNGdWlpNHdIU1lKbHJ3QkRscDBoY0VrRnR4V2dTb0xHeUJfX29xNlk?oc=5"
+            "title": "李四川板一造勢開場湧逾2萬人 韓國瑜、黃國昌、蔣萬安等藍白大咖力挺",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE44ZERELXZueXhHRkJGdXhQR0FXaUM4Y0x5UjhJVGVhZ2ZsTFZMdVZSd0J3YTFEMDZfRWNJVjJrSlRaa2xSbllTN1VMLUdYRlFQdHln0gFYQVVfeXFMTzhQNGJoT2dHT2JpdS0tZjdxdEpqamtqS0VUaDA1UTJ4Tkd0cElSdC1wSVhqQk5TaFA5Um41a050bnhfUGUyaElVZnlKQ01xcWY4Qjk2cm9aYw?oc=5"
         },
         {
-            "title": "普丁絕望了？對烏克蘭「孤注一擲」命令曝光- 國際",
-            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1GZFdEOVVWZUVIM0NhbGp2Q04xRm9RaFFJYlZkOVh2MTNsQTV6Zzd5REl2NHdVZFdBZGpnZnk5YzZaYVBmNVZDaFZUVUlWRm9pQzloZnNZZ3dkdjdUTHNaWW1aVVBPSXEyTlhGeGhB?oc=5"
+            "title": "美軍陸戰隊員涉殺沖繩女子！高市早苗開轟 向美方強烈抗議",
+            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9ZalRHdmJoLTB3MVZfWlhkZDl0b1FtdE0yMXNxSEkyd2wzdWplWjgtcTlvakRHS2lYOFRBck85bmJWZkNueHBBamIxSEV6RlhX0gFWQVVfeXFMTl8wbFdXdHFQZ24tM0RkM0dYTDNiaS1CZlI0RWdydkgtb3dyRFBLWkcxSkk0Nk5qTXhzTGpxN3JwQ0lVamdQeEgzS3BWYWgyN1ktdTlHRUE?oc=5"
         },
         {
-            "title": "柯文哲來了！「雙柯」首度合體 柯志恩喊藍白合：下架新潮流",
-            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1UX0tVVFdyVDFpdi1sRzRib2Z4NWFfSHQxVzgwOFZFdnlNeGlTS1AzUjFiamR5X2RWcXFRRy1wN3lTLW5ZbHl5XzU0M205NWRMOG9B0gFYQVVfeXFMTXFvaWVscUVzbmx1dk1Kdm94Zkh2OVByQnJDaHgwb2Z3b3dQYk85VTNPSjlDLTBiWXFqTWxhMWlqS1NZNDlSSjh1OWYxc3I3dFo0NXYwc0Rscg?oc=5"
+            "title": "宜蘭建材行惡火！父親、妻女都沒了 屋主悲喊：活著還有什麼意思",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9KdnJHQnQ2aExyM2kwMmtlbXl1TGQxVlRkLUlFSzlnUWtrbVQzQjFNck9veDZXbTlfSERHSk8tdURkY1RsUTNla0pXdVFCa2NobVY5MjNB?oc=5"
         },
         {
-            "title": "支持誰當新北市長？「搖擺區」街訪民調結果超意外- 政治",
-            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1zd045QjZDM3MtMDR1cUNXSTYxZDVJN0F6RUFma0Z0aFoxTFgxdUIydVIyRHVhaUpwc3dnejVmZ0pJdlhkcVVlM1RYdXZCZmQtR2p1NnlQM0gwNm53WVFoV1RWZktVbjVfY1RoLXNR?oc=5"
+            "title": "卓榮泰議場秀「洋流船員證」 國民黨：拿公務手機助選依法究責",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5LOXdNY3Jkcjh4Qkk4RGQ5aXpQa05ISnR3dW13RGR6VC15NlRERXdvZ0k4RW10NnJQZmFiRFJKNXVaTmlua2trUWxHSXlwQk4tZEQwZzI2enZkbVk3bUZhekg1U1BpNE5EU3fSAW9BVV95cUxOMUlXdjUzcFF5TzAzQlNqR3Bpam0xVHZrUl9kQm1zRU1Cclo2bTJXNW9sV3NBU0V4T0lzQmxfTHhGa3JwRmhjd05lRXdmT3hKdkVuUDZKenFQLWZQdmJlc0ZmaHYwVWNqdVgwbkNyYzQ?oc=5"
         },
         {
-            "title": "他大讚沈伯洋完勝蔣萬安靠「一大利器」！狠酸蔣沒信心",
-            "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBlTTJ3RlBWdFdLUWJ4bHQ3Tl9BNUVLSUtqTk1fX0g4Y3JpMXV2WlpLWUJqMWdhNkIydno3MkN5TVY2ZWFWQ0pkV9IBTEFVX3lxTE0weDcweHdSVWMxNk0yZ3o4VmljT1pXdzdUaDFrZUtkQ192cGROeEhIV0syUjI1Q244NVhxLXk2UEtyQTN1cTFfbkRpcHY?oc=5"
+            "title": "江啟臣競選總部成立 禿子、漢子、燕子再聚首力挺",
+            "link": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxQdWZZWFpLLWdzWDQtT1RzdjZLT1RYS1BqbFNuUmZEVkEzZmctd0poQUlTdkxHLXNvdU9pc1kwRk9oRjdYZGpOVzYtU0d5WmYtMHZCbEV0b2UwVXluT285UVMtZGFwLWlWYm9HMlAweklSaGYwYXk4bXF6UUkzUHRFLWt0YWl0a21BQ29PX3ktN1RVaUU5T0pac1MxU3ZEOWpZYjVETEMxQTNJbDA0TGl5RTVnc3paZDhPTU12cHBhX1REYjdfVGVvajVnSnhuZEdqSnB0U2hIbWI3UktMaDdMNFRaa3dsS3hqTUhXTzY0Z3JzVEpWR2dZOFM4TnJCSHRCWnE4cEJ3UWVLNmFlTDRaYjdndlg3dE0zWTF5RDBGWDBudzJNZ1E2LWlfb1l4QUlLZW1lWnlTWnZHZmpkY0oyanJOdVFBVGZxbXNndkRnc2YwbUdyeTdsbVJJY1E?oc=5"
         },
         {
-            "title": "柯志恩酸賴瑞隆不強 賴反駁：民進黨8個立委都比妳強",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE11QXNnakEzcmRfQjVWMFR0T2VMNGREUFJraXhUT3k4NFhOSUh0VDlvZEhMdjZDcFRINEZ6bEllWlZOUlYtZWxYSHJoWWxUaFY4MnJKUVBnV2MtZk9ZejFscElkTzcybW9TS0HSAW9BVV95cUxPenEtWUN3ZWo4OURfMmZaaUpJd0wweWFSUFlNQXVjZzE1bEp5ZC00d3Zidm9JN3FneHdGRlBERWo5dlMxRjNEeVdIY3RjN1NkZmFBelpNZmVSLXVvQmRkUE1SSldMQWw3UEFqampRXzQ?oc=5"
+            "title": "胡勇專欄》川習會後台灣新定位- 時論廣場- 言論",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1lcG1Pdi1jME9aYktnS0pyVlhBSDRiNndTNk1pazR3WTF0ODZCbThIemxrVGtCeVpWY0pUWnU3aWhBd01lQnRYZTRQdWMxUHFyTDZEUi1fVktwSm1hUVdVSzJWTGxUb00?oc=5"
         }
     ]
 }
