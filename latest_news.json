@@ -1,46 +1,46 @@
 {
-    "updated_at": "2026-10-05 17:05",
-    "summary": "午安，為您帶來今日午間重點快報。\n\n【政治焦點】\n今日政壇焦點多方延燒。醫界發起連署，嚴正譴責蔣萬安市長在毒品防治議題上的「汙名化」言論，黃國昌更尖銳批評其缺乏基本識讀能力。此外，針對同志酒吧爆發員警言語歧視爭議，蔣萬安市長已公開致歉並下令全面檢討。藍營陣營則要求蘇巧慧為其「三大造謠黑歷史」公開道歉。值得注意的是，沈伯洋的造勢活動突破十二萬人，其《FF14》遊戲公會房更變身為「線上競選總部」，創造獨特話題。\n\n【兩岸情勢】\n兩岸議題方面，賴清德總統長子在美國洛杉磯遭中國方面「盯梢」，其車牌住家等個資遭拍攝，涉案的華裔女房仲已在當地落網。另一方面，藝人蔡康永因現身沈伯洋競總成立大會，登上微博熱搜後，卻傳出遭到中國商業切割的消息，再次凸顯兩岸關係的複雜與敏感。\n\n【社會民生】\n氣象動態方面，中央氣象署針對十縣市發布了大雨特報，提醒民眾留意局部大雨。同時，北部及東半部地區將明顯變天下雨轉涼，氣象專家吳德榮也預告，未來有三颱可能陸續生成，並已揭示其潛在路徑與影響，請民眾多加留意天氣變化。\n\n【財經話題】\n財經新聞，有建商高層自爆是輝達落腳台灣後的既得利益者，此言論瞬間引發輿論譁然，網民紛紛要求檢調介入徹查，而李四川競辦也針對此事做出了回應。",
+    "updated_at": "2026-10-06 03:43",
+    "summary": "晚安，為您帶來今日晚間重點快報。\n\n政治焦點\n\n台北市長蔣萬安因毒品防治言論爭議，引發醫界連署譴責汙名化，立委黃國昌也質疑其識讀能力。首都辯論方面，民進黨立委參選人沈伯洋表示已簽署所有媒體邀約，蔣萬安競辦則期待TVBS盡快安排。此外，民眾黨團再爆前瞻計畫執行長徐佳青涉嫌讓愛子假冒攝影官出訪，要求立刻停職、依法究責。民進黨則對2026九合一選舉的「洋流」效應提出警示。\n\n社會要聞\n\n台北市萬華分局因同志酒吧搜查爭議，分局長等六名警員遭處分，引起社會關注。\n\n國際情勢\n\n美國聯邦調查局FBI，拘捕華裔房產經紀張婉瑩，控其涉嫌充當中國代理人，監視賴清德在美的兒子。藝人蔡康永現身沈伯洋造勢活動引發兩岸關注，也再度盤點中國大陸商界「割席台獨」的相關案例。\n\n財經民生\n\n知名零食品牌乖乖工會宣布明天將解除罷工行動，危機順利化解。天氣方面，明天東北季風持續發威，全台低溫將跌破20度，提醒民眾留意保暖。",
     "news": [
         {
             "title": "醫界連署譴責蔣萬安汙名化毒品防治 黃國昌酸：沒有基本識讀能力嗎？",
             "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBGZVN4MUw3TTN1MUxYd1FEVGhsdE5ES1pDUWVOT0VVVXVxQk1ic05jdlh2cURGWnRObFdMeXBkQzd3WkFMMm16SnI2QlhJZnRa0gFWQVVfeXFMT3BuYWRDWlFoZU01ekFDYmk0NTY5TWk3RUVlSGZGMzRBajhBajJ5cHlydjNHc05HMFFrMkIxNnFkdG5wQnBaNDVCSlJXa1c1LTVJYWR4TVE?oc=5"
         },
         {
-            "title": "賴清德長子遭中國盯梢！車牌住家全被拍 華裔女房仲洛杉磯落網",
-            "link": "https://news.google.com/rss/articles/CBMimgNBVV95cUxQNF9DMUczR1BqbDQwbWF1ZVhxRjZxbDhCZTVXaXY0a1owREt6NmNNdXdXWEE1SXkyTTZpT1VQVWdqLXlrMUhERmZnM3RaU0c1YTVqbUE5T1FhYWdFMzZlR2E4eVdnOFlDWlFRdElKTk5MZW8xVkZqb0xaQjJQUkRnRlZXdDVPMWRmWm5yX2tyb3FkNHVGSkx3emNvNEVEWnlHZGQ4WkNSRzdBcGZMRFlVbm1zbEg4WERUTzI4eEtESU9rWlhkX2E0ekpZa2FrSFVzdDFzVThmQnllYkY2Q0FYY2JnRFlwcUpjanRwVEFWSTNQNnFaYkdyOHNfS29Ec0hKOFkwNlVfQmtEbTJFdGJWeVBXcm53QVZUM01XYjBIS0FDalJKVHdhbFZ4Rm5SRHlvUW1GZ0FOWk1kQUQ2NmhMVjVzQjkyTHh0bW5KSjRiWlNuWGxEaVFkM3VVNXNVSUUtRzdaS0YwOE8td0dNMFA2TkVjcm1iM3p0Zm1ETWl3QkhBTjE2MnJuV3FiZWJDWF93Zm5OX0t6VUtqZw?oc=5"
+            "title": "蔡康永現身沈伯洋造勢活動遭砲轟 盤點中國大陸商界「割席台獨」案例",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9LeGJ6bkE1NHBycHJQQVlHR0tSb1BHZlQybXczNTNSSzRUVEVaNDRESl9odk1XNDJMYS1ldjZ1bHdybi1zWHN5YWkxM3hQNV9xaENXQ2NkTTlVRVlsU1J3Sm1EOTA0a0HSAWxBVV95cUxONmVsTUdwWVpWeVlnVWhOaHdiZm16V3MxZm5qTTMxamdOSVpJMGxBWVJUeWdnZkdwandyRUJGWUR2elphLVRobVF4d0JoYTk4dEtEeXo0WWhsMUxMQ2FMa2djWHg5MTl2NFVLTWQ?oc=5"
         },
         {
-            "title": "蔡康永現身沈伯洋競總成立大會登微博熱搜遭中國商業切割| 兩岸",
-            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE05Q3cxclBFSnRwVVRuQXQySjQ2UDV4d3R0RzhYMmRIUEN0VTdfMlIzYlhERnYxeGFPRlVPZWluZ0dQUTN0TFZRcnY2VVloRXhDOGs1LU9oNTFzdGdLTVE?oc=5"
+            "title": "台北同志酒吧搜查爭議萬華分局長等6警遭處分| 社會",
+            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5BTDBXa1ZxNFJtVG40UlcxWXpKX0djRFBzRExwMHpGTzFEeDVTOXMtY3hUWFZLTlZwRFZOTUpNS2dQRE9XYkRJU29TalROYThjLTJMSUpxRXFjMTV2V2NV?oc=5"
         },
         {
-            "title": "快訊／10縣市大雨特報！影響範圍一次看",
-            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE53YWRQVktCTDBtRWhKLWtpc21LUHFRcE92UGFISldyd00zdHVITUxtUGJ0aUlKcXkybnFJMnZ4dXFSUFA2cHRNeEpsaVpqTlNTckxwag?oc=5"
+            "title": "首都辯論！沈伯洋「邀約媒體全簽了」　蔣萬安競辦：期待TVBS盡快安排",
+            "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE8yQ2RaVzN6T3VkSGhGX0labWs0cmlzTk84Mnp3NElFRmwtSUJlRzZRT0hwRnV1NVlPd3g0V3p5MUlqb000T1RxQ9IBTEFVX3lxTFB6c3VMMzVCNWs3alcyb3hHYmFzYU5IUUpnbTV0TlM3THlMLTVtTmtLRXFRUHlfaWEtRXYyclFHdDMycHEyb2wycDBFWWQ?oc=5"
         },
         {
-            "title": "同志酒吧警爆言語歧視惹議 蔣萬安下令檢討：我非常抱歉",
-            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1yVV9kZHV0ZEt4SEpIYzl5VnFxaVJzemlQMHQxdHc5eTlQYU9DVk41MUxsOFNwWl9YWm84WTJmVnYxV1pPclVJTk85SE40ZEdq0gFWQVVfeXFMTm8wSmlIUkNGTTFxVTMtT0VrR0JKQXNnUmNEbm45Rml3WFM5bXktRExidHlSZlhWM0laaWlBeHJyeFBTRlZQU0xZbkY4a3B4bjN6UGtsQkE?oc=5"
+            "title": "明天更冷！東北季風持續發威「低溫跌破20度」 未來一週天氣一圖看",
+            "link": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxQNTc3NUEzc0pQTWtwUWxHSC13ZnJfZXZIZjRjRUg3aldrNVF2dVQ5a0ZuOF93YkQySThrWU9qOFRobWFZZGhfX1pvTHlNUDY2cWRLNDIyUjJXelVvaC1RSm8zbVVkc0tlWHRxNGVscVZLMjFDNk95cHFIUEtSRk1hdXdINzNNUjMzTjhrcmIxY1FiRnBfVzlPWC1TUEFpOW9uXzdwY2c4MWh2MTBIZFNJenBGTlg2UXFPWjJoN2JUa01oMmdzekxwcy0ybEFwcmdTZXQ0cVl5UTNZS1g2NEFkWjZiczktM1h5T2dUMi1HUGlRMHRfbFMyd2FLNFF0aUxrRS1IMWdxOGwtdmpFMkNsSUJmLVBYTFFkdnlGZHNXQUpKdmhYU1JrLW9CVTZwT1BjMEhVNlZTSFJhak5QQl93YWtrM2ZRWUxHNXo0ODNKOVcxQnBlMVB0Si1uUUFQREhDWi1R?oc=5"
         },
         {
-            "title": "今北東變天下雨轉涼 快要有3颱 吳德榮揭路徑、影響",
-            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE15VUc5RVplVkZFWG1VVUlfQWcyc3VrTngxU1h4d05JLWdGVkJEYzBGX1ZUM0MxTTdrd1A3MUIycXpQdWZiVkxRSlRLaExtamd50gFWQVVfeXFMTnQ3WG1NbktnRk12bEMxc0F4SlpLbzlESHlFVWtzaFdRX0pCcUR2SWQ5ZC1Qa3hoZVkzVGxPLU5faG5iSVlFWDRGa3NaVGM4NC1xbGtwR0E?oc=5"
+            "title": "涉監視賴清德在美兒子 FBI拘捕華裔房產經紀張婉瑩 控充當中國代理人",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1nYmZuMGt1d2k5S19UV2lxM0c2dThyU3lZYnlCMEhoaFE2YmppZ2NQTXVkQUFhUncyUlJFMC05eXFMUXlYaWpqY3FvM3V1QTJER0JZdGtPaWRGdXJMRFM5T3pEMU9LbWfSAWxBVV95cUxPUFZCSkdBRzZ4Y3Y1aFRCNzBqRU50a1VhUmhLOVY3YWpmNEh2d1g3b1FmelZCcTVUa1ZYdGlwTlNXcVpDRWk3V0Z2bXpBd1BXVkxBdDlWeTF6LXpqQ2VycjU4djg2d242WVNjSEI?oc=5"
         },
         {
-            "title": "列蘇巧慧三大造謠黑歷史 藍要求道歉別再拗",
-            "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxOaEZFb1F3OGUzMURJWmV2SlBycWl0aGgteTRjR2lOMzI4bXpWOTdycVVwcndkR0hjQnBKZjc4czRmLXE0QTMzdE14UUs2SVZNWi1DeElEMnZ6NTlqdFFBMGIwVlpZdGZ3RTl2WF9DQTVYVlVOWUJVQUdEX1hmTnlnWFRiTHFRaHhqYVh1Mmd4cDhuSWJpaks5Rl9UVTgxQ3ZpQkhJNHl5dzRHY3NjQ3pNRExjYVAxOG1qUE1zU2tyRWRlcDQ0cmpNaHNaMmlHN1hPNVRQcXVIZUtsOExnWkhtVldmRFlnc04xZld4RnZSbHI1M0hYOHpvMEt5M2FnRm9OYXJtdTRHc00yTldObndKcnVNZEoySjdpckpsTVNYY1pLSXdSaFk0b2Z3NV9vMDJQTUZGcEx4V24?oc=5"
+            "title": "沈伯洋《FF14》遊戲房屋也變「線上競選總部」？玩家朝聖打卡 橘色染劑一度賣光",
+            "link": "https://news.google.com/rss/articles/CBMi8gNBVV95cUxPX09Wa1FHTG1MVlVfQkd2S0lfNXhBZDF3N1o1QzFENEdvS3BmQVBjRWV5YmNtYlpQS0dKQzA1MWRvbEJBNmsybC1WM0praWhzbDBxN0pocE1UQVVHXzRjSEtMUlhXM3BuZnFoWXp3OUdWLThzNExGMGpKelFDYVY4UEFnT3dIMUVVcUNfbDVzMW53enlqMXdpa3RLVm03anlVZkIyeWlRd0dpTzNLRVBMS3NWcWpnblUtYXBSOUYwVlBITV9YSy12RUxmNWpXYm1xcmpOWkktRURiYjNFLWE2U2RXQjQ4TUZIYVlWMHRsbndyRmp5X0RkVUVNcHEyZWZFeEdGdzMzTTBSV3Fvc3hhZnE5Tjh5aUUyRmZ0RVFlZTctdWpBdlhWckdfX21ZTUk2YVVfNUZXSS1aell1bC1CV3hYMUVUa1daUHNwVjdnbWkzV2RWZmthVGRLc1ZBT2VnenpCdUxDalpnNllsNkZhMWg5OEx1bVdncENiM2NGcWdoTjdQR1VKeVBUcDRrUWUwaDR6S0FjbFRzOEt6alRWclB4YmlkZnE2WEdCVC1kZnd4MXdvc1lJTGFTaFVoa3FTMFF5cUczSlhfdzlBWVIxMV9vLVg2T1pVYVZSbUhJUTZ2OVF3aHZ5QjgxUDJUTUFvQnc?oc=5"
         },
         {
-            "title": "沈伯洋造勢破12萬人！鄭麗文喊簡單啦：賴清德票房毒藥、蔡英文人走茶涼",
-            "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE8wLVZvUG5iTHNyR3VtNTFleHNNS08yZnlGNTZJbFpmSVVHTDczSmxBS2JwRVNVSE4yQ3BGN0xZYU5GeEVPN0JCedIBTEFVX3lxTE92MXROMUpHWkV1eDc2anVaeDdQYmpVbVlSekhqWjVtak5yUmZWZ1lUSGVBTTFxbW9XdzNCWGhHT1RWdUZZTWctWXlmSzY?oc=5"
+            "title": "再爆徐佳青讓愛子假冒「攝影官」出訪 民眾黨團：立刻停職、依法究責",
+            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5DOHhCaF9meGNMV1dnaVIyMUhIb2ZfRFdvTnNVcmNqN2Zqb2NaZC1rR19XVTFTbDFaN18tZXctVV83Q1NvcTc3MHg0SVAtSTgz0gFWQVVfeXFMTXhubTVLbndKdlZsanFIT2pmT1VTZlVuQWUzV25WV0xzWXNWaTV0clpBYjNNQl96MV9zNXNGS3pGdVUtb1RsYkFQRzBISUZMWUpoR2Jra3c?oc=5"
         },
         {
-            "title": "建商自爆是輝達落腳既得利益者網喊檢調快查 李四川競辦回應了",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1oOE1LcEFjdlpoWjdfenFVM2JDMTloNnRJeEQ3QTZxVWNHY1VjMzhjQXgxQlZsbkEtd1g2TmxwUDJ2WWdOMWx4UWh5UUFmSW91dGItVXhSM2dwQ0NaUWdpWEVZaHFkaHNTWkHSAW9BVV95cUxNbGFwc0hnY3Z4OEJVVzdLcE9EbE5ydi1CMDQ4azlmOXhfSFpjd1FLcjF5SEk5ampqREZudDJnVmpwU05aWWRQUm4yOUVmdUltYVB3OGJQeS1TZXFkS09BeWFZSTA5VTljYm1QYWUzSEk?oc=5"
+            "title": "危機解除！乖乖工會明解除罷工行動",
+            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1OZy1EeUVxZkgyWGdIeFhGWTdSaWJVMm1oQVhiVi1hM3FOUFgwX0xiemQ4RHZkMm4tVFN3TGdRYkZFQTRCYUJKbW52STdsSWxrc3lyaUxaZEpBektmWHlNYzFqZDPSAWpBVV95cUxNaXVuNG90SlRZUGQxVy1obDhhUW9qbGJSbXN2dVIwYzUtU2tXV0xCVTA3cWtNaVNZYlgwWllBMmtCVkNUOXpVVDFpVlRzMndLUGVYZWNlZTZtY3o0dWNuTFFSb0NOVGlVY2pB?oc=5"
         },
         {
-            "title": "沈伯洋《FF14》遊戲公會房變「線上競選總部」打卡聖地！拍賣場橘色染劑一度被掃光",
-            "link": "https://news.google.com/rss/articles/CBMiiARBVV95cUxQNmpzdk1pajZLZ3BLYnFzOTdUdWxoZnFpSkIxMnFYdUZFT3Jxalo3bTRPM25YSHpIaWd4TkR1a2NnUXNJYloyQThDZmFMd2RWUG9Rck40d1hxTjhaa0FzcjV2RlZtT1RrNl9mSHhWS3FpSkJkU3Y5ZXRYd3hxRzNyN0RxSTFRazBQZlNXeVptZjJQVWdiWkJidFBIUnJQZWtqVXlTRHZHOGRiS0NQbTRZSlF2S3pYcEt2SHdvRm52dFQ1OE1ZZktNMjBIeVRjRG5TNlFfTjI1bVNxLWI1M2l1bGZwakg1a3o0amFldDhBWEJBMkdYLWVpejBSdERpLVIzRUdkd24xbUFNUldPSThCdnBVbnJtcXBINFZub2NSckJsamJKMnRyTVJUS1Y0eDVReHhiM0RtTXRrTWVzRThEempibGtTRTRxZXA3NDRROTE2cWNPT2pYUkRici1PRHZuTTlZZkNvMkw3c1MzY2lKN3Z0WUxja1U3M01MWUNQWFpDT2JDcndPUlVKWXQ5aHFoOVAyZGF2MUNkQ2tpbXZCT01fQWh1UzFuTDJ5aC1oclY3SEFLNXBtVWxWR21TeC1yNGtjSFczRm9Qc3FyakQ0c0hmTTMtN254am1FMVl5emVyeDNDTFdPbno3VFl0OG1yU0RSU3VLSmNpbFNTNjlXeEp0S21RNVZt?oc=5"
+            "title": "綠營示警「洋流」恐淪兩面刃| 2026九合一選舉",
+            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9IUFQ1czdzQzlyWWRzRi1wcFhIUEZGZ09DRG8wUmFWNDFfZ2RUQjdacW8zYkFKcVNIMHZqYnNNOGFja3h5cUM5R1VtMUtWUDFFSUhTMjZpQTU?oc=5"
         }
     ]
 }
