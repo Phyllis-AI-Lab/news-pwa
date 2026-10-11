@@ -1,46 +1,46 @@
 {
-    "updated_at": "2026-10-10 22:28",
-    "summary": "晚安，為您帶來今日晚間重點快報。\n\n【政治焦點】\n總統賴清德在國慶談話中強調「不讓威權侵蝕民主」，此番言論隨即引發國台辦的跳腳批評。立委選戰競爭激烈，蔣萬安與沈伯洋今晚將強碰，沈伯洋更公開喊話已有媒體願辦辯論，話題不斷。前立法院長韓國瑜在國慶典禮上脫稿發言，重提大罷免並批評賴清德政治潔癖，引發行政院回應。另外，國民黨李彥秀因抹毒言論惹怒社工工會，工會硬起來下戰帖要求她公開道歉。\n\n【社會焦點】\n國慶焰火交管圖竟驚見「解放軍殲10戰機」圖樣，公路局對此烏龍致歉，引發各界譁然。武嶺則發生交通亂象，一輛賓士違停路中間，導致近兩百輛車受阻，引發眾怒。儘管有零星插曲，國慶大會整體圓滿落幕，直升機吊掛救援演練成為今年活動的亮點。\n\n【生活資訊】\n國慶連假明天將迎來收假日，氣象局預報天氣大致穩定，不過大台北、基隆北海岸以及宜花東地區仍有局部降雨機率。交通方面，國道將有十一路段預計容易塞車，其中國道五號北向路段預估將連塞十一小時，提醒用路人提前規劃行程。",
+    "updated_at": "2026-10-11 09:54",
+    "summary": "早安，為您帶來今日上午重點快報。\n\n【政治焦點】\n國慶話題持續，律師分析韓國瑜脫稿發言的政治意圖。賴清德總統雙十演說以「山巔之城」論述台灣未來。此外，立委李彥秀因抹毒言論惹怒社工，工會要求公開道歉。蔣萬安與沈伯洋在公開場合握手交談，而蔡康永現身沈伯洋競總，也遭中共黨媒點名。\n\n【國際情勢】\n國際方面，美國前總統川普公開建議烏克蘭更換總統，稱澤倫斯基無法達成協議。中東情勢緊張，胡塞武裝組織再次襲擊利雅德機場，釀成死傷。\n\n【社會民生】\n台東國慶焰火驚傳意外，一輛吉普車衝入卑南溪出海口後拋錨，險遭滅頂。\n\n【天氣資訊】\n氣象局預告，明日冷空氣南下，全台將明顯降溫轉雨，北部低溫恐降至19度，提醒民眾多加留意。",
     "news": [
         {
-            "title": "賴清德國慶談話「不讓威權侵蝕民主」 國台辦跳腳",
-            "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxNazNJQkRXTWFtMnZPWUl3Mnl5bUlXNklScnBCS19lcXRfTnJjbHZjWWxheDhGVkFRcENVV3J0VFpWcnNUSm1Ed2xDc0F3Vzk4Rnl1UF92ZTZwMjFxSlFLdFkzOG1IeDM4V2pjV19RUFdnc3pPLVlSZms5ckFHSUpZenl5OWhjNnJhUlBId0N2ZF9IRzdUc1psbllWN1hiMTB0N3VGcjVrOHRNWi1DVlZFdERCamJzYXR0dXpEdGFEdlN6bnBzZ1BhYThvN2F3aXRHcjlOaUhvaHdQYmFBYm1ORlNycmF1cm9pbGxSVkNYNjhxRDBxWmtjbi02ajZQd2s0bFpGa0YwR21YQlhGbkNRTjF0X2xYYTgtMnlPVUdYMmdrOEtzcl9sdFVBZzZ4elhwdUkxNjcza2stRko1eHVHOWF5Y2FaOTV1YjdxbVJ4UUpoclYzbzc1RG16em15VklfX2tyU0VHMHhxUQ?oc=5"
+            "title": "為何不惜害台灣在國際丟臉？律師拆穿韓國瑜國慶脫稿政治企圖",
+            "link": "https://news.google.com/rss/articles/CBMimANBVV95cUxNWERhc083emp1QlF1eHlqeExCcU1RV0VtdDlnbFhMSXRiUEFrem9wSlhQUmx5QlAzcmdaRDlvQmZlTHVhc0xPU0FWMk8xcklXSWtRZlFvRVBoRGM3ZG5mTkZXcENsQ09jOTN1VktmUFFvR0s5UVNISGt1WVl3TVlKRG5TeFQxY1pTZzllR2lGSFlKLTJwcGotZVdPTE9DWDJjMDdONFFTZGVkQTd4RVQ1ZlpsN09fUFpza19qdlJIUDctZ3F0dXdMWV9UUUtWbHpTODdUNXltcm9pNHRvUnVEbWtvWmhmQVVSbGxGLS1LTlNpVFhybU9PbVZMbDhEc2ZicjdfUTZ0ZDdhbmlsZnotaFBjQS1DVWZjWXJSdVJZblQ5WlJlMjY0Uk16ZjhleGxvNHlia0lvS2ZWSXFCZkdtVUZJdDdES3dRZ3g1Tmd5eUxLdk5VRDBseGl4Q2oxdUI1MUd6SkJpVUs4NGhMekJJU0FjYVZvU1dzY3FlNWZ3NExFTHF0SHVJWDl6ZzlocmJHd0gtUkN1RGc?oc=5"
         },
         {
-            "title": "短兵相接！今晚將強碰蔣萬安沈伯洋撂民眾喊話：已有4家媒體能辦辯論| 縣市長議員選戰| 要聞",
-            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE10N3ZoMzU4UTFnaWZLVFQzblVJVG1HOV9DY2NZYzlVT0Rlb0FnSkppdDBwTFJGTndxLXRJNW9EeGxuZTRRang1U2FPMmM1UnhCY3hz?oc=5"
-        },
-        {
-            "title": "國慶焰火交管圖驚見「解放軍殲10」 公路局致歉",
-            "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxPdERLTFotRGtfV1FpNVdoTjg3U05PRDJoWTlKcEV5cTZWSGREai1Vajlzb0tNWE9mX3A0MDlpY2pYLWthQ05SMUF5WHUwdjBJblowbzlfQW9kMGl4eUxONDlSYnJHSEJUcWl5bXp1cm0xcTRnajhBN3FXTm5ZX3l2MTdiWGNNQWpjTEV6N041Q3dwZzdha21Ib3dxMXl2NWJuRlcxall4M0QzZ0g3QW0wX3BLT1k1NUJyd0ZEdlR3TFVWTEtCU1FjOVR0UHRjellqX0VNZXZWSllvN3ZzZGNrMkxpWEdoVFo2Sl9uWGZJc29yZ2RrZWM2NHcxYjM4TmpNeVV2S0o4SnBYbmRxNm9MLWJxOGowb25oUGF0THRJbXdvcFFsLVJJMHJIbjVscXVq?oc=5"
-        },
-        {
-            "title": "武嶺看日出違停路中間！賓士「1車擋200車」引眾怒…貪食蛇車陣慘況曝",
-            "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxPSnI0NFYtTkh6c3FTNy1iNVZOT2NtRVZSU0l6UzJIUW9tN3NzWUNsa3VsaFBGOFNkZ05OMUl2a2lEV003Z3FJa2lnSWpPSVlfbWI0a2J4VUs3ZG81R25NLWs3MU1oVmtsb3dxNmtxdUdjSzNmR1p0N2ZiX0lzTlVfOThzU1EweTd6V2EtXzlWc3JyQkswcE40R2w4eWJsNkdtc1hCc2g0LUpnV202dWJTUFlxVUVqRWlsRWhoRHcycWw1ZnZ4czd0TG16cVY2M1JsYkpzQTIxa0FCZ0xHMXVyZlFmbGN4N2VlMVJNbEZRQVRXT2ktREo1c2FHbHYxSGRxaHlrZkMyT1dDMmJhWnZjUnNTMndTNjZmUHBHWUI2d2V0Z2VyY05kMF9zUFB4NHlaQkRCWjhMQWFvNnp5NVpKU1RnNjBkT0F6X3V5Ums5MTZ2Z0g0M2dhZ1BVdGFhaXVScnFfVW5nR0hXYXcyR21TWVBIbGR5emlSSXRPMmlXOHpaZWR0ekJDTnNfdVhmajhFT0ZuQWFR?oc=5"
-        },
-        {
-            "title": "萬華宮廟大拚場！洋流勢如破竹 蔣萬安在「沈伯洋」歡呼聲中離場",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1HelZzamJ4R0xMLVBpYjd3R01mZm05UVUxcFJQaFRWMF9ONzVPSmc4UkFaZDRnbVVhRXd6Y3g0SnRrOERiaENGUk16NURSakIwWHN2bld5ZDFPbTY2RUk1d1RjOWpmNEpsWmfSAW9BVV95cUxQU0p5YlBfWUF5Z3pyRVdVQnMxXzFlY20zNnVwQms5NmNaaGpqU1pUeGZOUXZSRnBuR012NzJhSEp3WE5UTmpzQmFpRnlXWUpsV21KMmw4MzV5VkE0eko1Z1l5UFFucXJTT0lQWVFtZFU?oc=5"
-        },
-        {
-            "title": "韓國瑜國慶脫稿！重提大罷免批賴清德政治潔癖：台灣不能假民主真獨裁…不副署「憲法老師怎麼教」政院回應",
-            "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQN3VnTlYyU3hOSDhURzY1NDZhelp0VUNGTUpJTTVpUE0wWmhwWjZCTXNIM0FJWmtCX1BjOUpYSXQ3MmNfRW1TODcxbzhxLXRVLU1LWmkydkxTQnUyVG05MU1yNkNYa1l1cEt1dGpRbm5YamJDNEhIXzR2aENZX3RTdQ?oc=5"
+            "title": "影／川普公開喊烏克蘭換總統！點名澤倫斯基始終無法達成協議",
+            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBFM1VBcWNxNHV4MlhnSmNDbDIySl9xUlpxNEJkN1dDQnFINFNSN1M2OXhBYXlZbjRlYU9sTWtsVnFFa1V5LTE3UGhNTWs0c3Bj0gFWQVVfeXFMTUYyR2NTMjctT3gtenFhbzJ5cXBCQkRLa1ltVW9oMkdlNFdlSDdteGhjMmdndWp5WW1uU1hJcWVvZzVZTUZyTHVtRV9VQ3h3a05TX19Qb2c?oc=5"
         },
         {
             "title": "李彥秀抹毒惹毛社工！工會硬起來「下戰帖」：出來道歉",
             "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE80NlFBZFJJRHcybkVfVlJZMWR5cU9vbUc0R1VldXJIcGM2cmN2aDRLMkNoeFlza0NHUnpnZkRWLW9VUWFoU3d4NdIBTEFVX3lxTE43R3JPT29QLWVwaC1qZjNZamRsNzJHay1pam14a2U4R3NEQmVOamRId1NRTDVxemZXVlBTY0Etb2NGelNsS2k1cTNZQ2Y?oc=5"
         },
         {
-            "title": "明天國慶連假收假日天氣穩定 大台北、基隆北海岸、宜花東有雨",
-            "link": "https://news.google.com/rss/articles/CBMipANBVV95cUxPLVVBZ2k0bVY4eWhoTVEwbnpIczBnckl5clptdmNfT2NJRzlyeHhxWUpwT1ZXZndyblh4elBHTHFkQWRmSEZqSE16UWJEdWg2MW51bFZpQktlVXNSWUItZTR5UDduZmhsWHViTHIySnVFOGhjbnRqbEE5dk5uRUotNUdEejZIa3RRSWx4SG1pNDEyS2k3M3hoYThSdWUwZlFISnFIMDdJd0k0ZkhMbjJFb0d0X1N2ZHdibHFTY3hfQ2NyWlN6OTlCRXAwWGpkcWthb21LLXRNdkFRbFRySWoyTG4za3BwQy1qQU9ENFBNNnBycVF1dHhfQTRzeV9LS1gwSlB5NGNia1VLYkxYU2FnTFp3QnBPZ3Q3OVVtajR1a3NVTnNHTzd5Q3NEU3RTN2ZTVE1hRDg0QW9ORVNDUFB3SDVod0UxdjdlLW85TXd4dmt0cnhydHB3bXhLVzFfUmx4LVlxTjNOUV9uYzgzMW9qd3JWbzFJZXFXeVh4NF9jSE05SDkwNVRSRGxMZlZmZHppNzVoSEdqZExVQktWM09nU2Z1NDE?oc=5"
+            "title": "胡塞武裝再襲利雅德機場 釀12死309傷",
+            "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQZ2xUZDhTNml6WjZYTER1UEZkekZSUlBJTnZyODRpekoyLVNHUWpmeEtfaHVjaWRHajEyNW96d2VJcmxPT2xoYk9fdUNtNnYtekxkNWhyVzdMczFaTmtjYzdUSkhuVU9qdzdCcEtQWEhSOVNXbXcydzJoRUloWE5DeUZSbU1HdUpkUk1NZlNEUUZLYVFsQ0w3WE1Qa1d3V0FLOVpuU3A3VVZlNW9jRWpYTmVOLVpac0dDWnZiSkQ1Zm9IMmxCWWlHMHI4VGxDTFpwSUxYMGhtVHZlNmpkR0RuTGRwOW9LVjhvUFNSM2xpaDE5UmRrYmVsVHpmejBtSk5rWEpF?oc=5"
         },
         {
-            "title": "圖輯／國慶大會圓滿落幕 直升機吊掛救援成亮點",
-            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5qSmdKNERpSjd4QzkyTDIzalRZcFd6cUNIUWN3cFJJU2trRzZVY1JqcnQ4OXpMNUlOMXlJdFNEeU5hdzFzbUxtQVV0VEhrdkV5NElF0gFYQVVfeXFMTTRpdVNnelNaTWNxcWFlX0ppeDNOR1d0dHVmMFEydUx5VHZyTEJENUozU1NmVGF2d000bEUycmhCcmQ3MnVZR0hkb3pMdnl2bDRNOTlpa0xSUQ?oc=5"
+            "title": "圍剿升級！蔡康永現身沈伯洋競總 中共黨媒點名「至今未認錯」",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE10Ujl6RVY2UTljcWdNbnJTalVsWmx6OXZFQkJVdlQ3aGxJMjAxUU00UjR0QXhMOFFPUWlQSWNCeEt2QmU5VVBhZGNxcnBhVGZqSVh4NzJTb1g4TENGTWw1Q3pGY1pSSTlCb3fSAW9BVV95cUxQb3NCZDlNX0lfMzNRMlJaSGRjbGxFNGliYzhIM1BCcUpvVTNmZFNDSzAtTWhZS2dZQVJlTHc3QXF6U0NfUkZXWW1OOWE4WTd5QVdtX3pCQm9XS0poV0N5S1FrT3U0NmhJcTJiWEVKckE?oc=5"
         },
         {
-            "title": "國慶連假明收假日國道11路段易塞 國5北向估連塞11小時｜不斷更新",
-            "link": "https://news.google.com/rss/articles/CBMinwNBVV95cUxQTXZ6VDAxdTRNY0h2UHVEdm5RZTIwRjMtalBjelUtb2FkYWdrT2l3X29wZkZSVHpfdlB0a29ic0RBVHFONVRuaWRhWjJvOU9YX0lzWlAwYnpmSFhkTUhSNGYtdG5zazdMMHU4WkV5czZoV0pybjA4UXlSOHVpMWY5d3JQcmVGUDZqZWtDMzd0WnFfOUpvT1o0QUsyLVBtZjZ1RnI3XzZiV0FFckgtV2F1ZFNncHU2Si1mTDlLSFhuNG5TbWJFdVFXbGRxYVJGcFQtSEZvZHB2Z2RFdGlFTEF0M1prRksyMGl6NFFPOWozUHlmUERvcG5ydGhWbnJzQWc0YzltMGRoNFJQUGpkaFpOdW43RGtMUkpfcmZoY1Qwb3kyX0pPazJMVkw3WnZfYzBqeGt2ck1hdW1YaXZvUlpycU0yeUl2d0lkMFI4X2V1NVgwYVhoa0xDSXdEYWJrdkZkS201Z3VYRkt3Qmx1NjAzWGN1Z21oZlVaR1RDTVJjc0RTd3JJc0RMVVFkREozTXpDRzAyS29qbEt4WEV1Ty1z?oc=5"
+            "title": "明天的天氣/冷空氣來了降溫轉雨！全台變天濕涼「跌到剩下19度」， 下周氣象一次看",
+            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5VOW5qSDNRWmtzSElKcVY5QWxOVHNOQzhlcjU4aUZZWDZ6bF82OW9KM3U0Z3NITFlJaVpLeU1QVEZ3QUFtLXBWTkR1SWVOdGNZ?oc=5"
+        },
+        {
+            "title": "談話內容曝！蔣萬安、沈伯洋廣照宮短兵相接 2人握手短暫交談",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4xQXlPcmpEcktuZlNVcGVDWE93TWRCb01PeHNTUG1hRXFQQXo0aHR3MF9uNW8xbGVVZDhyNFY1OVFCSGNfNnM3NS10Q1VTQVZ2REhj0gFYQVVfeXFMTVZsalJpalB6Yk1mcU5WZjNxd3RLVlVLOUZvUDhOc1BFSVVBakpsVTdHVFN2Vkl2X1VDR1o0dkRPRGN0SzJab3c1UHdpTHRuV3lEa3R1MFIxdQ?oc=5"
+        },
+        {
+            "title": "以「山巔之城」論台灣：賴清德雙十演說想傳達什麼訊息？",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9IOTFlNjdfTnhmVHhQRElqMEVtZmM0amJNd2xyQmV2aXJMYTRVZHlhUjdVMnBjeGJBeGhPUHNhSDJsTjMzdHMxcGNTVVl2UlhQVzRpN3U3Z0VpYTlkRklmamRGWWdYN0XSAWxBVV95cUxQTk5NUDUzdDFwZld3X2FBdFZ5LWVla3dUekpMcks4amkwem5CNTFwLTV4cW1uWjFLbFRnV0tUQWkwU056a2REQTJiLUhXeVRCUHc4cFZLLTB3ZjQzWHN2cFJ4eHBzeTRXX2gzdkE?oc=5"
+        },
+        {
+            "title": "昔算柯文哲「空亡」17年！周映君斷言台中市長何欣純 本人這樣反應",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5DVE45WE9BdnE0QmREQnlhVkQ0aUpmOC1MTjVTWkFPa0t2cldMbnVQRmt3TUxYSmN0bGlXVjkwR20zVm9kZEFtbkJmRFB2SUFNRjRSWjFDNGpwNkxPd1RfVDF3R2syZ3FTcnfSAW9BVV95cUxPVWVSTTIwOXJJY2lucEJCQVg4Z1dIUE9RaHdBclg5UVhueWgxbnJDeGU3OXZES0JjLW1heUFYR2tDOTVGUTFHRVV6dUZCZy0tRVVaLXRxMlFuZzVobFpXWVpUR0QtZEl5cDRuQXdUeEk?oc=5"
+        },
+        {
+            "title": "台東國慶焰火意外！吉普車衝卑南溪出海口 涉水慘拋錨熄火「險遭滅頂」",
+            "link": "https://news.google.com/rss/articles/CBMiswNBVV95cUxOYTZaSGllQ3gtWWpoXzJNZ1JBdU12c0F1VEVhMGpCMk56SGFtMGNlZlI4UV9QT1pJcU1POWpNX1JEVHVZb1NNX0k0bXFXZ0JtSDZsVWF1QjgzSG0xTVdqTTBfbmluZ3NDbFQ5ZUlWWVB5Y3F1WUJHX2hPaW5EM0FtdUJwMHBoY1Ixa2w2dGttdXlhWVU1ellaOUI5dl8zNm9aZzVSN0lyaVFYNjJhcDBMeVN5XzBveFAtWk1fR0dMYmFUaUozOFdwWEpXYWtsVVVtN3VRQW9vMm9PYjl6cmdKQlI0NVR6YXBDYnJ4X0FNZTh0VlF6ZUpGVV81QzRQRzdEQzJONDR5bDZSWUtfclBUQ3pQMV9xWnZYalN0YkJYUktxTS0wMWtHeVNTaGNvRUduTmQxQ3RKYVhLVy1oLXBwSnBQemtadHIyUnYySzV2VXRJVzRoSm0xMzg4V2tzUTN4VWloOXc0bHdtcGZBWk42N2s0RkxEYTJJcGJHQ3p2MHZOWlRxUnh2OHJ4TEg0YjZXVlBGX0Y4TnNCdTBmR2JnZnJUOThpMzBVSEJQRC1jQTRmRkU?oc=5"
         }
     ]
 }
