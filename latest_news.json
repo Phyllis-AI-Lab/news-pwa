@@ -1,46 +1,46 @@
 {
-    "updated_at": "2026-10-12 10:24",
-    "summary": "早安，為您帶來今日上午重點快報。\n\n【國際情勢】\n美國前總統川普宣布俄烏能源停火引發烏龍，白宮澄清表示俄軍目前仍持續轟炸烏克蘭。另一方面，中國今日起在台灣周邊五大海域展開為期五天的實彈射擊，聲稱此舉旨在震懾台獨勢力。\n\n【政治焦點】\n國慶活動上，國民黨主席韓國瑜脫稿批評賴清德與卓榮泰，引發政壇議論，沈富雄分析這可能與前一晚的握手互動有關。備受矚目的台北市長電視辯論賽已確定將由TVBS和三立共同主辦，今日將協商日期等細節。參選人沈伯洋首場車掃保安宮，現場人潮塞爆，傳出有藍營人士驚呼蔣萬安大勢已去。前總統李登輝女兒李安妮也表態力挺沈伯洋，並曬出船員證，直言在其身上看到爸爸的影子。另一方面，針對台北市長選舉民調公布次數銳減至過去的五分之一，各界也正探討其背後的原因。行政院政務委員張景森則喊話賴清德，建議選後與新任市長共同研議松山機場遷建議題，以利都市發展。\n\n【天氣資訊】\n氣象專家賈新興預估，從本週末起到下週，台灣將再度迎來「秋老虎」天氣型態，請民眾留意天氣變化。",
+    "updated_at": "2026-10-13 01:55",
+    "summary": "晚安，為您帶來今日晚間重點快報。\n\n【社會焦點】\n今日社會事件頻傳。桃園發生駭人聽聞的割頸縱火案，嫌犯疑似受「喪屍煙彈」影響。新莊也傳出家庭悲劇，一名婦人遭啃老外甥砍殺身亡。監獄方面，有受刑人家屬指控獄方施暴致死，痛批「太侮辱人」。此外，資安議題備受關注，三家科技公司捲入中國原始碼入侵系統的爭議。\n\n【政治動態】\n政壇焦點，台北市長蔣萬安同意與沈伯洋進行辯論，並批評沈伯洋「臨陣脫逃」。蔣市長同時拋出松山機場遷建後改建AI園區的構想，但遭到質疑。立委李彥秀因脫口「社工發毒品」的言論引發強烈反彈，民進黨要求她立即道歉。另一方面，副總統賴清德提出新的福利政策，包括兒少月領五千及老農津貼加碼。\n\n【生活資訊】\n天氣方面，請民眾留意日夜溫差。明晨受輻射冷卻影響，局部地區氣溫可能下探16度。週三起，北部及東部地區的降雨機率將會增加，提醒您外出請攜帶雨具並注意保暖。",
     "news": [
         {
-            "title": "川普宣布俄烏能源停火是一場烏龍？俄軍照轟烏克蘭 白宮解釋了",
-            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9WT0dheUFsNHkweVNTbm5tLXV3TnFmTXpxWl9UcXI2NUFWRnhHSWZieEhsTjNETkt2cjA4VzR1M1ludnpMZFFoc3c2a2JWLXpM0gFWQVVfeXFMTm9OcEdlRkJEOUFSV0xiTGNvSGU0and5cDVyLV9fTndwaUtXV2RDMW0xSkotZDBabkdPVEM4ZW9aSmVWbFZlSDJRaEtqYUpzd1pPQzh3NkE?oc=5"
+            "title": "疑吸喪屍煙彈後行凶！桃園男尾隨25歲女割頸 還闖鄰宅縱火",
+            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5EaXUzQ1J2U09EanNmeFFuazFPUFRDNV9uREV4RFZMTUFuSGY4QzBxZ0hPU1laNkVLV0RhVmFxTFU4WFRuVDU1NFM1MEZ2Mk550gFWQVVfeXFMTmNNSUFyMkdhNDh4cF92enNXN3FxQVdRdEl4NEFJeHpyN2YzSUJwYlFaZmJ2VUwtM0hJV05wMkJFMi1oRGlvVzg3RkVfUjhZa0RqbzBSQlE?oc=5"
         },
         {
-            "title": "韓國瑜國慶脫稿批賴卓 沈富雄：前一晚握手是導火線",
-            "link": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxNSm1OQl9BUGdkckJKRkl1enNCYzUtcE9xc2dVc2h0MmxqOHlXYVZHNVZqbXZ3cUljWTNtcWhpRllJUkNBUW82NXNjVXBlUExFOHloMkJjT29STF9faW1uQWZGMFUzSlFrb0ZJc0dBSzQzOFBMQmxmZElwWnhXQmJ5b1RDZ3pkS3l2Q3ltZUtXM1lCUDQ3cFNJUWFpRUhFSFRwbFVaVjNxRHd6NEpOWC1LUElTS3hEZGdYRW5BSWNkUzF2RmhLWTkxNmNkdWdYUnpIYVhJN1dHSUl6bEdnLWdnV2lpN1YzZVd2aUNseFRGWUJ6ZFVkY3FqakxOa3YyMU8yTUlMNksyZTAtMk1oVTlpeVZjS0M0eEN1NGxxelBpUVdaTU5Ub0NER3pTS094RUVBVEMtU0tkdkIzSmlqUVZnUlpRQlp5LUdTUmkyd1BkblVzYlE?oc=5"
+            "title": "新莊婦遭啃老外甥砍死 夫神色哀戚赴殯儀館相驗",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1qWGlQRXBIX3Z2X1NoV1VsVnZQcXFoblAxYkxKbk03OVp0Y054LTlGZVk5UFFld0gzaW1MNDFTbDg0d05HZjJ4U2JhREZleEZ5Wi10V0Vn?oc=5"
         },
         {
-            "title": "蔣萬安、沈伯洋電視辯論確定！TVBS、三立聯手主辦 今協商日期細節",
-            "link": "https://news.google.com/rss/articles/CBMiigNBVV95cUxPMkQzU2tFSTZfU0RLSEZ1UVNmVktHSGJvc09PT3hPQUJCbUNzMGh4a3RiN0VEaWhiU3AyUWc0dklJeWhIWkVYZjUwR2VqNC1FbUFWWFhsMWw1ZDliUFpCSFBYT1FzQzlYRzVQdGU2b19kZ0M1VXN4TFFtSF8xQXNLVFBLZjNYQTQ3bWtQNnktUGNvMXB5V2xMZXFoZGFwbUhrMGhzLXVyaUM0Wi15NlVGNzZqcl9FTFFXMG4yUmZuaFN4SEJPNHZKczl3bl9FQkZ1eE9aRXdjclZPaEUxUDBFLWdBNmw1X21BeFREejY5NkEyMEVWYXRfQzd2NGpHUUZuc1gzSnhuRHZnTVV1dW1xb3VNWU9JbTFsNmJ3NC1mRE9vbndxWURaZzVQMnh6d24tY1dWaEowUjdBVVY1TGRVQ2N6MEdISUZsTkFQZ2hacmV2Rll2OG5zd3pSdnNvQXNKbTZqbUphVzlSNDR5aHJMZHhNRTkyMnJLNU14SzNoTmNwa1ZaUktBYzNR?oc=5"
+            "title": "遭管理員毆打、潑馬桶水！監獄疑施暴 死亡受刑人家屬：太侮辱人了",
+            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE40UFR0cEpYTEdRNFN2Ukp1SkRVUXNreklEMUV4bVJ2aUxDbzlVbkZPVUg1b3NnZzJ1cU1iRUhscGpaYnptVURkQzBqZTBETDUt0gFWQVVfeXFMTTY5ZTRJclFJSHJSalREcjQxaEFMMnZOZ2VJUnUyQUZKTk5INnFxa1hUSE92ZW1SLXhXZk1BdlhqQzFRdTFkV0xZaFR6RGxJSllaby1XSGc?oc=5"
         },
         {
-            "title": "沈伯洋首場車掃塞爆保安宮！周玉蔻曝藍營驚呼：蔣萬安大勢已去",
-            "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5aM2xiSmNXQmE3emdELTZOazZsbmhQa29kNG5OQ1lkZm5mRFVvaWI1MDgyUGlTakRvVjdybWV6ZzNaUW1KMlRlYdIBTEFVX3lxTE1pNXpxUldQX1hERXZ6RVlMRXZHLUdjSFRmRng5WG1HVlRqTjg5QzFiejFLeU5KX2tNdkZKWGNxTjh2QWFVVFBwMnZwUV8?oc=5"
+            "title": "蔣萬安同意10／31辯論！轟沈伯洋：臨陣脫逃",
+            "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPVHhLZWJvbUNZVGhrTnQ1OEJEbGRJaVVtMk51UnBhdUpoN1RvTjk0bFAweUdQdXphcDduR2huZ3cta0ZSVjZYUUt1czlMbXppTC1tS2d2cnBwdlpxa0FsdXZqelFleHVCY2thQ3Axb3h3X1dHMHZVeDViUU5US2Frc2xxNXVwSk9oRjF6eEgyeUp4cVFzR0lxUnJ0OF9OZEYzWnhic2NRcnFOc2twcVUzSnQtZ0p0VlBWVURTLXZ4cVlWcTNPR0ZPaG8yejRqV2JUZ25BMERNZS1ieWFfS2VvLTNfeEN0YUM5UHVuSEdlN18xV0lja01JWTVoRTBpdVhPTjRnOFFkV0pzVkVtVUtrZg?oc=5"
         },
         {
-            "title": "中國發布航行警告！今起連5天「5大海域實彈射擊」 稱震懾台獨",
-            "link": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxQR0hCQld5aXR6ckIxRnN1aTVzajB2dlRjcGhRV3hYcnE5WDJRZ09Pc3F3aTFsQklLODkxcjhCNnBOOWk1N3JwaTBnSzdIN1ZNeDZEMlF4VzhKTk1QWWsyZmRWZ0hfYUJDNlhNOWdoXzBhXzhTaFpWcDZ4T0o5MG5xa0JMUkZhM1BGUm1GYUN3MFpzcEd6ZWUyQVNOUElfSTIydk00aXhaeFFnYkJmc0gwaVhlenBDMC02eUFSZ0Uxakkzaks3ZXpLM1ZPcVBnbEMzR1hXbVNVX3UtRTdyNDFlUnQ3UF84dllUSTBGYzVIT2Zwa1BNSlBNa01fZFRNd3k1ZlV5MlhVM09lbG1NNnRwZTZkNGhtSE9OTFJaeW56anBxbE1zS2FRcnhQeGRTOFhqSUo5U2xrcnFJOHNJS0sxZHp0ZXprUm9uRUpLbG5CZmZJd01STUhhbVU2d3ptVDhzVDVIRXVEcENkdm9rZVVfNjlmR085akgzbnc?oc=5"
+            "title": "日夜有溫差！明晨輻射冷卻影響「下探16度」 周三起北東降雨機率增",
+            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9KVHBSQkJ0bDRsQkM0UWNiOTJPdTR6UVFEM0J1aUdMVGNHb3VKbnVrUlFMN25HY0pQTmdJejB4eWd4Z3FVSmZ2MDdJQ1VqazZq0gFWQVVfeXFMUEZNY2RENXJuX2VJeXNDbUhyYjBLRm1IOEVLTEtYSWVFWFhsUWlzcVZNY3BFZUJfbU1zT2JUdGZmM2UzbWMtZkhaMk9tQTN4aWpUYldlSWc?oc=5"
         },
         {
-            "title": "台北市長選舉民調公布次數只有過去的五分之一，為什麼？",
-            "link": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxOOVV1N01rdU5hTXVYN1JpV3I0Wm91TGZRR3djX3lOa1BucC1McklCNkRwLWUybjQ0OV9QeFBOWlY0RDl5NFNOS0oydkl2VERLM29LampZdVRqaG5LWHY3RWQ4N3RjSmw4UGJIUUZyWllsRnE3TEtzYmRnMjk5bGM2Q2ZZTXRKOEpxRVBCZk82eVQtVW4wem9qTVd4TGNVWjFwak1ENDlyUHN1RW1TaC03b2xZUWNJc01LZFhtSGVIR2ZHLURtYjd0TFJKbG13MWxKSFZBd3VKMmNkSVNVS3Q0VDE3c1Z1b3YwU0lBX1BZZnpvV1haMml2V3U0QnVqRTFnYmFLcFNtV0E2TmhJalNHczRPT3RteWw4QWY2MFJFT1Q0VXd0WHB1cTBOSDBneTRXUmktNF80VE9KRVpLa3VKOGJmdDJ4WDV3UEM3QjY3a0l0RGluY0p1ZGt3VWZua1kydE90T1F3Z2Y1QjlpNXVjMTd4c1VMcUtWMXFYR3ZmZjVOeWV0aF8yZ3U3cw?oc=5"
+            "title": "李彥秀脫口「社工發毒品」　民進黨轟荒謬言論踐踏社工專業　應立即道歉",
+            "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE45MVVtZ1FWVE9tUFhvU2Jvb3F3Q0JnZTVRR1VTWFhSM2t4OC1MUXlHZXF3UUlFb3JJX0hMU2FYSFl6V0RfTENYLdIBTEFVX3lxTE9fYmRkMFp3RVNKVHk0T0ZOMTRJQW5zWkNjODB2dmZhT1Yxdno1bDhid3V4ZVE4cFJJTnFvQW8yVi1WY01fajBlR2MyWmY?oc=5"
         },
         {
-            "title": "李登輝女兒表態！曬洋流船員證挺沈伯洋 認「看到爸爸影子」網暴動",
-            "link": "https://news.google.com/rss/articles/CBMinANBVV95cUxQZkw1aWxiNVlUNnFaMFNfUU5ETGpXQnhkeG53ZXdvY05COHktR3Nla19MUE9VVEVZaEZCa0E2UDc2V2NldmlvaG1KQXBsUUQ3ZWpGRUtNd1piTVhSS0VhTlpoa2I1UEhmUW9aY2xHNVdUNWIzOEpSeUtlWHhjRkVBZ3dTSHpMakJ0YU9lcUpMOVpNUHVLNTg4ay1QQ3FpdTAxeF9tZk5sU1hySk5qZ2IwWVZSZ1J3ZWNIb1NpUk9XS01XenMtNjU0REp1UHBvVnE5Q0RSUXUycXRTZmk0Y0lHcUxUVU90RnJRV21sME9jQ2hnMFB1SmgzcFAxT0pWOUdJYkpzNnl0U0RVMkVtSkJ6XzQ3VEU5dnNCMHV2aVNQMm5CRktfaElwc1lEM0cwcnMxbENCT2tIZG9zWERoamw5cElMRXJDNDFoT213ZDRvckExNXBodF9IMnNjM01XMktWLXZkLXplV3Via3czY3gyUmNiX1Q1NFQxbTVoSzJCNUlhem9VeXhDdVJtOTJQYUgtT1BXYzRRMGItYW5B?oc=5"
+            "title": "中國原始碼入侵資安系統？3家科技公司捲入",
+            "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxOejRGQnVYcVZnUFFybjEza2I1NEE0SUVMR2N0ZFNtWGFKYzY0SGdWV21VeEtIb2xEMTJYMWdpbVE3QS1rZC1NdHNCdEZ1Ykg1Ml9EamdPTVlnN0JnTUdVYVJmMWJEWXhGT0ZQcHpfQjVueUpDemRQalRWMUk0alBTTlY5MG5xaE90T2hwcFFXMXB5dHVTMzBnTFUzNWVXLTduZGdyYkZxQndPLWhjMk03dTE2SV9HY2hoS1E1cFFGOW85MFFadDZtbk5OOVdkYTNUTDhOV21nQ3ozSEx0X3lOZVEtQUpWZ1NudUZxc0ljaTVfUDZnalBYVmdRRDZRdzlTU1hFbnFkcElNRjBOR010S3hfZ2hYSUNRbEdfTVo5N3lleHI5YUlpWUpJZl9NUQ?oc=5"
         },
         {
-            "title": "批沈伯洋被罵翻！ 錢怡君突爆身邊長輩託她拿洋流小物：能帶來力量",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE85YUs2eHdpNGJLQVdNR2lQV3RBakNja3pjczhDYW5OX3B0d1kyZUJGR0tKbHNhcDk2NGRNeHVLempLOXVwVUJCNXQxenMtaDFnQjlMMmdJMnFraVhXLVZycjBEcGsxckJyNGfSAW9BVV95cUxPY1pwVkMtQzE3UkVGWERkYlc3U2daVERkUUhQVzdjQkNpYlZ0RWFsTUxMZ3huOVBXcVFGZUdaWnBwVWNwbFc4OWhmMlZBa1lkYjFKSzNYY21ndlFQbnlhY1NBLUVtOFdkUGxRQW9qcHc?oc=5"
+            "title": "蔣萬安拋松機遷建蓋AI園區 張景森批：拿麥克筆圈地就叫產業政策？",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9WTktQSTZITnhLd0o4a3MzcmZQUGJfaVo5LVRENUkxYXZUZk5oaFNISkpCQWdGY2c1WmRubHJabVM4RTlKd0Y5SFU0Zkd6TWItX1FSSWlORmg0VmhiOUVwel8xTjI3bWp4UWfSAW9BVV95cUxObzlDUjhWTlU0aV9xS05QS2dkX05GZ0ZCRlJ5YmZpQ2d2d0lDQllQSHhNZFAyQzRaZVJpV1NkODhrdk5TTDNNNGk2UEtkNkZDQ05NNE8xeHB3TGUxalBNeXkwbFBISF9JT0YtRVQySm8?oc=5"
         },
         {
-            "title": "力挺松山機場遷建！張景森喊話賴清德：選後與新市長共同研議",
-            "link": "https://news.google.com/rss/articles/CBMijgNBVV95cUxPbjFBSXpLQ1F0S09UdTVFN2ZJMmlvTjJpMXRBaHA1V010YWJSdFRkeUhwMDVTZW8tSUw2MkJRampKbW5RYXpYNkkyMmh1TGJJR29NWjl4NXdKM25sbzhJN2ZlaEdCNHh2Y0x3LUZMZmF5alFXalBVNFRxSExkTEVBTzViMFRiZWdWbGF6d1NEaHZoRG9RWTlzYzA0ZVZVTjhsVGI0bUNCUFd5bm5wb3cxQ2hLUmNMOVFPYUlwOEljWlNjVXZJQkpwRkl3NXozSHRRMk9TMUxGSkRCZzBlSzEyY1ZtaERuU2JYNUZ4bExZcXBkWGRCTzZwU0RSY2NMZjZlaGtrNWYyWDVyZkQ0WFd6U0tHLWRGcl95N1dVbDc5NVRnOTc4STU5X0hnRFRZZWpYb2ZEOUhidjhsblNhbUE2V0U5QmwtdUhtbllzQXg0cTNlWlVibm5QcG9VVzBEOXhfa044QVRBVUdrRTRNMWM4NWVDOWFoUkhsVjY5RlNTMWR5Y0Y1WndYUTdFbENiUQ?oc=5"
+            "title": "普發1萬還有新福利！賴清德拋兒少月領5000、老農津貼加碼",
+            "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9zRFE2a3IwWk9TWWVVdVlDNkJ6dlE1SlI4SGtMcmxGSE5ta1VsRmRMSEhiSllsbzFJWHZwTUZJUTktREZaazJCQ1FYMHVVSkJTRUF2MHpxYw?oc=5"
         },
         {
-            "title": "賈新興：周末起到下周 秋老虎再度下山",
-            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1zdkI3ZXFMdXBHd2VuZUJOYlgyeWxVUXdWN005NExDYkV1bnBaTzNNaU5KYjBZNW9WTnd3dUVXY19KcEFKZEhqZmNuUFRVenRf0gFWQVVfeXFMTnVQNXBBbk5rTzJLejhxLWFnc3JUeWlNNFRERTJESU5ZZjBPMG8tUUlfRGFOaWowbFVVaFdhcEU2WVZybFlmNDJmNmNkZ01TTkhjOGJ6aFE?oc=5"
+            "title": "「台北大洋流」外溢成海嘯！她提4指標：淺藍與中間選民已被沈伯洋圈粉| 選舉",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE53RXpub2F6ZzQzR0Y0QzRvcXdDckdmWXFoOGhQa1BGblpmWG0tV0xwQ0JTNnYwc1hWajV1Rk1ET2hKWjcwZExzeEozZThkR1JQVTh1eW5PWFJBSHM?oc=5"
         }
     ]
 }
