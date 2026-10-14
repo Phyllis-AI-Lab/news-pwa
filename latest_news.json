@@ -1,46 +1,46 @@
 {
-    "updated_at": "2026-10-14 09:54",
-    "summary": "早安，為您帶來今日上午重點快報。\n\n【社會民生】\n新莊驚傳逆甥啃老殺姨案，新北地院火速裁定嫌犯羈押。\n\n【政治焦點】\n台北市長選情膠著，葉元之批評沈伯洋言論空泛引發熱議，遭藍營開除黨籍的丁瑀則表態力挺沈伯洋。沈伯洋本人也對其父公司換殼風波作出回應。資深媒體人吳子嘉痛批沈伯洋二度受訪趙少康，恐影響國民黨命運。此外，韓國瑜國慶脫稿致詞，被分析為2028總統熱門人選。駐馬紹爾大使則因國慶變裝爭議閃辭。\n\n【國際情勢】\n教宗良十四世傳出罹患肺腺癌，已完成右肺下葉切除手術，其兄長也正接受癌症治療。",
+    "updated_at": "2026-10-14 15:39",
+    "summary": "午安，為您帶來今日午間重點快報。\n\n【政治焦點】\n立委沈伯洋近日引發多方關注。面對港媒爆料父親公司改名續做中國生意，他反問為何選擇在此時機點爆料，並重申不辭立委職務，要做到最後一刻，台北市長蔣萬安也對此有所回應。另一邊，蔡康永現身沈伯洋造勢場後，國台辦時隔十日定調，直言任何人都不能當兩面人。政壇另一個焦點，台北101董事長賈永婕因為「穿著不夠純樸」遭到立委公開點名質疑。而科技大老童子賢也罕見強硬表態，向市長喊話，堅決反對松山機場遷建。日本產經新聞台北支局長矢板明夫則向蔣萬安拋出專訪邀約，笑稱願當市長的「第一隻怪」。此外，新北市最新民調引發疑雲，沈政男質疑信民協會的數據失準，呼籲公開公式才合理。嘉義市長選戰也持續升溫，張啓楷預計將對王美惠和姚立明提告，選戰恐將打進法院。\n\n【社會民生】\n社會高度關注的割頸案，家屬捐出五百萬獎金的舉動，卻遭殺人嫌犯的律師批評是故意減少資產，甚至痛罵此為「法律人之恥」。\n\n【國際情勢】\n國際經貿方面，美國前總統川普近日驚爆一項重大投資案。他指出，台灣將砸下44億美元，大手筆投資阿拉斯加天然氣，這筆交易將包下當地長達20年總產量的三成。",
     "news": [
         {
-            "title": "新莊逆甥啃老殺姨 新北院不到1小時火速裁定羈押",
-            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9mX3R5UTQ1cHQta0tCSFpLcVJDRDRYeWJfU3NsdEtoLXFWektlN0ZuTjFjODF5QU1FbUJrOTEyUjNRcm5rTWtjNmhkakpTNkdD0gFWQVVfeXFMUFVCdGdRdnVNWWtfeU1PeWFTMmZrUkNIVHFhMHNwM1o1M1JhZndsb3pVSHNjd3RYazFKV2VBc0kzT3N2MWxNalpFN3FSNk1CYW0yaG04b3c?oc=5"
+            "title": "穿著不夠純樸？台北101董事長賈永婕被立委噹",
+            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBvOVNLLUNpcHFJdWNaWVFwcXBlRXNyQVVqVG41TTV0T25PNlN5eS1Ic3RLbmFNN2xQNGpzMDdFU1ZCOW9WV203Zi1TTFIySUNQ0gFWQVVfeXFMTWJCS0tYalk3N3V1SzN6S0NLVU9iZVFBVDkzc2ZqZEVHSUpieFNHZTVCLVk3YXVsWjVyTGk3WVdlbnlFWFhlLWlhcXRWQ2luREV0ejVsNFE?oc=5"
         },
         {
-            "title": "蔣萬安辯論不會輸！葉元之批沈伯洋：其實很空 網一面倒酸爆：講自己？",
-            "link": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxQRGpZRWpoYUpobjRrdjJHNlRjejBaMnItV3d0cS13cDFxNkMyZU9pV2RMUkVnMUpQb29reWYwc29BcU9lOW9ndmRQR3NMRkhIZjdNbW01U2RlbjNDY2pTTVN0MUJtQXpaSVo2QXBVQ1dPNjJpQkloNnZzUU40UzJFQ0N3Sk1CUlJ0Mmh2cmh0VjhXbm5BRWxsb2Y5TWdIRjRJbWp4VDNPUzlWRDV4VEhnZ21OdjRiNWFXOFJWV2JoUjJaZVdVTGJsMTh1ZEpxcFdRdDFzM28yT0hFLXlVcWtBakswX2swQ0NRSVBrQjhFaG5iLTBWeGRMeFNYc2JQcTZ6em83Q0t2RjhaV0Ffd1BDY0RtTG9BbGRNbkdhUjVDcHA5dGxnUEY4bkxzQzFBbkx5OFdZbnBYZVFzQVdKY0pUMjRtQ1Rob2hIYWNLR092TWJFbUNocjdFbVZqal9EMjAxV3Q5aXpsWlpUUTJpdi1kMXNvZHJscGFK?oc=5"
+            "title": "港媒爆父親公司「改名」續做中國生意 沈伯洋：為何選在這時候爆？",
+            "link": "https://news.google.com/rss/articles/CBMivANBVV95cUxOcGFQY3hkQkx1YlZMOE1xbDhGWUU0T0pEQVAzNFR1bTNZYnkxYTVJV0JVeXN4NHhSNFNBdHpIcE1mTnl2UUpUOFZTb09GR1drR3ZraGtGd3Z4bHl2M0dKb21WSzlRZDJ5ZGJocHFET0tkalVtVW54UzY5NklSdXNRSEg0MWp6X1FuNm11ckF2ZHUybmNIcFhSTkdPdnhsMVJqMFhOSUJ4ZUVRbW9ERklMZjJYNlRTRC1MSXB3OWtoamdreko2WFRZUHFXVWxMMGpOZFk1ZVQ3UDBqLUR3Yk5DeFByTlNRRzdhbWpNcUV1TFdQM2NibmtDX3E4X0ttRVlpejEzQVVoUGxDcXphUWljTkstWXUwWDlxUmg1QVVuemhZd2NfT1puc3RsamJ6SEVTaFlZNXlmY3RvTGliWnJ1ZnhTSFFkd1RKaVJzZXhmT0hTWjE1SWU3eUJ1ZU80eDZCaFN0UGRvSEIyUC1NaW1oNUJjLURvQUVqV1U5RmZOdkYwYXBPbl9iQVc0NUxrN3dWaklVQ0Z1aVNESkl4enVneEZGN1U5dW03TW5GeG5NS1V4OGhrWWdzb0owSHo?oc=5"
         },
         {
-            "title": "遭藍開除黨籍！丁瑀表態票投沈伯洋 「剩這類人投給蔣」嗆：11/28就退休",
-            "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5UZnFydENEOVY5djh5T0tYNDVCcTlxWUlzR0dnS1R1M1p2OG0ySWhZLWEyRktBN0hBRm1ReTNoZjZ3LWx1MFFORtIBTEFVX3lxTE14bXpRMEtaVUd1RXllMm9tR2E0bEUzeEgwUDU0aHJzdGRQX3l3LTFrR1dDUzlkV0c1WEZXSklXdVBYMFpNZ3l6Y250bDE?oc=5"
+            "title": "蔡康永現身沈伯洋造勢場 國台辦時隔10日定調：任何人都不能當兩面人",
+            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5BT0ZzT3N3UXZLUnpsdjFOdUlaUXpmQ0R5OFliZmFNUTBZWGdFcHlIMXlDQ1FiZmdPX2RYMkhlNzFxdnJFUEpvcFZRblZIWTJo0gFWQVVfeXFMUEpGU2FsUDREY1o2eGNzNDRHQm5JV3ZIcGQwUXFaSVBEempXelhpell1enFGWllKaGstZGFSdE1kRnJmWGJwRTRvRnNodzVZUjVUUmh2UkE?oc=5"
         },
         {
-            "title": "被爆父親遭陸制裁後「公司換殼」生意照做 沈伯洋回應了",
-            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9Kd0pqTG5Ea0dldlVIZk9YSXRPWHA0WUc5UlNROUlBLUNqSDM1ang0S3duUXJ3OXZUMk90N3RWUmU3TzdvM0pCX2dFZnBReE12TDRr0gFYQVVfeXFMUHlDbjRGRExjSTk2eWMxTnRqWmJ1VjVGZElRSGlKN1NfNXBlbEd0bWUzRDcyTzBfS1FoQ0VsX3h6YzJzbVZwNzdfZmsyX2tWdXU5Rk9ubnJoOA?oc=5"
+            "title": "割頸案家屬捐500萬 殺人嫌犯律師批故意減少資產 再罵「法律人之恥」",
+            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1YVFBlVmNmT3JveExQN3VyUlkwVVE3YVoyblVwaDUwOExlUjBPOXVZQWVSOUJWOGpPMEJkUUE5NWl0QVBNQkU4TDk0ZlhHTlhk0gFWQVVfeXFMT1RPSUxhZDRJSWZieUtLS3l6WnRBcTVnUzVDMDMtRTdRZG1GY0wxNWlYY1VQQkN1eDRJT2FhRnRWVnRuLW0yUWhFdnRZeWhFUDRCVzliVkE?oc=5"
         },
         {
-            "title": "韓國瑜國慶致詞脫稿謾罵 黃暐瀚列2理由：藍2028總統候選人韓機會最高",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4zNWFVdXQtQk5aTlVmTGFXdnZIMjhJcXlrMVEtcG5oUDFsSVFxcHlHUF9VNXBOSHdRSF9IckpUOGd3aTVWLWl2U19uVHpHZlJhc0VKcFF3MlJUbmZydGUyZkhtNGZSck9HU0HSAW9BVV95cUxPLUVWeDFFS1ZlX0N2SVp0b1Q2YkFrTmU5TzFUZ0s5OUNuYmp5VXhRaUhoQ3FodndYd1M3OGlwQ1RmZWpuUkZtaGVkMXdrYVNWNS14QXpVYmEyeldrbDFUU0RWVUFxYWRqSWlXZG9wNms?oc=5"
+            "title": "市長你給我聽好了！童子賢表態反對松山機場遷建",
+            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9hRTdlYUhENXBYdWVPdHdlbE5LQm1PakJWY2NwNS1JOGdhSmlXOUNBcDNpYm5uTHRaX0NqWWZNeUZsTUtOc3NHNWJRc3pSeHM5d1Rab19SSFdPUVZQa2Fr0gFkQVVfeXFMUDhWN0NtVEdaaV92Unl2cGxreUNvb3B2MDJfc3RmYkl2Z2N6TmVxcDI0ZU9mUjlJVXBzbkFuV1loUTlZYWtrcC1jVzFLemZRM1p1R2xOZnR4QzZuUWdDLWRZQnAwUg?oc=5"
         },
         {
-            "title": "教宗良十四世罹肺腺癌！手術切除右肺下葉 哥哥也罹癌治療中",
-            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBBd1dLZXphWG9Kc0tReDFTZm85NzEydl9scGJZYzZ5VFoyTFpROXhWVjI0VmliUjNuYWZPRlYwdkgyUWE4VVBaRE83UUxHcmdF0gFWQVVfeXFMT3NaaEh1bVlHd3o3clRITTZEVjhFT21Mc3o3YVlEYmpEMTBJZWZmTmR2UXJfYlFkcEQxR3JPOWMwSkxhd1huZldXZUwyanc5TF9faEJvbnc?oc=5"
+            "title": "新手村待得夠久了！矢板明夫喊話蔣萬安專訪：我願當您的第一隻怪",
+            "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9ZYVlyNzg5NTl2YTdNeUFEck4wVG5LODU5bFRabm1nYjJhMndZUVpHTW91Qm52cVlENDRhb2RNbGIxd0YtTmo0Z9IBTEFVX3lxTFBEaFlOTk82WU9PdnpGY21hOHZZazRQSWZRelZHem5fQzE0QW5CYXNBVFV1T29qcFg0TExvVWhCSU9oTV9kaUJUeFNfekg?oc=5"
         },
         {
-            "title": "沈伯洋二度登趙少康專訪！吳子嘉痛批太離譜：把國民黨命運葬送",
-            "link": "https://news.google.com/rss/articles/CBMimgNBVV95cUxNUEtNSHBUeGtDVlJpSDdJejJraC14N3M1NUVNSEpnUEZ3LWVDQkZWMFZHMXNlcUV1NDhkZXhXajdaSHMxLUhGalVCNXBSWDhrSlI1MEdYRmtPQmpGTXhETktpRVNUdTlPMElrejEzc0dQRVlEeUU1dVU1UVhZT1JmRXF4R0doSGFsNG16ajZWQklTcjFUd0RRRktpWU5udjNBVmNoTDFiZ1pYMkRMUk5CcUFaNGd4dGZJZUZKNF9Gd0xjOWJqLWpZTzVCVFlyaEFTX0dCT0dNR2w1WDlNeXd3RXJIWWtjbHMycWt6dGRiNlc5bV9YSE1KWThoS1dvTGhwZFRvZnN4dXl3TkxjLUhQMjVFSzRULU9HaFdmQU1CbjQ2XzM0eC1nNzdVSTRFUE1rcmhieUVpUC00SlFfWUYzV1lZYWVQMjN0QnI4bmlQeHVMSG1DYmpQY0lmMmg2UmFnU01nTlhESHRXaU5vY3pMRXdRS3lKMFlUYXl2VWFhVmRIMjY2NEVVMFZuYmJTMkw2Um8wYkxRblVUZw?oc=5"
+            "title": "信民協會新北市長民調失準？沈政男揭蘇巧慧領先「13.1%轉4.1%」疑雲：公開公式才合理| 蕭宥宸 | 新聞",
+            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE83UGhRMEwtUE1zbWVBLUhPNlZ4TmRjc3dkZXVhZFdHUTBTSDFORDhBOW5fTHVyeTR5X1g5WkFXaGhUZ1Qtb1MyZXBnMTIwQQ?oc=5"
         },
         {
-            "title": "外交部召回否決…國慶擬變裝 駐馬紹爾大使閃辭",
-            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBidTFncE9UOFJrOU5jYVdSRUxpT1o2U3NTdHlpWEFzRVNLX2NHR0htNjFib1oxcFM2VHRUNzJja2s3U0d5bkJ4aHpRa2lXZkY50gFWQVVfeXFMT3RoWTVnQk9URldoWHZDRm9YcU8zZEZuYVJXeTdtWDY2ZmNjOThMRHc4blZCQnVITEx3dlRENW9FT2JmbGFlX1RjOHFOTXU2WGt3X1N4RXc?oc=5"
+            "title": "沈伯洋表態「不辭立委」做到最後一刻！蔣萬安1句話回應了",
+            "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxNWEpnTjFJbXZDSkFrQTNrWXJ2b2lBOTVtSzFfMHh3VGlYZFNSR2k2X2JYV3FlWXR3UzFyMURGQnljMmJ6Q0FtbXItWkRxOFNrZ0pacWQwelFXdDRjN2NNN3dGUGszZ1JkYnpJUDIydzM0RlY1aFRya3NzU0NqT1pQeTJZbWxCNGJzNmFZblh4UWVpWUlQbnRMY0ZYaktWNEtTVlNMZTJQeGxLZmYzaGdIcFB1Sk9YYnNpX0ljWndZQU1DLUs5Vi1DOEU4d0NLVTJ3QXNxUnp6Rk5saDVpS1JMN3BnRWN6VVlWcVdJV2hlZXJiUEVYT0lWV2tMRkF2MzV6ZkIwWDhHNkdvOFJFYlhKMjlUMnpsTGVMNldoNVBfcWlLNVFaOUMxUFZhZ190eHF5bnFsMVZYRFVqMDRGNFpUaDVPMFU5al9aVjEtekdER0xWZTgtbV9LdUlPc2NXZWhMUlE?oc=5"
         },
         {
-            "title": "洋流擠爆北投！沈伯洋簽名筆電、漫畫　攤商搖旗喊「我們的市長沈伯洋」",
-            "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB1SnQ1amIzV1Y1MzVnMGpoNERnd2pFSkFtZlZXS2ZPbHhUa3BldHU4aEJmMzhhcEROSnRpOEl1SHlZSHFFdkdnOdIBTEFVX3lxTFBmM0RnOTNCcFRfS2lxeHNwZU5YcDV1SFZKSXBTNGNtR3AweENfT05ZTndsMVNCZ1JzSnFyWE9QVm5DQjRUeFdMS3FaU1I?oc=5"
+            "title": "川普驚爆：台砸44億美元投資阿拉斯加天然氣 包20年產量3成",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE91QW1CWkxMQ2tBaE84NmVTZGgtNDRCTFRkZFNnd09DOFNOOHk3a3dHQjZzVjZCLUhzSkJOX2dVWTdVellndUk5eGpsNWlWLXFlWXdV?oc=5"
         },
         {
-            "title": "聯合報黑白集／「鹽」的隱喻",
-            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBjU3I3YnJEMDdUVklHT2lEdlhYeUsyZGxiNjFCQ1g0SG5ndkdtdEhHY3g1VGpMMUFpdFhad05KTGhlbGZHME1ZZ3ZFYmkzQmNt0gFWQVVfeXFMTVIteWVZY056MFRlV2hxbGQ0SmhVeWUtdjBYMVMxMmJEQlQtZG03WDJSQllWSFJKZWpDcF9mUHU5eGV6WGdPYWtPa2s4bkp4Rmo4cGhZR1E?oc=5"
+            "title": "嘉義市長選戰打進法院？張啓楷將告王美惠、姚立明",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE55Z05MMDNJR25MemQtdGktbVhrS3RIZ0xHWHFVcDI2WVIzWERHakFXNHREeng3Nm13amhNcmlGd2dNbGxvYXFhWDk3VWhGa3VsdERN0gFYQVVfeXFMTmV0WGhyMkZPOTM4RHNGODBuVTRfblphZ2tZcEdiZE9KSzJVRXdMSEgzZjJiZ1NFbTdsWlktSXk0bW9vUUlGdHoxLV9ra2hQaXd2ckY2MU45Yg?oc=5"
         }
     ]
 }
