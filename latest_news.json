@@ -1,46 +1,46 @@
 {
-    "updated_at": "2026-10-16 21:15",
-    "summary": "晚安，為您帶來今日晚間重點快報。\n\n【政治焦點】\n中國交換生因在社群媒體發布不當言論，遭移民署廢止入境許可並驅逐出境。台北市長蔣萬安在都更議題上提出門檻將降至全國最低50%並增派人力，但其離島緊急醫療「高鐵說」引發沈伯洋批評。2026九合一選舉提前升溫，柯志恩岡山造勢場吸引支持者，侯友宜與盧秀燕也到場力挺。此外，趙少康因政治立場受批，前總統陳水扁則發文聲援。\n\n【國際情勢】\n美國前總統川普嚴厲抨擊烏克蘭總統澤倫斯基，指責其恢復打擊俄羅斯煉油廠的舉動「可恥」。\n\n【社會民生】\n《老人福利法》修正案三讀通過，未來65歲以上長者若綜所稅率未達20%，將可免繳健保費。台北市天母國中驚傳營養午餐食安事件，導致八名學生送醫，教育局已對供餐業者開鍘。而賈永婕則以亮麗穿搭現身，同時回應近期風波。\n\n【天氣快報】\n秋老虎持續發威，全台多地高溫飆破35度。薔琵颱風預計明日將增強為中度颱風，請民眾留意其動態與降雨時程。",
+    "updated_at": "2026-10-17 09:19",
+    "summary": "早安，為您帶來今日上午重點快報。\n\n【政治焦點】\n立法院戰火延燒，藍白兩黨聯手通過65歲長者免健保費案，引發參選縣市長的十名綠委缺席表決的爭議。國民黨版「普發兩萬」也逕付二讀，行政院長卓榮泰嚴批此舉將敗壞國家財政。選情方面，曹興誠突勸沈伯洋取消與蔣萬安的辯論，沈富雄認為蔣萬安選情可能因此翻轉。演藝圈名嘴蔡康永宣布將赴蔣萬安競總力挺。趙少康訪問沈伯洋一事，竟引發國民黨內提案開除趙少康黨籍的爭議。而柯志恩在岡山的造勢活動傳出突破兩萬人潮，王金平更形容熱度不亞於當年韓流。\n\n【氣象資訊】\n中央氣象局提醒，中度颱風「薔琵」預計明日增強為大型強颱，最新路徑預估將直撲台灣，請民眾務必提高警覺，提早做好防颱措施。\n\n【社會民生】\n台南車站百年地上鐵道昨夜迎來最後一夜，末班自強號的感性鳴笛聲，吸引上萬名民眾擠爆車站，感性告別這段歷史軌跡。",
     "news": [
         {
-            "title": "《老人福利法》修正三讀通過 65歲以上長者綜所稅率未達20%免健保費",
-            "link": "https://news.google.com/rss/articles/CBMiqgNBVV95cUxOOEplRGdHN09meVhhWndSejFqUFl3SnlxM3hJbzZwUWxtcy1hNGpXektBa3I0cGl0ckY4SjNNRjJmQ2prcHpWWmN6cnVCdW5KdGZBMTVySHlIRjBkb25rVXRhaFZEcmQtakhta1RxNk9NanZYX2tHamJ5b21Ha1hEZVRfMHZyOWF2bmhHYXpMUGVlVUE0Y0JYMTN5OEVWcVdwamUweklIMGs0RmloSHZ4bVc0T29kSExYSlNQa3JvZGlFM1RhX09Bb0JUamMza3pocE9sdmE4ZmhLaXFvbVVYT3ZHZ3EwWWswVnJWekRQUHRRSGYtRnNKeWQ2dHFMUjBqZTJEZ1ozQnBiUGRGN2Nicl9jclZtLUFEOHdMSElRQmxKMHFobDQ2S0NUaXE3NXJmYkN1Zjdrcm5jNVVtQll0SW9uRHk1M1QtQ0hUQkd5LTg5Wmo4LW1SN3NCLU53bnV1ckh1TWx4MXZGZU04bmpzd1hPN3lodGl2elFnYy1uSVpaSlJsQl9nMGR6NlQ5YmZKZzhMZmFERHBpZlRCUDRDaGpXV1BoUkxyZWc?oc=5"
+            "title": "曹興誠突勸沈伯洋取消辯論！沈富雄看破手腳：蔣萬安選情翻轉了",
+            "link": "https://news.google.com/rss/articles/CBMimgNBVV95cUxNMXROTWZSeFpEZWZxeVFBYlM1Znk4M3FQWDZWU2VJVllhblYxUlQ2dmEtamRkd0E1MU1FWkxmbWgyR1NJdDkyaENfRS1ZNmJ6VjM4cVpLV2o1Sk1kNWhoNkNGelhTZmxicW4xM0RwOGFqc2tSX0VVV2JBZkFoeElON1lkRFNvV280dDJLNWx6QXpuUU5ib3lRZjJkVTR3eS1fRmRkeWdiVUtxbTc5UVpEc2FHS2lCTmVMR1VJZk1XSXl6aVM5UHdUc05yU0VIZkVCUVkwclFDNW8yMkV6ajJoekNSU1QtNDVEeFhBZ1RjbW1xUE55M1AyMVoyQURKY1FpdExmQmJfdUtIb1dCbF9MUGFuYlRJVFJkOXF6eHQ1eWtjVkFSRDQzMWZvQ0tmZkJiNm5KUzgteTFDRlpqdUFQRkMwVTVxRXlfRG1wdlhuTkQwck5OZW1qbi1Ya2NpN3Jzdkw5MlBHVlpwQmZuazhsM1FGQXBPQ0djQlA3Zk5WNWgzaDkxM3F5dzdGSEJ2YnZoME9KcVJDX1ozUQ?oc=5"
         },
         {
-            "title": "收賴惠員道歉盼到此為止 賈永婕大秀今日超美穿搭「沒有Dior」",
-            "link": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxOZlpIWXdxVGkzN3NtNXdYNk1jN0Y0TlQyOHNoSGVrSDRTMTdGcXMzQ2o1Q1g2NkJlZTdBeWdFNDl4NTlTZkk2U0dUSkVUTjZRZ2hLbWVWTk1FWGw0Nno4ZjBwVm13d2pqWFZWc3AtOTRFMFdYdG9xLVhWMS1OYVlMT2ZuVjlWMEhLRkNqdnZncXVJcWNpUzJlNFFRUXpXYVZ2WlgxU1RpVUNXZWlSaVFkN2lUOGdCLWctWE9uSmx5SjN6Z011dThJN01NbXpZbzM0ZGhfcFNuajRDZEg0TlliZFVjVnpsV2ROQzdkZGJ6OVVlVFpGai1iRFZEUGhSLU9JOTBWOGJtUUVWUDFnQ1d6TjJUUW82QkpKQ3k4X05uNDRpckpHTkNiQ1paS0NGQnZhZzl5dWVrN2RKSGd4eHFwUWE3LVI1akp2ZEdOUjJGcGg0bWotdlZKZnVRY1B4WE9fUHFQVHZmbFd1ODlRYmM0NEZzbGRXYlY5V1Iw?oc=5"
+            "title": "藍白聯手通過65歲長者免健保費 沈伯洋等參選縣市長10綠委缺席表決",
+            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE14bzMydFB2bWJfX0M5REMtX2hoNmFVUVF3RUhhM2VMLTRYcXB4dDFBeG41YXdQRzlHb2tTUjJRSmNMQ1Y4NklJWnhTd3lvcUdP0gFWQVVfeXFMTWliUDJsYnVvdXVhRkZvbVNqVkVjbThWdFYzSFZ3eGVhNmpUN1pNLXZlQnZQVUtUSGZtTUtpQl9lWTVrTkdwZ3QyR2ZEQ3JVd3llalg1WlE?oc=5"
         },
         {
-            "title": "中國交換生PO「隔空捏賴清德頭」喊拿下 移民署：廢止入境許可並驅逐出境",
-            "link": "https://news.google.com/rss/articles/CBMitwNBVV95cUxNQlhidEptajBkRm9tQUFuZGpWcWxVS0RaSmRZNzlfSkF2WE5zQlFkOS0zRkxMdlgxNjlpMU1JTm9DZnBuUExjRVNQV3loX3QyZ01qcy1Lb3BjdTJxTllwanBLTlcxdjlEQWhIbHZrQlduMkhfWkN6TDExQ2hieVhfYkdpWmJSSHZPRXJENk4tSXMwUU9Mc08teXVGdTN1c25GeWlIU2xKRTR0cElCWldxR19DeU9YYmhsNTBGUDdvU0pKT2YtdGl3cmlSMS1oVlg1TE9FM2F3Tm5pWGJMODA1Mk12UXZydEd6N0lDOElKRDVYdFZsalM0ZkVfakxJWnNKS3ZuaW1qTXpHV2l4TEYxQWlFalFBWDNhUU5VazB3dklsNUhYMFkwMUhzMlJkdEZoNDJidFN0VXhjU0tXOTlEWG9IelY3WWhwX0k1aGtOTDZKalJqTUFjQUg4YTNUY3lEZG5EOWpBcDRwQWJxYWw4d0F5Qkx3dFo3M0VJWXVhY1NIenRNcHdfYWNhYlFPX0xGRGdyS2RqOV9uR2NmRC1JSXFCZHpRdW9MUTFrRlprZHlEQUNhNlVR?oc=5"
+            "title": "薔琵明升級「大型強颱」 最新路徑直撲台灣",
+            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5mN09ieTVGMDRLdkN0UWZmY3dVZnhSRlJna19HeDdtN3NWNHdaVTdQb25LTnpFVExmRUpiNERTb3E5YXNHZWlaMmZqQmlaNG5oVTNxMUM2OHRkRThZY0w0WFIzb1dkcHZzMGthUU9R?oc=5"
         },
         {
-            "title": "「比普丁更難打交道！」 川普怒轟澤倫斯基：恢復打擊襲俄煉油廠「可恥」",
-            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5udk1kR2xYOWREamV6TTNiblNZMExKY1VIY0s3Q3Z1WTJSc1dDMmIybFdZT1Zhbnl1TEdDQmRQT2p1VlA3TmxQOTk0QXhJRDA?oc=5"
+            "title": "蔡康永宣布「穿黑西裝」赴蔣萬安競總！賈永婕發聲了",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5pNHJCYlFmZ09ha25QR0dwR3U4TVpEYjlkS2RaWDE4Ql90dDFMQzRWdVBBX3VsNzlTT3V4czFXdDN6c0lnUUlWYkFOSEd1YUJlbEVlTlJkeXQ4Zw?oc=5"
+        },
+        {
+            "title": "柯志恩岡山造勢「喊破2萬人」真實人潮曝光　王金平：跟當年韓流一樣熱",
+            "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9FQ000THNpRjRqcDVZNkJXUlF1ME9DRHZHS0c0OE5jaHJIcTJhbnpBWGRNdDRwM0FWY3JKRUZMZ21lbEd3NFJ5OdIBTEFVX3lxTE5YNGJTMVZuSUc5cG5KTldiZnlwaUViRzJsMkp4VDc3QmVQcFV6Y0QxWmxBUkI2VmFXOXZiTC1fbmh0TldkMzVHaGhCWVU?oc=5"
+        },
+        {
+            "title": "圖多｜萬人擠爆台南車站！百年地上鐵道「最後一夜」 末班自強號3聲鳴笛感性告別",
+            "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNaElkanhQczU3ZXQydFNYRHBoWkhYZjFPMHZGWENXdTlzeWtlTzlkRHZNaU1yY0xRbm1nbU95MWdoay1yYklNYUQwcHI1amkwa09lQ09NTzFqcTJYNlNNN0dueFViVHl1elpJYlVuems4RFpRWmdXRnFSWGNUdjBDbHNWcFpPTjNQNzNWLTlYbTU0RzJmMTJLMGZlVVRBejlMOGpoOFpmaTJEV0pmTHl4Q2RwcFRoUXpMRmwtY1VnVkk3Mm54Rzd4VVJVQkZoekFXX1FFN0lpVjNsbnhnN3JicWg0UDRtY2R0elFKdVZaUVpCS3l6Wm9wbG1OOS03THdIUk05cTVTbmI2U0ltU0gyd09FN084d0UyS1l1Mk9iQUZndWlh?oc=5"
+        },
+        {
+            "title": "國民黨版「普發2萬」逕付二讀！卓揆批「敗壞財政」：行政院做法不變",
+            "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPeE1UYklqVUk1dFJsdHFEdHp5Vl9WY1NQMWxUZ3BObFZtRndQVVB1UE1LZlo4dXRrRnpBVVhOMGhQdG9fMGFXc2tROGRteFRXeFAxb2xnV3lGTkRWN0xBbmtVamxFZnhnY3REQzNDZ20weXVuZXQwWjJtNnN2RDNoYzRab3ZPOFNfMF9SdGJ5bWdiVjVhc0RSc2V5cURaQy16Z0FpbDdISW1lSTZzZ1Y2NWhJOU5Sb25iT1Vza2dxMHNYcEo3TGNPcXhrZGJJb2dsSVNCQXdQNm9zc3lyampja0tXV3RueHNmaGNyY0ctTko1Q3RzSWpCWFZLWnZQWXAtX0pzalM2alBHaFg1QmhjaE4wQWhEV2QxV2Qzai1PMzg5Y1NRb0xhQ0lKMDV4RldockE?oc=5"
+        },
+        {
+            "title": "趙少康訪問沈伯洋「遭提案開除黨籍」！張善政開嗆了：非常不明智的做法",
+            "link": "https://news.google.com/rss/articles/CBMiswNBVV95cUxOV25NYkxlZ2ZkZEpxQTNicVB6ZlZDWXpzT3VncUZyUGJZNVFGbHZsX2N1Q3NFZWx5dk44bDhZYURtaDl1cVlneXRBeHpkT2FRbVpxQW56QTdJRXo5SXk1bmtXdDVXSldSZlpjcHpNNEhSUXQtZDFwLWJzS3QtYUhCb3JhaUNXYW8xM21QWEMwWnpVV1hDbG4wSS11R2FaWEZ6aFdHZlFyRmhaOGFlU0IxNXFjMVhKSlNVck9YY0ZlSlFkOXdCXzRQNlFZLWQ1Mk00cGFyaGlSM0IyN1JadTB3dGZNM1pOOHNCbFFhR255V2RBSFdwVmcxejQ1ejE2VkxYWnNwOUdRRHNoX01oQVF2ckw0UVZkbS1hdEFGM3ZsZ093VEtHempJZ1FtUEpkbF9KV21kcVdDc3RXZjJrbXVEeTY1cklOSWVBTllNZUJLM2hHZlIwX081aWIzcmU5VjlxYm9ILU5qN1Z3ZFUwT0hzQUYyVzMxRC1ZUmVpUkJfN0Q0YnljdTNyRVAxUFJvLUtlRU9MTi1jUHpKRjF6dmlEVVFTZUJ2UzlaMHZHc0p3MDJwX3M?oc=5"
+        },
+        {
+            "title": "周映君鐵口預言「蔣萬安當選」？民俗專家曝1關鍵打臉：沈伯洋這關大勝",
+            "link": "https://news.google.com/rss/articles/CBMiqANBVV95cUxQRGtXYTdpenYtbEJ1Wjh0MWVVUEpTSVpIWFc0dXR4cmxVY2puODJreFlnaEhfejk0b1pzemp2VnJpX1o3LW54azA0VEYtRlltRDZhUmItM0JrdmE0aXI0NzlGNVlUVHZtWXBFZkRqdlA2UU90TlBCOEp0MDU0ZzA2RjZTX29rUjBsUk52eGJXSFFxbjJtSXZrdF8wYmZmLXBfS3hOQ3F0b0g4VFhVczdkdjZ5Rm15UndObG0yc2VqTHhIalYyeGhPdk8wR0o4M255cTBRQjA3elFld3g4TTkxanp2VDYxNlcyUnNtZF9hRU9sOWJNTjZjWWM0YjQ4UlF1eTREQTBlU1lIUmc0c3NwQUdOdVliZFR4NGRGclg2VjhPcDNHdzJfQkw3VS1aUG5LTFhwWHA2dmUwOUdQUlg4T054eGtRR3FvYXE0SlNhUVVqeGJzaWhMWHpXLTNlSWxoWHc0WjdpblJoYkxLVmhOWGhONVdYVEFUTHNtZjdncVNaQU45cVY5dV9zbmVGbmN4cU1iR2RUdU5UeS13cnR3c0NhQUp5Nmpr?oc=5"
         },
         {
             "title": "蔣萬安稱離島緊急醫療「可搭高鐵」 沈伯洋：松機難取代",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE16SE1BR0Z6ek5UWG5RN1NXNHZQTWo2ZlMzR2o0QkMwRmlSU0JEV0pwYUFzVjFRUHRGYkVBZU1NM0g1clJac25Fb09BZVZBalBEVlAzZE9CMmR3ZGsxQlgwemZDM0Jld2w5S0HSAW9BVV95cUxNTW9VMWpUX0FSTU9Bb0NHWEZhVVd5cFdyRUFNdGJUdk5oSkxpZjlIMHFwTkY5czhUT1Qxb1p5ZU1WQlBVUklWQ29RZFNxQWJoaXh5Y3ZTUkxGaVdBQ3pzeHlQMEZxazBQVjRNckUwQWM?oc=5"
-        },
-        {
-            "title": "天母國中8生營養午餐送醫！業者另供北市6校　教育局開鍘了　",
-            "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5LZ0ZFbU9iS0xqZUFRSm9uSGxaSHhnd0FueDNMUVp4S3pBb2g4US1LZUU1aW02QTZDTXg1bEhVaXVOa2I5ZUdEMdIBTEFVX3lxTE4tQ0RwZk02cVRWX3BvVFFOSFotRXVSM01Qd3RuY21xeHhjaEJiVDdVOHgydUhqTnpBMUZQRG5VdHVBSWZzTWRSN2FVc1Q?oc=5"
-        },
-        {
-            "title": "支持沈伯洋還蔣萬安？趙少康被批毀滅國民黨 扁曬32年前照片聲援：難怪啊 | 李瑋萱 | 新聞",
-            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9WbzYtTF9QQ2d4c2E0RThoaDJlcllJa0ZMUWxXdlp0b1NDWHRWbDV0T0V2bmdocVhJdENTTGhNMjVmZXE5Z1hQdkEyVHFlUQ?oc=5"
-        },
-        {
-            "title": "秋老虎飆35度！薔琵颱風明轉中颱 降雨時程一次看",
-            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9tQ0U5MmVlQ3ZJQlRSaGV2a1YwSDhDY2ZTX2hBV2ZRUnFLSWVic0d2aUI2c0xYTVE5WFRMa0JNaXJ4VGQxZ1pXd2lwalVpLU1iRXI5Ug?oc=5"
-        },
-        {
-            "title": "盧秀燕、侯友宜助陣！柯志恩「三山造勢」岡山場將登場粉絲提早到場打卡| 2026九合一選舉",
-            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE12Mzk0Zm1wa2lVbzRTY3BfS0NpTzlGbXBHWHVHOWZVc3Jzby12NHR0LWdNWGtfMU1ENkhoRjEzOWJ5U3NRVWZZVmVnMmkxZmdTUExkOXFhVDQ?oc=5"
-        },
-        {
-            "title": "北市都更門檻75%降到50%「全國最低」 蔣萬安：人力將增105人",
-            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1OWUxBS3I1d2xVcE1VcWpOTkRabFZPS3hEeEFQRTUyWTljUEdxZVVnekZCTWY2cUcxR085ckk1dlhGcXJHVnFUbW43OHl0OHB30gFWQVVfeXFMTTdjU245WDdNN1BIOGdKeFlHZGJOZzl2eXNVRUpzVFZNVnBIZGU2MDFHNUFQQUU3YjQ2SnRiQnluUmwxbldJS0o5dnRlMXZzMFNEb2ZnYmc?oc=5"
         }
     ]
 }
