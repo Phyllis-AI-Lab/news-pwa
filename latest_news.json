@@ -1,46 +1,46 @@
 {
-    "updated_at": "2026-10-17 14:57",
-    "summary": "午安，為您帶來今日午間重點快報。\n\n【政治焦點】\n今日政壇多個議題受關注。曹興誠建議沈伯洋取消辯論，沈富雄指出蔣萬安選情已呈現反彈態勢。行政院方面，針對長者免健保可能產生的近四百億經費缺口，強調將合法合憲因應。蔡康永發文「嘟嘟嘟」引發議論，蔣萬安也對此做出回應。國民黨選前強推普發兩萬元政策，被批評為敗壞財政。另外，王金平、侯友宜、盧秀燕等要角，齊聚力挺柯志恩。針對離島緊急醫療，蔣萬安提出可搭高鐵方案，但沈伯洋認為松機難以取代。\n\n【社會民生】\n在民生方面，輕度颱風薔琵已轉為中度颱風，預計路徑將鎖定台灣至沖繩一帶通過，恐將影響即將到來的光復節連假。一名中國交換生因發布「隔空捏賴清德頭」影片，已遭移民署廢止入境許可並驅逐出境。另有令人遺憾的消息，高醫心臟科名醫在趕回救人途中，不幸因撞上橘貓而身亡。此外，歷經多年抗爭，台南鐵路地下化工程今日正式啟用，告別百年地面鐵道。",
+    "updated_at": "2026-10-17 20:11",
+    "summary": "晚安，為您帶來今日晚間重點快報。\n\n【政治焦點】\n行政院針對長者免健保經費近四百億議題表示將合法合憲因應。選戰白熱化，國民黨整合力道增強，王金平、侯友宜、盧秀燕齊聚力挺柯志恩；彰化縣長王惠美也與魏平政成功破冰，並表態支持核電公投。而近日頻上新聞版面的蔣萬安，先是被曹興誠、沈富雄言論點評選情，又因自爆請蔡詩萍聯絡「沒邀蔡康永」上台引發行政中立疑慮，還傳出李四川後援會長「爆料」事件，他提出的松機遷建民調結果也出乎意料。此外，候選人財產公布，蔣萬安存款翻倍至三千零六十五萬，沈伯洋則申辦了兩百萬信貸。\n\n【社會民生】\n一則悲痛消息，趕赴醫院救人的名醫朱志生不幸遇車禍離世，讓家屬悲痛表示人就這樣沒了。\n\n【天氣警報】\n請留意天氣動態，輕度颱風薔琵預計最快明天增強為強颱，並朝台灣直撲的機率正在上升，請民眾提前做好防颱準備。",
     "news": [
-        {
-            "title": "薔琵轉中颱路徑曝！鎖定台灣至沖繩通過 恐亂光復節連假",
-            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE55UDBaQXlJMEpVZzdwVjRwSE5Ib3gwb1BLVVdOU0RaOWV1ZFpTcldGZ1ZOd2V2ajhLY1dMOFYyMnFZQ0dvSjg3ckM5VWJNbTIx0gFWQVVfeXFMTUl1dVNtRXpFaUxsSXhFS0VxSTdzZjlOdUZYWDU1eHg1VngwNTdBQng0c2t0TnpWZVliakNpeU5aZ1VBVGpTenRyY3RfaEhqcFB1NG44Mnc?oc=5"
-        },
         {
             "title": "曹興誠建議沈伯洋取消辯論 沈富雄：蔣萬安選情已反彈了",
             "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE94NFFFdGpMeUJUUWxQZUktaFNHeENYc0Z0aVRuOXB2RE1RZzhiSnI1VE9WRkZzeEpfblNPaDJqTHZLYVdDalQ4OTEzX2szQXhnUno40gFYQVVfeXFMT2lqMVRXUldaYVZNSmNOYUROYmxXbG1feXR6cXNhdmU0X0Y2T0ZodkM2XzhkNy13YTMzVjBhamZMeGoyT0c2OVNsSHpZelhuQmpwNGNWWmpWNQ?oc=5"
+        },
+        {
+            "title": "【一週天氣】薔琵最快明天轉強颱 朝台灣直撲的機率上升",
+            "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxOdjRRelFJQ19OZHlydkpBazNPR29IbV9wQjBuVHNIVXNlTFdlano2RXRSc0NFaF9FM1VqZmtMOThhajVXeGJfLVZZZG9XRTRWdVJ0UDJJRDBtbURTc2Uxdk9OTHU0d05FUTVnblZMaXFWSGFhOTFuV3hhWHJ3ZGZoN2I2NHBLWlF3UzVlbTdKcGhEdkNSN1d1RENfU0xaV2Q3LTJEdl9FTFJObXgzUGQzbWRvbDM1SVBUbFAyTjdybU5xdWc4WEhOY0d0VG5BelY0d0V3V2hhYmRGblRaX3U5akktVTE2cHlIXzJ6NHFENmZyUTFNbGpCMWd0cFJLTGZaSkZGVjRHOFlVaFRUdlBvNk9jQU1KNDZSTXgyTDQtR1VyajBJV1dST1ppUEk1SWdHR0NuQmk0OTJPY0s3cmoyRW91b0d1ODNBa2lyOFZRXzNHX3lnaXp0QkJDcVA2UQ?oc=5"
         },
         {
             "title": "再不副署三讀法律？長者免健保今年經費近400億 行政院：將合法合憲因應 | 鍾秉哲 | 新聞",
             "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9UZklVRFRvbFVlTTUxRjNFVHdMVU16RW1fcXVKSXJDX2hQUUxzMGQ1YWZSSHh3OFN0ZGRaM2FkWlJrc3ZXeHJNd3lFeUdmUQ?oc=5"
         },
         {
-            "title": "中國交換生PO「隔空捏賴清德頭」喊拿下 移民署：廢止入境許可並驅逐出境",
-            "link": "https://news.google.com/rss/articles/CBMitwNBVV95cUxNQlhidEptajBkRm9tQUFuZGpWcWxVS0RaSmRZNzlfSkF2WE5zQlFkOS0zRkxMdlgxNjlpMU1JTm9DZnBuUExjRVNQV3loX3QyZ01qcy1Lb3BjdTJxTllwanBLTlcxdjlEQWhIbHZrQlduMkhfWkN6TDExQ2hieVhfYkdpWmJSSHZPRXJENk4tSXMwUU9Mc08teXVGdTN1c25GeWlIU2xKRTR0cElCWldxR19DeU9YYmhsNTBGUDdvU0pKT2YtdGl3cmlSMS1oVlg1TE9FM2F3Tm5pWGJMODA1Mk12UXZydEd6N0lDOElKRDVYdFZsalM0ZkVfakxJWnNKS3ZuaW1qTXpHV2l4TEYxQWlFalFBWDNhUU5VazB3dklsNUhYMFkwMUhzMlJkdEZoNDJidFN0VXhjU0tXOTlEWG9IelY3WWhwX0k1aGtOTDZKalJqTUFjQUg4YTNUY3lEZG5EOWpBcDRwQWJxYWw4d0F5Qkx3dFo3M0VJWXVhY1NIenRNcHdfYWNhYlFPX0xGRGdyS2RqOV9uR2NmRC1JSXFCZHpRdW9MUTFrRlprZHlEQUNhNlVR?oc=5"
+            "title": "成功破冰？與魏平政握手 王惠美站台8分鐘喊：核電公投同意、歡迎來彰化",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9xNFFnUmNyd2JOekRldHlKLTdESjVqbXlGQmN2VEFuY0hfN2MxQTBwRFhvVTluc0JqTDJFaWhhQ0Z1WG9CcS1vWGtQUnY1SE5PRi1r0gFYQVVfeXFMT0lITzRfSk90eWVlR29ESGt6X1NKVTFQNGRlRmhYRFVKZ1U0VDVBeUhOZGU4a1FPVVdfVmhPWWI2TjZjUnowdm1jRFVHUTE1N05Kb096Q3I1aQ?oc=5"
         },
         {
-            "title": "蔡康永「嘟嘟嘟」文暗酸沒禮貌？蔣萬安回了",
-            "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOWm9PQ281QWdOMThpV2ZWM1d0NHczeDljWWl1SnAtTW1CYWE5N3I1ZlJOZHk2T05KUkJmUmdCVHNPZHVaalZvWTJ1SmRiTFNoc3Q3TV9Ca1VGb2JjOV9Kd2xFQTRCcDNPX1dsR3REVkdpY0l1S0tVWUx6c0haQ1BYN2JxYmRwYUpsYlVxaFZOWW5qYkd6TVZPUXFjNl9uOThMZUh5bzZOTER0cmdNdkU1U0VqQmpJQWt5YnBuZFAtSFRBNGRmX2tyRzVRcVNCdnFGd0hrem9tU05YMFJLemtqQXIzZUN5bnc1eDM4QmFCZENpVGNGMmg4SG1QTnkxN3dXU1R6aXN1ZE1JUzI0NFl2MXp1RWZLMm9rME5DZndlR0o1dlk?oc=5"
+            "title": "影／趕赴醫院救人卻遇車禍…名醫朱志生離世 妻悲痛：人就這樣沒了",
+            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE82eFNSaGdIMmxDV1poR0R4RUhlamdLTXFUdm5NXzAzdGlOdGhVOVA2blV3VEZuWXZ3WFZIb1lOUlJlM3JINmYtYXpoV3FrcjFW0gFWQVVfeXFMUFA1UWdkZy1UZno5TDhrRWdBMHRnOXNWbi1Zdk1xZjd1S0VnQ3lZM1RqdlZ4eUNnelh3NWg2YTNmMDVJeTk0ZWhXcXVWUmpjQnc3ZERYd1E?oc=5"
         },
         {
-            "title": "高醫心臟科名醫趕回救人卻撞橘貓身亡 友人悼：溫柔的代價令人心碎",
-            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1LSV9fX0VNQzczNHV6dmpvWHUwbGVZX29qZm5ncVpDOU8yMnF1YTd5T20zSHRpQmJRaUQydGNJWkprcVFjVWRoZGNIQXlqS0hY0gFWQVVfeXFMT1FRYnJNNDNubzF6RkRyMVRUWDdpaXlWR3F5OUxjekY3UUh6NjAta0lsdk1QVk9IbFFOd05LdFJXVVh6dHYybUxSV3g3Z1ZWbnJMb0tPSlE?oc=5"
+            "title": "脫口「沒邀蔡康永上台」！蔣萬安自爆請蔡詩萍聯絡 網質疑行政中立問題",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1rNlo2bVFIT2NUTTNXbkpqOGRBRmxXOFVha29MMzBZMXFIT3FXcEJrRUl4S1o5dGFSSzliTDZVRmdxUFFzS202MGo1eTJtbkpsVi1SUlA5RndCTFZsc1o3OFdRX1JsR0dxVVHSAW9BVV95cUxPWFdlUWpzenNwdmVXLWphc0hNTlViS1BRR0V2c1h0U1pYYTQwMzY3SnZ1Mzk1U0twN290YnNPNkw1aGpjWHljNkhPd3lnQVkxXzIxcEhvbWhCcElLUEFKTkNUX21LUnQwMmxwX3VhaGc?oc=5"
         },
         {
-            "title": "國民黨選前強推普發2萬 他怒轟傅崐萁：敗壞財政、開芭樂票詐騙國人",
-            "link": "https://news.google.com/rss/articles/CBMiqANBVV95cUxOOENydjJleUJxMGhtbzY5YkFRc0E1X3p6ZzdqUXNkNVNsdUNzM3Z4aENqYXRtbWxLRUd2aGwtcV9UY1dsY09CdTc4a0YwUGlxOFo3VFp1eFh0bGZHVHdOWkxwYWtfQ1NydWRRQkgySGhhaTZ4WTd4R01pLU9FT01vaVJNbTY3NGV0MkxEWGRJYXZtLXBkb095V2RDQWRlZlV0bUFxUjllMXdjSlNxbEcxVlhzZVZuNGNyUXREZWhzTlhLMmxUZmVsS2x3OW1IcURWRC1pQjhIYzVfMl91ZTdWRGFOSWIxS1hjY1puUmJyWWhITUJjVlpvQUxXa0VmTmxNQ3lLM3d3OE9wdTFpM0FFWWppTHIzN3RfNnFwU0VfdHlrUE92M3FHNlVYUC0yaUxOdDFXVy1RYXFRU3Q5NEVjNC1MQ3dMU3BVZWtyYzNETV9JQU5rbXY2c05YQjZJUWhUbXQ2eV9maVNRNG9MbzdhS2lIRHRwaDBpSWVua0tMZFNkYzlPNExXTjEwNk9UaC1SUlZMaGNVSHlNYWNYWUJvTzdiMWRIZUNX?oc=5"
+            "title": "蔣萬安被衝康出事了！李四川後援會長「突爆破1事」震撼全場",
+            "link": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxPeGNTWGh1UnR1Nm96cWY5MjVNMGt6LTk4NVBKYmZKWEJhVVJnM3BXTmNqbWs3bnlOU19za1plSUsxYkhlcHgzV09aelpoNmVFMFZQMEsyb2N1WXRPeUI4THU2YzN0Y05RNGFUZ2Rmb01LbGdCS3o3Q3Zsc2hSUG4xTnVMd0ltLVZmZ09RNnRselplQlU2M2hDZDczek1JN01DdU1XUTVoeEIydGo0YlNxNlpPNG53cUd5d1VmbWFKMjZpSkZfOHFqLVZ1al9XbjJQdHlOYS1qUEhjWkV3aldjaUdqTjhrYzhsWkRyUGtNTVdHZENMMVFCZkZIVm0wN2Y3dTJWbWpCNXVtMFpTNDd5WTQ0WWZNdHRfSzEzbVJfU3Zad19GYkJaZHg5VjJCaGxGbDRVUEdYRXJHMzlEV0gySk56TnNieDdTbTM3TVQ0emR1NmozNEVVcGFVeEdNalc2VGZwVVpfTWtCeDNYU1pUX2hhejUzempD?oc=5"
+        },
+        {
+            "title": "蔣萬安拋松機遷建台北人挺不挺？最新民調結果出乎意料- 政治",
+            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA2RWpJWDJmd1dlb0tOUVU2cUdzd0JQa1hBUWJQaDN0OVVlZWZPTlVoYzFsWHB4aGQzdUd6VzlKbnQ0aUN6YklCUWdiZGpXOXU2WEl2UHliRC1KME5VODh4MlBCTW0tVkIwYm5GcTJB?oc=5"
         },
         {
             "title": "王金平、侯友宜、盧秀燕齊聚力挺柯志恩",
             "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxONWVYaHZlVkIyenMyNmRTSXRSNWx1SmZDZ3Y5REUwYmt5UFA4YkszT3VtZk4zbDdSdWt3LTJDR2tmdF94RFJuX2tGZWd4b3JXUVBkZnkwRkR6VExqcWlpT0pZN3BzdmExaHktdHduZVNKeDVSeWUwdWtHb1hPUWh4eTRFdkotZkhDZWZrRVlfWTlMNnVCT3o5S25PX2t5Y3pucU8yd2xGc1Y0Y0pqaUFlUkdpLUUwOWtaNVlXUHlHNEhRbmFzQS1MZ2xCZDd1aFZSZ0M5U1NzRW5ZOWRCLXNKc0REU1RuV1NkZHhaelZZOGxONnZuZDhsampmNmx4U2pOeWFEYVNIR2Z0bVh0blNoS0pYSmNEUQ?oc=5"
         },
         {
-            "title": "蔣萬安稱離島緊急醫療「可搭高鐵」 沈伯洋：松機難取代",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE16SE1BR0Z6ek5UWG5RN1NXNHZQTWo2ZlMzR2o0QkMwRmlSU0JEV0pwYUFzVjFRUHRGYkVBZU1NM0g1clJac25Fb09BZVZBalBEVlAzZE9CMmR3ZGsxQlgwemZDM0Jld2w5S0HSAW9BVV95cUxNTW9VMWpUX0FSTU9Bb0NHWEZhVVd5cFdyRUFNdGJUdk5oSkxpZjlIMHFwTkY5czhUT1Qxb1p5ZU1WQlBVUklWQ29RZFNxQWJoaXh5Y3ZTUkxGaVdBQ3pzeHlQMEZxazBQVjRNckUwQWM?oc=5"
-        },
-        {
-            "title": "歷經抗爭…台南鐵路今起地下化 告別百年地面鐵道",
-            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0xRkJ6eDVEQlNUSlFNRVk1YVdKanhpVENXUlMySDBKcHlvRC1nTzJYTUdxZGJLOHNvR2lvNlZrX2luNDh5RUNEVHNJeE90dEFE0gFWQVVfeXFMTnlwQkdjRFlXTVJoQi11MnNRQXBHZ2xMZDZ6QWZHOWN5ZWZOMmJLbmloWFFfTTVxYVVCWEVDOS1ycWdOQkVFUXdkaVczakUyUmhYQk5kN2c?oc=5"
+            "title": "候選人財產公布！蔣萬安存款翻倍達3065萬 沈伯洋選前借200萬信貸",
+            "link": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxQX1hKdUl4X3c0elJLNExPdEdBaEMwNUNKalFYQzRmSUxVM2VXMG9CY0tycFNBNjVWUGtqSVlnY2tQRmRtUjZJS2xjaGk4bTlkSjVZT3NzNEhCMUV4UkE0UlZNcmZUMVB1UHE3bDZzalZsSGtQUlo5VC02UEZTMVNhWDEwbW02S3dxV0VzbVpjS3hiRmxrcjA4TXJPRVQ3eklUYjByR24xY1lHdDZITGdWQlNudjJaN0ZrMDlxUFgyTXNCdTk4eDZYaXNoUWNRc3BnZmgzeFBfb1F4WngtSFpMR2pnakNfOXV6Qy1lVkREWjU1bUZSZmNsRjQ2dEZELWZEa2dsU3RRYzdWTEdYUi1kQmhYdzRrN0ZXVGNhTWVsa3pNc21MdzYtYXZyQWlZR1JXMDNrU0FsLXpoYW9lM1ZZXy1NU21ad0pid3g3bER0QWVZa0I3ZE5nUE5Gck9FVWd5NldVb0tOTXRLbmZVUGhZaC1Xcl9hVVJDU2ZjN1ZhZ1RoRlVKTUdGN2lqSQ?oc=5"
         }
     ]
 }
