@@ -1,46 +1,46 @@
 {
-    "updated_at": "2026-10-19 23:36",
-    "summary": "晚安，為您帶來今日晚間重點快報。\n\n【政治焦點】\n柯文哲前幕僚李文宗認罪掏空眾望基金會，使柯文哲捲入司法風暴。藍白陣營修訂「老福法」遭公民團體質疑闖禍，國民黨團則反駁為政治操作。蔣萬安面對2028總統大選提問時不鬆口，強調專注市政。松機遷建案因地方反對，議員批蔣萬安未得分。此外，沈伯洋與吳怡農的暖心互動引發社群熱議。最新2026九合一選舉民調也已出爐，雙北與竹縣選情變化備受關注。\n\n【社會民生】\n颱風薔琵最新路徑預測顯示持續北修東修，氣象署評估不侵襲台灣，颱風假機率大幅降低。台中一名遊戲店員肉身阻擋暴徒，英勇事蹟被封「年度神照」，本人事後謙稱超蠢。桃園少年慘遭拖行毆打案情也有最新進展，8名涉案惡少下場已曝光。\n\n【國際情勢】\n一名台灣女性參加日本團體旅遊，卻在日本河口湖飯店陳屍，觀光署正緊盯此案，旅行社也配合當地警方偵查。",
+    "updated_at": "2026-10-20 09:50",
+    "summary": "早安，為您帶來今日上午重點快報\n\n【天氣速報】\n薔琵颱風路徑預測又北修、東修，氣象署評估將不侵襲台灣，預計颱風假期望可能落空。\n\n【國際要聞】\n法國爆發數十年來最嚴重暴動，巴黎等多城實施局部宵禁，總理不排除宣布緊急狀態。另一方面，俄羅斯總統普亭提議召開美中俄三方峰會，共商烏克蘭議題。\n\n【政治焦點】\n北市選情面臨挑戰，趙少康聽聞蔣萬安回應後搶答。柯文哲被木可負責人認罪咬死，李文娟坦承與柯文哲收取政治獻金。蔣萬安也透露輝達談判一度破局，並強調松機遷移的必要性。行政院本週將送出老福法草案。台中市長盧秀燕接掌蔣萬安競總主委。\n\n【社會民生】\n澎湖驚爆「雙千萬發票」疑雲，兩名男子接連兌獎遭拒，官方紀錄竟查無相關資料。",
     "news": [
         {
-            "title": "颱風假掰了？薔琵最新路徑預測又北修、東修！氣象署估「不侵襲」",
-            "link": "https://news.google.com/rss/articles/CBMihANBVV95cUxOMVowNnlfUWxIdlRnX3QtTDdiV0ZiakV2dmczSUFSTmt1UV8xcU5GT2xiaVByNFRXMVFwSTF6Uk9KUEh2Z3VkWXloNF9vSUo5XzFkbGN1ZWV3ZURuS1BRdHdhYk4xRUtTYTVOSGo1VjNqcWliQXFQdzFqcVBpVVhZRHkzWlFLZWd2RWkzZm4xMk9wUU5UaFdjQkM4bzdCU2RyMjF0NWQtMVhLemtqWTVYM3QtS2hMUnp3N200dzY5MGxFNmFWbVoybkZrTWd6cDF1YmM2emxRdG1zdHhoZFFLcVlJWUJGMEwxcDhZeUltSC1CcXc4dEZUSWRpMmU3a1A2VmJBamZhdzh6YmJ4cWladXJtMVJfaS1mMmlqSmlNMUY3emt2TDJzSFA1ejAwY3VFMmxMNTFCdklsclZ4RWk1cXlyNUZHdE1tMGpRYUVKY3NPWW1oMUtocFQ3ZVdQcU1XWWZhX0RyLU5JVE1SdjBMZ2luMlF2T0pzMDlnQ0NPSHEzUndh?oc=5"
+            "title": "颱風假沒了？薔琵颱風最新路徑預測又北修、東修 氣象署估「不侵襲台灣」",
+            "link": "https://news.google.com/rss/articles/CBMitANBVV95cUxNNDFSWEI5RkVSVXZKUGhfTXJRRGxISk42b3diRm4zTGYyTXFPSFJmTExxaTBiWGVsSW5KVldhejk4dTJVOWJaWC1NMWs1cDB3M01UdEV5VXRFSjk3RUVGLTI4X0k3Z21rRF9jemNlanpLTGdoSG84RmVUNV9BenY3bmtWcUtTRTMzbEg5UEI3b0lSYWRqSVBGMlE3cHZHcC1iaE1fT1FmU2lkd0QwTmtXcy1iY0pEUlZhVmNuQVRWQWd1NWlka0FyYmdzTHJKN2Y4OHdkSWYtZG9seE1aV0ppZnpvbm14OW9USlB2MXJib1ZTa0R5OGdGX0lqSUg2MktsMGh5Qk9DOXl2T3ZZRnNiLXZSZXU4Vkh6cnpJdzRMWEFmVURDTEVaazZidy1BUnpqTjNHQTVYaDZjMTNyOXRJZ192N2xEeGNnRjFSTm5PUW54YlJlTGZnR3BZSk5haWZnTUVQcmgyR2FGRVJlLUV2Z2lYd2FkVWExTHE5blBzbVB2eWJsNENoUXlVeUxhQUpEM3VORUFZaEN6eG9ZcEtSYllCTTljSHBDeE5saUI3V2xaOFdj?oc=5"
         },
         {
-            "title": "氣場如《七龍珠》悟空！遊戲店員肉身擋暴徒被封「年度神照」本人事後坦承：其實超蠢",
-            "link": "https://news.google.com/rss/articles/CBMipwRBVV95cUxPTzNrdklXNERPZ016c1JiWkxqWVowWnZHLUJlbnlQU09CN2FPcHVhX0g4al9HdUZsSmQxeUc5WmxaX0FDaktCMFJ4LVBTTEl5V0JQNXEwTlZKNnNVcENYVTlqRVp2NVpmenl6RDN3WE1abVgwTXc4eEdKd1ZLbEJPQmRXTFFCdHEteS04b045UDRMbDVnNjNSQW9URWl2N09YQ3lSUWtlRkg0NHIzcmRka003VUJkTDVsQWRyd05DNGFnYUNERW01OWk1M2lQNVItZlFkUDNuY3liRnVzTkFWOENMTXc0ZGs1bmN0aTlHVllSTnVJaE5neWF0OHpNWTM4SmQwQnlDUGtkWTRJdmV5LXZLTjJQaTBUTHpWbkpSakp6SDJ1VVEzcENuN1gxU193TExsMUJrRm9hTmVCZXl1SUs3ZUFXSEVxV0VvVlJIRS1LOU8yNkYxTFVHZG5TbF95TGIyc1dnV3J0NG14M01oVmlyNHZJTUV4VXVpTWNEd29xbjdxMVU0a3pNd3F1OThBU1otMWFZRFJYbTV1RHYwZGp2UXNpd05WcHFTbzFHOEJkeEZPQ0FhTzNpcy1LS3hiWlBQdjh6akNoN0tndFR5Sm5zOEFHS0ZNVUJZcV9JRW9KSkphcUtLWjc3M0dONThZaUJwc0wydUdEaUZYX0tLRTBsY21BQWpGc05UVXRmcURpTWxoa0dSR3RKdWJmODlvMmJYN2xEVQ?oc=5"
+            "title": "法國數十年最嚴重暴動！巴黎等多城實施局部宵禁 總理不排除緊急狀態",
+            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBBSUlVQjZkYjg3cVpWWFhnMW05ak5oUm4yYkZLUFlxVHJFcFRkZnhacEprUlBoZUx2QVpYUWdmeTRJR1VhS1MxS1pkZ3ByNU0x0gFWQVVfeXFMUEhGRmtNOFFLTVZLR0gtOVZqRm53MnlvMTItVFpXVnloZGg2VFNyMVdQWUt5NGVlTlBxX0Q0bWxYZktRMkdfT3hxQTR5M2d1Z01hWExKV0E?oc=5"
         },
         {
-            "title": "跟團集合未現身…台女陳屍日本河口湖飯店！觀光署緊盯、旅行社配合偵查",
-            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA1RlNrTkxlRFZXZXNxcl9nTkdNVWxEd2pWcWpHekxudTUzSWF4SXNUeG5PY3ZBdXVWMXdKT0gwdzdVZEVTSkw5YUpMZ09DTHJ40gFWQVVfeXFMT0M1eEVtenctS2FUaEEwUEtfSG1IOHZ0MnQzc2dIZTdvWGpSUHhvQ3BFd0F6bHZFTEpfemNMdkZmZ0l2OEtSS3RBWHUyOXRlT2YwMzM0eFE?oc=5"
+            "title": "大國交易…普亭提議美中俄峰會 共商烏克蘭",
+            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1iZXc5bkRHZW94OHJHeWRTMkRUUEVDbGxvSm1ZUFl5TlpsWVdYTng2NmkyVWw4RDJWQUVkakJldDEtZGV4eVA2M0hSNzJVRXEz0gFWQVVfeXFMTnVrWmFFUjN3MXVBNFFaWmpyNkhHWW85blpTUlg4TTYwLVFBb0tnaTVRMlFYRldMZk00eVRybm1EaFJzYWtaTEF5UE5LekZUZGJTWWdEdVE?oc=5"
         },
         {
-            "title": "柯文哲完蛋了　大帳房李文宗認罪與柯掏空眾望基金會",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBGWjlud25qVFZyX01TVlVZeXdIM3BvZUxKejhTVDZUbTM3bXVSZ0MyaGw2V1J2QjVSc2hDYnAwOFBtcVdwaWp6S0dwVjk5eFRXbG5rT1duVmpQRm_SAWBBVV95cUxPSTVGdV8wY0tOOVVNR1kxakJRX0ZOZUp4OVhoMXBQMklzOW5HNkJkT3ZZSndKTFVmcVU1d1dUQXJvMi04SVhsRDVJc3B1b3VMTFZBVUsxR0EydTBDck1hWng?oc=5"
+            "title": "北市選情為何辛苦？趙少康聽完蔣萬安回答後 愣住搶答",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBhaEs5dGVqc001TDdSNXlGVkE3NFl3ZjFzVC1LV1JIUEFZY3hYXzF3YWhVa3pZU3dRNGZ2bjdMSDdPX01vSFJUQzh5V1lJMEZXNjNxNk9rUGxBa1lqbmZBSUk0eDlHWEZMUXfSAW9BVV95cUxNejdEQkZvYUMzZHU2YmwzZnFMeU8yeXIzWTZXUW9GcjVKLUdxV21PRTRRU2R0cUpYMGdJeHd4dExlWDBOdUlNdnoxeHRwY0JVaEZLVTJfTks3a3ZIbDFEbjhaNWluOEZIc3pDczFvem8?oc=5"
         },
         {
-            "title": "賴中強揭藍白修「老福法」闖大禍 國民黨團：以政治操作製造恐慌",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1zZHcxSjVESm9xVkV5TEhzcFRoZnJHa25pOHk3QmQtcHRVMkxXMFBQY216eEM1cGRYWlVRYnMzOHpObW9NdXBmU1NEZDNYZmU2S3FwcFVMTHJ3dnUxRE9HZ2k4OVhselF1SUHSAW9BVV95cUxNWFdERjF4bkZ4QkE5bDFLOXpfalNxWXBoNmQ4eHNna1dOV01iTjFtQXNUeWtKOWotMS0ta0ViTmNaUXpxOHBuMkNaV3MyVkJmWERrbE5FT0ZlRV9QZnpNN01wRVRBOU10cUkwekdUSkU?oc=5"
+            "title": "柯文哲慘遭木可負責人認罪咬死　李文娟坦承與柯A政治獻金",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5qSmdLUHAwTGg0NjdxTzhkMV9mTExZSnpleUhnUldydXRFNnZ5SjE5QXlQY0x2MlloV1FHLXhpN2JMT1JBV0tLd3NRd3NDOTRMaVNjVklLSUJGT2PSAWBBVV95cUxPMUQ3TkFTdFBGbnk0RjhHRFZKQmlKNm1vWG5tUm1fdVpOWWdPTUxUcmpWcEt1N3F2bGcxMHdTOUpoQ3hvT0didnd0MlBDanQzYlU2M2RwMkhSd1VyaWtRdVQ?oc=5"
         },
         {
-            "title": "桃園少年慘遭拖行毆打 鄉民女神曝8惡少最新下場",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE41dHdxMVIwLTAzUS1mcGQ0QVhTMHAxUWIyVWxZdTZMSG9SUzVMUDZBNFJvX1o1QmsxdTc4V1hTMU5McDlRZW5uN0lpRjBUcWFOT3NXN0N3?oc=5"
+            "title": "澎湖驚爆「雙千萬發票」疑雲！兩男接連兌獎遭拒 官方紀錄竟查無資料",
+            "link": "https://news.google.com/rss/articles/CBMiqANBVV95cUxQcEo5WE5wQWxZQTV6N0JLbk1RWkh0YndjVlFFN1NlT1JnT295d1c3aDZkeEJyZ0UxOWhVa3ZJTGg2NGIwVk1Ib2JDREdxZzV2OXNuaGNhNHhMRlRveS1wd1RvckNRb2VwVml1Rmt2X3ZkeXRSNjM4OHVSX1R4N2U3eVlkTWRqdVM0NW9fLXRORzU4bldTQzdNMVhIUGVwSm9lUTBDNFRmcWdzSFVIcW5jVWhnZEphYlpNTnE2VlZHb1BtM29VNEoyR1NsR2huY1ZrMmtkVnpWYkhtVjR3WDNwUWdPUU5iWFBpT3FuSG13SmxhblVxNWdxMTQzang0bzFMY1Q4clZwX0lXS0lwZ1ZYRHE1X241SXI3LUVqc2lRcU1zNy0tb2NmRTlhZHFYd3hZdmFoWnFEWHpSdl93TDgxeWxWbXl0SXR5NExwZ1g1dnlodmFsZWZiX0s5eDdkZFZ2bGpwbk5qdng4SGg0dUxRNExZWWFGZUh6amdBbkJidkkzbG9MYXJrdHYxOHBvZDA0dnpUbmNvSlJ6MEZFM2NtcWEteFFIZzda?oc=5"
         },
         {
-            "title": "趙少康逼問2028「做2年市長選總統」？蔣萬安不鬆口：好好做好市長角色",
-            "link": "https://news.google.com/rss/articles/CBMiigNBVV95cUxPRmxZRlVEVmNUbks0cWVWQzZYeHVEbC1OTFVyREx5d05YaGZlRjFBQ2poaHJWWXVJbk5zRmduSXRvejk1TmhuUUdFU2J6U2JYY3B0YmQ4RVl4WWhsLThGSmFudTI1VmdXY09DV0wtVWVyLUtybWhEMm1LYjdfa2s0RzZfS19FNDFQbWFiZy1JUHZQcUVXMFJrVm5sLW5GQXZKRlhUbk94alFhRDE5bGExWkhBYmg5RjhYa2hySHF0a3dOSXNlOFlDaENtOHZ1aXRyampZREt5cXotZ1pyVndNb1o0akV3VHJCMEdjMWRTbGMyVUhrRTI5SHpOeDRWYWJtQmV6bW1XRXRyR0J4eDYzVGtfWXlFRFVPMVcxNFJRdUp3ZzlSVzh2SE1RWGtObGlQbkZlR25mdDhfRXpqcVZyTjlndE5iY25VMmczTFVOc3p6OWdpUWlrdFVfeF9UeGRfZlBBTWRVVlpILTFDanN4MUhvSmotZFhKUE9aWEVGV2t2bG9UazM4X2N3?oc=5"
+            "title": "蔣萬安曝輝達談判一度破局 松機遷移「今天不開始就永遠不會成功」",
+            "link": "https://news.google.com/rss/articles/CBMimwNBVV95cUxQbHBBMzRoeEtJTjBqdHVRUTNRUGJkUEs1TEx1RG9MT0lpSWRRX2JlLVk0eG5SdlBDcmloNHZDLWF3TEdyNkJ4RTRtQ0lCSm42QWFYaFdtZUJzOW5qOXVSZUZiWWtEVG9sZ1JKNmlGVExrcC1mSkZoZ09WbWMyajROa2FRem13Mm03SmZSODZiQXlUY2cxcFh0dHlqNHFiTlJhZkxNcWZla291em5jUllXckQzdUx4UGFlQWUwdmRkeWp5ODR1eFk3dTk1NkJFVEc3TXhYbXJTcVJUYWZLbDBqYUFlZlc0WnZTb1I1TUxRWUJWLXZvd0tybVBOOWIzcnpnbUxBVWlqWXNNb042d3RrRnNza1dwVUJBSUxXaTRLWHc3OG1nVWhfcWVicUNzVHFVWHdRSGpHZi1Vdi0xQU5Cc29kM0pFSElHMjV4Q2Zya2pjNXFZdTdUcjl4bGFyLVVob29FVE84LVB5UVBWY21MNkdRNVdFMEE1b3RIdUJlLThaMGQzT3lCSFphZk1sWF9VUUJNNTY4cHJ6LVE?oc=5"
         },
         {
-            "title": "松機遷建連在地人都反對 秦慧珠批淪「政治口水」：蔣萬安沒得分",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4wT001RDRQbDlMWk9JeGlaOWVqT0xsWG5mN2JhZXRNb21tclVxTUdSb0ZldmVCU0JKX3pDZ01SVGVwdmdyNFlFejBpNFpKSGFfM0Q0UnFmUmEzX3FFNmVrOUF2TGpxSm45Q2fSAW9BVV95cUxNN2xQMmJuQW1QZGhlTlo0Y2psZ3dXa1lmWUJCTUtIaFBCLW1CTUM2WE8zdTY5blN5RlF4MWNXdUpmdjRBTGQtTldpVDBxcTVxOFZRRFVfQW5UM2RjQ2EyOXV0VnFFYnNwQ19Xdk9oRWM?oc=5"
+            "title": "沈伯洋車掃驚見「超現實場景」 在地人曝8觀察讚：洋流水準非常高",
+            "link": "https://news.google.com/rss/articles/CBMikANBVV95cUxQdEtXRjA0Q0ExcVY0dWxXcEgxWHdHeWpScmxhdlRBRUNXS0h4cXljOW9IRHlUUEk3X0pEMGtUM0lGVi10RE42eENPdnA3TERBQmgzbnVrTHREMGZCY2d3QWJYOVRMMWhZUmdqRmxzc25rWUZCV01LeXJjcnNfNkw3Ujhna2pCN0lDX0k5UVd3QVhZOWd4dUprRTQxa0FsT1Z3MVNLdm9hWlNBMGtRRC1ETEdjNzFPbUo1NkRYNzFKWW1Sc2xveWxsVEVLUTl5YWx0RXYzamR3czlmb1o2Y2NzdkhLNFhnNndHWE9iMzhkNkFzYTZMelB2dVV3azBDY0lXbTVxQi1IUmNGX0p4QzhrNU9ISXZNVDV5MWlzWlh1WTZvVFNvRDhiaHl3MXA2TXB5SEZ2TGIzM1pQZEVhUlc0ZlktZU5lR1ZxMk96Qmczck9Mc0dydkx3WGJxRnNMeHZRbVVJWjVwbmtGeFVva01wbU42U3VOSF9xZ25NMTczeFpMTFIyaUZLaEo4ckxfeDls?oc=5"
         },
         {
-            "title": "沈伯洋曬和吳怡農自拍！「1舉動超暖」網讚爆　感動最兇國文師喊支持",
-            "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE53UXJDbWVOd0RhTl95WTlIXzNqTkw1OUZRZ24yYlBMZElibmZaWUJqZnBtRFFaQTZTSGxmVU04a1MtUmFXaXRtZtIBTEFVX3lxTE5Wbm1vNjdDc19NeW94OGk5Y1pHRGhDeGVJcUI2Tjh1ZWZkQThGbU85clpLdGJ4WVhMLUl0QnFLUk5QOWhNV2phcHNFR1I?oc=5"
+            "title": "政院接招…老福法本周送出 張惇涵籲三思",
+            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE90U2R4c0JWVDBvdVBlMEFlU0xvWDcyMFpyMENHdlNfVk5DNVVTWkZLRW5rZEgyM1k2VExxV2JNblMtV0RFU0M4bUNpbkE0c3FR0gFWQVVfeXFMUG5PMVFKT2lhaEtZVHpmNERnZU5aZmtjNjBuWkxBb0dYSHlWYk1xMVNEVHVOU21hY0ptRFBrSGdWRmkyS2c5ejRhUVpPbGpYa2tHMmo2R1E?oc=5"
         },
         {
-            "title": "【2026九合一選舉民調】台北選情牽動全台？雙北差距變化、竹縣逆轉選前40天重點縣市民調一次看",
-            "link": "https://news.google.com/rss/articles/CBMiyARBVV95cUxPQTVmb1A1NFNmX3pJQ3ExcnRMOXpSbkljTVNlVFNoU3pyZkZpdjg2NGlJZTVQTHdWcTFjQzFhN2xVM0ZJU3lWRlQzcXZJblJEQmloSW1qd3dta2Jkc0dsMmhHbURIcmxVZThNM0R1dGcwYnVUb3FETW5nY3FlV2Jya0ZLUHhBR2lNbnByMkUwalhNSDkzRzZkVTltWlNnOE9mMG8xelJUbUY5RkgwUFlNX3pLR05URUF4Wk1mbDItbUxkMmVtams5NzEzWlE1eWdSelpKQUpJODd5ak5Nem1GNlVYUFZPQmNFOXFsb2ZQaFhHUWEzQy1mVzFDV1RUR0NyS2ZDSE94MENQWkNLc1hkbG9mblhyUHQ1RTdKdkZidGdtZFVXeENTSFQwNUg5OG51SUNwV3FBaXZkVDYwbnlRcjl0NWRRUDR4eGtTTFF4SFc1UUp0amNOSF8xdk9wTkxmXzljSjExY1Q4UHJYYXBzMURyNXJMdDZnOTQ1LWZGc2g2WGw3Z1NDME5pSElGSUR3MGlneDNIQ1VaYmFNa3M3T0gxcGZJUTBLQXBVQnM3aDdld1c5SW9RVTVid09JQVB6dWlkVUlLWF96TjdDTWhRcXMwNGhpV0ZLcXBVM25LZHpFaUUwTXVibER6UUFLMVhsd0hmdFdoVzA1MlVLYWtIY2ZhLUxLdUJKUFZvV3BmTlZ6VmxPWXYtMm9pZ3RyN01VR1hydDUxRFo3WHlKb2RhOGZvblM3Q21zVTU4ak5GWVQ4YS1kWHVzMg?oc=5"
+            "title": "盧秀燕接掌蔣萬安競總主委！江啟臣被問「吃醋嗎」神回一句",
+            "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5JeE9TWEsxWFV1bXZlQmRxVWxDVTJFUERISGFGSjRsdDBkMmZ0QUpKT3l5cHRKU3JQWEgyT1d6WkRQUFRkZHNEUVpyVlbSAVJBVV95cUxORU84SDlmbllJV2owQTFCN3gyT3ZiYzJiWlFvRUd6dmVlUkpFakd5XzgzVzBrdmpGblRLUm1XVVEtSF9HVFJrS2NNX1Z4aEt3Y1J3?oc=5"
         }
     ]
 }
