@@ -1,46 +1,46 @@
 {
-    "updated_at": "2026-10-22 15:35",
-    "summary": "午安，為您帶來今日午間重點快報。\n\n【天氣焦點】\n颱風薔琵來勢洶洶，中央氣象署已擴大陸上警戒範圍至七縣市，其暴風圈預計將於明日凌晨觸陸，提醒民眾務必嚴加戒備，防範強風與致災性降雨。\n\n【政治掃描】\n台北市長選戰白熱化，最新震傳媒民調顯示，沈伯洋以42.8%的支持度，微幅領先蔣萬安的39.0%。沈伯洋關於股市與停班課脫鉤的言論，引發蔣萬安競選辦公室批評其搞錯權責、出洋相。另一方面，陸委會警告中共介選正鎖定沈伯洋進行打擊，手法軟硬兼施並試圖以法律包裝。總統專機停放松山機場的議題也浮上檯面，國安會秘書長蔡明彥強調其維安重要性。此外，蔣萬安先前專訪挨批答非所問，主持人謝震武已澄清有提供訪綱。\n\n【社會脈動】\n資深媒體人吳子嘉的住家與辦公室今日遭到搜索，詳細案情尚待釐清。喜劇演員黃逸豪遭假車禍跨境鎮壓一案，檢方已偵結起訴五名被告。河口湖命案持續引發社會反思，歐陽靖揭露當年旅行團內幕，凸顯拼房住宿安全的重要性。",
+    "updated_at": "2026-10-22 21:48",
+    "summary": "晚安，為您帶來今日晚間重點快報。\n\n【天氣警報】\n中度颱風薔琵減弱，但陸上警戒範圍仍擴及全台，氣象局提醒23日全台需嚴防強陣風及大雨，各地活動也因颱風影響而異動。\n\n【政治焦點】\n國安局長蔡明彥示警，中共正透過廉價機票等方式精準介選。此外，沈伯洋拋出「股市與停班課脫鉤」議題引發爭議；竹北市長參選人李貞秀則確定遭剔除參選資格。\n\n【社會追蹤】\n日本河口湖命案死者身分曝光，她曾躲過高鐵死劫卻不幸在日本遇害。另名嘴吳子嘉因涉違反選罷法遭檢方搜索；喜劇演員黃逸豪假車禍案，檢方偵結起訴五名被告。\n\n【國際要聞】\n烏克蘭士兵抱怨美國星盾服務突遭限速，導致無人機群墜落損失數千萬，質疑遭美方拋棄。",
     "news": [
         {
-            "title": "颱風薔琵陸警範圍擴大 7縣市警戒 暴風圈估明凌晨觸陸｜不斷更新",
-            "link": "https://news.google.com/rss/articles/CBMirgNBVV95cUxNMEYtd21VdHhMM240Y0hnWm9CQ0tBNzBlczROQVBaX21XODM1Tjhkc3dHVjBJSUdzaG9TQllnaGljVXFkeXEyRzdUQXpXSnZ0anlMd2Vmcm9UWGhELWhOMy1XdFpFVVBwLXVQX2pnU3V4NUo1QXlTVjJYd3NONEsxLWpKNnM3djNPcFVFM0JEVWZHUVQ3SHAySms4X084cDE0aEJzRUpRT2szN2U5b3Bfd25Nc3B1ZlVHdy1pU2g5OFhmeGRqbFVKdjJhUGpGd1dlUUFYZVhUQnpxMzltd0laOVJWSHU3RGNLSDhsTFVPYVlQSm13ekdCMHkwai04WG1YVjQ1dVJweUFYeDI2cDdoMHl1alBPTlV6aHJLS0hfZEFBb3JFNThSQ1JqU0dlZ2trYUhBYzUyM05QcEtLaVV0bk5QdENoQlRfcGJTNl92MWxVOWxtTXRNcVA1enpWMUZqOVF5RlQ3VWRGeWpINDJwTUNNbkExWVp1ZC1yU3NzY2JlQ2tibXV3OGNVWjhYZ2xGMDltQVItQnhjMGlWRkpzY3ZOOGphT1FPclFrYnV3?oc=5"
+            "title": "颱風薔琵減弱為中颱 陸警範圍擴大全台警戒 23日全台防強陣風、大雨｜不斷更新",
+            "link": "https://news.google.com/rss/articles/CBMi9wNBVV95cUxQbmlvNF9ocnRaRzVwZE03WGI0X1RzcUxhYXk4QWJkbWlLZUhGLU41Y2dacVZ4dUdCell5VkxuZlJIQ3ZtbnZ4SVpDUVp2ZjY4NjlYbTF6a1l6RVpsa2dURG9XdEZsSFEwQ1ZvYnM1R1FoTF9LTG8zaThCaFUtdFhEcGRXbEhCLVg3MUNXeDJBNXhsazJ4RUx2TWlveVhmOUE1bk1fTF9pYThEMWJNSzBycXE5ZXNKUC1mbGcwYUJ6UzdXSTdRTkFjRUh4ejVId1pEc2JwN3o2Sk52MGxWX2ZhN0ZiUlBIOXo1cWdLT1NWR2NMNzV5MDlHNzFRamtpTDY3NnBweW9CVVFVME1TLTA3U3lrd3hIY3RqbGg3cUZGaWhya1pWUlptVHJQR1hGTXIzeFFHY25WSW94N0t5bmtueHdpZERHa3dnTldveG9yWXBCaEQ2U19ZWlMwWHl2NXBrejlnYW4wYmdwYXV0OXNUczhrV0ZuTUJHcGFwTS0wbUxZSnBDSDFHVktGZjJpaHo4ZUVpbGdQLVFNVVVRVTc1N285X19QeWFaQWZHdkFDNUh5OTVCUmxhdU8yNlVVc3phOTJ0VExLb0xkRnR2dzRNWjVNNGw1bGUwZEdsWXBwdFoydUVhNVVGSkRvUlRmSGFCN2JWWjJVRQ?oc=5"
         },
         {
-            "title": "快訊／吳子嘉住家、辦公室遭搜索！",
-            "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOU1VwbllNSExHdlVOVEdRcVY4dXVvR1RDcWtMR3dsOHRjSTNWSC00YS1UT3h6Y2ZtS2NtNFp0cVJ0NUFMdlVqdEhpSjR0MmFkNEhnSDdrbFFzMVU0cGwtSVQ1b2tFdUtwZC16T044WWlxQmRha0RiR3VmYXBoVVFPbzNxQkJzbjEtc3hLcnlzU1I3bHViekNKaGszQ1BiUTRLNTR3V0N3Z1Nmb2tDbUF0eVlLSnVCSnZFdmxURC1kbFJsWXpueExhZHM5cXhnREpndjR5anlkV2p0d2FuTmlibmxVdmlfeXhhczRiYTcyQjFrQQ?oc=5"
+            "title": "【持續更新】因應薔琵颱風 中市府部分活動時間、地點異動",
+            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9mT3dYTndsX1pOUElZLUFFVWpkc0pJOWN3M3pyVWNXZVBHbFcwNEVLZ21wdXZtVFlyN20xbnhXRjB4NFVrZ1dXclFWTDRrb0MxZzZnNG5vRVA2cTRrbTZv?oc=5"
         },
         {
-            "title": "【震傳媒民調】台北市長選戰最新民調 42.8%支持沈伯洋 39.0%挺蔣萬安",
-            "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxPQzVlc2x4TVNwWVNubXZUMnhzNkVmVWdxX1BxM19wT3dBVDN0cU5ka1NGNkhOLXlGemJ1Q3ZDTFJOZFNpM2VyTzB6SXVSUmZjaXNvLVpQNGJYRkNCLXM0bEtjU0JIZnp1U25sQ05UNEYyU21VWEdxbm41clI0RFJhbGgwdHhZVWxYX2IySU5hT0NLU3ptVWNSbHVxLTZxdVpSUV9ocG1mbXowYURiU2JFUi1VS1VqZ1M0QzRwWl9ETkJfaHpXaWl4R3NFNHNMT2FPS0p6WUpMY29WZXJ5MlNjeUd5N1JlSkM0VW9mVWlhSlNsQlplRkNERjNFYUdCc2RBc3hJQzlDQjBySjdOcDJwWGZsS1JUNnRsVnUwTVB3Qm9Bb1VJVkNxSjVub3drSnduUVdaZGlQTWRhUk1pVF9Nc0trOV9KaHdmVFVTVXNadVhkTFVPZ3BmNUs3MTdVWHMySzFqNl9CNnFYTzM4UmJJUGNOYzVNbDVWd1hOWnJJUzlzOEYzb0NSTXhCaXB4YlNxbjA3VU1B?oc=5"
+            "title": "星盾突限速慘況曝！烏無人機群半空墜落損失3千多萬 士兵怨遭美拋棄",
+            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE40dnE5ZVktWXY3QnpqNFV5ZWdBVkw0MU9PdUItZHRsTjR2Z0VteDkzazFrbnpGazczR2FfUHUyUzZFWGpXQ2tPWGU3S1RMTXZJ0gFWQVVfeXFMTmNPSW9BUkJyWkZWTUQ5clVmUUZGS2RCaGViRmRwWXR1VkNWSkxuT0pQRUN2QjNQZ1RaUW01Y1lqSi1ZUzg1amVXbFJEYXY3Vlp4RTlYb1E?oc=5"
+        },
+        {
+            "title": "沈伯洋拋「股市與停班課脫鉤」 王鴻薇嗆外行：做好功課再來談 | 蔣季容 | 新聞",
+            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBZMmU4VU5mVlNxRXRGUG9rOGt4RHQ0T2xPS3d2STFSM3hTUUZtV01DaUZ5WlZJTGswclJhVDRkYWNBb2tnTjVKeDFTSW1odw?oc=5"
+        },
+        {
+            "title": "日本河口湖命案死者才躲過高鐵落軌死劫 1個月後再到日本卻遭殺害",
+            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1pVlhCdDZXZENvVXBEY2luc01CeVZYazQyVm1IOThlVkE3Qm9uTWQ0b1RQd3RRNHNYeVFFRURraktwVWdqQXJCZENNM0lvZUI20gFWQVVfeXFMUFFxV1MwenlpM004NnV4TW9iX2s0MjU2R0Jla0gyTHhlR05adF9CVUo1U05rWXdob0N2U2xoeVZ3ZHVyYnlKdVJvZFJaVURnY1RvdjB6R1E?oc=5"
+        },
+        {
+            "title": "他想學我連任失利欸！陳水扁梗圖大酸蔣萬安「告狀康永哥」 破萬網笑噴",
+            "link": "https://news.google.com/rss/articles/CBMiswNBVV95cUxNeXhKZTVyUE0xZHoyYkJUNVhvR1FSWkthSGtnUC1FTmdhMlptckVHaVVIWEI5WXVUdGZGZ0VGU2otc2NLUVhZR2VGRUlfNkU3dEJTcWdlS1JYckZuTmVFUUxuYk1hdUtVQ28wc3VaOGlzMkd2clV1T1ZDUXVqdTZXV2E4OWxvWEg4ZHlOVmp1NEhTSjE4THlwazdySEt1MnAzWldPdHU5Q3FqV2FRQWdIa19wcW5DbFpXM0swN0lYYktOaE1uQVh5X2YxcVRQWFNPZHZhZ056WVZzYzU3a0FXeVF6VWlhaTM0Mmhwa3JWQU9RZGZNcWxSZzZQMkdfdHFGYTI1YW9LcEQ3ZWkyZ1VMbEczM08wR0NIakZxTFNuNGszVXFHeTI5SjN4NlotaHB0TGk0ZXVJQWZsQ3ZnVlJlOFdMd2Nnc2VSQXFxcGtuMC1FNVVRYkVEUVdvYm9VWDhVbnQ5MW1MT1dRTUFvS2tBbHRlTWYzZ0xhQmZIZU5vYk84Y1RmRDdyOFVnY2wzNHh1cjhrck4yV1c0VUpicEdiNDF0VjlmYlN4NnFUSk9nZDBLajg?oc=5"
+        },
+        {
+            "title": "吳子嘉涉違反選罷法檢方搜索台北辦公室及住處| 社會",
+            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5PR2c0SU1rdjdjTGNmeFYwbVh5UFZGRzRrTVJtaTZYVVc1SDNyRDZSeXkxeWlaenE4dF9TeVlpdnBiYnl1WFg1T3plMGlUbFlGVG5PUUVSTUZLQUFiWWsw?oc=5"
+        },
+        {
+            "title": "蔡明彥：中共精準介選廉價機票供鎖定對象返台投票| 政治",
+            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9rRktkMEY1WUdCLXNkaWRmUzd3U1ZtdUtZWEM3el9QZW9ab253eHBac0xsOGdYWEJwLWcxWVp5WjlDaEgzYnNXS2IyeVRfQzI3RWJsYmhmdUpvN28tZ3lN?oc=5"
+        },
+        {
+            "title": "快訊／參選竹北市長被剔除！法院不准「保留資格」李貞秀不抗告了",
+            "link": "https://news.google.com/rss/articles/CBMikANBVV95cUxNODNJNUZhNXgxM0lBSFZaWFBBcF8xUTk3bUZFdEFSRU4yeTdkS2hUSDR5akdJOGdzMzNaVEdJa3ctR0dhcGt4WEhMNTZXWHlfZGVkR01RT1IxS2JwTUl2NWdNTDB4ZXVYWHdKRTdEcl9vWmk3bVZ0VjhSZ2FPczVpMHZyZlFpQ2l4Z1pKdHBxcThVeTFvR3pOWE5EdkNvMERxTnZxdDBXYUk2NlhJUlRrT0xfWHY2QTNnRU0wZmVMdHdCckwzUDRLSVdmeXJ4OUpyZHRmcUV6ZFRwSUpLdEtWWk5ZUFhPY0RaX2xqLVpfMnhHT3YwdVM3U0RKa1NpVVpHVEVlTGZ6cGdRalhmNnlkZG9US2d5ZEFDNEE1ajRkWlJLSmlzZmRncDYxenY2UzhMSVJ0VFk0TXJIS3k1T0lFTmZmSjJHWTNZRl9RdFVTSUpFbUNHNzNsSWNCY0x3Wk9hdERiMUNsZ1J3WE8wZWtXbWpPTEF2V3gyY29jX0ozUG5maEdPS0h6OFFiOGtmd29f?oc=5"
         },
         {
             "title": "喜劇演員黃逸豪遭假車禍跨境鎮壓 檢偵結起訴5名被告",
             "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE15QkJCYVdYTTNhS2hpWTktbEFsa01QNThvZWI5R093YkhCcWFRMmdtcHZJTnFxMEVVUXB1bXloMmR5cWVRYTVoTzFkS1p3ZkE?oc=5"
-        },
-        {
-            "title": "歐陽靖揭當年旅行團內幕 河口湖命案引發反思拼房住宿安全",
-            "link": "https://news.google.com/rss/articles/CBMijANBVV95cUxQMUM5b1FfQkFLSUtEcWFHbV9TX2JMUl9TdFhqSGJ4ZHpFVk5tbElWdzNMUDkwR1pSbGg4ZUMyb1RScnhrcFg2ckJJYUlEY2RzSXZ2Unl2aXczM0lTSk5XaWVwdExpUktDaGI0ZW5kelgwVXFSeUwtR1FRWjlxX2lyOEdJM3NPSFJvd3MwakdGR2xzRnZGb1YtVlJ0WHJndXhaUWY4NEh4THRnZDJFX3BrQzBtYWNueUxMcmx2dHpoNnBHYVhmd0VWcVhpQmdEVkxCWTAxOURTZEhHZ2RvSmZ6bEw5dmQ5NmJGNzBjU2pfd01jcnVHTEFTUEhyRzJsNUxPWDFWME84Z1BkRndlTG9CcVhPVGFoODhvT0JUWXozMU9tcWJXdHI0OG9FV2Vqd0prdGJvRFhyVXZoaGRmWkgwOHg1Y05GMDNoN1JTZHdhYzlJM04zWHZxd09zcloxUWl4TjBQSWpoWkc4bVkwQi1HeDBkY2xGdk5DSDFKOUxDcVBPaGswVTNGaXVza1c?oc=5"
-        },
-        {
-            "title": "沈伯洋談股市與停班課脫鉤 蔣萬安競辦嗆：搞錯權責「出洋相」",
-            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5kcVJyYXFiV2RDQ3luWDF6elFzVzl3bm1aVUhhT0pfNkhZYjlGVFRIYnE1Ty0tVGFibFZSUTAweFdtN3ZpdmVqX1JwMjVibnlFR3lR0gFYQVVfeXFMTXVIamQ2bU1vWWZlTmtCNFRtRXdjZDJmcmRla3JLcWUtSG42S0hvV1NEVmwyNE1xTWE2eWo1SGFwMWRCc0Npd19na1pRa1B1U3BrVW41MXBzLQ?oc=5"
-        },
-        {
-            "title": "總統專機停松山 蔡明彥：國安特勤維安重要據點 盼遷建討論納考量",
-            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9ocXBxUi1rSEwzeTFsdml3RHZIeDIwVjdXMmh3SU9UX3ZKN0hIdm9lc3RDcDFIdTFjNzV4U2tWQXV0eVBJOTdQWTNrNWtPX2ho0gFWQVVfeXFMUDJmTlB0VlpIcDVkSkhOazBweXVkNjZlQjVvanJNZVdRdkhyLU1hTkI2YkMzRkhONDFJYXJLbmdWa3A2VVUtNmxTaE93NlRENFlGRV8xOWc?oc=5"
-        },
-        {
-            "title": "中共介選鎖定沈伯洋打擊！陸委會揭軟硬兩手、用法律包裝",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5LUy1SRmN2TjlLVnpDSno4ekc4TDhCT2RNY2ZqSnNxaXptTHhSQzlwWDRQZ3FhNHpBaUdjdkp6clJuR21rYV9CRFQwODl3RUpxNnV0dllKNFJFOUpJMF9zMW1NU2o0d1Y5ZHfSAW9BVV95cUxPRGpZTF9oUW9fYXdyOTI1eUNuYUdBVElHMjlQT1ZUZjhHZDNHY3dmdXFqc3RQOTJIQ0xqMENYMWxIdy1yZXFsVnhsODB4R3lOVUtDVzJnX1lwM01SUHZPNUF1YWJMUHBQTWY5U3JuNWc?oc=5"
-        },
-        {
-            "title": "要求撤下「洋流」貼紙 蔡詩萍1句嗆沈伯洋",
-            "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQNVpQYktRcHE5MTgxeHpSTmJYNXJ3ZkZsOTdqaTdfeFlRZnpGbzYzWnNhZzVVenRPNlZmSHQza3Nmc2lwYm81RTBldS1LckstMFFvUTl2T2dqZk80b0ZZV3FXdDhlVmFBWVk3Z1ljOEpUX05lZUVOdktIcG43TVdFVVFBTmZuZnI5aE9Wdmszc1pfTFdDOU1teFhpdWtMUXE2U205amwtVGtMemZSekFEallBT3FNMjJXYzVBQmdtQWJsYmI3cjA5UThPWlB0SnpUVFlOV2FsVEdXTjUyX1owWUo0eGNIS3A3b3k5b25aazBaOWFFZzlfV0RpSGRXMFlRVk5rMEZGZnhUR19PSEwtMExwQU9ta1V0?oc=5"
-        },
-        {
-            "title": "蔣萬安專訪挨轟問A答B！謝震武親曝「有給訪綱」　尚毅夫爆1內幕網笑翻",
-            "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9DSncxMUdOZzh2T3YtLXdFMGV6MmE5anhGbi1wb3ViY2RHanRaV2NPem1zRHZ3UFN4cjdpYWJvTlktOXZac1NPedIBTEFVX3lxTE9IcjA3VnY1UHpMdVdDaXZnQjVjcXNzcGx5SlhxSjNkNWNUTnlYOWtzVzlCTnAtUkVtajBJOUp2R0dLaDBXUHF0Y1U3bXQ?oc=5"
         }
     ]
 }
