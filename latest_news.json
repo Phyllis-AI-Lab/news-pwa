@@ -1,46 +1,46 @@
 {
-    "updated_at": "2026-10-23 09:31",
-    "summary": "早安，為您帶來今日上午重點快報。\n\n【颱風動態】\n薔琵颱風今晨已掀起十米巨浪，陸上警報擴及全台及澎湖馬祖，現在起將面臨最劇烈風雨。交通方面，台鐵下午起新自強號開放站票，並有十條公路可能封閉。\n\n【政治焦點】\n民進黨立委沈伯洋夫妻的股票倉位曝光，價值近千萬；他拋出股市與停班課脫鉤，遭王鴻薇質疑。另外，吳子嘉與吳俊立遭搜索引發議論。而前副總統吳敦義則傳出大腦前額葉退化消息。民眾黨民調崩至百分之四，張景森點出致命傷。\n\n【國際情勢】\n國際方面，西藏發生規模七點零強震，傷亡情況尚不明朗。\n\n【社會民生】\n受颱風影響，台東颱風假今早翻盤，有業者烤雞差點血本無歸；全台百貨公司營業狀況也已出爐。",
+    "updated_at": "2026-10-23 15:33",
+    "summary": "午安，為您帶來今日午間重點快報。\n\n【颱風災害與民生】\n颱風薔琵暴風圈籠罩台灣，今明影響最劇。台東已傳災情，強風巨浪致吊車落海、路基流失，騎士遭浪擊倒。高雄上午天氣平和，引發颱風假論戰。另，立委沈伯洋拋出停班課與股市脫鉤，引發討論。\n\n【政治焦點】\n小草支持者動向受矚，柯文哲點評民調，黃國昌酸當年說罷免十席。吳子嘉親曝約談真相，蘇巧慧與趙少康節目互動引關注。\n\n【社會民生】\n食安警訊！工業二氧化碳冒充食品級，流入好市多、IKEA，檢方求重刑。花蓮光電弊案涉賄近五千萬，多名上市公司董座與前鎮長遭收押。台北憲兵隊上校隊長涉霸凌隱匿軍安，已被調職。",
     "news": [
         {
-            "title": "薔琵今晨掀10米巨浪 陸警納全台+澎湖馬祖 現在起風雨影響最猛烈",
-            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE42MGtTMnViZnBNVTdKU3ltd0FtOE5YM1htMUxxWko0a3dUS1hXc01rcGY4WTlXVVlQWFB5dkZlbmNMM3YwdndNb2ZzUkdLaWRsb3RB0gFYQVVfeXFMTkVXYUhYOFJkeEZuMGt6UkpxZ2pNWFl5NkpvUGdVeUdoSGo1MFFlUktRNWg5dGVFQ2NZRFFSZjZYd0Q3eEIwUmptODNDd3VqWVdLVTVQc3QxbQ?oc=5"
+            "title": "颱風薔琵暴風圈逐漸籠罩台灣 今天至明天上午影響最劇烈 ｜不斷更新",
+            "link": "https://news.google.com/rss/articles/CBMixANBVV95cUxQMWdCV2gtV3Bsd3FEOV9LeG84aWpLMFdRZWloUk01S3l0VUQ5Vmg3THVkXy1YSU4xQkdPTjRZRWczTS05OHZOMlR6bWJXX0RvUVJrOEhJQ21jM3YzVnBmYi1zTWVHS0szSHM4VDhQQVhORGdkQV9NV0cyZS1fZmNkZzlCc1dXamY2RzV1UXFiVGJRb1czMlZUWmtfZ3FRNms0TkN4YXYyVDNnb1RFM1NnLTRBVUJ1NGZpaFF5VjZOcjJOdWh4VmlGN1JZdTlxdjdJWGt1d0todnVUYjJMYi1UVXJaYjRwV1VJd1dIeEpfOWhRUUI1WGZ1eFRybEFpTnZaQ3JNNnRYWmU0QmZhb2tadDVQd25rQVlnak0xV1J5RUNQWVJVY01Xb1JqazRqN25FZUdQWm9PZmhNVVJBX3NUeXhYamtTcFRXck1zNkFQX3gxSVEwU1BsM2xUb0JNSG1tVVppQzluN0lDa0Q4SXdsOWtBcXFkc3VUcloyaEFNNi1PTzZIdzFsbUgzN0hPNkY2RDZNVmc3WTY2ZWYtTTVqa0dDVlM1NnNEMldJYzU1XzNIUHJCTllJMFRKWndLdVh4alNFeQ?oc=5"
         },
         {
-            "title": "台東颱風假今早翻盤！業者豪賭100隻烤雞逃過一劫 網友哀號：雞飛了",
-            "link": "https://news.google.com/rss/articles/CBMilANBVV95cUxPUVZQQVprNmg3SzJ3YndNMWo2bVo5VDhjcVBVWWYySmhVTnVQV3NmRjU0Z3lUVzlUcXFSYm1Cd3l2OXlCWTBxUVc0X0Fqc24tWXd4OVhHcVc5SmdjQk5ac1dSNWZTa0NaZ0pzcVd3SnEtRU9sb3ZRSHRXQ3RMWTloS0xwS3E1VTNLMmM1TzJYZ0N6WkxYMU5vTVlzVkV1U2ZaR3VUeVJDRkc5R3lReWZneW5WdWRCUnJNcF9XLXk0NU1OMFlVYWNRbFdxY2RKM1BLVVdCX002Zno1SU9xVWxNS20zclJlMmpXdExjaHR5TTdwMGtEc0kzNXJ3djJ3akxlUmd5bUphalkxeS1sYzlval9Yd2FMUlUwZW0yMnBDcGtWT2g2SlN6anlzSWxraDRTcHJINFVaazg4VW80OUltcFppRDdtOUhMN3VaOWhpd2IwSGlpZjNZcmhpUW9Rb2xlSXNxb3RRbkJiWXBfdmxBRGoxUW5hUjl6SXRoMWNRWGdpMkVOVXpNWEl5Rmlwc0RsZ3kyTQ?oc=5"
+            "title": "颱風薔琵來襲台東強風巨浪 機車騎士遭浪擊倒、港口吊車落海、南迴公路多良段路基流失",
+            "link": "https://news.google.com/rss/articles/CBMiqARBVV95cUxNMGxVS3RQRFdUdTYtamUzd2NHd0JlSHJQbFdiNUtuNDZXSFVSX19wYmZGT1BIRXZzVHNXdllkMFJsQjVESE1KanFXWmY1a3FNWk0tLUZNZFdGRmlueUZqelIySnRxbVVRd3ltZHM2MzJycWxHb1FURnpDS01Pdm1LOElLcjV5MTNqRTBuLWY0eVBuNUJGcjFkWjAwMFcxREJjNUxXRkZBOXEzY3BoWGJabW5VSFZXUG9UcFc5Zk9LSHNtYnR2YzRNcS1uTVlabmQyX3pDcE9NSWN6X3lDckhHVDJybjVBd01GQXZvMzVDLVpFQVJsZUtzeFBKeVRUUUVDc0x4N1I2Zm9mQkhzcnNUb09PbHBSTHZkbWN0RW5zM1VaaU5hNldRRjdndFlXY0JJQklrWFkyQ3RMYm95MFlVdUNRTWltdU5MNTd3WVFlcDBRS3lEbDJHTHRJd3E3NXlNMkFPTVdfSFUtbHJpR05ySEwwdFFPUnptdE9VV1Y0T3NhSVZsUVNuOWNiQ3YtbWtGemV2Q3V0UHV5cEJFTDVPRzBaYzN1RGU3TEc3UTRZdF9qUjAyQmEtT2pUM3VEQ0ZXOEJIWDMtOHA4TjhhT09zS2dxcFNVUmQtNzJuY0NJSUVkczBtSkM3UnhUYjRHLUQ4MjFJa0Zad05BTVpPTXotOEJMSEt3NGxhZGhTVnZlVFktMkV5MlJRVUp1aFV5OFNQRFBLUHJRQVQ?oc=5"
         },
         {
-            "title": "不斷更新／薔琵颱風交通異動！台鐵午後新自強號開站票　10公路可能封閉",
-            "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBjYnltbUJYbGRVc25lMmJFVnQweDNYTnNpc2ZMTzl2aVlDMzQ4bGJaUFJ1N25MTTNMbUpzOEN1c1dzTC1yc1NCNNIBTEFVX3lxTE5rLVZ3UDhjMHVtZXRUM1Y5OVFZZFhGNjhXNlN2b2hiOGRVeFBoVzRDMFVaSVZVMmtjcWoxaEJ6cENzNjN1dFgyS0hRLWE?oc=5"
+            "title": "1張圖看高雄上午天氣一片祥和 「放不放颱風假」兩派網友論戰",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8tSVVwa1hqYVVybmJEQ3A2Q3kwUGl6WDgwMENUOVFHUTk1QmlWWmZ1SERlcDFvcEh2WVNqRDFxX3J4OWp4OGtIRG03c2NWdVNfa0E00gFYQVVfeXFMT2dXNmpFYlBMRGhXdGI5UFd2V3EzTXJTeHBhazdhUV9WaW1OMWRCX3gxNER6eG1CQjJCZHZzYW9NMDNXbzJZYXVqYXBxcHhOczY4YU1wOGJtMg?oc=5"
         },
         {
-            "title": "沈伯洋夫妻「股票倉位」揭密！　價值近千萬",
-            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE84cmlNb0VGX1FOM0V0UkNjSDJTZUdXUTNORTNvNl9naEROSXNLbnRMWmNuYzJQNEtpZmd6bFVjaUg1RjRaYWxzRXVWUkRiNUxJU0HSAVBBVV95cUxNQzZLd1paODJhdllMNEFxcThOd0FRTkprWXBDSHJPSEJNdUh6ZFRtR05sdlJfbmxjSGdZdnNsRnlhNDZMSVp2ejlQcEhiTmo2cA?oc=5"
+            "title": "拿工業二氧化碳假冒食品級...上千瓶流入好市多、IKEA 檢起訴求重刑",
+            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1FbTZCeEFnekE4UkhEQXExZEJ2RkNNT2lxRkdGTnlPWUQ2ZEZLaTdNV1FtdG8wREVhY3RZcDV1ZXc4NXN2QXlDZW1lbThIRWNm0gFWQVVfeXFMUFZFWW9xQnBGZV81UUZ2a2s3SDd1aHdBaUxqWDdxVFZmb05oQVUzZlk2dGhOVk1udWZ2OTNtMnVacmRWS1Y0RUdnVWIxZ0ozT25ocTBQNWc?oc=5"
         },
         {
-            "title": "颱風天！全台百貨營業出爐",
-            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5lX1FIMGw2QnNicUc4UkJ4Q0ZfbDZzdGNHVXVCMFZGZi1xdWJmWkU2aDl2UHB0VEdiYkM3YzJIOUdORnMyeEFmWjV6Y2pyczd4VXdvLQ?oc=5"
+            "title": "小草轉投沈伯洋？柯文哲一句點評戴立安民調 黃國昌酸：當初也說會罷免10席 | 李瑋萱 | 新聞",
+            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBCV1hmeHhOcnN1NldrdzFuQWN5blJNd0V1QzgxZU91VG9zdVpfVkJJOHZYbzBrQ0hfSk9lZ3JkSXJ2eVMweEJaakFfdExsdw?oc=5"
         },
         {
-            "title": "快訊／西藏發生7.0強震　傷亡不明",
-            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5Gdkt6RmVyeTZqbHpfcms0VUtvbG1jNVZ2cUpUbVJfcnZpV1dpZ2NqckQwVWdFVFBOa0FDTmxGeUYxa3BxMllQYlAtdF9vR2JJQjVFcGcwQ0xDSWp3UHfSAUtBVV95cUxOR1YxcnhvQ0ZRUW5Nek80YXEwN3lwTVVOV19VZ3liVTJsWmtZZHNuMkViLXVxTGRiT0FLRHpSVUtJOE16ZTlfc1NDZ2M?oc=5"
+            "title": "吳子嘉親曝被約談真相！鄭朝方強硬表態了",
+            "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxQMVZpOVRacHhHeUZTekhMbmU5TGhmNC1LQjQ0c3JvVjFzTXFVRlFRZFdyQUFVdGNrSEExWVJwZ3ZCcDV4X3UwYzhPVFJ1WHFaLU1yaXI0NHV4bmVjYVBSNEptS1AyQkFZYmZYRGZ2NWlldjg3WXh1S0tYTllpWlNodzJ0X0Q5Q2VQaFdOd0Jqd3diYXB1eFo4X0hyRHNDV01JQ1NwQnE1Wjg1eVRBekN3VjRvVDYyVGgtWnBYRzZObkZycG9mMUFsMFRHQklMcFhUd2RsSXdENEFXWmpNLXJ4cEJBaTZrVTZKSkMxZGk1TlVUTmVMSllWRUowcHBidkdJa3hKUVZhSUJybi1pTXktN0FmWENySFl6YU5BVUpLX2FfMnEwdEhoZnUxYzM?oc=5"
         },
         {
-            "title": "吳子嘉、吳俊立遭搜索 鄭麗文不忍了",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBRSFNINHZ4Zm1UMjd0M0tCaE0tWFY2andWbVk0dU5zLVNTSXJibktCTGhtcUVBN18tX1hXTVF5dzRZdHRRQnNSYzFYSU5SZWZ3OEVBTFZmYlhKRmMwTkcwcGNDYXl1TkJYeFHSAW9BVV95cUxQREZraGlOeW1fNDZBa3k3MUZleXc5VU52eDBxTEI4ckZISUVjeTk0b3lFdEoyV2xaY3Uwa0l4Tkh0X0g3MnNfOHFUc2NyQ0lxMXZCWEVNeUZqeGhUdkRON2U4Vm5IUkE4SjJZQUVoSjQ?oc=5"
+            "title": "蘇巧慧上節目「直接控場」突然聊起來！趙少康露靦腆笑容",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4wWHRvTjhVeHdydmpheDNfa004bmpmdUNuOGdldzRCWVZWSVVKeWJ5WDBpdzFqVlM1S3FKUG9BX3hCRXo4NlJ0WkszRkVEVmlrXzIzZlVzdjcxcEplZjVZTjV2ZGVwSGpIQ0HSAW9BVV95cUxQcmQzSW5qY1F2c01zZUtHcTRWNzBqN19nY3hwQU91UUdFWm5pcEZ3WkRUM2xRaWljVkpyRk5aQWY1dnFSSFlYMlpDaUxRYVQ5TVkybEJYckJWYk9jSDJsbk02VnItaHVFM3dSRWNTcjA?oc=5"
         },
         {
             "title": "沈伯洋拋「股市與停班課脫鉤」 王鴻薇嗆外行：做好功課再來談 | 蔣季容 | 新聞",
             "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBZMmU4VU5mVlNxRXRGUG9rOGt4RHQ0T2xPS3d2STFSM3hTUUZtV01DaUZ5WlZJTGswclJhVDRkYWNBb2tnTjVKeDFTSW1odw?oc=5"
         },
         {
-            "title": "78歲吳敦義大腦前額葉退化…昔被譽「人體維基」記憶力超好，如今語言、情緒表達全影響！病發前兆有哪些",
-            "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQOC1qVnJRZGJrdUpxREZELVRGTTFselNOWkNqeEdsd0tjRVN1bmNVaE1JbU9Qenl4dkI4dm80Vms1V1FNUXdvQlFzeTFhUlFNaDctek01SzFkcFVTWnlobWhYN3NESTdGOTNack9Lekp5bF9ud0xyUWJwajBWNmxUXw?oc=5"
+            "title": "花蓮鳳林光電弊案涉賄近5千萬 上市公司董座總經理前鎮長等人全押了",
+            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBqOFJPYUh5bXR6a0haNzlIbzVEMzJjS05JOU1QdlVpYTVfenVKSFh1Z3lDVU9tRTlFUXJlcWZMazBEZ015bXhHVGJBbWxjZ0ZV0gFWQVVfeXFMT3YzZVVKVUUweERrMHBVVmRIZ09pZVFFMDlBY1ZtSTRDbGNkNTgxN05YZmFfUDBXODVKSGR2SGlHdnJnbDJwemJDNkl5bVNmeFZsS2NZT3c?oc=5"
         },
         {
-            "title": "預言成真？民眾黨民調崩至4% 張景森揭致命傷：草原縮小火氣大",
-            "link": "https://news.google.com/rss/articles/CBMihANBVV95cUxNd0hpeGVMOXpwZnZyYjgybFZWTGF2WDhOTnNWTjBycUlrNGFocEJWTmVCQlk3TGptZE1CdTdWZjdPR1VIYWdUSDJ3WTRxSkFENFRTS2RwcHRmckUwTnZucEhNaXlkUU5xamkyTG5UeDgza3ZTOGN3MmdPaEtWaTBmS2lQSXQ4dElUeTIzb3hIOV9qcnRaZjF3M1BhUmFhNlVZRDFyUDVUcTZ0NU9DVGlmYXc3dEstVWlxMlItNXZlY2FuMndNUHlOclYwZGZxUnR5cGVweURrcjFsR0pNVktFNlcyd3p2Y0gtOU1TWFE1S3lXTmktQTdacVAxQ1dGQXVmXy1yb29YWV9KV2J6a0tNUnRzZnkzbVlzM1NFdmd4V19MRUZFS3lYWUIwNXozaE9kMHlqWUJmc0E5dWQ0SHRNSF9MZi0tTTlGQTZpNHJxUy02RmRxWVZ2WUpUV1lwOFRldllvUjlTcUpPbmVLZEl2OG14TnpEN2JDX0wyZGlyM1YzWTJE?oc=5"
+            "title": "獨家》敗壞軍風！台北憲兵隊上校隊長遭控霸凌下屬「隱匿軍安事件」遭調職- 社會",
+            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9lZXV2Y0FuUmt5Q1drb29VS0x1OW5zWl9PNUlOU1gyWDEtdWd3QzBocmtKcTZkaXBMMFY0aGNNQkZNQ1FyS1BNclhjMGJVYWlwdm1YQmRSdS1HNGJFdE1xY0s1eFRKU1k5Mnd3dzRB?oc=5"
         }
     ]
 }
