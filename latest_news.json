@@ -1,46 +1,46 @@
 {
-    "updated_at": "2026-10-23 15:33",
-    "summary": "午安，為您帶來今日午間重點快報。\n\n【颱風災害與民生】\n颱風薔琵暴風圈籠罩台灣，今明影響最劇。台東已傳災情，強風巨浪致吊車落海、路基流失，騎士遭浪擊倒。高雄上午天氣平和，引發颱風假論戰。另，立委沈伯洋拋出停班課與股市脫鉤，引發討論。\n\n【政治焦點】\n小草支持者動向受矚，柯文哲點評民調，黃國昌酸當年說罷免十席。吳子嘉親曝約談真相，蘇巧慧與趙少康節目互動引關注。\n\n【社會民生】\n食安警訊！工業二氧化碳冒充食品級，流入好市多、IKEA，檢方求重刑。花蓮光電弊案涉賄近五千萬，多名上市公司董座與前鎮長遭收押。台北憲兵隊上校隊長涉霸凌隱匿軍安，已被調職。",
+    "updated_at": "2026-10-23 21:27",
+    "summary": "晚安，為您帶來今日晚間重點快報。\n\n【社會民生】\n強颱薔琵移動減緩，全台嚴陣以待，各縣市明日停班課備受關注。颱風狂吹也釀災，富岡漁港大型吊車遭巨浪吞噬，多處路樹倒塌，有小貨車被砸毀後失控衝撞民宅。另有中籍女學生來台放天燈許願「兩岸統一」，引發社會輿論怒轟。最後提醒您，大樂透中秋加碼最終回，頭獎上看一千七百萬。\n\n【國際情勢】\n焦點轉向國際，西藏地區發生規模七級強烈地震，目前已知造成至少十六人死亡，數十人受傷。\n\n【政治焦點】\n政治焦點，松山機場遷廢議題再引論戰，國民黨點名謝長廷等過去主張皆被沈伯洋論點打臉。沈伯洋拋出颱風假脫鉤股市研究，雖有專家分析難題，卻也引發熱議。而路樹倒塌，里長抱怨輿論讓北市府不敢修剪。國際媒體《紐約時報》更點評台灣「颱風政治學」，分析選舉年停班課機率將增加三成一。",
     "news": [
         {
-            "title": "颱風薔琵暴風圈逐漸籠罩台灣 今天至明天上午影響最劇烈 ｜不斷更新",
-            "link": "https://news.google.com/rss/articles/CBMixANBVV95cUxQMWdCV2gtV3Bsd3FEOV9LeG84aWpLMFdRZWloUk01S3l0VUQ5Vmg3THVkXy1YSU4xQkdPTjRZRWczTS05OHZOMlR6bWJXX0RvUVJrOEhJQ21jM3YzVnBmYi1zTWVHS0szSHM4VDhQQVhORGdkQV9NV0cyZS1fZmNkZzlCc1dXamY2RzV1UXFiVGJRb1czMlZUWmtfZ3FRNms0TkN4YXYyVDNnb1RFM1NnLTRBVUJ1NGZpaFF5VjZOcjJOdWh4VmlGN1JZdTlxdjdJWGt1d0todnVUYjJMYi1UVXJaYjRwV1VJd1dIeEpfOWhRUUI1WGZ1eFRybEFpTnZaQ3JNNnRYWmU0QmZhb2tadDVQd25rQVlnak0xV1J5RUNQWVJVY01Xb1JqazRqN25FZUdQWm9PZmhNVVJBX3NUeXhYamtTcFRXck1zNkFQX3gxSVEwU1BsM2xUb0JNSG1tVVppQzluN0lDa0Q4SXdsOWtBcXFkc3VUcloyaEFNNi1PTzZIdzFsbUgzN0hPNkY2RDZNVmc3WTY2ZWYtTTVqa0dDVlM1NnNEMldJYzU1XzNIUHJCTllJMFRKWndLdVh4alNFeQ?oc=5"
+            "title": "薔琵颱風移動減緩 10/24各縣市停班課狀況一次看",
+            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE90UmdpdVk4ajJNeWw0anNqRWo0WklPMVdEbG5tbi0yWG9XQTRJcnZwWHQxeUZ4SGotVmlFODdWR21hUS1oNUpZVFlZaEo0bVE?oc=5"
         },
         {
-            "title": "颱風薔琵來襲台東強風巨浪 機車騎士遭浪擊倒、港口吊車落海、南迴公路多良段路基流失",
-            "link": "https://news.google.com/rss/articles/CBMiqARBVV95cUxNMGxVS3RQRFdUdTYtamUzd2NHd0JlSHJQbFdiNUtuNDZXSFVSX19wYmZGT1BIRXZzVHNXdllkMFJsQjVESE1KanFXWmY1a3FNWk0tLUZNZFdGRmlueUZqelIySnRxbVVRd3ltZHM2MzJycWxHb1FURnpDS01Pdm1LOElLcjV5MTNqRTBuLWY0eVBuNUJGcjFkWjAwMFcxREJjNUxXRkZBOXEzY3BoWGJabW5VSFZXUG9UcFc5Zk9LSHNtYnR2YzRNcS1uTVlabmQyX3pDcE9NSWN6X3lDckhHVDJybjVBd01GQXZvMzVDLVpFQVJsZUtzeFBKeVRUUUVDc0x4N1I2Zm9mQkhzcnNUb09PbHBSTHZkbWN0RW5zM1VaaU5hNldRRjdndFlXY0JJQklrWFkyQ3RMYm95MFlVdUNRTWltdU5MNTd3WVFlcDBRS3lEbDJHTHRJd3E3NXlNMkFPTVdfSFUtbHJpR05ySEwwdFFPUnptdE9VV1Y0T3NhSVZsUVNuOWNiQ3YtbWtGemV2Q3V0UHV5cEJFTDVPRzBaYzN1RGU3TEc3UTRZdF9qUjAyQmEtT2pUM3VEQ0ZXOEJIWDMtOHA4TjhhT09zS2dxcFNVUmQtNzJuY0NJSUVkczBtSkM3UnhUYjRHLUQ4MjFJa0Zad05BTVpPTXotOEJMSEt3NGxhZGhTVnZlVFktMkV5MlJRVUp1aFV5OFNQRFBLUHJRQVQ?oc=5"
+            "title": "富岡漁港掀恐怖巨浪 大型吊車慘遭吞噬沉沒海中",
+            "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxQaWdObUN2SjJleDNDQVB6Ql9lN1BDMEZKZDhaamdVbW02di1TN29tSTA2YXpSUVRVQWRmQlNtVHNsZTY3Z1FJSHhiNF95NkktTEpHcDFXUHpYS2g0YVZ4alBjejBGWDNOSzhLdXJCYUlUcHR1eUxQeHUwTzVVa0IyQ1JJSjlaaGxTZXFqQVdfdmYyNUx3bkVTY19YSzdHczFSaTVsREtZbmppOXhGUUs1NUlwYU1DOTlLWTdoSUdLQWpwTlpUNEVCTnJGMFVsTkNXTGFaODVKSUZRSi05Tkx3YTRjVlRKMVhLb0lQcGRlVnNpNkpqRUZxY3BaRUM4Qy1lLWNndHdudnhGOGNSVUNXS041VDlzSTBQSkwxd0RQSEotVjVLMGU4R3l2MjR3MFlpcXYya19DbHFsSXc0R3pBcTJoTERKZUV6OVliSlN6ei02X2x0aWQ1LWxxSmdIUQ?oc=5"
         },
         {
-            "title": "1張圖看高雄上午天氣一片祥和 「放不放颱風假」兩派網友論戰",
-            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8tSVVwa1hqYVVybmJEQ3A2Q3kwUGl6WDgwMENUOVFHUTk1QmlWWmZ1SERlcDFvcEh2WVNqRDFxX3J4OWp4OGtIRG03c2NWdVNfa0E00gFYQVVfeXFMT2dXNmpFYlBMRGhXdGI5UFd2V3EzTXJTeHBhazdhUV9WaW1OMWRCX3gxNER6eG1CQjJCZHZzYW9NMDNXbzJZYXVqYXBxcHhOczY4YU1wOGJtMg?oc=5"
+            "title": "來台放天燈許願「兩岸統一」！中籍女學生遭起底 網怒轟滾回去",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE95MFg5SjdKM0x1elRMb2VaV3JUVUF0RVVrdDBLZUEwNngwbDE0cDNaZUd1SlJxWnFudlBaMEdaaDA5Q0J5WmYzLXJfb0dQZEtIUEt4cjA3UUFaY3p4c3pjWVp6OVdtSDRtbHfSAW9BVV95cUxOMV9jajNlZXd0ZU83UGhEaW9aT3pJVzlwV2p5dTl6QW5tMnZwZXNCSC1STHMxaWx2cWRWZHdLUDJYS0lwOGVPYzlEb2U4d0pDbEt6eHEzNGxWYnBqZTB4UjZSbkZMUDBjcTc4VEduZHc?oc=5"
         },
         {
-            "title": "拿工業二氧化碳假冒食品級...上千瓶流入好市多、IKEA 檢起訴求重刑",
-            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1FbTZCeEFnekE4UkhEQXExZEJ2RkNNT2lxRkdGTnlPWUQ2ZEZLaTdNV1FtdG8wREVhY3RZcDV1ZXc4NXN2QXlDZW1lbThIRWNm0gFWQVVfeXFMUFZFWW9xQnBGZV81UUZ2a2s3SDd1aHdBaUxqWDdxVFZmb05oQVUzZlk2dGhOVk1udWZ2OTNtMnVacmRWS1Y0RUdnVWIxZ0ozT25ocTBQNWc?oc=5"
+            "title": "影／薔琵狂吹…路樹倒下命中小貨車 當場解體失控衝撞民宅",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9iZkppZFQ4ZzRvR1RJbktaU0tkVTRnRFdEamctYXhYRlViQ3QyalNkM3hJeVlQV0hka0RCQWtNVzlLMWFlM3BoandHdjhyQjYwbVlr0gFYQVVfeXFMTTFDTF9iUjlLdEdLZC11MS1VNkw1ekRkajVuZldZSXMyeEJTd1Q1cE9tMlFNUEZhRGxLN0JpZVpiamRKQ0ktQk5xb19lYl9Qc0VCdHlvX09vbg?oc=5"
         },
         {
-            "title": "小草轉投沈伯洋？柯文哲一句點評戴立安民調 黃國昌酸：當初也說會罷免10席 | 李瑋萱 | 新聞",
-            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBCV1hmeHhOcnN1NldrdzFuQWN5blJNd0V1QzgxZU91VG9zdVpfVkJJOHZYbzBrQ0hfSk9lZ3JkSXJ2eVMweEJaakFfdExsdw?oc=5"
+            "title": "西藏發生7級強烈地震，據報至少16死、數十人受傷",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE43eExJX0FESFR3MW9Kal9qWWtEX0pZZFlCa3pud0pNX1Q4TzJEc21yYUc5V2ZjM19pUmY4UWtROUV4ZXVaSmswOGNzdnNKbWdPQ2pNNTJMSEw3VUhLY1dxYlhGX3YtMWfSAWxBVV95cUxONzZxYzNuS1hqWGlRbnRCNjBWWTctUmFlQVR1SUhBNEZFa1c4YURwZERSOThGcm0xT3RrNURsSTJteUhKQWNMeVdvZHpQX2NFTEpfNzJPclBTUkJ6N3pDcTlKeENhMGlkVm9KOTI?oc=5"
         },
         {
-            "title": "吳子嘉親曝被約談真相！鄭朝方強硬表態了",
-            "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxQMVZpOVRacHhHeUZTekhMbmU5TGhmNC1LQjQ0c3JvVjFzTXFVRlFRZFdyQUFVdGNrSEExWVJwZ3ZCcDV4X3UwYzhPVFJ1WHFaLU1yaXI0NHV4bmVjYVBSNEptS1AyQkFZYmZYRGZ2NWlldjg3WXh1S0tYTllpWlNodzJ0X0Q5Q2VQaFdOd0Jqd3diYXB1eFo4X0hyRHNDV01JQ1NwQnE1Wjg1eVRBekN3VjRvVDYyVGgtWnBYRzZObkZycG9mMUFsMFRHQklMcFhUd2RsSXdENEFXWmpNLXJ4cEJBaTZrVTZKSkMxZGk1TlVUTmVMSllWRUowcHBidkdJa3hKUVZhSUJybi1pTXktN0FmWENySFl6YU5BVUpLX2FfMnEwdEhoZnUxYzM?oc=5"
+            "title": "大樂透中秋加碼最終回！ 幸運兒最高可獨享1700萬",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAwNUxVRjRlZjV4R1RtQjN4S1paVzZNS19ETWlSdkFDd29UOFNkdURMbElwUWhJYWxtRFNsVnZtZVRBdUFUX29RbVlyUEE5ODVIWGhxdGRnbmhxZw?oc=5"
         },
         {
-            "title": "蘇巧慧上節目「直接控場」突然聊起來！趙少康露靦腆笑容",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4wWHRvTjhVeHdydmpheDNfa004bmpmdUNuOGdldzRCWVZWSVVKeWJ5WDBpdzFqVlM1S3FKUG9BX3hCRXo4NlJ0WkszRkVEVmlrXzIzZlVzdjcxcEplZjVZTjV2ZGVwSGpIQ0HSAW9BVV95cUxQcmQzSW5qY1F2c01zZUtHcTRWNzBqN19nY3hwQU91UUdFWm5pcEZ3WkRUM2xRaWljVkpyRk5aQWY1dnFSSFlYMlpDaUxRYVQ5TVkybEJYckJWYk9jSDJsbk02VnItaHVFM3dSRWNTcjA?oc=5"
+            "title": "謝長廷、姚文智、吳怡農曾喊松機遷廢！國民黨酸：全被沈伯洋打臉",
+            "link": "https://news.google.com/rss/articles/CBMikANBVV95cUxPZk9Sc0pxckc4R09vV0RVMXU5N2FaT0VjV21vYlJETXJqeUtSZjNVcDlNSXk0aUF4NlR4YzdGSXlhdHJCbmZ5NG1FV1dHelhJMXN5aWlkWFFJOXRoMXM0NUZOSXB1QzV5UXZoMGVWZURzdlVsRnYwNElXQ3ZkLUFhdzFSb0FZX1pfU1RzUkdEZ1h2WF9YczFiZTh2ZlNVc1VKQUxFbmo2S3BXcDBuMlE2NVcyX0JBeHY2WVd3NzNlWEdLUkdFVmVZZUpncTdhMFBHYVNJcUpWN3JhVktXWGRaR2d5dWVneEV3TGtpc2pIR2tzdGdnbVR4MV92QXh2OTlyTnp0THYtZG9MSVRtT2JQVE1JZnFmd19fT09mdUZBUjN2NXNMaTZXZmx0aEQ1aDE1WG43TE9PT3FkazM0X0Z2S1VhcGJ3Z2dPd3ViQnNVY183YTRzRWFkNU04OW1iOGtvSzZDMGVRcXpxcGZJblJlNEpCNktpb0Z1TU1mUEJPX2prbHVNZ053LW5TU2NpUGN6?oc=5"
         },
         {
-            "title": "沈伯洋拋「股市與停班課脫鉤」 王鴻薇嗆外行：做好功課再來談 | 蔣季容 | 新聞",
-            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBZMmU4VU5mVlNxRXRGUG9rOGt4RHQ0T2xPS3d2STFSM3hTUUZtV01DaUZ5WlZJTGswclJhVDRkYWNBb2tnTjVKeDFTSW1odw?oc=5"
+            "title": "沈伯洋拋颱風假脫鉤股市金融研究員揭難題：春節休市更該改- 財經",
+            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE80RWNTUlpXdzhPdGJMM011TVRBanZyMVc0d3FmbEpjTkY4YUlqTkxQdWpFamtxa0RLUGppQWR6cTdiRVhfRHl2STYtUVdZcDhsbmdvNER0QWplTlRSQkhpUjBNV3MxelhsRjQ4N2tB?oc=5"
         },
         {
-            "title": "花蓮鳳林光電弊案涉賄近5千萬 上市公司董座總經理前鎮長等人全押了",
-            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBqOFJPYUh5bXR6a0haNzlIbzVEMzJjS05JOU1QdlVpYTVfenVKSFh1Z3lDVU9tRTlFUXJlcWZMazBEZ015bXhHVGJBbWxjZ0ZV0gFWQVVfeXFMT3YzZVVKVUUweERrMHBVVmRIZ09pZVFFMDlBY1ZtSTRDbGNkNTgxN05YZmFfUDBXODVKSGR2SGlHdnJnbDJwemJDNkl5bVNmeFZsS2NZT3c?oc=5"
+            "title": "還要造謠砍樹？路樹遭颱風吹斷里長：輿論讓北市連修剪都不敢| 政治 | 要聞",
+            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBLXzU3ejhZcGkxZ0xqVmtOdXlpc0gxQkJNMC1xTUxfMzBFam9sdGZoQzkwS3dmcTEzOF9QeWJKd3gzUG91bWRWa3JyRUNDRmpV?oc=5"
         },
         {
-            "title": "獨家》敗壞軍風！台北憲兵隊上校隊長遭控霸凌下屬「隱匿軍安事件」遭調職- 社會",
-            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9lZXV2Y0FuUmt5Q1drb29VS0x1OW5zWl9PNUlOU1gyWDEtdWd3QzBocmtKcTZkaXBMMFY0aGNNQkZNQ1FyS1BNclhjMGJVYWlwdm1YQmRSdS1HNGJFdE1xY0s1eFRKU1k5Mnd3dzRB?oc=5"
+            "title": "41J肉聲／《紐時》大談台灣颱風政治學！選舉年一到 停班課機率增31%",
+            "link": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxPd0pSWS0yXy1GVmFJRjdXTUVIY1dWN1d5OTNuZlZNQjk4eWZ6d0tqZ3ZkUTBGc1NTQUl3R2Y3RF9EdS1XVF9naUpfV0pfcXl1cVg1dUYyT09MY0xWcFJNMTlUb1lzbkY3VUNOU2NpRVE4c0VkUWtqUjJPdmx5WUFzR0VVMHFvVG9XQkU4d09mY0JJNWY2Z1QwMEJ2NlpCOHgwRzE2S3UyVk5oeFpnZUlrVnFVVXFlb1BneGNONXdrRXpzNkVHRVVfczJZTUtPUVZXT1h6RE91RzBxYWVyYnlENFJWLTlKSUFvRV9za0pqdXkzakJacFdRZlBvUXMydVVSWHpGZWVtRkJNLXZmVnlaSHhtRFFhRUN1YlBKWUNWczNRYkxSeklFUFNrZXExak81RDl0ZVlNLXpodWItaXlGb0w2OWRXa3dGTEF3OE9MbUlham4xZktr?oc=5"
         }
     ]
 }
