@@ -1,46 +1,46 @@
 {
-    "updated_at": "2026-10-25 09:10",
-    "summary": "早安，為您帶來今日上午重點快報。\n\n【天氣焦點】\n薔琵颱風已減弱，預計今日下午兩點半解除陸上警報，但海邊仍有長浪，請民眾避免前往。同時，新的颱風動態也出爐，週二開工日將是先晴後雨。\n\n【政治要聞】\n前僑委會副委員長徐佳青下台後爭議未平，遭爆料僑委會曾斥資千萬包圓山飯店辦活動。台北市長蔣萬安因颱風日買咖啡、撿樹枝，及「問A答B」回應方式引發熱議與批評。高雄市長選戰，柯志恩面對「女市長」預言幽默回應。沈伯洋則舉辦「Debug松」線上討論市政問題，吸引逾兩萬人觀看。\n\n【社會民生】\n台南車站的公共鋼琴爆紅，八旬阿婆、醫師、學童都來圓夢秀琴藝。另有中國航班傳出飛錯跑道，遭制止後竟嗆桃機航管，相關錄音曝光引發熱議。\n\n【國際焦點】\n日本河口湖命案有最新進展，兇嫌一抵日即購刀，時間軸已曝光。",
+    "updated_at": "2026-10-25 15:35",
+    "summary": "午安，為您帶來今日午間重點快報。\n\n【政治焦點】\n台北市長蔣萬安因視察颱風「撿樹枝」引發作秀爭議，沈伯洋亦表達看法。僑委徐佳青貪瀆爭議持續，陳智菡反駁抹黑。央視發布台灣衛星照，學者示警監控效應。蘇巧慧競總活動熱絡，黃珊珊則更新臉書，強調獨立。\n\n【國際情勢】\n烏克蘭星鏈連線穩定，馬斯克承認曾限速。金正恩結束訪中，分析指其盼北京加速兌現承諾。\n\n【天氣快報】\n薔琵颱風逼近日本九州，恐成當地最晚登陸颱風，大範圍地區需防豪雨。煙花颱風將「西衝再迴轉」，下週兩波東北季風接力，降雨熱區曝光。",
     "news": [
         {
-            "title": "薔琵颱風減弱遠離 14：30解除陸警 湧長浪避免前往海邊",
-            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9XeGlQTUVLN0RWenpQNnhpOUlsZExqT0JrZzFQcFYzNVluR3JiNFpRTU9FYVRTc2RpVTNyYVlXQXh1WDAzMWQxZWV6R2NMWXgxY0JR0gFYQVVfeXFMTmtPMVA2Z1lnbktNbW1xQlVzLXVLYVE5bDRMa29GWmk2TlA3ell2UWlaZ2h6bVJNZmRzLWRfZFBpYXN2V1M2OEx6QXJzZTZoZW0yRjRYb0tLXw?oc=5"
+            "title": "蔣萬安作秀大翻車？視察颱風災情「撿樹枝」網狂罵 沈伯洋1句表態",
+            "link": "https://news.google.com/rss/articles/CBMikgNBVV95cUxQTmdRajBwckZwY2kyQW13LXVHODdRMldtVVRaay1fdHFGdnJvclUtMU13azF2VXBEakNKMFB0OUlpVXZvZlp1QkJrbndIVUp2UkhuZDRFQnVQZlpnRDNqVTlYQU10aEZMbW9VMzUwS2RiM1VEYVhNOXN1ZzZCam1tbExjR0VVMWVKTjMzVkE0N2ZGNzFEUFpxYXItOFEzazhQZUF1WVdBOVdBZkxiYTV4cXJQSnVBVEpWa3hCU3dSZDNSZXJiT3BIZS01dFVFNUZUQ3JVcjd0eVVGclYtQUFFMHRta0w5aG5YQzBoQzk1NGsyOUVrVFc2cVhjRFZTNXFPQ3M2cGhydUVfa0tMRVhRTTR5alIzamhhaTVUVHFKTVppT3VhT0JYR0ozUjd1Q24wMGNJSzFHUHNWSUtSNEp6aDQzUjZpZVh4bUpHSG9jODZOTGo3b2w1OHhUVVIyUXpmeW03QnNEbTJMaWwxWHl4M2xnUFRCX1Jock9JMTdfWE9VanB6OUpsbm1UMlpMSnh2OGc?oc=5"
         },
         {
-            "title": "徐佳青下台仍是主角？她爆僑委會開會砸千萬包圓山飯店：幫辦慶生趴、歌頌政績",
-            "link": "https://news.google.com/rss/articles/CBMi4wNBVV95cUxOZ1BGdHR5YzMwenRGSWFQa2pkYzFaVllxOXYwbXEwMW81YmZYUFBpUUllM09ueUtscjJPNzQ3Q2lkV1YtVDVQcFlpTk9RTFcyMHJMOEJ0Y3hKYjk5aV9zeE5VUkZBTm5tOV93WFdsTGs3VGluTGIzLVBLQ1Z6VnhoV1FsOHhFUWJ6UjBHcHNYMlVxcXE5THhISVZtRm9YaVAzaGdVaXZYWEkyOS1LV2hLMWpUMG5DNkJmNXNka19JZi1FQTlNWVVYYzFZVnEwXzVGMmVrMW44cHNKUW1BcHFrZEpjZzk4N0JKNHkxbTUxSzRTMk1mWmNrZlFUODBtbkRqYldPbnViX3JKclZuUG40SkwtNVVocG5fa01oVVJYQmJYUXp5T3FLalItc2dZT0dKY1FDRmRHa2xtUXR3aWY5elUzb1lsaFZPaTEzSE1vcmNXOWh2SmN0SWVhTWhSb0wxSWljc1ExcndrdGI4NlRtZFBzLWxaYnVHcUpQVGxjTXV2VjhGRWgwUVdCaE9uejdVVmpvVXRpZnBjRTNOREc4V1NXNU44QmNFbWNlTUwzZ1FuRXN1aEc5Z3djTkY1S2R0QWVlOVFSeE52ZjVUUHhkYVlmRWlCckxHQjJXUWRPNFZhZFE?oc=5"
+            "title": "烏克蘭星鏈恢復穩定連線馬斯克承認曾限速| 國際",
+            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9RN01aeWI1X3Y1WHJ4M3JyZzRwNk9GRkpJb3VmdW8tM09NUnBidWNzNlZOeHFmZUsyQVJmQm1XaGl0ZTZIdzE1bkU4allteUpSNXZnSElLcFh3eGExUzh3?oc=5"
         },
         {
-            "title": "中國航班飛錯被制止進場竟嗆桃機航管 超瞎錄音曝",
-            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9hQjhsTC1wc2F2cS1uazJiZGdwTnp6VHplME53SkdiaHNJcGRremFuT2htRy12VUl2T2NLM3NzLU1iTFJNNmZRZzlwMDZoVGtRVk16X1NMdjAwa19fVXViQkJ5dUPSAWpBVV95cUxNWnVMNmRfbklLYzlCSG1MNWdsaEwtRHJzOVVRa0llbno0UC02TzQ5b0xPb1RfWi1GZVNJbm41YktGeG9mekNVeThhMFQtTGJPaWR4QXdiYTkxMFJwdXJzSUVPY1dUWmJPNEhn?oc=5"
+            "title": "僑委淚控抹黑 陳智菡：徐佳青貪瀆爭議不是幾滴眼淚就能抹去",
+            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBPYTloNFVwaFp4TGlXXzY3YWVpb1hFVlluNGlHb0ZVWE5vWF8zbVNsUlc4QTBwUTlIS3ltQjlnbmhuRERkb3NWczFNOUU4aWJH0gFWQVVfeXFMUExuUXJ0Ul9hUDNDYTZva09fX0JQa2hwZXBNbl8xTlM2dzBuRHVzTF84N0o1T2QzWFNrXzZHTVRoTURGTmxvcThiNnFOSUNSeS1JSXl0N1E?oc=5"
         },
         {
-            "title": "又有颱風！明起「先晴後雨」　週二開工日天氣出爐",
-            "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE01bkZxemVxb0ttVWZET2NPWC1JVEQwMkFPbDJZUFhWVlhSZGFoS0pocFB6WGxzSGFLNFgwTHI3bUVGOVQ1b2JQZtIBTEFVX3lxTFBSMHQzOXhVX3VwR0VmRU5WVERUZ3d0RThESE51RkxxSm9PWVc3cWFBdDk1MmFodGlnZWRjYXF4RXhmOHJqYUJfTFIycVg?oc=5"
+            "title": "央視發布「吉林一號」台灣衛星照學者：「老大哥」盯著你看效應| 政治 | 要聞",
+            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5sWlBoUm9IU2tobVp1TF9nWUN6aHF5S0Nsakh4bGpfZlF6bWhkWENGcGNhbUZuVmx3MTBkY2VJd1JFTURROWF4TWxvdVpaaEsz?oc=5"
         },
         {
-            "title": "河口湖命案最新！兇嫌一抵日本就買刀 時間軸曝",
-            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBaMFVMb1U4aDFXZWtTYWdVQ1RQSTVxNlZvaVppR2FxanVpdGlXcUcwZlQ2a2xNSWwzdDJRYzdDSVlhcE5yTTM4Z0UwMVhsZzlVR05R?oc=5"
+            "title": "金正恩結束訪中行程分析：盼北京加速兌現承諾| 國際焦點| 全球",
+            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB3OThxSGlRbXpaVUxqX01rQ3ZtMVhfeEJDd2lrNWc5N3Q3SGRpMVdtN3lOTlRUQW5QZ3JUUGZTVHZYMm56SEszMmpfV1NLQTFa?oc=5"
         },
         {
-            "title": "沈伯洋「Debug松」談種樹、鼠患7市政問題　線上逾2萬人觀看",
-            "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB4VTQyVGlrdTBVWG5YcXFDTG9aTG4yLU9uOTdlcHh0WnFGRTg1aWFNSV9KeThKTG53YjVMN0F2NW43X1hfVm94TdIBTEFVX3lxTFB3ZnpDUU9fZ2F5RWowR2RxdlA2bFRZUXVFNEdOYVdEU1dZT1BVdWhkVW5nQ09mM3RPakpsMDdYZ3I0LVBEcV8tV2RIZUs?oc=5"
+            "title": "薔琵颱風逼近九州！恐成九州史上最晚登陸颱風　大範圍地區防豪雨",
+            "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB3ZVNiZ0xFamZzaGJyUFE4MmtZYWlraktycFp0R2dVbUxYWllCMjdIOVV3SFBDRERkWGZPdFRybFM5V3RNaVF5YlZ6TUfSAVJBVV95cUxOUXJxMEhVcXRqYWFQanFtVjRDVGdYczE3WXpMMUlPOEs5TFNIOTl5VE9scFVfM2NldHBPMFNJVFZlajZYUVlqZkIwQzNDUXZ6TE1n?oc=5"
         },
         {
-            "title": "高雄歐巴桑爆神明預言「高雄出女市長」 柯志恩自嘲：比講政見管用",
-            "link": "https://news.google.com/rss/articles/CBMimwNBVV95cUxPWi11dDhMY3JiTzNHamp1ekw4c294cGtrNURyaEtGTGdJTW9TZVVnOHlVY0t1NjR5X01wR3A5U2c2WkhwcEdoREVfYndQODFZQ3o2RHdzUGxELWZqZmxhdUhxcjYyeEhRSkJIaVZRdzctTDZ5enR2YjB1ZGZYUERyRXZ4UVY1djI2RFFOQnZFLVlDV2xXQloyOTVxOS1jeUkxZkNJczR3ZVNOM1c1dGQybTBlOW43aHQ4WHFzZzlwR0Q2VEl4WXl4ZVdqUGJUZ2liNmloX05MdVF4MjdqcUpPdEZpa2FndkY2YlRUa1dVOHMwWGQyNUxRMDhvcWRHbEs1Z0ppV0kxQUMxT2RKaS1aWjBiN2pjUXo2ZS05eHFOZTRrWnhLNU5mWFRrdmFZTllJaFdVamlPclMtOFQ5SmlkczYxVnNrVTRwLVE1SlMyZkdhZTFuSnRBbThXNlowYTE1Z2lBMGNTTThURjlKcWRmNkxiWjNVSGY1UXVfT2MyRTdFb1hmWC1rV20xdlRuTWJtUk96ZWYxOHNYczA?oc=5"
+            "title": "太太都叫心慧！沈伯洋、莊競程合體受訪 他回應蔣萬安防災「擺拍」爭議",
+            "link": "https://news.google.com/rss/articles/CBMikANBVV95cUxOZ0VTWGlUZzFZWi1XRy1aYk9rUzdVY2V2SWtadk9XUW5XOWZkQnR4aU1uSUNFNVljRkV6bnk1bkdPQzFNRWJnbENWLU9Ub2hUN3JvMzVTU3N2dW9ZQTE1ZnhQYnczN1piUHV0TG05MTNLSTBtWXRaS2R6eW45VThZdFJhYzJId2YwM3BvTWtoeE9lX2tqdFY3T1g1aktodmtDNEVTd0Vkc0xvdWlGbUFNNGlvUVZrcmlScmVJLUNnTU02RWNuWF9GSWVLSFg5bHI1YnFDeHJ0cUs5V2tfOGx3WlU2b1N3bTZJbVZOSklIendhck9GREdMRnh1YjJuMXZxcFVoaWNWd3ZMR0tUeHNHOFRURkV5ZTRaQTdKVGc0OHg5QUFBLW9PRk8xZVh2S3ktTmJnRUt4NDhCd1ViQUVfNmdVNGs2NUpEZ2F1czFNTEJQbFdVQmxtczctY25jOXJMckdaczc1Q1hvUkdEMFV4STd1dGR2QkVUZGo0OTZxUmIwaUdtMjkyMVNzYzh0RGNU?oc=5"
         },
         {
-            "title": "台南車站公共鋼琴爆紅！80歲阿婆圓夢 醫師、小學生都來秀琴藝",
-            "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxNdzIxWkpDVlY4THN2QS05VUNTdWNSZWpBeW5YeWFzWHBNVF9uTzcwblhSSjlxREZNbExzaVQ4U1NPdnAyMGJjYVFBQktObWNzVEN6N0Z3ZlZ2clZVaEw2TlhZM3lyc1FpZjhVUXBubm1ueHhBNUhCTl9md3ltYXN1dkVrdHRNVlFzdm5zVUdldlljMXV2UDNBa3JvNlBJQksxT0ZtZVFlVXZsR0ZpdTNkLVpTWExEZVphd3lhUmRKYWZiNDZaM285MEctSXM0T1JpV3Mycll6M0pmZFIzTXBsa3JsNXZrdWhPMGwxWHJHZjlkVTRfMDhLbDlvdVNCdzBhTEk1ZmZjZ0lDbW0takdwSFNtbjRMMW9zclBBeDU0M2laU0RvQTBldUtXWVpuLUZIdU1raGdBbEU1WnlKbFZvOVhSa05RZUxWcHRXeG9VWVBlQU5UbzF1TGZpVDRLS2I2amozWlNhNjJUU1lxMm1qRWNMTWNXRFV4blBad0pkREdpVkgxYnc?oc=5"
+            "title": "煙花颱風將「西衝再迴轉」！下週2波東北季風接力 降雨熱區曝光",
+            "link": "https://news.google.com/rss/articles/CBMihANBVV95cUxPNldYVGEweFpSSl90SFcwbkNVTWtaMmxjU1FZY2VZdWx6VGNiem5SSEt0QTJvSTRqamZvczBoVHU4aXVSWkpBdjhWcEZ4MW90Rml0aGhJYWxEOS1WY1duVVZrZzlGTmhldkEzdGFzRkdYcmdsZW1ESTM1NGlTZ1hBNTRwM0VuNjdSanlTd2s2bndyejQtZHM5TFFpVHlIOFJPc2pVWkpEUWFOaTZJOGYwcGVxR2hpQjM1akRoaFhYZi1neWF2b21XekFJa3dSZGJIUEpDSFh6czBMaHQ0cXN0RlhBZ0VYTVVvazFEcjRJWUIydUdycFBvTHRHLTR1allJcHhKZlRGLUR1a2l1Nmd5Y1oxTEplMnhUSG9QbzlsMDVSQkd2RExzeWdoZkxYTF95SXU3elFVd3pwYUpTbW1pRFlIdHduNzhiemFBd2NoWVJ1QV9zMl9lX3pyZFlnbURoaFR6V0tlZEpnZ09sVnQ5Z3FGbm94azJONDJFc1BnMG1FanpN?oc=5"
         },
         {
-            "title": "蔣萬安颱風日買咖啡、撿樹枝！他見「背影照」狠酸：史上第一人",
-            "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxNaVJwVUszWHhtMkhiTWxqQUlseFdQQlVqUEE4a2FjZWJxWUFlSWdIZW5zemtQdHp1UWpVLW1YVndHYnlhOUFXdElJRE5Id2VqZ3ZDVkNoaTdycDEzeV95cm5GMkhKTjFxMlJuM05La2xQUExFYml2QmRORV8wbkpKMjBXUjZnMU9remo2RnFOa05menNibGRHN0dtYmY2NjNCMHo5UmtmcWRHUkh3bk1jbjVVUFNNSTBUVG1fWUk0THdZbzNtUE5oT0d3WG1zMEdlZHJBUXNMd3FTdTZ6R2xqMzhzOFhmc0otXzVXQkZQeXJGTEJua1pKT08weG5oc1pJbGVHaUc5c20xZExORGlscDBKTVYxVnBZYkN3cmdMYUVfemoyYTZHOVp4WmhrWUUyWVBfQVM4VnlxSGF4?oc=5"
+            "title": "蘇巧慧競總發「洋流慧聚」海報、飄帶 現場排起誇張人龍！",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBSTThsMDNDbmZQMDV3SmZjaDI0Sm9oVmlIUEJId1U4ek5FREp0VmxES2d2Zng0ZDBUcmh2djlSNnY3UnpSdHduZVJQOHUzeTNaWFN6bjFUUjh3a2o3a25kajM4NGl5NWVLU3fSAW9BVV95cUxQZl9pc1BPRmkwMTExZmQ5M0FkSm5xWjFBQy1PZWF0bC1OOUp2UkxRaGlqQkQySzk5MVJOclA2cTBBOXd6c1hDTm1wUlEtcG9nS3luNTBnUGxORENxdjR5ZTFHejdrMTN4Ync1VVdkSEE?oc=5"
         },
         {
-            "title": "蔣萬安挨轟問A答B！同黨議員嗆「一定要問A答A嗎」：答C也可以　網氣炸",
-            "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9GQmJQUWw2SmRrRHl5WDRaeGtGZmwtdEYtbUFwNmVDOWtQVEhPRFVYMVVtRWVRLThBVXdJdDF1U3c4WVZyNWNWSdIBTEFVX3lxTE5ZZWlJLTJ3ZkJBS0FzSjAtamZISUFST2Z5ZXdVLXpEUDl5bjhYdGVNemZYTzVkUFR5enF5TUJyWTZ6LXVUN1VWYkhQUHg?oc=5"
+            "title": "黃珊珊突改臉書封面「做自由的自己」 發文：做你自己獨立的決定",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE91N1NMZkE0MFRYQXB2bmxKMUNEeWhRV1RJd0ZaLVJJNkI3aHJhdnRsU0xzc0JmS0dGc1JGbWt1WGFtQ0N3eGRST3ZZWDRuaVlsTERhTzYzQXQ0QVRvV0J1NFZaR2d2eW5TNXfSAW9BVV95cUxPSnFJMG84cWgwaVJYREJfQ0pyN0wtLVlUUTl3dXl4RUlyY3pKMVduM3hmaUNmU0lGWTU4Y2Y4TXRYR1dnaTN2Q0JlRkg4OU85MEQ0ZWFwb0x5VDM1eUNQNHVyMHVBNVlibGpwVXBSQUk?oc=5"
         }
     ]
 }
