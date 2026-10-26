@@ -1,46 +1,46 @@
 {
-    "updated_at": "2026-10-25 21:11",
-    "summary": "晚安，為您帶來今日晚間重點快報。\n\n【政治焦點】\n國民黨凌濤今日揭露僑委會副委員長徐佳青的背景，指出其同時是賴清德後援會幹部，引發討論。台北市長蔣萬安則回應勘災掃樹葉被酸一事，解釋掃帚與家裡的不一樣。此外，立委沈伯洋車掃時加裝防彈玻璃，蔣萬安幽默表示他很重要；民進黨立委蘇巧慧競總活動也吸引大批支持者排隊響應。\n\n【兩岸情勢】\n中國大陸央視發布「吉林一號」衛星拍攝的台灣照片，學者解讀此舉具有「老大哥」監視的政治效應。\n\n【天氣快報】\n中央氣象署預告，未來一週將有兩波東北季風接力來襲，各地低溫可能下探攝氏二十度。同時，颱風煙花預計最快今晚增強為中度颱風。\n\n【娛樂焦點】\n金鐘六十一頒獎典禮持續進行，「下半場練習生」的許琡婷稍早榮獲紀實節目主持人獎。\n\n【社會焦點】\n花蓮知名食品企業宗泰食品董事長余國基，今日傳出駕車墜橋身亡的憾事。此外，韓籍啦啦隊員李多慧在合歡山武嶺車內炊煮並爬上山壁，恐因違反相關規定而面臨裁罰。\n\n【人物軼事】\n立委沈伯洋自爆曾「一路逼妻」考取公費留學，其妻曾心慧苦讀十八天後成功上榜，這段趣事也引發討論。",
+    "updated_at": "2026-10-26 09:11",
+    "summary": "早安，為您帶來今日上午重點快報\n\n【國際焦點】\n美伊戰爭情勢升溫，紐約時報指出三大引爆點，中東局勢正進入危險階段，任何一聲槍響都可能導致衝突失控。另一方面，巴西總統大選決選結果揭曉，魯拉在首輪落後後成功逆轉勝出，成為巴西政治史上的重要一頁。\n\n【政治動態】\n台北市長候選人蔣萬安日前撿樹枝的行為引發作秀爭議，網路更挖出他七月霸氣發言予以打臉；而他的競選總部預計明天下午成立，並將邀請神秘嘉賓。另外，屏東縣長候選人蘇清泉因稱「縣長沒小孩，可憐」的言論，遭周春米團隊嚴厲譴責並要求道歉。僑委會副委員長徐佳青的惜別晚宴也持續被轟公私不分。\n\n【社會民生】\n花蓮傳出不幸消息，知名伴手禮阿美麻糬的董事長駕車墜橋，送醫搶救後宣告不治身亡。此外，藝人蔡康永因過去言論向周子瑜事件相關方道歉，不過網路風向卻轉向認為問題根源在於中國，而非蔡康永本人。\n\n【天氣快訊】\n煙花颱風持續發展，預估最快將於週二增強為強烈颱風，並預測週末將會出現大角度北轉。氣象粉專提醒民眾務必密切留意最新颱風動態，提早做好防颱準備。",
     "news": [
         {
-            "title": "金鐘61得獎名單不斷更新／「許琡婷／下半場練習生」奪紀實節目主持人獎",
-            "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQMXRzZnVTNjh4SGZrZjQtU2VsZXZGdlMzOHREb29vUFhuVHRUUU9KVENESmRrdFV5QlJtMHlWa0plRWYwcUt5T0pTcGVCaGw2U1dQUnhtYW52b0stWnRnNW5aNFhONGZjbE1iaEtzWjlQckprN3dReUt3QkI5ai00dGJkVnFWUDd2TFZyMGk5SF9DQ3R1M01WSF9YWjBvcDdub3JfanNpRDJObkhCYmYwZHQ0VUNDZFFoVzFUN1JJbWpNLVVYVm10ZHc2UTlkaFRkRGNrTW5tUGJBcUxiamlLSDVXTkEyTXd6dDlDaVl3S2dOSWM?oc=5"
+            "title": "美伊戰爭進入危險階段！紐時揭3大引爆點 一聲槍響恐失控",
+            "link": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxOMFhWcHJ2QXFsMlJUd3N4dm82RjJLd2htSTEtRGdNMGhuaE81c3VpdUludE1aMDhwc0c4UUwweFpQMTRKU1pRTjNZb0NfaUVYQjh2Vlh0MmEtLWRiOTBXMHNUQnA0ZHAzdmhQQlNCb2lPbTB2RENIRnZhSkRudE9rS2RTOWRpd3BVam9sU0tzQW5UMVBQZG9LR215TGs0elJ0ZHllMUlGTDZSNkZwOTE2VDlRR19mU3NjTGxneUgwZ2NVQ2JkSXJrUTJTb09kRDJNbTl4OGdwWEl2anJMTkhNU1o2UTY2QkJuTG5LN2FzQTNza2xGLVBOMzRJazFUNDdFMFZZN2R5TmVmMGpnMUljX19DOE1OMDBHaE5ZWk80bE0zdy1YbU9BMVpqeGpnbzlqck1iN3lqQV92UXk4aUdMU0R6OGRIbDVNZ1d2aTZ4TGNSaXVnRlA3T2Y1MFZfcmNCOUJBS0dPMlhMcFE?oc=5"
         },
         {
-            "title": "一周2波東北季風接力！各地低溫下探20度 煙花最快今晚增強成中颱",
-            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE41S25Ga1F1NWtWV0pJRE51Y0pMTVBjMUtOdWYyQ2hJRnRyZTlrNDNjWGN5dVY0S3hzZWVtWGlwUlhlTy1YeWF1OEVQN1Q4OG5uTFZr0gFYQVVfeXFMTnpLR2VZMXJweDRadDFpVmNRWnB1STUybDQ3OWFBMUhYQk9oVWRvOGRwZXFNYjd2WmFPZW9aS2w5eV9kc0l3UGl3U21aLURHRlFnM19ZN3hWOA?oc=5"
+            "title": "煙花颱風估最快周二增為強颱 粉專：周末大角度北轉",
+            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9WR05taVdNNnktbWFKUXBKU1NYWHhDQS13WTd5TDh0cVhpNjhMSFZqZDc0NHdkNGh3YmVwSWoyakZGOGhFX2xmNFhjOEtKTGxZ0gFWQVVfeXFMTXRNdk9LTHRCdXVhUHR2WmNvZUJXaDFON3NCM19PNk9JbC1YZzFLbFp6dzRlaDI3UVc1N1FZWVZsSERIM0EtaTc1RVBNUU5UaDIyeV90WVE?oc=5"
         },
         {
-            "title": "護航徐佳青僑委身分曝光！凌濤起底背景：竟是賴清德後援會幹部| 政治",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5pRk1ZUGdpZ0JOSHBWdVRUNFFnc3RmVVAyN3ZXWVl5djZCY2hyY19keUlOUEFqYll3SURNOWRJOXpLaXlZaUo3ZHdNVWgzdk84R2xucW1HQk5rc0k?oc=5"
+            "title": "蔣萬安撿樹枝遭酸作秀！網挖7月霸氣發言打臉 于北辰轟：政治災難",
+            "link": "https://news.google.com/rss/articles/CBMinANBVV95cUxQZEQ1TWUzMTlKelhud2h2Q2p6c0hydVpyenM4cXVqSUlUcHZVVzNGT2pDN3BId1l0Q2M5QmhYM1ZlMTBBblBkTU9lX1JQVDM5ME54cHpsWWhRLW9OVXF2OG1EVjVOTkxvUjkxMjd4WVR4MmZGaF9uM3pqbzJJakJibFozOVFwb1BhdWR0MldLWkV6NzVQdVBFX25Cd29FbjBYSE1TTW4wbTVkSmpZVlQ1VnYycDZQRVNBSUc5aTBaSjM1ckd1TUthRzdRTV9vYjFFelNRTVowZDRJeUlpSzZ0RVNycm5NbWFNWFhFT0d6TmVSZnlELXB0NEdoeXVHd2FYZ2M3TVJfcEVQWGd2dFZ5SWhwa0dzWW9hc19HaV9NV1ZDWl82WDlnZ1NVLWVIM1hjaWJLaTJ5bHlwUHlfelh3RWd4XzVCN2RoYUdoTzEtXzVlalhwejB3clJDci1BclB3cVUtRGx5akdqM05ILWxmdXJ5QUUyZDZVV0k3ZmJ4d25fd0hEVk1JZEJBNDR3WFhMMXdoM3M5OFNkSzIw?oc=5"
         },
         {
-            "title": "陸央視發布「吉林一號」台灣衛星照 學者：「老大哥」盯著你看效應",
-            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5sWlBoUm9IU2tobVp1TF9nWUN6aHF5S0Nsakh4bGpfZlF6bWhkWENGcGNhbUZuVmx3MTBkY2VJd1JFTURROWF4TWxvdVpaaEsz0gFWQVVfeXFMUE13bWZ0LXpQNHdPaC11bEVGSGxpUTdKLThBNUwxLWZfVHR5VVJRTUFEejRLRWlMNjBfYWVHM09FS0J0VGZnZTg3M2hGRUNFYVlsVk1HY1E?oc=5"
+            "title": "蔡康永道歉！網喊「當年沒罵周子瑜、現在別罵蔡康永」：有問題的是中國",
+            "link": "https://news.google.com/rss/articles/CBMiqANBVV95cUxQNXdjSC1HWFoyV3RuLXpuOUpIRVMtbVdiX0lWeDFYYVNHRzV3Q3ktajBHaTJHNUM3X2stcDIzZFo2ck1mSG93WjVfN3RBbnlwaHpBOURoVEVfdk5KQXFRQzI4elcyVjBSQ3lRbEMxWWRubGN4QWpjUnhoSkFObzFmU01lb3R2ZzlMaGNmQmpYOEtKZVFzMTZHdEkxalNfZmtxVWgtb2VQMEMweXhnSVl2WVBtY09sN29HY0xRbTVVTzlyRkRxN0ZOU1ZBa0FXaWI5Uk12UDREaEhBRjBGQ0htMFA3X1F0UXlINGNqX1dOQ1RnZ21QRVJlbU1Wcmo2dnB2VlNqOWFwLURSWGZzUmpGSUpOX1dmQldPQkwtRV9STG10dGVoMDMzbUpkam1ldFppS0Rzb2RxUWdHMDJ1S0d6Z2g2bmFxVnFxbUhQRklmZFJIZEVFSWdxYk9Wby1mQW5BOTdaT2ZlM0l6M2w1SEJ4RVh6MWpPblJndG9nUEtfYjRSODV0V0NXUlBaN0ZBQnhDTEFETFNsOEtSdXc3R0JKc1ZQQTNvZUxt?oc=5"
         },
         {
-            "title": "李多慧上合歡山武嶺畫面曝光 車內炊煮還爬山壁…官方要罰了",
-            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1ZTVEyamJST2dqYTI3b1lmV0t0QWxPbjJCd3loZ3hjaTNjVVpMekQyb01oOFpoeG9SRllqaU1rNFR3R2NSNVI4N18wdDZHcl8y0gFWQVVfeXFMTUpHRmd5ZEl1Um9jWDQtWFpsS1VkcHYtWGhFVmZBa1VSMU1rNXJxdjhIcVFhUDc0Q0h3VjM0aWtrSVItX0VuWTBlUmhIVE56TXJuR2ZDM3c?oc=5"
+            "title": "花蓮阿美麻糬董事長駕車墜橋 送醫搶救不治",
+            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9QYUpOYW04LTc3djZ0dHpnNXBsZUdtOXVTekNXSVlCMXliNkxnRkFaUXBKbjg4YjAxTHRnSVRzTmhEVUNRVTJfNGFhcmdTdVRuUFV2UldNOTVuQUJLTEhVeUlLc3VsTUVD0gFuQVVfeXFMTUgzTWVDY1BEYTdqNmFsNFAzR0xvWnZ2YTdwc1M2QU9SaVBhWGVFODdkcUpwQ3htWEpndUVnYUIzaFFaRkFBdUdPQ1B5dDdtUkdHcnNpNmhKSEpjMGl2SHI4b1AxM2Y5MFBDSURlSVE?oc=5"
         },
         {
-            "title": "旗下有「阿美麻糬」…花蓮宗泰食品董座驚傳身亡！余國基駕車衝破護欄翻落橋下",
-            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8zV0doT0tkazZ2SVZLSVBLdzd0WW0tLVY3UVVJYTZQeVhsMEtfSGhRNW5xRlQwSkdjNGxrbDQ5RE1rNlprZlZwclRQakV2aUNv0gFWQVVfeXFMT3lvcUNhTVhrcTYyOXVQZGxBVHlIYUEtaW12SjB6RF8tUXQyTm8wNFRVVnl6bzhwcTNvU0pIWXdJZXM2MHVNbllXX1hvWG94THp1cUNDZ0E?oc=5"
+            "title": "魯拉勝選！巴西總統決選破天荒延長投票2小時 首輪落後逆轉創歷史",
+            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9vMmw4VEs3R3BNYXpnWnUxWUlyMzRncjdCY1dYUENjd2tkMmRvWjF2eG53eHpBSEFLVkp3WGhrcEpLVlpVWk1nZzhXX2dDN1h50gFWQVVfeXFMTmg5NmJtZHFBR2Y1V1lzMXVoN0lSRGdBaHNzcFd2YW95VUpSUEpCT3JzN0tLc3p2aFFKQ19DZkZOa25qcG9sWW1Qb3o5dUZvLXM5U0dFZEE?oc=5"
         },
         {
-            "title": "勘災掃樹葉被酸「不會掃地」 蔣萬安：掃帚跟家裡不一樣",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9rdDhBYlRqVHlKNzREbHhjUjNkSnRuTzFsbmRyZ3NBaTIyaTI2QWRHZk9reHFOdVVoSXNkNFBnaElwTVZ3NVU3OVJMZWp2TTBQdjlfS2Z3c0wwS1kySWFENlhsTHc3d1ltMUHSAW9BVV95cUxNa0FzaEdOLUlXRHA1YmtpTEdzVXkzT21XVHFhYXBUbU9CWHUtaWdCeXlUNzY2ekNsbWFLenRUNzZ2cm1vRDBWQWNFNEpTcnFRYzdWdTFycFI1ZnBkREt1VV9kX01RSnMtY1R2bDM4OGs?oc=5"
+            "title": "僑委澄清 徐佳青惜別晚宴…仍被轟公私不分",
+            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9Sa2s2QkdQaWg2YzJJNVZudUZ0clE0V25xYmF4SzJfNjgtcWNIV3JtczRHdlM5dmtHWGxsZnNEb09tYUFJY29qTlJpYzNiVWhw0gFWQVVfeXFMTWZoTk5oeDJITW9IS0kzOG9ZYTlQUDFrd0JTTDU1M3VhQVdHaDczVkcwaEJ2QkE2SkIwa0F4NmtaazVUbGdsQm5XZUR2ci1BbHRzN3dtR1E?oc=5"
         },
         {
-            "title": "沈伯洋車掃「洋流號」加裝防彈玻璃！蔣萬安：他很重要",
-            "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxPRVVtVjVtNmV5cGhtZGVEc2ZfZjVpT1B5M0wySVJHNmgyNlZzZzNxUmhXblhjb1RfakRuVWJGTHUwQW1nWlBWa1RxeFhaQzJ2UXVrQUJvbl9vaVZZUk5DZmpPWXh6aXp2angyR1FIT2NBTnZWWHdPUDQxQmhiTktrN0Uyc1hPaG1nYl84V0hxY2xDR1RMdEZ5aENmTUdBNVJuN3RnZ0swSXVnY09kdVo2WDJHeTh4V1ZLV0s2NEZDU0N4RVF2UXd6U19KYWpLOWFnR1ZCV2UzaHhUOU1tS3dHdEJFQ0pHVm9VSW95Y3BGdUJaeVdYdFlrX3ZsR2RvMW5YcTNCdzFxWkozWkxhejdfb291UTlLTDN1aU5CRG52cHNqYlZWdUc0UC1ObHo1dm5KOXB2SU1nQTV3d1VydXdZUEdic1E5dUFWNUN5OVo0eWZDV1BW?oc=5"
+            "title": "蔡康永「穿黑西裝」出席！蔣萬安競總明1400成立　還藏神秘嘉賓",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8xT1FlU0R0SXJ6YnQ0blhWalExaFBtSDg2VmpGVUwyYkUtMmhwNmJzMXg0Y3FILXU2TUFnM2NPZ3MtdWVOMG45bmx1TlZDbWtuTVdJRldtNE5yamFYRXfSAUtBVV95cUxPYmZjWDJPMkxCZFFYY3F2LXQtaGJQOF9yVEFJa1hscXZTVE5VYUUtaDgyQUlJZHNMaFVCdWJIb2c0dzJKd1FFdUJmOXM?oc=5"
         },
         {
-            "title": "沈伯洋自爆「一路逼妻」考公費留學！ 曾心慧苦讀18天上榜",
-            "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE51eE1PbFVnbnVwRFFzVy1fT2dtM0F1NUg3U0JZOFlVT2l6ZHExRnBTdm15TzZDVFRHNU9CNXVXaW5qUEtrVDNRUdIBTEFVX3lxTE1VRWhPanE2NjZsMmgzbVI1Y1VXdV92dmhfaGZORnhZSV9MYUxqbThIUnhhalZWUzFTSWJDbjhOTU1hLW9RdEgyV2pmTUQ?oc=5"
+            "title": "沈伯洋親友推薦文大匯集！ 粉撲自發架網站：「包裝人設」不攻自破",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9xVWJyLThseGpsTk5Pb1B6TTlJcURpblQzVG1qd1ZsaWxYQzdZUkZpa2l0Mk45SnZlUzVObmxmdk13aHZQbWlES3BwY1lKdzRCeEx6T1YtUEFyN3JWMkkzZTNvWVFzcFdJYVHSAW9BVV95cUxQY3lDZ0x4N3ZralMzcEI3czE1U2pvTVJHZ3NPUExjZUJKaHZ6eUUtYTJhcVpmTjdZVnBSMU9uUlRHTms5WVBqdW9xWDJOaXhJM3lRc2J3LWFqWnRkenZQU2ZUNGxVcGJ6OHhjbFRFZzQ?oc=5"
         },
         {
-            "title": "蘇巧慧競總發「洋流慧聚」海報、飄帶 現場排起誇張人龍！",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBSTThsMDNDbmZQMDV3SmZjaDI0Sm9oVmlIUEJId1U4ek5FREp0VmxES2d2Zng0ZDBUcmh2djlSNnY3UnpSdHduZVJQOHUzeTNaWFN6bjFUUjh3a2o3a25kajM4NGl5NWVLU3fSAW9BVV95cUxQZl9pc1BPRmkwMTExZmQ5M0FkSm5xWjFBQy1PZWF0bC1OOUp2UkxRaGlqQkQySzk5MVJOclA2cTBBOXd6c1hDTm1wUlEtcG9nS3luNTBnUGxORENxdjR5ZTFHejdrMTN4Ync1VVdkSEE?oc=5"
+            "title": "蘇清泉稱「縣長沒小孩，可憐」 周春米團隊譴責要求道歉",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5xbENXTHl6ZzlOdGNLUjRVcUIwS19XVXZUR1pLeF9nS09kbE1WN24zWlFCd2NSYWF2cjVOVmNCd1hyMHNNLW43QVVXb0tlX2NWLUNF0gFYQVVfeXFMTU9rejNVcVBiaUlodHNTeGZRWGJUUE1YUThBTXRadjZ3ZVhBazZ2LTJLWC1aVm5mRUFaNVhLcW1paEZIYVkyeHMxcDQxenR5RlF3cXZ1MkZibg?oc=5"
         }
     ]
 }
