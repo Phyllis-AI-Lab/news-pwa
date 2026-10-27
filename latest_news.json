@@ -1,46 +1,46 @@
 {
-    "updated_at": "2026-10-26 23:12",
-    "summary": "晚安，為您帶來今日晚間重點快報。\n\n【政治焦點】\n國民黨台北市長候選人蔣萬安競選總部成立，現場湧入逾兩萬五千人，鄭麗文、黃國昌、蔡康永皆現身力挺。然而，其支持者空拍「洋流」影片卻因涉及禁航區引發爭議。選戰攻防持續，蘇清泉因失言急道歉；沈伯洋備戰辯論；蔣萬安掃地挨批作秀；知名譯者分析指出蔣萬安仍保持兩位數領先。\n\n【國際情勢】\n巴西總統大選由魯拉逆轉勝出，但現任總統波索納洛拒絕承認敗選，並揚言將尋求選舉無效。\n\n【社會民生】\n楊閔涵搭機前急借錢、送護照的對話曝光，引發外界對幕後指使的質疑。另外，氣象局預估未來一週有三波東北季風，北部及東半部降雨機率增加，低溫下探二十度；颱風「煙花」最快明日升級為強颱。",
+    "updated_at": "2026-10-27 10:05",
+    "summary": "早安，為您帶來今日上午重點快報。\n\n【社會焦點】\n日本河口湖台灣女子遭殺害命案有最新進展，其丈夫因涉嫌教唆殺人並替死者購買兩份高額保險，已遭當地警方逮捕收押。\n\n【政治焦點】\n台北市長選舉進入白熱化，蔣萬安抽出5號參選號次，首場造勢活動宣稱吸引逾五萬人參與。多方評論其表現，蔡康永肯定其致詞有感情及力量，而陳揮文則發文諷刺。同時，蔡壁如將其選情與2014年柯文哲的「洋流現象」相比。高雄市長選舉號次也已出爐。\n\n【國際情勢】\n巴西總統盧拉第四次贏得大選，他被視為北京在美國後院的「老朋友」。另有預言家示警，川普未來對伊朗動用核彈的機率達五成，恐引發大戰。\n\n【生活氣象】\n本週台灣將受到三波東北季風影響，北部及東部降雨機率增加，低溫可能下探20度。此外，煙花颱風預計最快明天可能升級為強烈颱風。",
     "news": [
         {
-            "title": "蔣萬安競選總部成立！鄭麗文、黃國昌現身相挺 現場喊出2萬5千人",
-            "link": "https://news.google.com/rss/articles/CBMikgNBVV95cUxNWXFXZnhyWjBQSEowejhtemxTejNxZ3RaaHhzTDZqVmVHcTF3czRQY0dwS2ItTk9uSmV4NnZCU3hJM2h5blNWQk10dkh4UUpQZWFZa1NudFlrMWlGbG9tSDZGa0pxYWtqWVpER3NSZ1Jsdm55UzhJZGhlSUZjY1dqX0VFVG1wRWxTUUQxZERHV3pzbWdZMDgxMVAzNnJYS3Rka3I4RnBDaGVjWmRjZmZEYjY3WG9UdTRPNEExUHhwWDJrUXZUZlJuNy1GZUZPR3kwckZwTEhHU3ljQWxPaTFzVEtHMUZhNXFjNzBQRVBtUVQ1MWZob2ttYmVaMzhaMVZGNDJjTF81Y1RjY2RYVkEybkJqQmI1ZEZ0cUVXZGNhd196T3NLcV96OENtN0J1V2hCS242VnRZenphMFI2ZGlRbEpXUlFCMTJjbkpYckVMaU9nNkpPWmtXOWtTbV9ZaWM2UEM0T1BtaGhSU005dGhmbU5qTzVVUWlWS2lIVGlRb2VTQm1qcFM0VGwxenh3R3MzdkE?oc=5"
+            "title": "河口湖台女遭割頸命案！丈夫涉「教唆殺人」落網收押...詭替死者買2保險",
+            "link": "https://news.google.com/rss/articles/CBMiqgNBVV95cUxNTTBRekF4bnhLeVFwcXJoRDRkWHZsa09SMTZUSTRwa2Y4NmdqYkdTWTUtNVJVc0VrUnVaN3lqRVQxSE1BYWpsY3ZjQllaMVhXRERoVnc4Z3BxX0VxWmctWFRkUnpXc2tMZDFsNTR5eHlmeGZUdVlqSUNlb0NiQnVHUlQ0NUZUTlpuNGlObjlSQmt2OEplMng4Z0NCTnZGSGdNSG54YkdMSXpSbGZrdTYtN2hCM2pDX3FZaWJyRFRWX3pEeWpYR0V0ZzNQTkpPUGtfLXozbkRfRHZuUy1ZQVM0d1p1U25HdnF6NFZkbmF5OGEwNjhXM21UYWM5TXVreHpOWmpOVk0yX1lxNEZfdGI4bTJOVGp0TERHTkR2RnF5Wks4Rm8xZjN1RmgtTUQtQWZPWFk1bTJ0MDE0ZndlNzhTLTZxVldKUnktSnpOSUVpZTBKalNQTU9wQVRKbDdDZEdaTElwSHBucVdGWjhzMTJONlBvRWVTZXdTSHRZYzhHWlZpOXprOE5lNlozbWw1VUI1NFFGYWdVa01TQ0JJSTlwcWwwY0hLQjg1d0E?oc=5"
         },
         {
-            "title": "空拍拍出震撼人潮！「洋流」合體空拍飛禁航區惹議　莊競程：已主動下架",
-            "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1Od0hTSGZ3MURRd3diNV9fVk9sTEd4LXZfdEpqak9WU0ZuSFpQREl3am5FeDVrNXFEOHozblVmWklWNi1kMC03eNIBTEFVX3lxTE4zWThyXzJvV3djcjJSQWJRSk1xMVF1dmlKaVBGc1J6bXRTLUJTcURnRWRibEI3MGVoMWxMdjVnQlNncVFfakJJTFd0VjQ?oc=5"
+            "title": "號次出來了！蔣萬安5號有夠讚台北安可 沈伯洋3號台北靠山沈伯洋",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBld2N5MDJYSFhGYzZMVXVZa2NCTTI4N0ZhZ01lQVZ2MnBVakE0VUQwc0FKOFlFSHJOYkw0ZDQ1VWcyd1hTeW1mX3cwY0xzVVRMSDFF0gFYQVVfeXFMTjEySVdwX2g3cHlPRERGWDhOMVhaVGVHa2x0Uzd6TnNkN2hGek9hQUpVWEF5bGNaRUlib1A5X0RfLURfLTZGMVBRVFFxa1drOVY4VkJ1SG1wdQ?oc=5"
         },
         {
             "title": "1周3波東北季風！北東降雨機率增「低溫下探20度」 煙花最快明升級強颱",
             "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9HTUdJSmFSSUtwMTM1bnpSOVFkazVhc0p6cGI1TnhvVER0WENGYjdfUkZwRm5kZDhycV9FeHJLQnE3aDM1ZmE5M25NUHZ2Y3ZX0gFWQVVfeXFMTUpXa09hVWJXbkpfbGtmT0dlcVlJcDJUTjVRRU1PQjBMQ0VHVDJ5MUdNTW90c3pUUFFhUTJCc2FOZFc3a2dBT0JlcHBHVE1zYzZaUEZDRXc?oc=5"
         },
         {
-            "title": "蔡康永穿白衣挺蔣萬安！揮旗喊凍蒜",
-            "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQcHVSbmNRWTcteXNHWGE0VzJRZGpWZklfcWNtRGdCY3NFdHNpUU51dUZCdzlJRXA2enBfQlZGQVRDQndhNU9MdWk2bkV0Z25OSzktVlROUUh0OE9uNHNSYmJ4ZHA3U1o5WWdyT2w3SXNxQTlxZUtYTnd4dFNHaHpUVFM5cmVrR2lNdU44UnBMOTNQNWhNVVhsU3BBTXVLWk5VQUU2NEstTHRua3owZ0VNaklNR3Y4OEtjZlhHTlNMZVNUSHduQ00xb1ZLa3A3YlRrUzFRY0U1ZFZ1dG5qOVlyWGlQVlZ3YUxIU0E5SWVRcHZzYXEwcjVlcHhIYjlZWTlHd01KWU5PNGc?oc=5"
+            "title": "巴西總統盧拉：北京在美國後院的「老朋友」第四次贏得大選",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBTSVFiRl9senRadUFWMHBlUkprZ3FzV0VRc0d2WkpMMjA5SE5EWDBhNDA0UDUyZkdRQXNRZUV1SlVrWUZGM3dDcGJXZFhCT2dNUzdRRWJfZTNjS01Vd0FKVmNXXzc2TkXSAWxBVV95cUxORFp0YmpGNEg2LUd2ejhRUEl4R3Q2TERoWkdBckstVUlpcGdLT3A2SDRHWnRabF9IMFdiSFRKT2I3NU1DaHk1UmpzVXpmMzg3ckx2a2gwRDdmbzRXN1ZxNmVCRVc3emtBMldEUkE?oc=5"
         },
         {
-            "title": "巴西總統魯拉逆轉勝！波索納洛拒絕承認敗選 放話尋求選舉無效",
-            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1xTVZnU3ZUMUNiZl9pTzlZYm44eGZ2WlpSbFh1ZVRSektBT2dCZU5MLWttTEFYS3o3em1QdFEyMnIxUU8tSHdkWUhYVDRDdmFh0gFWQVVfeXFMTk1TdXZpbmwySEtZMHhxRU1YTkk3emlncmVQa3ZRa3VXLVFIY2FNQk1xVGd2MjdtTVJxbDQ2STJmME03aXZYVTFDc2FURzNRRmU1bUNxNlE?oc=5"
+            "title": "蔣萬安首造勢喊破5萬人塞爆敦化國中 張育萌：大巨蛋滿場才4萬席",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Hamx3YzFjdlhTdzNJVktEU3BPOGlQQS0zTEpfQ25INS1RejRkUzJud281X1ItTjR5MC1DalhqbVA5anF1RDdfN25ZNUl3TThOUXBnZDdFdG5aazhFZlBPNk1wWkhHODhJRUHSAW9BVV95cUxNWXBUWXc1SjdaT3JTekRQTTVsaHdEOThTYmdkS281R2FJajVVakQ0dkIyVmJLandpN1JmZXhmVmtGd0U2RVkySnN4NFVjamdxdkNQZEFsRzNsSlFybG5TQTFMUkZ4RU5iMUlTazZJcGM?oc=5"
         },
         {
-            "title": "楊閔涵搭機前對話曝！急借錢、送護照惹疑：幕後有人指使",
-            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9BaU9MXzUtTEwxS2QtS1RjODJLd0stM1ZqdDdXbEwxdVA4Q0FfbEQ2VWg2SkhJbFJNTXNBemtqVVI5MFQxeG9qTVNvUkU4RVVPVDdr?oc=5"
+            "title": "川普50％機率對伊朗丟核彈！預言家示警：大戰恐爆發",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1pTzdZeV9Kb0dBam5nNTBRaEE1ZGVnbl8xU1B4NFowTnNKX0JlVl9UZXBBZWdETGx6NHpRNTVrS0l4TjZhNmtCYzNYYTFUZGZySDBN?oc=5"
         },
         {
-            "title": "蘇清泉羞辱女性急道歉！竟稱「沒小孩可憐」 周春米說重話了",
-            "link": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxPSHZRdlA4NkdTMU9IejFtd0Y0c1VCdVdfb3VLZUJGU2llMWZzaTFFblRfcTI1RXN4MmZSVG1nLU9qNUd1ZzB0Yk9FQ1FrZ1FUTUkybzItYnplbms4dTBORjhvbmstR1oxTndVd0ROTGhDMzRWWG1yWlNiM2JJRUY5NTMxeTRBTm5DdlZfQTA3LUxtbmIySHlsbW9OQXFxak1DZWk3UmZIT1lyaVJySGxkYjVnbU0wRndBNUJidFNzamJWbk1EZ0tyTW9xRDJCUkI4d0VkaXpFaTRTcHBleDJ5eHVmS1djSXZrVXMycTh5dXhIWWMtSHViNkhJTkQ3RG16NnFQUF9EdzBQLUFGcFIzd3k3UFE2ejVGMjJfV2x5eWRycmpRNzEyajhVVHJVVGRENUJSdGZkVnZBSk1Fbmg4WENCaW9KLUJUUmE4WnNpaUpHbkxycy15OFRoZC1OTWZJUHJQYjF2ZW84VDNfb2pWYjFxNzRMN0U?oc=5"
+            "title": "蔣萬安嘆「不擅長包裝跟表演」 陳揮文不忍曬3張圖酸爆",
+            "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxPQUZ6c290a1FtSkxMYTVhNVR4SFRZTUpsV1dwNW4xV29QYmpvODYyNlN1eWw5azVhNU9TbTUyS3VlWDcwRFU4RUhqMGpMTUg1aFJQOE1WdzFkWXhfdURxQUc4RnhmN3dhNDFRbGNBY2lkendHZVY2UVQxdm81cGsyQlRnNTRwd0t1Y212TmhBSjdTdndGUnNqd1RyMElHQWhYVjFxVXoyVUF0aTFKWlpGeWpvWTZTNTB2TGIyeVlSR3JPLXF3RlZTaVBUNDFXSnB1SlJlWEhLTFA0NFFHUWQ3bngwVXhHWV95MXNoS2g2MUNMRXR6dkZoTXMyUmJodmFjU0hXa3RVVWl2RFpILUVnZ0thUTZOcmk5Zkd5X0piSlJubWpqanczUVdiNDVLSnh1S1g3bGZjVlZrSzFFemJCektGM0NPSlpmeklBQ2xmLVczRXJKbGsyOHZaS2JyUDQ?oc=5"
         },
         {
-            "title": "洋流進入垃圾時間？知名譯者揭：蔣萬安還是二位數領先",
-            "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxPWlduZFVEYUZZNW9DWXhFb29TOFpEZWZSYWh0NThNeFp2RHBSRzF3YTlGMnZiSWhTSG1WemVwSnlJSUFNSm5NM25GR0xaU3VzUzlzc2xPVkZBMUw2RmZlM3R4RVVOdEhTNkZvMFp0czgtU1cxbHFsZkplSUpaQV9zYm1rUXNGVGstdUhWWHhkb2xsbEZSMUdoNzZwODV5bi1kWFlCVGlYNzV4dmNiWlRBdllMQU5zSTI0ZFlJUEVTLU9ielJLOUZSc3ZvODJjVzhrbmFIUlI4dHVsM1JBSWgyVEV1enA3TE05MjJncmM3dGdlLW1uaDBXd05LaTVnLXlrY2pPcmVZQmVnR0pqVm41UjBvZEFPcm5iMDQyTXFFVkUtV3F5NElHX1pWYk9mc3pYMXBwV3Q0bERISnNZUTVwWEZrdnBBMGw1ZkJLUjd5blNobXltQlgxT19LcklXaFJSZEJZNGkxZFF5Zw?oc=5"
+            "title": "蔡康永讚蔣萬安「致詞有感情、很有力量」",
+            "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNUEFuZUl2d0g5WDRkdXNJMVlldDN0VGFPbG1DTGc3MGNoZlo4cnJSNUhIX0JNMkJKNG9XNlE4aFlYeGhHNS1pb0UzMXlaVXBrR0ZiWERaTF9JUUFETDZjbHI4cE9CZGZoZFAzR2lhSi1Rd3hOS3A2Y3NFWlV1ZE5PYjFRWGxZYmRiV2NmN0lJV3g3OU9WcjlBSWJNWXI4LXh3VWZiV01nWVZ1Z1FZSV93S0h6NEJULTlJVDJQc3Myb2NoUnJ1NFpCNHItRFcwMUJOdEJKamM3UDNTNlpVMFRQWlQ4VWttSnFqR0pmR3Jod1ViUHFUbVRaY21GcjVMa2RRdVRMX1ZaYklqbS1aeVpOVHZTTEV1Zw?oc=5"
         },
         {
-            "title": "備戰辯論！沈伯洋不背稿直攻蔣萬安政績 總統級軍師閉門特訓",
-            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1iWmgxUWdUS2hWREpfZ2oyNDlJbEFFckdJRWd4Q1VVMjJqN3gtQi1XSEtRUGxjOUpkNUFFTXNrQ1NmX0Jhai1hcGFYQXI5TXNRUm130gFYQVVfeXFMTTVma01lR2hfVjFiMzJTOGVYb3NWbWN5Z3F5Z0RrVGg1OGtwTFZaeUZ1Ry1jbGE5OVlTTVE2UmhtZWhHaklQcldMNHJvNXMzTXV5bEk0ajA1RQ?oc=5"
+            "title": "「洋流現象」如2014年的柯文哲？蔡壁如揭差異認了：恐有外溢效應",
+            "link": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxPRmkteFJQOGlPUHpxMV9lM3dudXRYcmZPU1V2aVdCRjJ3c0x0cmN0aFpOclhtcUdSZFA4ZVN3TkJKbjZZNk9sbUJtWS1BcFBHR05XNUF5Q2huTkFaTDVWRDB1RlN6R3ZyZ1BiN0xyajltaEwzbVFIOGJYYWlIOXpGdzBRTGJEc0Vxd3JHbVliSGJEcENQaWsyOGg0UkNSQ1pzVURfSTlUQ1RqekhVTHdlOEZoWVowck9qSVBEX2VmelBlcnhkNUNESWVLX0RQZGNBR0hySHFQd0t1SXRMMGxYV2xwVVgwOEJqWnJJUGVYVTlmOTJqd1ZBaXRSM0ROOXIzdm9JaTF5Mlk5MjhabzBuY2N5TnpFejVIOTMwSlFNRUtyVWp3aUtmZFFjUkVPeVdTNENKMjNfZmUyMDROUGY1VFF4V2NwalFjaHVrRUpkR0l1bkotS01SdEtTZ0s3Q2NBOEdhNFlGcE9KQ0N4UkczcWpVZ1VLSEM2cURXWQ?oc=5"
         },
         {
-            "title": "蔣萬安掃地挨酸作秀！李正皓掀舊事酸：當藍裝平民就代表選情不妙",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1acTZueHhER25RWHJnM3hzVnluVzJYQTJ4YzRvUHhVeE0wSUxPcDRGR01uOHBQQTF3RzBmcWFIV2ZrRTgxSXVOdkVzV0IzRGZYaDY0S3ViX3BJSkFYRmtvQ2hzUUkwZVlyaXfSAW9BVV95cUxQTkdWMmJSbEo5N1dtRjkxaE0tS1FqUDFTem1ScG5vNzhhZ3JWd2g5TFZ6ek94bDZvb2liVXM4WXBpNmd2UnBXYkctcFpIMHNhS2ZPMFpCMi1jcUhIenh1RW1ib05laEJHVHpzTGFWLVk?oc=5"
+            "title": "快訊／高雄市長5搶1！賴瑞隆、柯志恩選舉號次出爐",
+            "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5peHA4cU91Rzl5WWplaDVTSU5Lang4akdHUjV1QjdUV1daVVRuUXFkRUlsdDdDbWg2anZndFViWlFSejFfVlZuctIBTEFVX3lxTE81SmxnZ3FzZHRmekJNNElxVFVvbFFYQXkyRFkySEFRVEpFWFZMOVJya0pDbGtLSEJraHlGRTFLNDFLVjl2ZUhYYTY4Z0w?oc=5"
         }
     ]
 }
