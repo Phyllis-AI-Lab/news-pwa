@@ -1,46 +1,46 @@
 {
-    "updated_at": "2026-10-28 23:06",
-    "summary": "晚安，為您帶來今日晚間重點快報。\n\n【國際焦點】\n國際聚焦，彭博報導巴基斯坦因一中政策對台灣航空公司關閉領空。以色列大選出口民調顯示內唐亞胡陣營未過半，反對派宣布勝利，選情膠著。\n\n【政治要聞】\n國內政治，中選會系統出包，1573位候選人個資外洩，沈伯洋促中選會說明。台北市長蔣萬安不僅傳身體不適，市政與選戰兩頭燒，其模仿沈伯洋肥皂箱卻神隱也引發批評，政策成果更遭陳智菡質疑為柯市府政績。沈伯洋獲陳水扁發文祝賀抽中3號，並將登沈春華節目，持續擴大聲量。\n\n【社會議題】\n社會消息，日本河口湖命案竟是台灣籍夫殺妻詐保，引發日網怒批，呼籲勿來日本犯罪。",
+    "updated_at": "2026-10-29 10:27",
+    "summary": "早安，為您帶來今日上午重點快報。\n\n【政治焦點】\n國內選戰升溫，國民黨力拚選前普發現金兩萬元表決，並喊出支持者將可領三萬元。沈伯洋網站遭境外IP猛攻，吳思瑤深夜發文聲援。羅智強證實蔣萬安夫人石舫亘將展開輔選行程。國台辦則再次喊話，盼台灣藝人都以做堂堂正正的中國人為榮。\n\n【社會民生】\n備受關注的安可大舞台驚傳抄襲，網民揭露資料建置日期疑點。另有消息指出，李碩彬不只涉河口湖命案，還曾遊說殺夫詐保三千萬。役男體位「最嚴版」標準已公告上路，預期免役率將砍半。\n\n【國際情勢】\n西班牙傳出高鐵列車相撞意外，目前已知造成六十四人死亡，馬德里至安達魯西亞交通因此中斷。\n\n【天氣概況】\n低溫準備下探十七度，天氣將轉為濕冷，冷空氣開始活躍。同時，煙花颱風已增強為強颱，請民眾留意最新路徑預報。",
     "news": [
         {
-            "title": "彭博：巴基斯坦支持一中政策對台灣航空公司關領空| 政治",
-            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBYRGhCTlI3cEk0VUFEX2dGQ0tpbWJZMjM5dnJRdEt6MVVZUUpfS0pZVGhzWURiOVpMZ1doOEZpaXZCdnhjZkRtd0R2MUhxLVc1Mk1RM0tMRnBfcTlQcGJn?oc=5"
+            "title": "謊言被拆穿！安可大舞台爆抄襲 網：第一筆資料建在10/23、作者葛如鈞",
+            "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxNdHFVZXdHUHhYeHRoYVVLcUdXMEFOV2xnSGtEOWNkYWNRT2dvN3BlSURnV2QtZ09YbzFMQ09yQWJoZFhJZW1LYVJrbXJQUGY5bXpSdFdnc1lqbklub1FKUUFQVkduT1VNWl9WSTFDdmxFZHB5R0RDRDlIOG1OS0lQdmVIb3dlRTBHdFkxclZTNEpRQ1pLcUlRRGZlSlJubjJQTzMteHdwQ095dmJTQW1jWnFNYk5NMGtkcFNzaHB4MngyWTJkNHdyamVMWk1QVnA3Y2I5MXUwQW50MjYyYmJ6Nzd5b0NCcU9ReVhkVXY4RlJodUJ4MnNlWXNnT0szNkx4cmxfem54LWJUOUFOa2hMeEdGOEVjR1lfX0R6ZEdkTlVHUU9rckt0ZUhwTGl0ZEF5YTJrNjUtbi1VMjhBcnpqX0VwNVFOZ3BjMUo4?oc=5"
         },
         {
-            "title": "王偉忠笑虧「我忍耐很久了、請你都不來」 蔣萬安接招：今天帶老闆來了",
-            "link": "https://news.google.com/rss/articles/CBMiqANBVV95cUxNUnBUZ0tJaUJFX2RGMFN3dDVRQmlwMGIzNHB3RE5EM2RxbFpTSWY3Vl91aGoxVlBkM2xTRUcxbGNRNmFDQ2hLeDVJOUlnVkNEeEF5V2UzcU04WjYweThIdTVoenJHSHlNS1VkNlFuMEt2elowTXozY0lCUlc3ZHBpcUc2d0tKMGlobS11dm1xbEM5dVNGRGdpZExHdGk4WTJMQzlNdHg5UllYUzV0S2VRcHplZkNKVTdoc29iNlVFOEZCTE9YVEY2QUdkbXZ2TWlMTE1Yb184cEdVNk1RWkwzbm9mVUVJdTRvSEFoNTZ2ZlRVb3N2Tlc2ejhFQmFULU0zY3FFS3c2RWZIcXVKM05TRDViNnFyaWJLbzBSZVg4VzFJQzVpOEk3cmN1MWxwNFhTWnFKaDlVelhmcGxqLWlYQ3Jta19YYU1Lb3VfXzM5RndXQlFGTmVwNHl3ZC1TdktDZ2MyQTNNYVlGZXdpak9JOVhPTkhZOWxwVC0wVHVuOXBQV29ReGFlaktOOTZLekdEcTFReGhjelhIUE5HV2gwMlJQeHM2Ynd5?oc=5"
+            "title": "不只策畫河口湖命案！李碩彬開3000萬遊說「殺夫詐保」 女助理嚇到1天閃辭",
+            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE94cmc2ZUlBS08wZFd1Uktic3lNV3VrUTZWWVd4ME5PM1FNTDV0S3UtMFhFTnlKbFpMTkhlTDBiVmFXdDNfYWRicjhiSnB2bmZY?oc=5"
         },
         {
-            "title": "中選會系統出包！1573候選人個資洩漏　沈伯洋：希望有更深度說明",
-            "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1Ia2hlNEowLWxyaHEzUHYxaFl4NU1rWjA1cU1yeTFVR1c4a0RidGphcFR2S2Y3eEJ1N1hMdzhBWlBtdUIzc3F3bdIBTEFVX3lxTE9mb3MxR2J5eGZaZ3BLMy1MOC00ek5lMWVhUEhYOTNEbHEzWHZMMFBaVUNncTBDYTV1UUIwZW1FUEtNamROSWRuOWdXZms?oc=5"
+            "title": "西班牙高鐵列車相撞已知64死 馬德里至安達魯西亞交通中斷",
+            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA5c3g3MGNLenRPRkF1cGlWZFVXcDVFa19ITWZjZVI4emFjVWpTS25qUDh3cmN2dGtwMzZYeWJHVTdnN1Z6aWNfd2hIVzItNGs?oc=5"
         },
         {
-            "title": "河口湖命案竟是夫殺妻詐保！日網怒：別來我們國家犯罪",
-            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBvQUhOVVI1TnpucTlmSlU4QTRUZnJ4WGRJZVZIQXlzRTVvenBxUzA4X3hZYVlHQkUxUjRJc3VYMWxQb1FZMjBSenhLaUZGT1RtVm4w?oc=5"
+            "title": "沈伯洋網站遭境外IP猛攻！吳思瑤深夜吐心聲　釣出沈伯洋金句回應萬人讚",
+            "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFByeVBhS2M5M083N0NjTHJ0dGFvRF90NVE2MnhtRlhnUlg5dkR3blhVTVBfOEVkbDhiUEFtM3BqaHRUMXlNLTJSNtIBTEFVX3lxTE5wcTJLSjIyd243V25aNTduM0JnaGdLWUotdW54UFNIVHFLRlBndmNCcVB4QlRNeDlMOE93V0xmakN2OUE5SXJGVFB3UjI?oc=5"
         },
         {
-            "title": "跨越32年的政治巧合！陳水扁Threads發文祝賀沈伯洋 「當年衝上台的小男孩」抽中3號",
-            "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxPaUxyemtCUnJSQmFRNTluclE3Nks0QWN3c2VaNl95dFNqX3REMzJxc3FQdkJxZEo0SDN5WWpBS1JIV2xfeXRjU21rWklmVHdmaGxPZDJfRGdrTmFZWG8wdVZvQ1RNRXluQURFMzZKYnB3bVNON0NOa0lhVXRpRzRYQW1BT1U1N2YwaGRVRENqU2ktWFdWTHY3eHFGSlFQM3RvYkdMamM1OUVHVzdsSTd6Wk1rb0dTMTdlTlVoVG9wdlFXemNxajhCSlMwRVdsZjladDhka09Ucm9qMjVPanoxQ2g0cXEwMzB5SW9xNm5CYmxNU0pfS2l5VEMzTV9sNE1jV3p2d1JfNjZkT2x5cnZXOXppSUNXcE5hWGZ3UUpkNmlkYXNqdEdwSUtuMGNTYm1laHQ2blc5b3NNQVZmRGZVZ0JIam40cE5XV19QVWw2VUJVbDZ1M2JUaDM4eGFRdw?oc=5"
+            "title": "蔣萬安夫人牌出手了！羅智強證實：石舫亘明展開輔選行程",
+            "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE00V1hLZWVSRm05SC0wUjg5SkZYcDUzaTM4OEVBN3hmQWg5TDVrYm52LXhIRGUzNVdXeFFtcjdtaXg1Q2ktSG9aNXdvQknSAVJBVV95cUxNdFphbEFpWVZ4TGVBTnJRbGdMaTB1V1U0TXBsMk95LUtaeGI1YjVvU0lNOVlSRzAyYlRBb2RvY3JmRldDdjZlN044amdNWGJITlBB?oc=5"
         },
         {
-            "title": "以色列大選變天？出口民調：內唐亞胡陣營未過半 反對派宣布勝利",
-            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5BNXE2UkQ1Z29EOEZGb0NJWHlpWlpfdjNsOUxPcjlLU0hMamhkUXZQUVFJRXBmbGhxT1B1eExCVll4VExsbGk1ZmJObEttczc1TGxmYm9wQmdhUdIBX0FVX3lxTE1haVVJVnI2aFNIY2E2a2NYM19qQm5oV2NRTjlKOUtRWmRTWGotTFlKblFmSU85M0FkM0kzTGRKTzRqWkQwRjUyajJQTjV3cHlOenpETlQ1OXFGaVk1X2FB?oc=5"
+            "title": "天氣／低溫準備下探17度，「這天」轉濕冷！冷空氣開始活躍、煙花颱風變強颱最新路徑、10日報先看",
+            "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQeFFROExQcFFaTGRSTUVPaDhrN2xYSE5DS3VhRkJKbkwwWGl1QThvTHdBb2x1eWpvd0p1TGFwWEpuY0hfaUFldm9RWklHRjVWUzJKZXktVER5X0JYUVpESHJkaWUzUmN1V0I4OU9iSlc3ZGdsblpqcjBtT1pzQnZURg?oc=5"
         },
         {
-            "title": "模仿沈伯洋辦肥皂箱與市民互動 蔣萬安本人卻神隱被酸爆",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1yWlozdllnbkpHbnBOd2lrNDdUNU9RcnpnemR2emtDRGRxX3hMYU13TjdrLUxPczdPbVFpcHQ2dTFKTUV1SllxaGtJXzNDNHg4WkNldGl0WmVaaElwOEo0VV80TGt5WU5Ob2fSAW9BVV95cUxNRGFYQXZBQXljbE12V1JIdUVPZjVKWkd6Tkw0X1IwcUx5WkRzNDY3ZlV2cFNjY2xGQ3piLVhORGNnUkhzVnp4NGdQZXB5cHBxRXRMRlR4NENldW1lUFNkX3VYeEFaaDQ0aDc0MXN3dGc?oc=5"
+            "title": "別想閃兵！「最嚴版」役男體位標準公告上路 免役率砍半",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1MSEtnVTBTbVZmVFZTYVNEWEpkRFNyYml3MXB3bTZuOV9FUFhtbkxrLUV2MXdVVVlnZkNtTW5BMjctcE13bmdHYWJvVFFteEJOTTlsVFFhVm4yR21UakRUTmFTVmk3T1U2cVHSAW9BVV95cUxQSDVJUS1uM1FEUGFmSExJck0ydi1sU05pNGVWREFvaEwzd1lnYWkyNDRQX3JYZHBUQlJzUUhHMlNrR1lTNjJzNjh2a3V1X2owN3hqS200OUhuRkJpdWZKenQ1U2NFQjhnVGtHUWVHaGc?oc=5"
         },
         {
-            "title": "市政選戰兩頭燒！蔣萬安傳身體出狀況 競辦：先取消今預排行程",
-            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBkX3NCdUhzdEczZG1KLXBWb0VZVTV4cGpwdDVtb3NlZGlXRzU4OHFsaExqd3Jvc2p3WTJFa1RPcm9hVzR4WjNYQWY1TlVnQ3FNUDY40gFYQVVfeXFMT2x2bUZONjV5bDdxRFhmal9BcXVuMTFlU2N3OW5iREFqcDVub0J3MEJ3b3oxWEM1VUJhYVJwZWQ1d3owcTlfZE1jdmMxMW1JaVl4bDRrcDZaYw?oc=5"
+            "title": "李正皓吐實「髒活我們來做」 他打臉沈伯洋：裝什麼暖流- 政治",
+            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE04Q0NKWHhGREVGV0pObFdtak9FNTZLQVFlMVI0MXduNmVXUlFiMHhraGNzQ2U1ZW0zdjRwUnFjUFF1YUNCSmpDOVktVEFHQnRZUnVMT3FLU0FLcHZpY0RybGZKQ0FJU2k0M1ZEMDNn?oc=5"
         },
         {
-            "title": "蔣萬安細數任內政策 陳智菡嗆「全是柯文哲政績」盼還公道",
-            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBWRXR4UGcyS1lIdXppa0VvMG9GRmhKQjVnWjJIZm5UalZ3YkFvMGVzMHJYeDRMRkJUaTI0Mzl5YzFLQ1NHVXcyVzRwWXdvbXc2TnVpRnV6X2NqY3drQlQ1Y1U3WHBiaVhiV1lfUWpn?oc=5"
+            "title": "拚「選前表決」普發現金2萬！KMT喊：支持國民黨就是發3萬",
+            "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE56R0tZQzgyTXA1TjlLTUtiZE9Ddm1XTVZ6c0Q1WlVoN0JvQjBfa1VLaTktZlpEN1JtaFhsbng3Z3czMTVLVmJqetIBTEFVX3lxTE9XLXgtNzF3V2I1RjlyMFhYWFpxWkswaDJOLWNHX1M0WTRQSzJ6aFV3ejBXRHV5bVM2bExqX3ZsMTl6ZFQyclhwMC1sM0k?oc=5"
         },
         {
-            "title": "破圈專訪+1！沈伯洋證實將登沈春華節目",
-            "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNd0dralJUMWxKNE02LUFSQ3JxWFB4b0FPcUp1UURkZ1NVMEZob0ZrYm9YUFo1OFNzbkN1bGhfRTdnOEN5akRBZDdsMzU3X2dNT29jYzc3TVhrd0ltb1ZYMnN1UmVNQ29uazQybFZLV2JXUGNyRWxaNklEMHJKczB5bGFsOXJ3U0lqT0NLTGxseU5yejRUaHhybkcwZE1xN08xeWxnUXJCY2dSNTd6SWVYRHNSV3U5cDM3LVZCbzZhN0IwSGw3eG9LV3RpZTlDTERwUG5oWGZadExERkdpYk5PVDNXMWIxdGt1SnhjN3M3RTUwb0p0QktPNUhTNTJtaEFXS0NEcm81aVNHaVFaRDZiSXdDSFA1c0E?oc=5"
+            "title": "蔡康永的事還沒了？國台辦：盼台灣藝人都以做堂堂正正的中國人為榮| 政治",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE12WFdVdFFUMFlRR3B2czlnTnhIcHF5WlJrem8ta0lZUWNVUW5VQy04cVh4OWFqQzRzSVVYT0R3OTYteGgtZHBBaFRBaGRYRW5Gc205RFhsb0I5eDQ?oc=5"
         }
     ]
 }
