@@ -1,46 +1,46 @@
 {
-    "updated_at": "2026-11-08 10:30",
-    "summary": "早安，為您帶來今日上午重點快報。\n\n【社會民生】\n入秋最強冷空氣報到，粉專提醒民眾，明晚至周三清晨將是這波冷空氣影響最劇烈的時間，北部及東半部低溫恐下探至15度左右，提醒觀眾務必做好保暖措施。\n\n【國際情勢】\n日本在凌晨發生規模5.7的強烈地震，震央位於靜岡縣，愛知縣部分地區觀測到震度達5強，所幸目前尚未傳出嚴重災情或海嘯警報。\n\n【政治焦點】\n選戰進入白熱化階段。民進黨立委候選人沈伯洋因支持者的小吃店疑遭霸凌，霸氣喊話「有事衝我來」。副總統候選人蕭美琴也親自站台，送上魯夫草帽及台灣航海圖，期許他成為台北市民的船長。然而，藍營也積極開闢戰場，試圖搓破沈伯洋的「暖男」人設，北市選情從優勢領先陷入五五波困境。在兩岸情勢方面，有學者觀察指出，中國近期疑進行「無聲」軍演，研判是為避免台灣選前過度施壓，進而產生反效果。國內方面，獨家報導揭露八八風災後的弊案，指稱有高金集團疑似利用紅錢滲透原鄉，以收買人心。南部選情同樣引發關注，聯合報社論指出，國民黨柯志恩讓高雄悶燒選情燃起大火，顯示當地民心思變。總統蔡英文在台中站台時，也因支持者熱情狂撩，趣味互動意外成為新聞焦點。",
+    "updated_at": "2026-11-08 23:13",
+    "summary": "晚安，為您帶來今日晚間重點快報。\n\n【天氣快訊】\n入秋最強東北季風今日報到，北部及東半部降雨機率增高，各地氣溫明顯轉涼，低溫可能下探攝氏17度，請民眾多加留意保暖。\n\n【國際焦點】\n日本靜岡深夜發生強震，當地一位甜美女主播在事發十分鐘內，以素顏、頭髮凌亂的狀態緊急上鏡播報，其專業態度反獲廣大網友讚賞。\n\n【政治焦點】\n今日政治圈話題不斷。民眾黨主席柯文哲親口坦言，明年恐面臨入監可能，並哽咽向夫人陳佩琪致歉。又一村水餃店因支持者叫囂引發關注，蔣萬安則反問為何其他店家不會如此。此外，沈伯洋手捧小麻糬登出畫面逗趣，其幕僚也被爆料已牽線蔣友柏友人。另一方面，林右昌力挺童子瑋、蘇巧慧在蘆洲造勢，而廖玉蕙則因造謠蔣萬安用垃圾車拉票，藍營議員將赴北檢提告。",
     "news": [
         {
-            "title": "入秋最強冷空氣報到 粉專：明晚到周三晨最冷低溫15度",
-            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1RNHRjcm83UE54ZkliWGZkczJUMEFuN1c0V3cwVFljTnh2RnEtd3B4d3piUlVKOEdVeG81THREV2RtUjFiR1dfYnVQNjRhZHZs0gFWQVVfeXFMT0FPNnYzNG1xeEU3TnJTdlRlcXNROHlhaW8zOEh2V3NGRVdpYS1rc2pyazZwN2I5RjY5eTEtaXNwbTNoM1VZRDRfRmh1V1Vfc1Rpd3dCRXc?oc=5"
+            "title": "入秋最強東北季風報到！北東降雨機率增 低溫下探17度",
+            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9SdVdOMnpRY0lFLXhkaGtzRGN1ajlKNmZJT3dIMjNDdW1FUHNyeU9aZFkyRGhjVEJyTk15dmRXMUwtTzJaU1ZBd3p4VDJZX00w0gFWQVVfeXFMUDlwR0t2YUdHUURLdnM1YWFsNHRfTWdpamM3QUE3c0xoSGFMTldnOTJ4UGFPNjI5WEJIeE9DVVlfRG5FUW02MmMyTEZ4TnE1TzlaRi1uWFE?oc=5"
         },
         {
-            "title": "日本凌晨突發強震！靜岡規模5.7地震 愛知縣震度達5強",
-            "link": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxNTVJCVVZvbDREa0M0dWx1SWoyYjhpYkNBZ05zeU43WlFMTHBWQUgyUE5ySDA0VmhTMklERFFjcEdZODV2Y2VyanFSMGczelItUEppZG8yTllVNXg5M3k1U3JHdFRKRnNMSktVZXBmSnFWZEpOWGM5eDc5ZE9GNkFKbzQ4LWhGZVp2bzgtMmVPRnZpcUctaUZ1T0VkSDJzS214T2JjWm40eVVvVDhHNTFpOENHazBuOXhIS1FZUjdBOW5QX1piNl91aVBpbmZPdFVnUEtER3dMXzNxTWJMdGlSZG84eU80Z3ZZWDBFbjNfcmJQcjNqQVBUZ3pxMmxSMFVqUlhLTE9kZVhWS2xmb3NsVnJGZWVzZHRoWU1qRzZLaTF3ZThpdG1UaTczaG9teUdya2x5eTJSd29qMDlCazZZNFZGc3JoUll3VlZXcnZPanRuaHBDaUZN?oc=5"
+            "title": "靜岡深夜強震！甜美女主播10分鐘衝上鏡頭 「眼鏡素顏、頭髮亂」反被讚爆",
+            "link": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxQYXBXVnhQak9ua2RvSlhITHpVSGFmTDlTZkJOQ0poSk5jdkZJYWc0QlhsRmc5aWtoUktHdENCSUNoeGh5NWJEY1g0Zl9JWmdoU3JmT21jRlN1Q3Z2dW1BbzNQTWh0aGIzRDNHVjJnWlV3aDVybm8zeDFEX1JJVkh3bVQ3TjhPTDY5MEswLTZKZ01DZmhaQnl2dVZzekdyYWdfdjExbDZJTTNaWVlXX25SSmhtVE52RjFocTR2VXRDdFNaTGh2SjAtbEVuVnFaNGVmYmc2LTRaUlNmZ3hJTlh5QXRIVTFrbFNZYUhCTk5mX1IyeUxHZ3hYTEkzeUpqRFUtcFNrOFh1ZURYQVA3a2RhNHlrMzRjN0hxWTFfTE1KRVIyRDhWdWtQUVF2cnFGSzlORzZxU2I2d2NkWHl6Ml9QOG45a2hVamdJSXpYbFVsMGVnck90VUJyWVRyZEFxYTlkNGpjTFIxRkw4N1RrN3luaVZQdU5Ta0duV1VoM0tVVlR6NmJhNC1OWFljX3BmMVdwcGRYS1plRjFTYU1keEVNQ3ZveElibUp1U21n?oc=5"
         },
         {
-            "title": "洋流水餃店「又一村」遭霸凌！沈伯洋霸氣喊：有事衝我來，別找我支持者",
-            "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNLUM2TTY0bDFjd3c4LVhlUzdpSEpxUllVMlhCYy1TZGdreFFGZFNudUlDVHlxOG5ZWEtTTHlNbFRuMFdtWDdrd19yZ05Zd3JkQ1RDQ3oxbmhXeG85V0RSZ3N3eS03aDRaZHBpRHJmYl9pa1I2djRSSjRwSkMxRHBkMjhmR01hWXVFMFk3U3pOcWJCcjlSR3BlaVF2TVNxN01oNkN3eVRTR1d3OWtnb0tvaUVGc1pEZmJKcnRoa21tOUI5cmxUaUQ5RkRyV0ZLVkwyVHM1d3ZWT2dJMTdib0pJSVltUnNnUFJTQ0tZUVU2WThpdG1ndjNxSkNOMTdjN0FEaU9aUGswU3VKenhzSk9WU0JDZEVhdDlh?oc=5"
+            "title": "柯文哲親口認了「明年可能入監」 哽咽向陳佩琪道歉",
+            "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxQV0lIVGctWDJ3QlJHTmh2RXZOWkpPMWJ2UnV4dnJOdXotR0ktZTJhMjhKanUyTGFocUo3cEoxZ3ZwcXV6V1d3c0Zhbkl4OU5jck5QMkdmWVFLTXhRMng5U2VGR0UxLUs1aDRhT3VrOFE4elJoSzZBc1BpRF9kWTE2bzBPT1I3N3EtMUIxT3BybmJQZ2hoY3NwQkkyaHdJOWZCVFRhVnEweXhsb042ZnM4dGZsT2tZSFlfSmtac2lORGgzNU9PUENYaktHYW1IMG9wczVwcUpUREo3b2d6WlZJdElMZTM1QVZvOHRMOWRkVDlSYUR1YlZmYkhVbUdTbEh0a25Sb2dDYzBaTzBYSjQ5MzlVM2RSQlVFUkFGbU9OMTRCam1UMW50SVV0UWI4SE5nWTdjRVZhdDNfdmxHYVZUOHlId1drOVYtREhnZ05fX1lXdw?oc=5"
         },
         {
-            "title": "中國疑「無聲」軍演學者：避免台灣選前過度施壓致反效果| 政治",
-            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1BUENoenZaaHZhZjB5Z1FJSXgwTUViSE5SUTRkTzFycWk2cURKMDVfVlJadFN4VTRrRWVRQng3UWxCUzd0aWx5WHJJTmh0Y0tVeDVXMV9NOUJWZVdrNzJV?oc=5"
+            "title": "又一村水餃店曝「支持者叫囂讓小孩害怕」　蔣萬安反問：為何其他店家不會如此？",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9MeFFfVkoxTkxEVUlXeUlZcUdOdFBaUGR5QTFqZWlHR3hjcDFycGMxZEdsaWdCMXB6SWZjdkpUbDljT2F6bEFXSjdtbGF3NFo3VVJoTWJGYnVYdjDSAWBBVV95cUxQM1lSODJNekZvVFZBaU8tdVFFem83LXJPb2sxR0Zuazd1MjZha1NGbEdSV2RmWDRuclBsRUczbWNGaFdpT2g4V1RoU2VRT1c4dHRMdjc4TWE4VVJEY2thZGw?oc=5"
         },
         {
-            "title": "蕭美琴送「魯夫草帽+台灣航海圖」　期許沈伯洋成為台北市民的船長",
-            "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE8tMHVUSllQc2pPUExoN2JOY0xUVGJoUDNaNWZPbGFwdEh5QWFNVk5jR2U0R0tHZzZWbktTMUpHVFM5WmdWRkRpTNIBTEFVX3lxTE80OGdPeHBRRXpoZUdyampRVmw2Q195TUZuVDlzUlFwbk1hRGNJcllQRXRLcE55TTgxT2ZWaG5CNno3MGtNdXdEbW9nMGY?oc=5"
+            "title": "看到超入迷！沈伯洋手捧1物突然「登出」 一聽送給小麻糬才回神",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE11S0s2VUctQ1E0aFFxb3gyUk02S2dxcGNPUWh0cUJEVW1XWDJBR28zX0pMdmozV3BZcnFSSXNGY1h0Tnh6djN3bTUtZ01fdUhZRHV5by05c285NWNObGRkUnVqT0RUclNHUFHSAW9BVV95cUxOZ1FjQktRcXZDMzFQM1ZyNE4yUkh3TUFyNGRsZFhFN2F0TGdpZFhySlJrRWstSElGajRmY1ZvMkFRMDhrby14ODdpWk5GMXlyNi1KTFVjV3lBMENsUDJLWVVrUDE2VHBzc3FkRWlZTjg?oc=5"
         },
         {
-            "title": "獨家》八八風災成破口！高金集團紅錢「滲透」原鄉收買人心",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ncUJfQkJ6dmsyWGVoR24tWE9fVFBaRm54MnU0OHV6d0czRE5hTy1KS2xCMU5oT1dnZkVuM1Rxbm5YczJOZHRqcTU5V3loQ0x1R0I5X182ZVcyUHRYcmp2eTBIYTExN2lMUXfSAW9BVV95cUxNT3UzUWltanVySmZtLUhZNF9LbHZZR0NJSGtXU0ZwZk01aXVub3ZIUjJBTU03Q0tMYlNkbzF0N3hZZXpOdjljLUR2MDU5RGRIRHFMR3QzR2FYRElIVXNnU2ltRmpRY0xwT18tNk1VOUE?oc=5"
+            "title": "林右昌力挺童子瑋　願任市政顧問團總團長鞭策",
+            "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB3TXFKcF91Ymp5cG94UnJpZ2hreURQVjF0VmQ0VGoySFlVd1FZU3EwcnhmSkZjMlBnMm0xY2NnRWxldi1rTWRpQtIBTEFVX3lxTE82SHA2UEhBODRyal96N0VGWVUyekdiZzNlajFlTEVPdERGZGstalQxUGFOSzJGR2FOekI1Q21VNU55ZVRMR2p0MWJvdTA?oc=5"
         },
         {
-            "title": "觀察／北市選戰從優勢領先陷五五波困境！藍營立院開闢第二戰場搓破沈伯洋「暖男」人設",
-            "link": "https://news.google.com/rss/articles/CBMiiARBVV95cUxQRG9salZYZ1FlbzZiQ0lUUGdQZ0l1QTItajJsMml0R0VCVkR4cVNieV9BSU1UYVZkUzVJdGdvRjNWVWg5MlVEYXU4eFFYR2hIZS1IYnVXeWhlaER6aHVPb2M4TWotSno1Zk5aS3VPVU8tR1Izb2xJNGpBQzJGZ2xWd01xa0x0SFRCLW5ycGhwNzk0VkZGaHZYdEhjckJwZzl3YXpWbGVvOFFndFBxUFE1ajVKN0lqY1p6ZEFLay1xM2RzWTduU05Nb0EtYVNlRHJBSG91cFRmRTdWNDVneHYzTTdobjR0dWM2WXdDSHNnaEpXYUc2Y1JrY0l0SXFwSUxLN3ZCMjF6V2hzM0lmZ0ptd09HaW1aRTFocWhmdEtNQWJYSzVWQUUwTEx1RXhYblJ6TUR3cHVkSTRxUjRmMUJZb2NRbGM5eFBkSE1EVWlTNXBlb3hmakVWd3ltY2hUMWtzUFpnWmEydWh6cm42OXFlT2s2S1RUTGk0OE14TUFMT3hGQ0ZlVVRvSGFvMm1rUVNhOE1hSnhNUzRFNmJqcExQQWNZQjFmR3Q0R0gzeVVzb3JQd0ljMHJxR3E3dnoteV9qWV9lakFmdG9rTnNKcjVIQTFnQko0M2x5aHVuZktHb1AwdlVDZnBSVnN5TTdNTTdzT0d2aUNjQzNlU19VV3EwcUJXNTZDUW9p?oc=5"
+            "title": "蘆洲造勢人山人海！蘇巧慧：最後一起衝刺、讓新北「衛星變繁星」",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Zb3FpSkhaSFRPMlktREkzeE5pcm5XMm1NMDdNb2Y1MzlwanU2b0Z1LWFWNTRhUWdFaUMzVFJ2UHFfVURfWTFWYXVXQVc3RDdKMENja0FlNGJvZFVhcko1cDZFUlRkRG4teWfSAW9BVV95cUxQd0FrRVE3MmpUcDZVRTllZHVTNVdTbUVzckpEMHB0YllSdTcxeW9IMlh3R0tBMTdpU0pidnRCaVBSQ0lNWXdWS01xNHNYVWk0X2hSbjJvN3ZOQUtDZzdCNFhrc0ZBclppdWdpM0xEbGc?oc=5"
         },
         {
-            "title": "聯合報社論／民心思變：柯志恩讓高雄悶燒選情燃起大火",
-            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBqQW1ibDZUOTI3RU16WHFhdVZRZDJCWnR4Q0E2VFN6di11VXYzYkM4SThCRndsLVZLUmI1UDF5SGg0ck00MnBGWjk0N1hiSUFp0gFWQVVfeXFMT2RYUHJMRkF4VmJHX0F4cFN1VF9Oc0NoYnFaZUpZYXZyUkNpMTBTMmY5ZmVBaVlGcXpxYmktWk51bElnSlBzZnRNT0lIaVZuNjR3c0k4bGc?oc=5"
+            "title": "廖玉蕙造謠蔣萬安用垃圾車拉票 藍議員明赴北檢提告：幹髒活要付代價",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0zbGI4VXhhdkxGcUJNenpkU3BzUTgxX1FUUkgwZ01ERU5ZN1B0RFFfNEdIOWF5NjdNWUdqNlNBUGZLTDRYLUxlSGdVZzhUNjJtZ1RB0gFYQVVfeXFMUFV5dG04WmxpSXY1YktGVkxOa3RQLTZ1Vk0taUFVa2dUSlVZSjB3S0g4UHRTUGZVamQyaWt5UnY2akVRaGxhRmxhNjBWN0ZXWVB4cC1UMEtxSQ?oc=5"
         },
         {
-            "title": "印象深刻！加拿大網紅拍片談沈伯洋 讚1舉動：國民黨很少這樣做",
-            "link": "https://news.google.com/rss/articles/CBMikANBVV95cUxON0lmajRlOUE2WG1jWjczQVBNcVMwdVcxNkJsT0s0YlJ6S1hhaXdxTkdCeHUxMFBLWUZzWmJqVDkxd0toZWRfR2J4RTgyRWViUnQ2em90Si02TUdINjFhZW9JelZyVkFTMTNGTjhscW9TcFFVdkxpaUw0aWM0ZC0xSW4yUnJsbFplX1UycE9mNGg4SDd3eHVJMk9XbnBCcVJadG5vdlRyMGhJVEg5VGN3NGp4RTBnWXlNTG16dkNkZmRaMW51N3BQQUtSUkZvdzZBd0FCMEthSmNsSVFCUktfT0VOWk5uOGlQdkU0bDNCSHRCQUJCX21IdHk4Z2dyQ1VjaHVjLTAzV1FhdzlBRjRsaWJRYllhSEY1WW14VDk4OEJ6RWVueTJERk1lanpfWXJqSm1KNlpRUURNN1FHQmg4dVVLc1VtYnpkeC1pektBbHFOWTVpc1FLa2o4RndiU0pOeGh3U0dNam14R25xc2lRREh6cEttV2FXZXB5TlRiMUJNOFBNZjZBbmJWblMwZHJS?oc=5"
+            "title": "蔣萬安驚喜「現聲」影片 幫邱臣遠加油：帶領竹北愈來愈好",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9CbmlLY2l4MERQSW4tN1VWN3NyenhwZlRSZzNWT3dQMzJfRkhWWkYyWVBDUU5meHpWMW90aHJxNWdtN1RtclhpdVRpVHNWR0hycEhR0gFYQVVfeXFMT1VkOVBuU3VQX3lUNDE2aGU2TWpvV05STlRDaXFaZjdHZUZVdlRIcUphTmFkZ1JIb2E2bXFOSElPV2dPcXhDUWV0ZWdJWHc1MVJ3c0xzSTVBSw?oc=5"
         },
         {
-            "title": "蔡英文台中站台狂被撩！ 招架不住愣7秒：不要消費我",
-            "link": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxOQnZ3UnAySWdESHFRajQtaERta2JFLXZSU0hYZ3Z5X0VRa1lvY3Z4bmxzaUFYZ1J5bmNCbmtoSDlra2VLZkVlWHpMMkVlMHdQNFlzMy1pRXZQbzBEMWRDR2gxbFVBSmhubTcwSTVQbEFheUtpNmZ3V09zU1lXTzhDcUdNLWFITTlVbHlaaWV1VkJ3MkFkRnFDTE1rMEhfVDBCVnk5UWFYaDRMVUxibUhfZ3E5ZEZJRkhqWkNsdzE3X0xJcXZjT2VPby0yOGwtLVFUVlFObmlIQ3ZNdldSNXgxdldZQ2ZDY2E2RWlEWTM3M2lMY2hxMWJrTEoyUm1NUDVueXFvY2U2aWlXSDllV1p6Tk1hbkFPOGlwYkxXcGxBdUZFTS1jRXJjbjZDRW9ZSTdXQXM2UGxjLVFFSFhpMGRhWWhmOUhiSmR4dkVGWkFSSHB3ZXM?oc=5"
+            "title": "黃揚明爆：沈伯洋幕僚已找上蔣友柏友人牽線",
+            "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxQNm8xa3VyNm1jWkotQ3ZOSDZTVUVkeGY5MmdRaGhHTnRGSkZPV25ackNnZDB4UkppYVh2MF9TNjZ1MjdhR1RORXNPTmNreWl6QTBBTlpfYnE1VEtPZFgtSlZiUDRJZU90TVQ3Q3RQQ2pnRFZFVWlNYVJ0bC12T1dObHEySjZGbWtFTmtZYXNFNHlscHJ3empMUFZVV2czeTd2WWRZbnBzclItNVg1TlRCU1BUS3dqWDdDZFpjczgzcmhPbXRQOE9MaU1Sanc4Tlh0T25zUno3RlVNYi1yLTVYREl6TmVyeXIzYkpsNHo3RnN5V3EzNFlCN2wtLXcwMjc1cFgtR3A2NldyU1NUdkZQdjdPOXUzTWZsWVRYVlNIWnpvMUVhcDNJWHpzNDBJN2gxZWhNREdnZUg?oc=5"
         }
     ]
 }
