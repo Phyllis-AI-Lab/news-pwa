@@ -1,46 +1,46 @@
 {
-    "updated_at": "2026-11-08 23:13",
-    "summary": "晚安，為您帶來今日晚間重點快報。\n\n【天氣快訊】\n入秋最強東北季風今日報到，北部及東半部降雨機率增高，各地氣溫明顯轉涼，低溫可能下探攝氏17度，請民眾多加留意保暖。\n\n【國際焦點】\n日本靜岡深夜發生強震，當地一位甜美女主播在事發十分鐘內，以素顏、頭髮凌亂的狀態緊急上鏡播報，其專業態度反獲廣大網友讚賞。\n\n【政治焦點】\n今日政治圈話題不斷。民眾黨主席柯文哲親口坦言，明年恐面臨入監可能，並哽咽向夫人陳佩琪致歉。又一村水餃店因支持者叫囂引發關注，蔣萬安則反問為何其他店家不會如此。此外，沈伯洋手捧小麻糬登出畫面逗趣，其幕僚也被爆料已牽線蔣友柏友人。另一方面，林右昌力挺童子瑋、蘇巧慧在蘆洲造勢，而廖玉蕙則因造謠蔣萬安用垃圾車拉票，藍營議員將赴北檢提告。",
+    "updated_at": "2026-11-09 10:39",
+    "summary": "早安，為您帶來今日上午重點快報。\n\n【財經動態】\n台股在國安基金出手護盤下，早盤狂飆兩千點，分析師李永年提醒投資人切勿急於追高。\n\n【國際情勢】\n美國前總統川普證實美軍再度空襲伊朗，他同時對共和黨期中選舉結果不滿，直指美國倒退一大步。\n\n【政治焦點】\n國內政治方面，聯合報社論重批卓榮泰毀憲不副署，應以選票制裁。民進黨立委沈伯洋則以「洋流祭」創新方式推廣政策。最新民調顯示蘇巧慧佔上風，但李四川勝選看好度已反超。蔣萬安與王鴻薇掃街時遇叫囂，引發網路熱議。\n\n【社會民生】\n天氣方面，東北季風增強，北部轉雨降溫約十度，吳德榮預告明晨低溫將達十五度。此外，國軍首位駕F-16越洋女飛官身分也正式曝光。",
     "news": [
         {
-            "title": "入秋最強東北季風報到！北東降雨機率增 低溫下探17度",
-            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9SdVdOMnpRY0lFLXhkaGtzRGN1ajlKNmZJT3dIMjNDdW1FUHNyeU9aZFkyRGhjVEJyTk15dmRXMUwtTzJaU1ZBd3p4VDJZX00w0gFWQVVfeXFMUDlwR0t2YUdHUURLdnM1YWFsNHRfTWdpamM3QUE3c0xoSGFMTldnOTJ4UGFPNjI5WEJIeE9DVVlfRG5FUW02MmMyTEZ4TnE1TzlaRi1uWFE?oc=5"
+            "title": "【Yahoo早盤】國安基金出手救市！台股狂飆2000點 分析師李永年：別急著追高",
+            "link": "https://news.google.com/rss/articles/CBMi0ANBVV95cUxNQkJSdXpDTy1JcXZucG5qWmh5NUNZbUQ5VFd5clVUa1FCUU1JbkFfSTA0Szc0R2pDdjc4al9JNHZKV0tBN0UzNEp2TGFiUXk3VFktaDBuNXphT2V2VmlJX0Z3Y2xDUkVORWs1ZTVleWc2Q09XaVlveGhvdk9ZRnBTU000ejZSZ0g4M1BXUXIwcW5WQmNHX2YxOVBwd2xfaE0xakFxN21nd0lKNGx1OVBzZVRTbDZyUDU1cGp6V1B3aWFKSFpSdDVjNEhsWVJHVzBmbW9xRjZIVTBHMTlwVHNHUXEteDZJUzhXLTdSNTk2NjhCYWxrdnZBNFRRRzB1Q3JMejNlX2JaZFRncU5jb1I3eVlkWjd3cjRRTXZsanpiU3lmNHI5X2FNYzF4am5rMU1LdEJHMENQdDNyR3VDTU1xajBBVXprdFFMRGN5TmdBTkg4RS1DZy1TWVBMMnZXdUFrbU9hbDNvODZmNEo2cUVRcU1kM3BzbUM2ZW0zLUdMQ21ZYjRBdGxuV000TXZiQXZNaTVRZUU3dnNwNHlINWdWd29IYXpDMkhleTYzN2lKYkZNSlkzVVphTE1EZmROdGlWVm5XNUpMYnNKWEVUcEhlXw?oc=5"
         },
         {
-            "title": "靜岡深夜強震！甜美女主播10分鐘衝上鏡頭 「眼鏡素顏、頭髮亂」反被讚爆",
-            "link": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxQYXBXVnhQak9ua2RvSlhITHpVSGFmTDlTZkJOQ0poSk5jdkZJYWc0QlhsRmc5aWtoUktHdENCSUNoeGh5NWJEY1g0Zl9JWmdoU3JmT21jRlN1Q3Z2dW1BbzNQTWh0aGIzRDNHVjJnWlV3aDVybm8zeDFEX1JJVkh3bVQ3TjhPTDY5MEswLTZKZ01DZmhaQnl2dVZzekdyYWdfdjExbDZJTTNaWVlXX25SSmhtVE52RjFocTR2VXRDdFNaTGh2SjAtbEVuVnFaNGVmYmc2LTRaUlNmZ3hJTlh5QXRIVTFrbFNZYUhCTk5mX1IyeUxHZ3hYTEkzeUpqRFUtcFNrOFh1ZURYQVA3a2RhNHlrMzRjN0hxWTFfTE1KRVIyRDhWdWtQUVF2cnFGSzlORzZxU2I2d2NkWHl6Ml9QOG45a2hVamdJSXpYbFVsMGVnck90VUJyWVRyZEFxYTlkNGpjTFIxRkw4N1RrN3luaVZQdU5Ta0duV1VoM0tVVlR6NmJhNC1OWFljX3BmMVdwcGRYS1plRjFTYU1keEVNQ3ZveElibUp1U21n?oc=5"
+            "title": "降10度！東北季風增強北部轉雨愈晚愈涼 吳德榮：明晨低溫15度",
+            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAwQmZuVnlodkxCTklGOGQwaTliV3UySDVwLS1zeW5xMnpCYVVZLXd0SVcwZEpmdV9COUg1azR3MHRlUmpiUjBYTDUyWGRfZGJl0gFWQVVfeXFMTVhNbHhHZjVvdFhGOXZWYnpsVXFZUmhHbHc2WTNSZkNxTmo5dGtCQVBlS1JPemxQcGRjUlphYW9jSnZ4cWlZWjk1bTc4YkV2V3NDMWplTFE?oc=5"
         },
         {
-            "title": "柯文哲親口認了「明年可能入監」 哽咽向陳佩琪道歉",
-            "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxQV0lIVGctWDJ3QlJHTmh2RXZOWkpPMWJ2UnV4dnJOdXotR0ktZTJhMjhKanUyTGFocUo3cEoxZ3ZwcXV6V1d3c0Zhbkl4OU5jck5QMkdmWVFLTXhRMng5U2VGR0UxLUs1aDRhT3VrOFE4elJoSzZBc1BpRF9kWTE2bzBPT1I3N3EtMUIxT3BybmJQZ2hoY3NwQkkyaHdJOWZCVFRhVnEweXhsb042ZnM4dGZsT2tZSFlfSmtac2lORGgzNU9PUENYaktHYW1IMG9wczVwcUpUREo3b2d6WlZJdElMZTM1QVZvOHRMOWRkVDlSYUR1YlZmYkhVbUdTbEh0a25Sb2dDYzBaTzBYSjQ5MzlVM2RSQlVFUkFGbU9OMTRCam1UMW50SVV0UWI4SE5nWTdjRVZhdDNfdmxHYVZUOHlId1drOVYtREhnZ05fX1lXdw?oc=5"
+            "title": "最新民調「蘇巧慧42％占上風」 李四川勝選看好度反超了",
+            "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxPd0dvN0lsa0oyRWx1ZWZCRi16SW1MUC1JLTllQUVLQmQ0ak1SLVk0S2V2czQ3S3g1dDZLemFHYWk3LThLTkF6SnQzU2QyRklUbHp6S29SYktGSzBMVnBSR0lYbWNVLVRKclB3Vk02S3I2NEhHWG55aGYzSHkwbGFzZEd4WVFnRHJKNEVqX1l1bS1CaUNNT1dlbmpEaFRRWEx6UFV4dlVFbzM3S05HVDQ5Nk5IcHFJVlRDb1VCRFdOV2k2VEZlcjlfU3dPWG9YWTh3Q0JyRndka3ZIamlkQkppOGhoamRpbVFkN0ZPQmJ3TUhOb08wOXFYTVphaFVVOEJ0Ry1JMGZmMVBVR3JuQm1oSHVwM0pvT3F3LUZqbFZGaDRqejFxQXZfSVE4R3NOZ2d4MlYzVGdDNE1Ta3BqRGpFX3ljVmVIX0pmTUd5c3U0eFVpaWxlVWc?oc=5"
         },
         {
-            "title": "又一村水餃店曝「支持者叫囂讓小孩害怕」　蔣萬安反問：為何其他店家不會如此？",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9MeFFfVkoxTkxEVUlXeUlZcUdOdFBaUGR5QTFqZWlHR3hjcDFycGMxZEdsaWdCMXB6SWZjdkpUbDljT2F6bEFXSjdtbGF3NFo3VVJoTWJGYnVYdjDSAWBBVV95cUxQM1lSODJNekZvVFZBaU8tdVFFem83LXJPb2sxR0Zuazd1MjZha1NGbEdSV2RmWDRuclBsRUczbWNGaFdpT2g4V1RoU2VRT1c4dHRMdjc4TWE4VVJEY2thZGw?oc=5"
+            "title": "獨家／沈伯洋出新招再辦「洋流祭」 把「政策島」搬進公園邊聽團邊闖關| 政治",
+            "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE01bUREZXAzZUV6V212WUxxTWhiMVNpMDA2SGxpd1F2WHRaWTNfSGwxQmcwSEdzZUxNWERPZ2g1YzFDZnBYTkdNQw?oc=5"
         },
         {
-            "title": "看到超入迷！沈伯洋手捧1物突然「登出」 一聽送給小麻糬才回神",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE11S0s2VUctQ1E0aFFxb3gyUk02S2dxcGNPUWh0cUJEVW1XWDJBR28zX0pMdmozV3BZcnFSSXNGY1h0Tnh6djN3bTUtZ01fdUhZRHV5by05c285NWNObGRkUnVqT0RUclNHUFHSAW9BVV95cUxOZ1FjQktRcXZDMzFQM1ZyNE4yUkh3TUFyNGRsZFhFN2F0TGdpZFhySlJrRWstSElGajRmY1ZvMkFRMDhrby14ODdpWk5GMXlyNi1KTFVjV3lBMENsUDJLWVVrUDE2VHBzc3FkRWlZTjg?oc=5"
+            "title": "川普證實美軍再度「空襲伊朗」：5～15分鐘摧毀防空系統",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5HUGJ2cVpJZjgwdVNKclBZS2FaSXoxSWpkQWdiYWJEd0JUMEtmd2RBOTZsMjN4STlNVlpSWkR5cTZhMGR4dnFjcWVLd3ZOZ0xlaUtZ?oc=5"
         },
         {
-            "title": "林右昌力挺童子瑋　願任市政顧問團總團長鞭策",
-            "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB3TXFKcF91Ymp5cG94UnJpZ2hreURQVjF0VmQ0VGoySFlVd1FZU3EwcnhmSkZjMlBnMm0xY2NnRWxldi1rTWRpQtIBTEFVX3lxTE82SHA2UEhBODRyal96N0VGWVUyekdiZzNlajFlTEVPdERGZGstalQxUGFOSzJGR2FOekI1Q21VNU55ZVRMR2p0MWJvdTA?oc=5"
+            "title": "不滿共和黨敗選 川普稱期中選舉結果使美國倒退一大步",
+            "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA0MUc4WnlnRW5XanctNU91NzFnY2RpemJNYVVUTDdXWFI4TXNzTkVCS2hFZkZXLUNLSWdURkoxOTJKNlBxR3FGaXJRUnJVQlN0QTFUS256V24wUnoyY1dfSlp30gFnQVVfeXFMTTlZQlRReU5DendjMGpuSzRPeEl1YkNnRktFcEpMSHVOcXNIWGozNW9iOUdnR1ZoYkZmMW9iV25fSllObGw0cW1zSVlfVVpjOHNESW9OZ1RLelRkdkpNTmEwTkxFQ3BzZw?oc=5"
         },
         {
-            "title": "蘆洲造勢人山人海！蘇巧慧：最後一起衝刺、讓新北「衛星變繁星」",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Zb3FpSkhaSFRPMlktREkzeE5pcm5XMm1NMDdNb2Y1MzlwanU2b0Z1LWFWNTRhUWdFaUMzVFJ2UHFfVURfWTFWYXVXQVc3RDdKMENja0FlNGJvZFVhcko1cDZFUlRkRG4teWfSAW9BVV95cUxQd0FrRVE3MmpUcDZVRTllZHVTNVdTbUVzckpEMHB0YllSdTcxeW9IMlh3R0tBMTdpU0pidnRCaVBSQ0lNWXdWS01xNHNYVWk0X2hSbjJvN3ZOQUtDZzdCNFhrc0ZBclppdWdpM0xEbGc?oc=5"
+            "title": "聯合報社論／卓榮泰毀憲不副署，當然要以選票制裁",
+            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE03S3BtQXlxTmZBY2xyZkVTOHBXekliaUlrdW1RZWZFNmhlM2gtWjRydk1ERTlKRHNuTGV2UFpvdmM2cG85ZGMxMVBkV29jTVY50gFWQVVfeXFMUHRiem1xZHlueXFTemx1Y25uNG9JSFVaYUpCMmtkSkR5cjNoRWlVczVzVmUtMlFBcGtnWFZaVFlQekxpbHpqQnVjR1BkTHRWZ2tqc0U3NWc?oc=5"
         },
         {
-            "title": "廖玉蕙造謠蔣萬安用垃圾車拉票 藍議員明赴北檢提告：幹髒活要付代價",
-            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0zbGI4VXhhdkxGcUJNenpkU3BzUTgxX1FUUkgwZ01ERU5ZN1B0RFFfNEdIOWF5NjdNWUdqNlNBUGZLTDRYLUxlSGdVZzhUNjJtZ1RB0gFYQVVfeXFMUFV5dG04WmxpSXY1YktGVkxOa3RQLTZ1Vk0taUFVa2dUSlVZSjB3S0g4UHRTUGZVamQyaWt5UnY2akVRaGxhRmxhNjBWN0ZXWVB4cC1UMEtxSQ?oc=5"
+            "title": "國軍首位駕F-16越洋女飛官不是「馬尾妹」 真實身分是她",
+            "link": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxQcV80Nk5hQ1JmTG9lb043eWRHM2d1cFJmQVZCcV8teGdmMm9QRU04X0pMd0lhS2ExVHBFRDlnWmZqTlQ4R25JOGszcFdteE5XUkY1X0EzR09XQVg4REl1Zm5ueExHUFdZNFVBRWN1MjB4TVAwUEhaUVZfQjFhblllV2NIeGU0SmJ2UUs1eWF2eFg1eWhfMGZQa0Zub3dZcXZsYmt2NGtIMm52UzBITU1TbGxJRTNfOVV3em1FS2tqblQ3T19CU0Ntamh2NzN0MHN3UWJBWDV6YXA3UkhZTVZpMWd2WkllMU9IbDFULWhheXluYU5za21sMTFqVUpqZ0dKTUFQSVYxZE83RzJiZTBJbkxMZlhUZmFqcWl3dnlHb1ZxNGJpZDdlTXZfT3cxUmtERHdDWFpCTS1ucnRuWDRIWUk5TTdrdTNnUzVYbk94Uzc3WHVsWW9z?oc=5"
         },
         {
-            "title": "蔣萬安驚喜「現聲」影片 幫邱臣遠加油：帶領竹北愈來愈好",
-            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9CbmlLY2l4MERQSW4tN1VWN3NyenhwZlRSZzNWT3dQMzJfRkhWWkYyWVBDUU5meHpWMW90aHJxNWdtN1RtclhpdVRpVHNWR0hycEhR0gFYQVVfeXFMT1VkOVBuU3VQX3lUNDE2aGU2TWpvV05STlRDaXFaZjdHZUZVdlRIcUphTmFkZ1JIb2E2bXFOSElPV2dPcXhDUWV0ZWdJWHc1MVJ3c0xzSTVBSw?oc=5"
+            "title": "蔣萬安掃街爆叫囂！王鴻薇深夜喊冤 網不買單轟：拜票非比分貝",
+            "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFAwNjBMRGdmdXhUOW43N3p4dkdBbExuOGN1R05IeThTYjZ0Sjl5S0dBbkxqX1VxNW1zSUotc1I1YUxTWmpqeTNqc9IBTEFVX3lxTE5ZTDRWWWdWeWQtcXFSeVRMWnpNc1Jtc2w2am1FNHVxb2hYUkY0UldJMFNTTzFUcTJGRTVMYURpN2VCWllrd1E5Zlp2T1o?oc=5"
         },
         {
-            "title": "黃揚明爆：沈伯洋幕僚已找上蔣友柏友人牽線",
-            "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxQNm8xa3VyNm1jWkotQ3ZOSDZTVUVkeGY5MmdRaGhHTnRGSkZPV25ackNnZDB4UkppYVh2MF9TNjZ1MjdhR1RORXNPTmNreWl6QTBBTlpfYnE1VEtPZFgtSlZiUDRJZU90TVQ3Q3RQQ2pnRFZFVWlNYVJ0bC12T1dObHEySjZGbWtFTmtZYXNFNHlscHJ3empMUFZVV2czeTd2WWRZbnBzclItNVg1TlRCU1BUS3dqWDdDZFpjczgzcmhPbXRQOE9MaU1Sanc4Tlh0T25zUno3RlVNYi1yLTVYREl6TmVyeXIzYkpsNHo3RnN5V3EzNFlCN2wtLXcwMjc1cFgtR3A2NldyU1NUdkZQdjdPOXUzTWZsWVRYVlNIWnpvMUVhcDNJWHpzNDBJN2gxZWhNREdnZUg?oc=5"
+            "title": "趙少康幫邱臣遠站台 指國民黨不該「吃乾抹淨」》考紀會：若無意承擔黨員義務 就該知所進退",
+            "link": "https://news.google.com/rss/articles/CBMizANBVV95cUxQMDJ5Z2VaSW02MFJCMEZTUkwwcG1rb2R1bXFJRjVlSzE5QTBZOUV5OXZiQ045aUVEb3dPcS0wa3hjRHEySURWbkdZY29Fc0dzRGtpWGN3eGIwTVBFd1l6S0ZwWV83N0VUNXozT0dwZllQOHYyakcxZXNJaGpnX0JsVjBKV2VKQTBWdlhWeFR2MTZhdUcyU09hV3pzaXdrUXQwMkpvdUNpWnZ2Z0pEQ1FSQlBMVnFpVjd2Smsya1UxcUNjNy1jNHdrOGNFek5TakY3SW9Ea0FMX0M0MjNSZm81VUVSUmJsZm1RWnEyQVJGcm9wZTV0WkdEdTJKVzByOUpXWjgtNW82NTE5TGpFYWtxT1U0YmNvc3ZxNFUwRXJVWjVkbHJBOV90NG1EQ01vZ3hjcngyU0N5YjJkRjkzbzd5VWN6ZWhIUjkxN3dRRi1VT0ZycndKSEE4TjZocnFMbzdZNUl5X0lIN1hNOC0tZjR5cEprYWtFUC1xUHh4c1RwcnpfQmlYY1ZIRjd4SFJsblVXSVBPWHlLSmtwWlVKdWpfNjNDcUlpR3dlOW5ydEo3b1pvNzlTcHZhZGhfQTB0UjJrQUxwTFV6akFFV0NB?oc=5"
         }
     ]
 }
