@@ -1,46 +1,46 @@
 {
-    "updated_at": "2026-11-12 00:10",
-    "summary": "晚安，為您帶來今日晚間重點快報。\n\n【財經動態】\n美股早盤在CoreWeave財報助攻下，那斯達克指數領漲，其中台積電ADR更上漲逾4%，顯示市場對科技股表現樂觀。\n\n【國際情勢】\n義大利傳出近三百間學校收到炸彈恐嚇信，初步調查指出，疑似有大葉大學校友帳號遭盜用，事件是否關聯仍待釐清。\n\n【政治焦點】\n資深歌手羅大佑針對總統蔡英文、副總統候選人蕭美琴未生育發表言論，引發討論，台北市長蔣萬安則強調不應以此作為判斷標準。前立委鄭麗文評估，有三縣市選情恐面臨翻盤危機，但堅信「敗選下台不會發生」。總統府宣布，將由資深企業家施振榮擔任APEC領袖代表，賴清德總統已交付三項任務。此外，藍白選民在投票日能否再次複製「大罷免」經驗，學者戴立安分析，這次恐難以重演。基隆市長謝國樑在辯論會中途的六秒沉默，也引發外界廣泛討論。\n\n【社會民生】\n天氣方面，明日白天氣溫將回升，清晨西半部低溫約18度；但預計下週天氣將再度轉變，低溫可能探至16度。",
+    "updated_at": "2026-11-12 11:49",
+    "summary": "早安，為您帶來今日上午重點快報。\n\n【氣象生活】\n週末全台將轉雨，下波鋒面猛襲再降溫，強聖嬰現象發威，仍有寒流機會。\n\n【政治焦點】\n藍白合體，蔣萬安攜手白營小雞，肯定柯文哲市府政績。羅大佑則點名蔡英文總統未婚無子女引發討論。此外，學者連署發起兩岸和平倡議，陸委會提醒應認清中共本質。\n\n【國際情勢】\n美國戰爭部長彈劾案受挫，共和黨內鬥風暴持續。俄羅斯方面公布本輪俄美烏三方會談成果，並未與歐方接觸。\n\n【社會司法】\n寶林茶室毒粿條釀六死案，負責人遭判刑一年十個月。彰化縣議長謝典霖涉貪羈押，今日召開延押庭。",
     "news": [
         {
-            "title": "〈美股早盤〉CoreWeave財報助攻！那指領漲 台積電ADR漲逾4%",
-            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE01cC1yVi1yVjcwOVB3endxVEpyZGpPeTJkbUdPSlF3b2JmQ1pVeGx2anRGMFFnNFVzMVF2NWpRNHZqbHdnVnJSWWt0X040Ums?oc=5"
+            "title": "週末全台轉雨！下波鋒面猛襲再降溫 強聖嬰發威仍有寒流",
+            "link": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxNNmpLM0tycWFtUTJkZlowZTU1blRhQjg2c2FCbllRZUpVTkYtSy0xMnMtLUM0NFZ1aXZUelJrcTRoTUlGdVNSaTlTanZjcmRxZjFXTHhQNTVnSE1BcHN1OHJHMDdMTmZTSkk5cklTZTRDa0tGSDkxeFZTZ0dVT0RROU93MG1uQkNFVGhfRW5VYlphMDd4Uy1ILXFUZW9XUE1fd2NjS0tURVJlMFgzQVlGdWhycTk5N2NvQUxLbUlNOXBnTUN3Wk03cTRUdkZCc19WaUpfd2Y0S1FDU2dZT1pwNVFEZjFhUUI1RzBrSzljcEFLejdUbzMtSjVyVnh6Tjc2SEhsdEgwNmJtTVoxYlhjMm44MEd1eU9oX1hTTlpXMExXQzZnMFlpRDFTV1VMU1VDeTEyT2Y5TC1Lald3R2M2b01SbDZ1U1NTck1MY0k1eVlQcTNnZlJLV2tOb2RyeExmejBFLUpnRUd1YjBUX0xadGJ1LWFaUQ?oc=5"
         },
         {
-            "title": "羅大佑點名蔡英文、蕭美琴沒生小孩 蔣萬安：不應以此作為判斷標準",
-            "link": "https://news.google.com/rss/articles/CBMipwNBVV95cUxONlp0alc2MVN0Wm53eks5ZXVMbGo1R2Y3WGFUQ0U1S3VOLTVMR3FoOG96RlgwTTZkSzJIU1lvVFlBYzFLTVB4bEFtV0ZBWkFpTGJCUWYwZXpBUG1RSVAwTlZ4NkhpNF8zVG9FU1EwUkxkWVR1RHdiMXE1a1pvMnZRakxBX2hhRzdrQWt4TjB2MDVFNk5oOEtpVExPOUxHMUFTNktzZVlPUkx5S3I3SlVPUG84dUZmT1JrZnllZTZnSkkzYzFad3ZOck5NUFlKemcwYmxZajJLMlJ0S0RWSTdCeU55Zk1aQ1hmZlJkd2JBQjloRV9HaHZiTWF4ZjBxMlJVWlAtVi1NLTZRV1d1WDB3T3J4UlJDdU9ET0s5Si1ISU14QW5RQTV2NFBYS25RWGtzQVpyaFN0WTR3S05nOFhiTEg2M284UENBZWdtOGVHOU5LcFpLc2NlR3NZNnBBTmdOdlRvNFcwell5RVlRX0txNDVqX3UxaFJRbnVlWkRBbjdXUy13akxrNnltQUNzSEFUaVdTMkZzVmxYc2lkMEc5d1J5TnZpMW8?oc=5"
+            "title": "藍白攜手…蔣萬安合體白營小雞 誇柯政績",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9Gd2dLckMxUml5cWRVUUJaZDA3amFqMC1UQlc4alRJaFdNSGFhcGVaOERNcDgtMVVrc1BUWGNjdkN4MXhIQmJJcGU4RUYwcDB6T3BF0gFYQVVfeXFMT3dlSnA2eU9BSjRTVjk5cDlsaHJxNUg3OUQ2ZUtqOXVNRUgxMmJpZ0MzcUFrOUYweU53ZkpJSnVlYkhuUFRSRXJtNlBYNE1lem5paE0wb1kzSg?oc=5"
         },
         {
-            "title": "沈伯洋辯論會突邀加Line 蔣萬安吐真心話「讓我撲通撲通」",
-            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE00N25oWnlzTnJzbnhxcE5BUGhzLWxXejREQXlpT0huZEt4a3dZS0dOV1VBaWV2WlNUS3JBUkd1SW9WV0h3T3BOX0plSXl0SnFpQVZV0gFYQVVfeXFMUGlDQ3I4b2NCX21NeWM4enByMlRsbTJ0ZG5NTHllOVR6RXhMdkliRWFNWjZJd3Ficy1rdTBTc09vZ3VyY3VXakdGR2N0dm5wWjg5LUJMZmhFLQ?oc=5"
+            "title": "羅大佑點名未婚無子女蔡英文：但我用盡全力守護台灣每個孩子| 政治",
+            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBjYnpNb1h6VmJaZHB2dlJVay1PSkx3Vl9aRm5ieTRUaS1rQW5zVlBFVTExTWVjczg4VklKcmNDZG8taGlEdDlpMW5WZXoxMzRHLWstb2g1TUxzR0ktSEJ3?oc=5"
         },
         {
-            "title": "義大利300間學校收炸彈恐嚇信 大葉大學校友帳號疑遭盜用",
-            "link": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxQaVlEM29QZTVVeENxaU5JcjcyMUNjR2dJT2p5U2pGMzhDWHYwelZUMUVUbnNzaExWTkN1d2tGOXVuM1FLMTYzZ3RqUXFpVHFheVpZbTE5ZC0zVUJ0OHZLTGlxMGg3SmVjbk9VNS15WVhtc3BndjhwMFFVMkZpTlBUcVlWbzRyNVEzU3lWWUlRLTBkdVhmMWEtT0pxdm5zWk5CUnlWM0VDbm1NR0EzNjhwNkh2akJGY2I5eUFQN1kyQjI2OHhURGVTakJFdDlITWZINGlRdE85Q1NTSEUtUFFRZXFyWXFQZ25fcEs5VkxMb05tRjcwQzVtMTVoZUQ2bjNKMC1IUDdUNjFZSjBYV3ZkTnA3dHR2cHp4Wmduc2lQZldCTkx3dnJKX3NnVEdqd2V1U2lTOVZ3X1pndlZad2RUR3NiQkhiblNoX3RwYmNwWldGcll5QnN6ckZEQUItTzRGTjZkMjhLV0lGRmllZ0dPS1IzX28tcEV6?oc=5"
+            "title": "敗選找戰犯？美國戰爭部長彈劾案受挫，期中選舉後的共和黨內鬥風暴",
+            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1HanBZc1VDckN3ZXBVc0J3dUFvSFNjSHhNVm42WTJGUFo4TjJ1MkNMdlc3aEdqTVdUckt6MExYN3lLTmNpTmxBanY3cTdyal9FV251ZUpwZkoyVVRieHhYVUkxU1ctUdIBa0FVX3lxTE5lZUhnV25aMmtJZ2I3YmRnZUpzUS1FWU9sZG8yOXN6UXl0R2NWLURicDdVaklwWkhTQURtOW1QMVpYRkl1aWRDYWh3SkJpSFFVQXZqLVhEUWcxMV92d2VkSE1yR0l5NWNON1Jv?oc=5"
         },
         {
-            "title": "明天天氣白天回溫清晨西半部低溫18℃ 下周又變天低溫探16℃",
-            "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxNbzduNU5zaXJ2c3BTMkJ4WjB4QXJqUElONHVuZjdXMWNVbzF1S1ZaMkw3N3hpeFRoOGRjUUhjMkxXNFpUbzlCZ1FOdkVNaVUxUm9yalpNVjVZaGthaVkyTm01T2dYZWNBU25kY01mZmxGR0ZXb0dvTWVNeGpkbUJZRVNnQUxsQ1FGc05BWDBmeUZXRTB4NjJKV1JDNGdKZmotanlJTGIyUUZrQjF0SEU0eTBqTFJfbkEyUjFZdnNZdXMxRXpNQnhlNnZyS3NQRXRrRFBqSHNSNVVkc3JHZEZaMGZNc1p5NDRhX1RBNXlIWUx2NHVOZkhiWk50VHlpUmtoeXFlcEptQ0R0Y2hKUmdfNXV0REJhazZmUkhQRm5XbVNpVnMxV2dKZVc5VTZYd3NOSUNLQjJiVC1GTjFNYl9hblJBT2RTUXlBZ1Q1SXpQcFNHcVhVYVBPWjRUbHljOE1jRjVxRDRuN1huUUxGUW5LNTR1VXU5Z0NobV9vNlZONDhNbm96YUE?oc=5"
+            "title": "俄方公布本輪俄美烏三方會談成果 沒和歐方接觸",
+            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1BMlpxWEFYX2x5TGhoZm84SmQ3b1l6S0lyckk4TDI2cjhPd3Z6ZVdBWExYYm9oSHFweWRsdWJsRWUwREQ4OGJjbEdwZTlkUEE?oc=5"
         },
         {
-            "title": "鄭麗文認「3縣市」選情恐被翻盤 喊：敗選下台不會發生",
-            "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5Hd0RmRHFCWmNQZ1czeTMxM24waVdwZkNReUdwUjJmaXlOd3c3LVZ0V2J5cG0wYkJybUkwUU5UQTlkN3hXbFpBRGZGd1lXeFZoQ1dTeWo1WQ?oc=5"
+            "title": "謝典霖涉貪羈押今召開延押庭　若「獄中當選」恐丟6連霸議長寶座",
+            "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5IdDJVdjVEbFJIQmVuMXN6aHFUUFNuaVVpWDlpLXJ0elE0Wi1WY0tldm1wRDBLQzJmYW1MQkp2Um1IN09jSlBFStIBTEFVX3lxTE1GakYxTHcyeW9WSzZQTnYtaURBM2VOQmRhSzFybGtINjY4T0MzbVRjSkJmeVhqOVQ5S0cyOWxlMjg3Z2hGUFN5UVkwNm4?oc=5"
         },
         {
-            "title": "石舫亘今晚發放文宣 現場破2千人排隊：不當沉默螺旋",
-            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBxTkFJUFB5Ulh0a05RcnhuaE94cHZoanNyTFFwWmlQWW1Td1plUktqZy1HdEF5XzhyME4tWjM1Njdlay1NQ0F4MnJ0dzl5TkRDRHk00gFYQVVfeXFMUGtuR1lfMTZJZWd6M0Rrc255NUxQS0F0MEN2eWo0ZU12N0Z5WWlDZzJybEhVVHJ5TEJZdWs3M3M1N1VzZ2tnVkhUcjFtaXo1eVluNjlFSXZmNg?oc=5"
+            "title": "寶林茶室「毒粿條」釀6死 負責人判刑1年10月、工讀生也有事",
+            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE00YmZlTlEyTFNQS2xYYy1QaGR4eEhqMUkyTHlSV0tYd3NOSUVVdFAxZzg4ZlRGZ2EzX3JYRDRfR29oTXhqSUhwV2l0NTluQWR50gFWQVVfeXFMTWF3WFp0NEY5TlZaVkJKTFVweUZJbWlBTUFsV3RueFBVRk9nWU1kVTVvSkFGTU5wVnBidC1QdVlMeFFKQlAtYXQwREdqMGZXUG9qN3A5M2c?oc=5"
         },
         {
-            "title": "藍白選民投票日將歸隊「複製大罷免」？戴立安揭關鍵：這次恐難重演",
-            "link": "https://news.google.com/rss/articles/CBMimwNBVV95cUxNR2htdUxOMW42NE11SWZuSnV3TzJ0THVmVmdWSUNlMTVtVzJSRVpJejFDVURIdXVWNDNER0ZtTFZySXVCMUg5Tjc4Z1NiYWJRanZGWGRCSXM5b2pUZlkzM0NONjlER2NKd2pfX0lYOWFFM1ZLaEo5N1p2dkFDTFpyRm0yLXk5S0dqc19tQWdCUEdXRXlqX290R2dIUzdqVmxtbEtFVVp6Tkx3NVB2Rl93djI2dWRyUUFORXdBa29KZjBzMkJpZ2szLTVjZDZrSHZQOFRCaUszSUF0ck5HdnEzMkVzeDRDYkJ0MXhiYW10RTk4RktJQnpLZ0pXaEN1Nk1DRENXZFdJWmNaZWg1bDg0c0hrWnZacUlkb2tINHpfOVdSaUhBejBiNV9jcGdzRi1KcVp3enVDZTZfYW01Z2trMW5FbnptV2s4Tk5NdGJnQXcweDFMVXM4enpIYUE0eEVYQzVmX1pucDZIek05cDFlTUl1M1NteHVKa25OQks5MkxscThlQzVvcHN5U28zMTVkcVFxRm5SUDlET2s?oc=5"
+            "title": "260位學者連署發起「兩岸和平倡議」 邱垂正：要認清中共本質",
+            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5KSklmMjNENWNmU3ByZEhVU3RxckxQaFRVMGJXY3htUF9RRllDdHVybjFwVnpONW5xc0pWWEl0S0ZHTE5WY1dfc25aY1NtY3Z30gFWQVVfeXFMTTlkcUVka0M5dndSN0VzdzhGLUJ5NEE0RThyblJscVI2azc5bW1QcDJMeVFadHpOdk9iZTRmMU90eUdJTGVJc2txRVczTVhhNmtQTHJEb3c?oc=5"
         },
         {
-            "title": "施振榮任APEC領袖代表原因曝光 賴總統交付三項任務",
-            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1OLS1nVHMyZ3RDcEh1M2VfYy1hbjRGNjdYc2MySFhjNjNrTFFhX2FiTDN5TS1ieGx2VUpveElKcEkxYlR6dURlN256QkFpNnlk0gFWQVVfeXFMTjFtZXY5QVZYVkl5OEFSLXR1LVlpczFjSmpqU3BuZ3FFUTFQbG5OUjFDMVpCVmhtaDB6dElfUTRyakl3aVZ4S1FBMGhkQUNrVUlqbVdCOUE?oc=5"
+            "title": "批李正皓造謠李四川圖利建商 競辦告到底：民進黨陣營抹黑奧步來了",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9YNWVmeXZETk1kU1RqT0wtS0RNQ19aM1FuVGNjN2JpeHlaSU5yVHRFYWRvanc2cERnWkdDYVMyZkhqY3pXSi03NWRrZThsMWdIMVVkSzZIdVpwTGEzRTRCN3NZMlpCLVR4MXfSAW9BVV95cUxNVXMta2ZSWUVmYURCX0hzZFRHY2lFZy1MOFdJZ1hlQ01qeEY4NXM2WEd3cWlCdlFTWjBFdklXdHA0aDJtYmI3eXdwLWU1Yms1SjRZTGtHdkl3c21CcDh6ZHV6bzFYLTBLNWFsU3A5cE0?oc=5"
         },
         {
-            "title": "謝國樑辯論突沉默6秒！ 吳靜怡狠酸：恐親手把藍天翻了",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBKX0o5TlBjc3d5VHY3ZktZY2VxTVc3S29MaGZ2U2lxQlF2ZjQyZzdILS1Hb1kwMzdQaFdDaF9FYXdROFg5Q2lUTUo4TzJEWmtnWkVIYzB5NnRITnhoYTc5aVU0ZklFdGlvUXfSAW9BVV95cUxPYXN5NWdNbldOMjc4UTRhNkp1cC1kdk1hQ1NEOHd1OHZYYVVJTUc1dDh5QVhOTlBJSXRMVzBiS2p5RlNUdHp5Qi04Y3hTUFBRN0dyeWVvUm9tNllwTkduZXEtTnByaWYwTWUtcng1SWc?oc=5"
+            "title": "當李四端遇上李四川…工程師便當飄香 談市政不打高空",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE85eVAxSTBwbWhCdWc5SXo4cGdxNWM5bTJ3ekZSNUU0eHE2OXU4RzFvZGxJSE01M2UyQ2J2ckRNanUtSDlsY2FubFlITWFNM29xeHRN0gFYQVVfeXFMTjFQeGEzYlUyajN1bTBDSmZaNnR2Z0pMcjFyM3lMeTYxOHJEb3dRak9kb2dPZ1Z5WVhBZ0JIZ3hHYy05ckw2Tm5MZ0xhQjhWM3BSV180WlNBTw?oc=5"
         }
     ]
 }
