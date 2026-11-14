@@ -1,46 +1,46 @@
 {
-    "updated_at": "2026-11-14 00:25",
-    "summary": "晚安，為您帶來今日晚間重點快報。\n\n【政治焦點】\n立法院今日三讀通過《性別平等工作法》修正案，育兒留職停薪將可延至子女滿九歲，雙親各可多領三個月津貼。藍綠選戰持續激烈，蘇巧慧列九大爭議點向對手開砲，李四川則感嘆參選後「從優秀副市長變黑道」。有分析指出，沈伯洋與蔣萬安的內部民調可能已翻轉。國民黨甲動挺蔣萬安遊行，而饒河夜市也有大批市民現身力挺。此外，有團體原計劃包船迎「大洋流」卻疑遭施壓喊卡，支持者表示非常難過。\n\n【兩岸焦點】\n海基會今日揭露，八、九月間有三名高科技人才赴中後遭到拘禁，他們表示「根本不知道為什麼被抓」，事件引起各界高度關注。\n\n【社會民生】\n國道一號今日多路段出現嚴重紫爆，多處路段塞成停車場，車潮甚至一路卡到市區，讓不少用路人感到崩潰。\n\n【天氣快訊】\n週日起雨區將有變化，明日仍須嚴防局部大雨。下週東北季風將接力報到，全台低溫預計會下探十五度左右，請民眾注意保暖。",
+    "updated_at": "2026-11-14 11:16",
+    "summary": "早安，為您帶來今日上午重點快報。\n\n【國際情勢】\n白宮證實，核武強權美中俄三方元首將首度舉行會談，全球矚目。另一方面，美聯邦航空總署因故下令，全美航班一度暫停起飛。\n\n【政治焦點】\n台灣政治焦點，政見會上李四川展現不看稿的應對能力，頻頻反殺。沈伯洋與蔣萬安選戰進入倒數，相關議題如沈伯洋的「人設」爭議、支持者包船行動，以及蔣萬安與店家互動等持續受到矚目。此外，高雄有候選人因赴陸爭議，在母親頭七期間遭搜索。\n\n【財經動態】\n全球科技業關注，繼蘋果、Google之後，分析指出輝達在創辦人交棒的議題上，可能面臨更艱鉅的挑戰。\n\n【社會民生】\n氣象局預報，今日下午兩點後全台變天，特別是苗栗至嘉義及澎湖地區，恐有較大雷雨伴隨強陣風，請民眾外出留意。",
     "news": [
         {
-            "title": "小水滴落淚了！包船迎大洋流疑遭施壓喊卡 支持者哽咽：很難過",
-            "link": "https://news.google.com/rss/articles/CBMijwNBVV95cUxQTC1PYnNSUktSckxINmtidGFrUDdYTjhDTXNHeHdQOVQtLWloZkxaNGM5SW1UYVZuSmpKZ1E3RmE4SzdXT1BOM25vVXdlWnFpU29fRk83ak9IcU9oemd2V3o3eGdoUkNhcjAxVVJ3YXZRSVlzNGs0aDJNbEJibkdCQmw2eklyc3FpR296TGRJTXFxUzhnVU5uX0gycmQxRXNRVGVVVE9NSlZXLXd4c0F5eEQxQXJvclk3QlRHUDBBU09RcWoxb2VKZTdlTEV6aGQtVm5sSUNhWllVLVZQT2I2ZUFhTE1BaE4tbzFxT1pyYUpwdnA1OHV2bUpta3NucjRaNUZ2d3dpeWZtUUIwNzctXy1iUnozMDVTR3haYnhueVp4Vjh4YnJCanA2cUthX25sR0dxZ3phOHFvLUpUV1FQRlZ4LVc5Y2oxczJRTUt1YnBNR3ZERjRzYTJpM1FGcVdFd3k0VVBxM0hxTWY3UEI3eGJVcTk1a3hNSG5kU3d4V19yYjcwRmZzRjB1dnhuVnM?oc=5"
+            "title": "蘋果、Google都走過創辦人交棒！為何輝達接班更難？",
+            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5GcjZvS2FkbDgxYXVlUTBhcS1QMWlqaEtIeXBncjlPbkJLbmVMS0JENFFJbWh5NTdTWTV6eTdJNEtaZ0JrOUdwLUtmU29FMmc?oc=5"
         },
         {
-            "title": "明防大雨！下周東北季風接力低溫探15度 周日起雨區有變化",
-            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9QYm5JR0U2SUxMQ1pFbzdDb0prcmRBbXBKVnMtWkxMbzB4U3Axalhtc3RSRmtTMy1BZDVHdFp3ekdxWURkRDdaekI5VW1QRVBD?oc=5"
+            "title": "快訊／核武強權！川普、習近平、普丁「首度舉行三方會談」 白宮證實",
+            "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPZnBUZ2ZnVzN4X0U3dDdsVU1sQkpBNjh6UkU1TjJPMm4tRDYwNmtudVROVExGa1BTRWhfLS1USTJSTmo0V3VleTIwU2hqLU8yelBtc1Y4Ni1RWGtPMm1VRXlyQnZ0akk0cUotcHFZNjFmcE90LW1GS0VwODdVMHlXUVBEOVJXZnlqa1AzWmRiX2FzN2hWZVpNMm9icm5HQUNjbVJUOTNiTHB6d2szcUllczZTVWJMSmV0blZnNFNmVkpZZjhRRlhTeW9JTTduMTJGQ05VTXV2dkxDbjVIRHVjSGRSTmw5NEd2V3A4VnJsZEV1WXBD?oc=5"
         },
         {
-            "title": "快訊／國道1號紫爆塞成停車場 「一路卡到市區」！　民眾崩潰：動不了",
-            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB6akw0ZHB3Nl9PMmtJc19jUUtPb3dSNkJsNURpN2JQLUsyU3ZIa1VPQXJnSEJZZ1BsemlLV2N5WDJaTlcyNVdHVmx6Z1g0VzlYV2xRcTZPWjI5MTlOcGfSAUtBVV95cUxObFpRQ2szSklYWTk3Rms1ekhTNThhZWEyNnpaT01mYlRBSnlFUC1FX0pseEc2OFFGQWpxNXJfNXc2cXFFeHZzYnltUTA?oc=5"
+            "title": "下午2時後全台變天 賈新興點名苗栗至嘉義+澎湖 恐較大雷雨伴隨強陣風",
+            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9KOW9LcG9FRWl3RGtCOEV3dEtXamxfaG1iYkZCV1pCbUxYSHFfYkR5bnliTVdpcTkxTGV1bnFSal9oZ19xd1BXSjFKSDBqQ0960gFWQVVfeXFMT1FXZTZubVZmRW9IMi1lMnl1TF9XYVhTZm1jQ3hDZUVEVjVKQ0FEMkxZenZwSzZBU2xfa2RhQkViek9DaHlJN1RHVE5TLUhuejhNbUlVaUE?oc=5"
         },
         {
-            "title": "激烈交鋒！蘇巧慧列9大爭議開砲　李四川嘆參選「從優秀副市長變黑道」",
-            "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9SZUVxeE5tMzFyRkxHZnp2M1RVR3Y2bUlfNEw4cjhQUUlHR21PYnJaMnlPaEMyVFlLejdjV3JaR2NhSXNFY282QtIBTEFVX3lxTE05a3RtWTFlaG5ZUEQxTEE3MUZqb0xKN2RNZjZhVVExN1VaUk5nYW1wNHNQMjhOTVpERWxjOHBxT1pPelRVMmpBUHhPQmM?oc=5"
+            "title": "美聯邦航空總署下令「全美航班暫停起飛」",
+            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8zMTZyUEtwS1VpWTFZcmdXLXoycFRGanhPYkZYbnZZNFFSNWVjVmFxU0pMclI3RXd4Q0VsQl9fVEpqdVhJRWN5dGdQbjkxVWM?oc=5"
         },
         {
-            "title": "立院三讀育兒留停延至子女滿9歲雙親都請各可多領3個月津貼| 政治",
-            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9FbFRjWEFXVUlyOVFtYl8zWC1XczFNdjByN0cxZnNBU1FKU3lDYTVXa2dJY2pzdGQxM0lucjBrVkNXZjJSbGJwb0pSSFJ0dWRyTDZERkw2enUxZ3Nvd2pR?oc=5"
+            "title": "政見會激烈交鋒！李四川反殺連連 幾乎不看稿",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBNZ1ItcWw2c0oxTkc0d280U1dMNTh4UnI4RzVuS1ZtMHJLUWFRQVlhUXZxWEVuTFVmSGpQVDFyVlRGbkwzb2tEOERndlhtaE5hZV9v0gFYQVVfeXFMT0tFUkJkdWZLUmtzc2NkeW10T0tzZjZCME9BWE5ac2tXWmJnWWZiOHlvaTg5MXYxSlR3LXllenhrNEwzMUE2VHhoYlV6ZjBrT05rZGhtT1lXTw?oc=5"
         },
         {
-            "title": "沈伯洋、蔣萬安真實差距？他曝羅大佑打醒「洋流下的這群人」：內部民調已翻轉 | 李瑋萱 | 新聞",
-            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE15VVRjQkM3cFhpUWV4ZE1MMEVRWS1icmYxVnoxZ3RqbzlFOTNXQlZJNUcxOHItWGlGVzBYUWZGMG1NM0Z4V3dPRFhmU2ZRUQ?oc=5"
+            "title": "挺沈伯洋自發包船走水路卻傳卡關？新北農業局發公文提醒 吳思瑤這樣說",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9nQ1hyZWMwRHRoRG5SWVEzdkdGUl9tZndQa29oQTJ5YktRUVA2R29QVXUzdjlMMUxSNHJFYVRRcDFURTQ2dFI5N3RQTEhXczctZFNUeW15UTcxVEF0bktPd2Vfdy15RF9yemfSAW9BVV95cUxPTDRRNGlfY2JzUHp2R3piY2tVT0kzbXJvWFpGT2daUmJsY2pVeTNHWm1IZE5nWHpiS0dkZWlEbk1nZDRMWGV5YzZRMGlBc2RRYi1TeEtObVh1ckZGcnBBbzVRbEVOazZlaVVHNG5rZE0?oc=5"
         },
         {
-            "title": "蔣萬安回娘家！國民黨甲動挺遊行「翁曉玲缺席」 韓國瑜沒喊口號",
-            "link": "https://news.google.com/rss/articles/CBMijwNBVV95cUxPMXE5VldCT05SQlFXUDFjV0tJMVg0dDRxT0tBUm9mNXdnZVJoTndBVjdlcHVFek9HcFk5Z0x5dU1zeDdfbzBPa0VaV0RxM1VEUE1hM1BSR0pJQ2VmZEw5Rk9KZVpxRUF3QUVDNmNaXzJnVjl5UTAwdjRJMUx6LXBzYl9lLW14WGdUcURUQmxCeU10a05WMEZQQjJRRmZ2Rm9zeFJDaE1UdklkTjN2akFVMmJ2N1BCVDhoVTliTWdodm1mMGpmdmdyUVhBOWtjZmMzVUl4ZUVkN0lYWl9xZVFaMkdOVzhaNmtCLUJzV3hab2xnYXY4UVYwbG9xN3BnbnRoMDBzWU5GdkpxQ0NoN3RLaEhTVTQxSmNjTk1pUzktc04yTjlZQ2hpMTAxTklDYjBlR05wVkJXQWJUTkQ1MVpFV3FROUVRU3Y1UU9ZUE15dGdUZnpfdjR5Z1JsSXBSeHZ5OTNoZWJsbDJfSVI1N3RiUmVjdFZkZEhXSTFpNU1tdUM5NWh3bXR4VTZmanpONUE?oc=5"
+            "title": "沈伯洋蔣萬安選戰倒數！名作家「預言他勝出」曝最後關鍵：投票率衝7成",
+            "link": "https://news.google.com/rss/articles/CBMiqgNBVV95cUxNdXEySW5lUFVHdng5V0lkTFZYZkljVHhXdzNiMDk5bEk0cEhvZkZHbHVrc0c3c0wwX29MLWpKSk13TU5Cd28xb3VFbl91dHpuM3diYUNlcndfcERLdU9tRldienk2VXJzdllxNzhOZ3BmSUtoM1RZZm1VUGRaMUZjcVViZ2NMVFB5S1RwMVZ1dERPTVJQUXNoVF9MaUMwQy1oWTM4dGpiclJuajJ4MGlnRUZnOFpFWklHdU02OExHcnEwVjNiY3RiWVNRdVZlOW1TNVlsc2pBNXBRVThxYkRyZldFdE9hd0R2VXVjX0VBbmUxV1pMY3FSd2VfeE5LS1YtdlVmSC00bXd3ZGVNYUZWZjZFVHVGVW8tMHplbnpIbHJCS3g2SzVCMUxIWFU5VTFkU1ZyWlV6clpTSnl3b25oTUNEd0FsbENZOEU2VlAwbTNwQklkR2Vmam5Vc2tXb3BaODBybF85YUlfRDJGc1BSa1NYT0UtaDV0VDlkY3lHdWJqR1NzUUh5MlFZUi1ndVN4ckZ5Y1o1S09Ma09pb2IxRmxNMmZvUDhCeXc?oc=5"
         },
         {
-            "title": "「根本不知道為什麼被抓」 海基會曝3高科技人才8、9月間赴中遭拘禁",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9DWkpNaXU5cWlFbEpLbWlFSF9KeGJsYUV2TS11SWIzMnFmQ292UDBLQVVTT2JkLVlYLW42Um93azdBcWJWM2R6UFJrbWtOYWRNWTV6Q3VmRXJFSnlYbF9CUV9GNnhvR2N0d1HSAW9BVV95cUxPbEpXQTZlM0JHem1OT1puOGlGeXVOZnZIMTFUazFKZk8tN3JaRUhzVFpuSEo2Y0JCNmZOYXVWeTZORUVrLUh1ZmhSeWlLM1c1QllPU0JJaFlLY00xLTlkNjhwMkZCYmVLSUYteG1nc00?oc=5"
+            "title": "8月爆「蓋簽名」風波　蔣萬安今與徐巧芯等人訪東發號　店家：有點緊張",
+            "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBmeURoTW1yZkpTZnZwSHdOV0ZOUmc0YUtrZGFtNTJkbHlOUVItZGE0MW13SHB4U2xzWTZYUWFWYWY3SHBObDg4bdIBTEFVX3lxTE1udkdvS1phMHI3TWRQS1hydnYtNWw2cDg2eTdLZXotUWw3enRvT1FwcUN6TVp3VTJZTGRDaTVnUHo4SVZ3X0hFVm1qVEY?oc=5"
         },
         {
-            "title": "王惠美「歸隊」了！黨部證實已派團隊助選魏平政 不排除親自站台",
-            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9tN0V4VVlwODVyeEhJa2dHNEFoSmpsRHJvVWFsbzB2c1pSMEhCRWdYcm1jcG1OcElfN0RDTlNJXy1DUXBuWXFtU3kxVmhPNjAwNjY40gFYQVVfeXFMUEprcWxjOVZQMFF0NE56aU5CVnZlZ3dVTnpqUk5WTngxMXdDMnd3SEh2WWZpMUVlOUtDSXVraVBLTW1GS3VtMUJGT0IyQ1prVm1KWUQ4TmQ1QQ?oc=5"
+            "title": "藍營猛攻沈伯洋改人設　「20年老友」黃世杰發聲挺沈：「人設」從沒變過",
+            "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB4QTFuUDR6azVCbGRGNWdiLUtNc01HQ2VYeGFuZzBEOUhSaVdFeXBBUmVNOENwX3E1XzBLMl9zSUJDYV9RdmJNSNIBTEFVX3lxTE5sSXhEYVhRSmlfLWpoazBVZDFvTm11VElycWUyc09oYVBnVkN2bVBBTXRyMVR0RzlMZUpPUUpueEJpaDdpQ1BYZndkR0Q?oc=5"
         },
         {
-            "title": "拿手機狂拍！大批市民綁「安可」飄帶衝饒河夜市 親揭力挺蔣萬安原因",
-            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8yN0JYblMzdDNwUE82WXZOR2d0ZTJ3ZzlHWmNiYVhnOXBrSU9ybm9zSGl4ZkNOY29NdHhNbzVRY1JoLWJwcWVCZkZ4VmNrZnpRdVlN0gFYQVVfeXFMTURaQ3lXNEtNMy10YzB5cXNXaktKSnVwNmV4QkxYWUloRmlXTngwTU84WmRsYVJSLS1aejJjRmpGVDA3REJGYWtYdmxOZWw1SmJIcnB0d0ZrSw?oc=5"
+            "title": "快訊／母過世頭七遭搜索！高雄候選人赴陸見國台辦、享招待",
+            "link": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxPMjE1LVA3S1ZHaGhULXhUYTZLczktSkdSTDFuLUpzR2tuUGYtc2RqTlZOTHJBZElnNHhzWEJ1OE9qWEJldWhlODd6YXFqYWh0dU5Pelp1RTh6Z25QaF9udW4zZnE5anVzTFdKU2V2R1h3Y2lfRTlUQkhHck1pSHpDZWVyNUVlZFFZZlA3V2dSX0VmV1lJZ0ZHR2dzcnFia0VmSU0wVmlzZ01VN1JmNGgteUk4RTR6SGVDb244NV94Vk93ZGVNalkxU19XVlhRLVVXY0tNbHhJcU1KcV9XTnd3aXJBNlp4dnpxRDRGbW1XcVpLT1ZvbHBwRkY4MEF6aExNbms3UzlGVlppTVE5ekVjQ243bFYyeEVySnJ4cVhYcE9IZTlfdDJLYllvRVdOM3FHd29ZT3IwTmp5RkpqS1VyUFJzYnNrMkluUGhhRXNXemlOMGxVSkJZeFY5ZTFxM3M0QlhjczEzWkYxZTRNZk4yQjdRRFJ3Z0E?oc=5"
         }
     ]
 }
