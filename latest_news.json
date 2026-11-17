@@ -1,46 +1,46 @@
 {
-    "updated_at": "2026-11-17 13:05",
-    "summary": "午安，為您帶來今日午間重點快報。\n\n【政治焦點】\n台北市長蔣萬安就松機資料與翡翠水庫光電案，打臉卓榮泰。國民黨秦慧珠遭支持者出征，喊冤稱成「綠慧珠」。最新民調顯示，台北市長沈伯洋支持度大勝蔣萬安，高雄柯志恩則領先賴瑞隆。立院傳出神祕07號房風水超旺，預言綠營三縣市長候選人將當選。台中公民團體也對選舉表達了市民的失落感。\n\n【國際情勢】\n國際重磅消息，中國外交部證實，習近平、川普、普丁三位領導人，將於19日在深圳舉行會談，全球矚目。\n\n【社會民生】\n台北市長蔣萬安原訂的社工客廳會突喊卡，工會轉述市長回應，將待連任後再行舉辦，引發社工團體討論。\n\n【天氣快報】\n氣象局預告，首波大陸冷氣團最快週五來襲，低溫恐下探11度，日夜溫差達10度，高山地區有機會降雪，請民眾多加保暖。",
+    "updated_at": "2026-11-18 01:38",
+    "summary": "晚安，為您帶來今日晚間重點快報。\n\n【生活氣象】\n首先關心天氣，明天起東北季風將增強，北台灣入夜後轉為濕涼並有局部降雨。週末氣溫預計持續探底，部分地區低溫甚至可能來到攝氏12度，提醒民眾務必留意保暖。\n\n【政治焦點】\n政治焦點，新北市長封關民調結果顯示，李四川目前領先蘇巧慧約3.6%。選戰花絮不斷，王鴻薇的堂妹公開表態拒投蔣萬安，引發外界關注。蔣萬安則重申三度擋下翡翠水庫種光電的堅定立場，並澄清選舉公報學歷爭議。國民黨立委參選人許宇甄，則呼籲應以檢驗馬英九的相同標準審視賴清德副總統競選行程。今晚，台中市長選舉政見會也將登場，候選人江啟臣與何欣純將展開交鋒。\n\n【社會民生】\n在社會民生方面，政府宣布明年起育兒減工時的薪資將獲得全額補助，相關適用對象與職代津貼細節已公布。行政院也針對普發萬元或改發消費券的議題做出回應，並將針對符合條件的70歲以上長輩，每月發放1500元交通補助，勞工退休金方面也有機會每年多拿8萬元。\n\n【社會焦點】\n最後關注社會焦點，基泰大直案持續發酵，有律師分析此案可能牽涉到北市府的瀆職罪與圖利罪，後續責任歸屬與發展值得持續關注。",
     "news": [
         {
-            "title": "找不到松機資料才談翡翠水庫設光電？ 蔣萬安打臉卓榮泰",
-            "link": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxPSDlVd3JHZzRvOUNJa3B4b19tbVljT1VZc0tLS0VXTmFydkQ1OXZWSU1TMFBFTmtxOVhEdGRJbXYyZ3pZdnYwRktQRExvOWtCdzRxbjQtUUZZNTZqVmo3UUdZR2xsT2dNeXRkOFZBM0s0UENBTGg1NE5DR3hEY0ZRci12NzhyREhIU3A3cjJJYWJQMlBJdDlsMkNzREpyUTZRVmlzYnRYaHJ6a05oVkVEZ3pORU4wa0R5WU45dGF4R0pLTHU0SFhyZWI0M296bjJIX0ttNlctWHJTdWtXLXltQ0x3WS1CYXU2SzFDSXliQ0VNNFZsNDM1WlctUXJjR3JoUVJ3RHhxcDVtQWd3QXg3R0VSSmRxaXhzT293Q01oYUZ1Q0lPNXBBcFBxV3NBbGNFY1lQa2J2Y1RiYVlWbEd6THFxNjNqWmt0RmExbEJWX3RWWlh6dG50NlQwUk93Yk5iZzRkckJvdHJXVC1sYVhicmlpc1M?oc=5"
+            "title": "明天天氣東北季風增強入夜降雨溼涼 周末局部低溫探12℃",
+            "link": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxQNGx2bEFycjBfWUpZRkZMdTBSS0xJVUh0djVwN2xWRWl5aThLS0dvZkhRMlZDNlVhblU0MEZMN2NKaEZxRW5PUGlaMGRsUzgyZVZKa0o1andBZmUxRUNXMWt1NXFUY3RTYloyb3JkbzE5VWtQQlBsX0hFdlpGbnh2ckUyM0xEWkhwdHpjVi1pSkFBZk9QZ191d2pHbkUzMWVMdWFVdVRIVHlwUkMxWndDd3NaQzNGWmZ1RmplcXJodGM0ZzJDLU1rZkUyOExLQjh4c2ZBN2E0dkVlVndCa29IdGVZZzNRbmtMVU5DVU1IZmdGeVpXUzc0R3QxcXJKYnNITUNvXzJfNEExZElwYU42eXRYakMtdWNlWnkxOG9YOVhZTFI4U0lkOERpbjJWV0VtODdUWlV2bndfWnBoSjUzaG9hLUVQbE56NGlvem1PRDhRTFViUlBPLU9uT1BzZlFkWXpVUHRzRTZOZC1ZejlfTVJKcU9zenM?oc=5"
         },
         {
-            "title": "秦慧珠被藍營支持者出征嘆「被打被欺負」！喊很冤枉：怎麼成「綠慧珠」",
-            "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1vbWZ3aWNIVnhqWkFzaG9EdEs1QlpZWWhPWFBuWlFOUlhzM2NWMndHeGxraWVoSzUxVGotT2l2TXV3NDMtVnpHR9IBTEFVX3lxTE04bXNBcDQ3M1hibXR6bUl1OFlnQlFCaEpKRjZURHU4VkxwQnNjYkVNZVUzN0xJUlZ3UHVxSVBOVkt1bHhfclZMTDlmVWg?oc=5"
+            "title": "自家人也不挺！王鴻薇堂妹表態「拒投蔣萬安」 導火線曝光",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAwUDJNNUhteU5HQTlGLXJoOE9nUFBBVlkyY1gtMjRsU1kwN2VVbE9GLXVrbDhCczRkdlRPS01OZjByXzRLZWlnXzRUQV9BVWotLTlyZnIyTzhZZWNoM1lINjE1V0VFSENFekHSAW9BVV95cUxPcWVBMXN6WmxlQXhqMjB0MGp5ckI5VWUyNktnNkRLczZ6Nkd6OVgwOGZ3SzkzbTN4UW5EMGxRVWE0RTJTUzVlc2RFMDBUTWpZeENzU2NtcTJHSmpaV3ZKSk9pZVp4UHZ2UmRvbDJSQkU?oc=5"
         },
         {
-            "title": "立院傳神祕07號房風水超旺！她預言「綠3縣市長候選人」會選上",
-            "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1WeHpCbVp0NWI3VjZkVzhXX2dSZlFGNGJlQk1GNGE3eHpIRktUUHZDWldVX2JRYk1yWXNKcXNoRUJ2OXNBYW5ucNIBTEFVX3lxTFBQSzBQSUZWSUxGTFJpbU1iYkczLVV6OHh0NXJReGE1UzZCbnRjaF95NDhpVmNUUlRlVUd2Z3NUSVhvSjBGRUJxWWlyRDU?oc=5"
+            "title": "育兒減工時薪資明年起全額補助適用對象、職代津貼一次看| 生活",
+            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBRdF9Hb2dMVW9CYWNqVzBEMjZMNi1QVjdNajFQSExTRDM1RUROcDFoRkxERjlnaGZCSzBSU1cwYk1GXzlWUmtZbVZ2a2wyUnZDS1MwbnA3UDJDb3RudkJz?oc=5"
         },
         {
-            "title": "中國外交部證實！習近平、川普、普丁19日深圳會談",
-            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5HRDRuY0VuYmtjYy10bkNhRE9fUGNFTjdyQ0VCcjVrODZGNG9nRDJSSlN2b2N3MEh2MFRWNXQyMlpSZHA5Rk9JX2FVaTF0eHZSWWlj?oc=5"
+            "title": "新北市長封關民調　李四川領先蘇巧慧3.6%",
+            "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE0wN1JaQmtTcmo4TFhJMWpYWUMwVFIxQ3NVZjNldV9Yb0E5T2xFdmFVWGdMdGZJTFUyTnNPRGM4V2ZBTkxlZmVXRNIBTEFVX3lxTFBJZzhWcG5IMklzTXBKUEI1TzJPbHpIVGdYSE4tak5tZlZEbF92MUQ5WFNjRW9PejFBbjlWeVBqejJRVnRWZGtmaVZBdVo?oc=5"
         },
         {
-            "title": "低溫11度！首波大陸冷氣團最快周五來襲 溫差達10度、高山恐下雪",
-            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE14Mk16Q2lOdktDWUQycTlGVEZYMEl3dExMRjEwRHNGbEx2SDFWazVZdE94LW9QNDZoNm5hWFZRRVlCbnktTGQ3N0xhb0lFRnNR0gFWQVVfeXFMTlVqSklBMmZmcjI5WHBpdGpMNmgwcm5ZVmdkMll1M0U3TDRrRnpSempBSE9KUEx3MkdiYmpHWWZacVcwUFVFaHdRWkxuT1VxbXF1ODloeEE?oc=5"
+            "title": "3度擋下翡翠水庫種光電 蔣萬安還原公文：不管中央發文幾次立場都不變",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBZbnFYTldZaGNyN19RV3pncG5CZTRjNVFTM0UySTl6WkwtSFpuT09BYUV3dUVnOUFBYzJfSFM1XzhGNEdtVUlCQUN4cXVkaHkySkRB0gFYQVVfeXFMUHp3NHFNMkdnQVBRMHpCckRoYUpqdWxLMTg4MDRXcktlYmZvbG40eG10NXY2OHBjaVVtVG95SlZYcVFoeVFpb1Rud0hMMTBKR0xCV3RXRXFIWg?oc=5"
         },
         {
-            "title": "快訊》戴立安台北市長封關民調：沈伯洋支持度大勝蔣萬安14.8%",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5vZmlHZ0x1alpnbUFWLVM4dzhDT1AzbWcycUs0M1pXMjVjYVYwZHZwdklEMXJaT1M0S05JWk9ENWdXaURlckt6QXRvRjUtUnhlMWJ0YU5VaENjVHM?oc=5"
+            "title": "今日（11/17）重點新聞！普發1萬「改發消費券」？政院回應了／70歲長輩一條件政府發「每月1500元交通補助」／勞工第3筆退休金「每年多拿8萬」",
+            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9tMF9lWlRiQnp0LU8wdW5xbm5HTjVNM3Z6b042aDUtVkl2c2EtSHVtVE5xR3c4RUVoT2JmWmk5ODJvMF84bEs3U3o0MzlkRGct?oc=5"
         },
         {
-            "title": "高雄封關民調出爐！柯志恩領先賴瑞隆　雙方差距曝光",
-            "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBvVWEwc0ctb2JsZkFqZUhYTG5kVVRjNERNc0h3OWZiS2pOMGYtRm52WGVmR2lycHhPUnUtbU5oMTdmZkdQS2pXNNIBTEFVX3lxTFB0eFlrVEl5VkJSbUdST05heXI1MjdLXzBDUDdDMTVKc1ZEdzZ4SVFXc0QzdDE4OXRFRTBibDN4QXV1UFRZYlBjZV9hQVY?oc=5"
+            "title": "選舉公報惹議！蔣萬安喊「JD就是法律博士」：QR Code連到粉專就有松機",
+            "link": "https://news.google.com/rss/articles/CBMigwNBVV95cUxOV0J2YmRma0F6b213UDZGOElZVlhlNVBvSTQ4cUxLLThULTV3ZUNqeEFrSzI3Zy1lNkNRVm5NUFk3elFha2sxZGM5Z1Z3RDAtUXZpRDZnX1RDTDZUbFVKMm1HbWpSUUpmQTM5OHQwSHBNblVma1ROLVk1MWZsSWNJdnV6bm0wMTJlQnlvZF8zQjN3aWFHeW5vZndFT1gyYjRMYlk5bDRPX1hWUi1Ic1Jkd1h5OUFGcE9TR1ZGM3Vyb2RvUlZkYVN6YnRaVk9mdkhSTjhDdk5NUWltaEZwN0dUVjFJSjBNQWlBWVUtWVdXS0tMUFAybmhiNWJOOXJ2QmtULXRPMklrRzhFeGRYUzNsVk5oOC02a1Zqa0JSWElDdnF6bTNkQ0hKY0F0cFdRM0plMVlGb0Q3MlpZa052eHE3WnJVMUhLMU53MDZlV1dWV0E3MTBCQk9RQ2dWN2s0T3hza3NOdDJXX0tTXzR0UzFPV29Ca1lnM0NxMGNRem1hR3czaEE?oc=5"
         },
         {
-            "title": "【重磅快評】綠營新戰神搬出禮記、蔣經國也不會有收視率",
-            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5MdTZNS1lzLU1kU0lkWHpxWGY3NFZ2QUg4bkU4WVRJWlM1b21vR0Y0STkwZHpMUmtSZVNER0ozbDVBZEZ6VkY1ZGtMbFEzYkt20gFWQVVfeXFMTVhQVUd3ZmQ0RUtrWXZKTU0tREFIcGJMcXA3VDNBNXdCS2kyakdVSXZUT21VZjlRbmZNdUdKdFZoV2JWQnVYMWZLbExrRzNwZG9vOHNqcGc?oc=5"
+            "title": "上班時間陪蘇巧慧跑宮廟 許宇甄：怎麼檢驗馬英九就怎麼檢驗賴總統",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5DTWl5RnltZDFQZGJ5Um41QXB0c0pNbTYwMjlSdVFfWFFEUmpwNjJQWmFUX29SNnJZVkFHTHEtc1RIM1JweElwNUpYcDJUNWZ5eEhz0gFYQVVfeXFMUFRzb1hxTnZycF9MUGZ0eGdIQjBCWFFPNElFNHFxTEVwREVGaHduT204YW9nUmg0N1huVVVwTWJrVU4wZ3ZmelhVVk5OcGluSV9wYVU1Q1YtWA?oc=5"
         },
         {
-            "title": "選舉倒數！台中16公民團體沉痛呼籲：市民「難以言喻」失落",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1CcmZhcUtITmZiaXZna0ZtQWlyc0pHalk5Z1NPR1MwN21JV3ktYlR2VE85V09xRWlZOVpySks0VzVORTR1NUNOSUM1NTRoeTNfV3doa21aU0lpVTFkNlhkR1JYYTgzekQwTnfSAW9BVV95cUxPbzJtOXNHUHJwZEVmNFU4YTBWRklaRFhaTTRuVmhKQ01uQldkaWwtWTlMeUdERmhMTDlHdXBGS2I2aTVBQXFUTDVPSXJHTTdQOFFzU3RYeG1kVmhYVTNmTW16MHZ4ck5IR2dfQ3AydEE?oc=5"
+            "title": "陳君瑋律師：基泰大直案引爆北市府可能的瀆職罪、圖利罪",
+            "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE4wX29YUy1DcG5QbHBHd0VMZmtzQUx4cHdaOHp5RzJmLTE3WjZTUnZmR2pSSDliRjZRVVBWMEdWS2UtQmhYeTVkUNIBTEFVX3lxTE1JaFJqRGVkVzlvM3QwWW5pWVNlejdGaGFodENqTDNDVXBSSDFGNXZySFlGU21PSmJkZlJQaUtFZTNrTzJwUEhKTUVPZzM?oc=5"
         },
         {
-            "title": "蔣萬安不來了！社工客廳會突喊卡　工會認：市長說連任後再來",
-            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5CckxRcEZfS092ZlAxOEFVS0x0VVQyM2FJSVBaYTl1Q2lnQ0NMWXpBeDNqaExlZDFyM0JhdHZXSWVkeDBXekZJel9XNVVsNUZhVFpUYUVINnRhM0VZUkHSAUtBVV95cUxNbEJobExMOXVaajJYZlBkT1FDZWtzMUlpVTVWUmNLa25sNmhLdnZaUzgyNFdGWWlrT1lHWVMtMUxOb0ZHbTdtaC16aVk?oc=5"
+            "title": "台中市長選舉政見會19:00登場 江啟臣何欣純交鋒｜直播",
+            "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxPRlpjTjd0cEdzc0lWM3FGRnVkSkxiLXBGb19sRHJnUFRGY3hLM2Y4Q0FiVEpmbmp0aFNtTVZtTDJIX0VHZ1lxUnZ3Y01FckNlU0RDOG82Y0lKRUJFTjRjUnBVbVZpNXpDSlRHdlZkT0hkNXJLcnNkVl9JbExCQ3NWY0FJcVpkd25fb2lvTW1NakQyZVM1Q3RaY1Rtbmp5dGR1eTEyTU9CaHBlRm9tTjVVbzRZUGdVbEVPSFBjYlNkRXhpNWZoSklhWHZHZkFLR2o1YlJ4Y09HUnFBNTFLNVh5d09nUTJzZXVmRnVaYUlnZk9kZkVJbnNrTnJwcGF3Ymh5Z1hUdVY5UDh5WjQtaGFMN0x5RVlMc2IxbUNTaUJXbVVXd0IyV19kQXZlM2dONEZWaDNqTGNPakFMZHZjLUl2QTgxLTFWZEJiSml6bF9hREFfOW9RVEM1WjY4MkZ4WnZTNEE?oc=5"
         }
     ]
 }
