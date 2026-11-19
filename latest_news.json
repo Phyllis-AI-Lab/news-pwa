@@ -1,46 +1,46 @@
 {
-    "updated_at": "2026-11-19 01:15",
-    "summary": "晚安，為您帶來今日晚間重點快報。\n\n【國際情勢】\nAPEC峰會聚焦，中國國家主席習近平親赴機場迎接美國前總統特朗普，創下46年來中國元首接機首例，引發國際高度關注。台灣代表施振榮也於晚宴上與習近平握手合影。\n\n【政治焦點】\n國內政壇熱議，光電板議題延燒。民進黨陳亭妃與中天因烏山頭水庫光電板存在與否再度交鋒。而蔣萬安自稱堅決擋下光電板，卻遭節目主持人翻公文打臉。選戰方面，柯文哲談及小草選票走向，強調絕不投沈伯洋；沈伯洋則宣布將開啟直播。此外，張啓楷車掃時傳出拆除店家遮雨棚爭議。\n\n【社會民生】\n氣溫驟降，今晚全台急凍，未來三天低溫下探11度，高山地區有望迎來降雪。",
+    "updated_at": "2026-11-19 12:11",
+    "summary": "午安，為您帶來今日午間重點快報。\n\n【財經動態】\n美富豪痛批輝達董事會「慌了手腳」，急著逼走黃仁勳，未考慮股東最大利益。同時，輝達財報報喜，台股融資三天減285億，法人看好反攻關鍵，台股第二隻腳有望來臨。\n\n【國際焦點】\nAPEC深圳峰會成為焦點。傳出中國國家主席習近平親赴機場迎接美國前總統特朗普，是46年來首次中國元首級接機。我國代表團方面，施振榮與13名領袖在歡迎宴上互動，受到關注。\n\n【政治要聞】\n國內政壇話題不斷。柯文哲向「小草」喊話絕不會投給他，引發沈伯洋直球回應。蔣萬安市長自稱堅決擋下光電板，卻遭TVBS主持人翻公文打臉。蔣萬安也酸陳亭妃影片是AI，謝龍介則讚南部鄉親羨慕台北有蔣市長。\n\n【社會民生】\n冷空氣發威，全台氣溫驟降，低探15度，高山地區今晚有望降雪。此外，全國普發一萬元方案，行政院公布入帳時間及領取方式，部分地區更有加碼。嘉義地方新聞則有張啓楷掃街被酸「路邊尿尿」，場面一度尷尬。",
     "news": [
+        {
+            "title": "痛批輝達董事會「慌了手腳」！美富豪：急著逼走黃仁勳、沒考慮股東最大利益",
+            "link": "https://news.google.com/rss/articles/CBMiyANBVV95cUxPS1h6ckRZYnVEZDE4MVM1QW83WnpKM0RPNUxlX3VVb1cwb1FMeUdmODJiZWRwek5zNGxiMHc3ZGd3bVVBY2ZTRmk5VElEYWpmUDBsQ0tTcjU4dFVtZzNwWnM5Rk5ienJGN2hfNEV4aTVvdVgtUzJ2X0ZBTmpPMGNreUdscWRXN2kzYi03Y2JMcmxpMDluemRiM25vdEV0R0gybGdaU04xNC1uOHV5X2kxNWVfU1ZjemhHZjVkbnhsdk81YnZ3STJsVzNvOHBMSXIyeHZZajlwUi1tUGgyWU10RGJMdWs5OVBUb1B4X0pCanhZVnJtRzFEMURvMS1ZUXpmX2lOTE9rZGVNZjFRZk5hSEdDQ2tTYlJkMDd3Tnk0dXZPWVloWXU5eUpkY2ExNWY4OC00aTQtSWVtZG9PQVFwNzQtQ25JRlRVc0dyb29UU1BwRlljc05BRl9qaFE5dGpKeHU4VXJ1RG9HSF90dk00NTRmdzBrNkdNRzZzel9xOHE0c0R6LWhLMTJUVlFIa1h3dGl6VExMV1oxR3F1eUtURTNpUDlJN0l0X005dzdSVEpLTC0yVk9BUXdoMmhDV3JJY1lrcmIyTms?oc=5"
+        },
+        {
+            "title": "台股第二隻腳來了？輝達財報報喜、 融資3天減285億法人揭反攻關鍵- 日報",
+            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9PY2gtcEJWRkMyT1N6OXJZbXJfNjVYUGs2VUV5UWlHM3FMRy1IamJSQ3lFUTFSVG95R0ZGVnpNRHhtTHVob1lqcHlPaUVkdUlsNkZndFZYR29xQTVUX18w?oc=5"
+        },
         {
             "title": "APEC深圳峰會：習近平親赴機場迎接特朗普，46年來首次中國元首接機",
             "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA2RWlQeS1FeFY0akdXRE5zNU93TTZXVGZtaE5hZXBsUGZfdEJ5VGtKQVdaQ0N1LVgwZFduWTc4Y2FjbGF1cVlnN29KNXRCQVhPcjFaQmFXU3lQanAteGJYc3ZNYklRZ2PSAWxBVV95cUxQMzVxMHBqOUNXbGZEVnU0SGpaWk9teEl3aGFQNDVWbkJndVI5U3RnaFhMMjZNajVBdHhDTDdQcmM2N3AxSGRsZjd5NEhiOHM5elkxRk9vU1I1VUhZVF8zcXhpQXJWclZweXlPaUI?oc=5"
         },
         {
-            "title": "APEC晚宴…施振榮大合照站後排左二 與習近平握手合影",
-            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE01ZnZjaGtzX1FXeFlSY3RPT0dKNHBuSVp5NHBER3VzSnpDanpaU3pZaEJiZy1hUXZLZDRKemtDWjBKOG1WZktoaVJWSmRPcGxlWFpn0gFYQVVfeXFMT29KWW5RdHlSOHQ5MDF2RGprNVk5Zmtxcjhfa3YzbXhhV1NySTZ4clEwTXlCVTAtMGFBRVdHcU05cVlnLTJ4NXlucmVaMDB6dkRWU0pIdnliUg?oc=5"
+            "title": "冷空氣發威 全台氣溫大跳水下探15度 今晚高山有望降雪",
+            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9MeUtwZm40NW1BaWVWZExFZVRUZVVrZ0dvak5nVVhkM3hTdTZDWWo3OURZTDN6LXpIM1NZWlhlNjdnRndvVGNyOUFsLTVZVXVW0gFWQVVfeXFMTmY2MEM5WlZlWWFuYTlPcm5YRHBqdHZ4SVlieW50aUFhbXYyMUV3dExLb2NFY1dQZU02N21JQThMbVB5akxjLWdBVXFTV19QU2xSVDNxMGc?oc=5"
         },
         {
-            "title": "直擊/陳亭妃提告 中天用鏡頭說話：烏山頭水庫就是有光電板存在！",
-            "link": "https://news.google.com/rss/articles/CBMimwNBVV95cUxNMnlVUUx4c1A0OGx5WWFBUDlFTWtmVUNQSXUyei0wenhsdHpsM21tQUdFVXVYcEY4bDJjME1VcndRUWR4RF9vSENXUnpMT2wyTW90QkhlT1J2cnd1aUFOUWo0SEpVTjVDX29DN2dLM3lSNFVCSUpyVWgycHBZcHFQelNpcm9WRlhlT0tfUzVQX1BVLUtyMDVSUVljZ0JxR3VXdHMwTXJ5T1F5bGFzOHhmeVRJR2xYM3JHd3U2YURwQkV0Y08wQjR5SC1pNlc5MWVGN2dGQUJyTFMwdXpHdS12YXFOWXlXb2IySS0zTU5aR0xwLUNRTnJnbm5yZDVnMXZSczkzM3hVRHpDSHhlQmlhSXBudk5QWW10RU1ETlBhNVdwNDZaLW1qTHI5aUFFbUYxZlNsc2lObjItcGpVMGFvWGd3REpYVDhFdmtkZVhySm5aRlVtQ0tYbXh2RHl1dU9yMDBEcjRib041NUg0SlNBZFRZTUV2b212cmV4Q3NkeWs0dzZVZnRMNlU4c1hMbHZaQ3E2cjlxNkJILWM?oc=5"
+            "title": "柯文哲嗆小草絕不會投給他 沈伯洋直球回應",
+            "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxPU3J3b05EdUV2eHVHNE4wUFNXRVg1aEFWaU14bDVQUEE3XzhDVTY1YlNFZnlKR0k1MkJ4LUtQN05sVVhvNzRJb0VLckVOU3NqZWhSYXZJUFl0M3F0bjdCaW5CbEE4RGF2YnB2TmFNb1JBQ2JScXhJUURCaHVqaXlfakpCUVB0WEhnUWRSUExmQ2U1Z2x4OHpkdk9Gcml0V3ExNllPNmZwMER1SkxMT0VoUU5RMkRzQTl5LVFHVTlZMnhSU1l4dFRCQ0NQdFVjTjAtTmhiMy1fZ05GQ25ya0lsZUlScUc4bDdzVWR5ZU1nRXlpWjdFcllMTGFvZzBhVmFXZmdsb3RJM3lMSW84TEJGSHVVb1lnTmswcllsMEtGZWxEbkZ3b0JVNW5MY0hqZ3dUNUUyNFR1bXA?oc=5"
         },
         {
-            "title": "今晚全台大降溫！急凍3天低溫下探11度 這2天高山可望迎雪",
-            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5wOWQtWHJxWTJPbG8tQklBWnJ3LUdVRFpzWDFVQWtJWTVocElHV0V2LWRhVE80dXNWMDFvZmtDQWJUT2tCeXVOamMxbzFwaTI50gFWQVVfeXFMTkVJQlpQdG5kV3pteDdId1RYak9LUC04emEzaUhmb3RETGtNZ2Q1TUxGckV1Z2FPQVN3SEdvSEJqbENlYVgybUF0WEEyTVp4OExBMTQ2NFE?oc=5"
-        },
-        {
-            "title": "小水滴建議開直播！沈伯洋「明天就開始」：選前希望大家不要太焦慮",
-            "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1ES1o3eGMwc0prSFE5MlNuMzRRUlJUSWpNVFhSbkIyR3dpdzFFNmdnek5XUzcxYWxBTTBOalQ0dTRrTS1XV3ZEONIBTEFVX3lxTFB1bUktU0wtSmU3N1ViUE93ZmZFbmJjX3dBaXN1UEp6V1Q3cEstLUNrWUIwV1hBRDR0TmRjVlVNX0VHNUlkVU1QcDdjVjc?oc=5"
-        },
-        {
-            "title": "蔡康永「撕下蔣」諧音引聯想 又再點名髒東西：變可笑就會失去力量",
-            "link": "https://news.google.com/rss/articles/CBMinANBVV95cUxPdmdseTNKRGpYdTd6dFFNSEpBUVhxYldHUU9ZdHRfLVdmNVFORWQ2NUtJT1ZSRU9yMEtoaEE2UGg3by1nVjJUR1hLRjczY21fTmozQWR0OHFNX3Fvc1l3dDhqM0hDUlJwWm1wRW9ydmlzT1JfcVJ6VWtUeWxMNDNiNlBIV3JVTk5rNHRuSmtPMTUtSUh6X2c4Vlk0V3RhWnpaTDZ1Qy1uaHlVcGhlcERlNVExTkR3MVByYm5YeE1EaTJ6MUFUbm9Oc2VzU2Y0bDNnOG5kX1VFVFJOMnBkWHd3UDI3alc0czNYbXdIdG9nTHY1S2w0ZF9VcXNiQ2kxT1FUNGxXanE3bWR5cUQ4T1JPZTRoTGZaNlR3M0d5N1hlR19QNEdPRUFQajJPZng3YzhkNWVHZUxicU8yQlBvMWhENldqbm9QTkRLSDh1RjRNQzVGa0VVZm91SlU0WUp4SUFZaGlMeURIN0t4ZUduRmpXenBBNWhlTllOcUNfa0FBeWZiMGhRdklLNlpLdDluSDItY1o5YVR4bUh0NmVQ?oc=5"
-        },
-        {
-            "title": "張啓楷又出事！車掃把店家遮雨棚拆了",
-            "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNVkY1YzNkWVZfcFVfQ3JuejhRYloydmpoellNM3BRZ3BsTkhLMGRKVzk4ekZYN1lheU5qeVM2cnJsTExqMmRwWFRQWTlZNG5JaE9Wd0FhRVNXTmtJeFBSQ25pWTNkM183ZFprYzY0bkh2SDVET2ZlRUg3SjBUYkJ5N1NsTDVPQV9lXzFxYTVPdGg0UFNmN2lvb3cwazZ6UVVRcFhPbDJmVkpoUzQ0SnVneGE5Y0IwTUlZVzJ4eFZzRkZKSU5wdUZVMG4zT1BMMnRJLTl6emo3eGppQ19tbWdwMmp4QUJoUk5fUWc1bzVqeFZ4VHdpVjFCR2syRTgtV05yNmQtR3I2S0hQTHpfbDBPSkt6b3Q?oc=5"
-        },
-        {
-            "title": "貪食蛇再現！蔣萬安「光榮台北」明信片首發 支持者合照擺拍創意多",
-            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8yN1pJQW9qMkF5WmJydEN3eDVvRFJybGRob1N4NEsxQ2JuMG1mUVlKcHE0cERkT0c1aW9wOGphVl9TYWFXZ1MyT2NNWjlQOG04RERN0gFYQVVfeXFMTzVIR2hveDJIU0lTV1JLUHpZay13b2NHWHUtTldoVUJnSkNhdzVYSXZEaF9Hdy14U25zSTRxR3pTVFo0MWpFcjlDeThMUXlvbTZYazZrbS0zcw?oc=5"
-        },
-        {
-            "title": "蔣萬安自稱「堅決擋下光電板」TVBS主持人傻眼翻公文打臉：到底在盧什麼| 政治",
+            "title": "蔣萬安自稱「堅決擋下光電板」TVBS主持人傻眼翻公文打臉：到底在盧什麼 | 政治",
             "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9zbEhjVjFNR0xtTnRBTHNBbFZfWDJRTTlyejJZMEdFTHVhRnNNY1BRNTI2MUliV3I2eThWWXNiRnlNOTJPeXBqLUF5bVVTdVF6dDRYZ3UwZEJDRE0?oc=5"
         },
         {
-            "title": "小草選票支持誰？柯文哲：投不投給蔣萬安還不知道 但絕不會投沈伯洋",
-            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBmSDFyRjVERFNCN2Y5STcxYVlGem1MNGJFbjBnOVZrN0FhYjdnckxDNDctVDIxZmJVbVY3c0pDbTdnZktYbEpBc25TY0Q3bFoyNmJF0gFYQVVfeXFMT1I3UzJCRFpjOEFTN1g0UVJlWmF1NFVkMHJxX1pRSmdlVW4wUGIwMG9KSlpYd0Z6T3pIZkFFek5Rd0wzMFhibk1ERHhmdGJhXzJpMHN5TFh0SA?oc=5"
+            "title": "APEC深圳峰會歡迎宴我代表團：施振榮與13名領袖互動| 兩岸",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1yQXotcWFpX0NySDhNbUZsSEJwTDl0NFVrcXF0MFozVEFSMkNoS2dKNzc0Y2s0YzFfZEZrcjg2eDRDSUxXemJtVk5vZEdReVNYQTVCVWtwN20wRFd6N3c?oc=5"
+        },
+        {
+            "title": "蔣萬安酸陳亭妃「我以為是AI影片」 謝龍介：南部鄉親羨慕台北有蔣市長 | 政治",
+            "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9sUHJrLWlJQ19UZi1mQUxnOHotNUpTWHJHc3FEZU5jMWY3R2t1Q01hWU1udldCZU9vSWNfR04tZDJvcHR1czFSYw?oc=5"
+        },
+        {
+            "title": "路邊尿尿挨酸「嘉義棒流」！張啓楷掃街握手 攤商怕爆超尬畫面曝",
+            "link": "https://news.google.com/rss/articles/CBMijwNBVV95cUxOS0pNTGlScktTRmxmSUlReFJ5bHhJWFEyd1JRNlpybkx4Y2hNd0UxWTh5SFZxX01jbnJ6MnJ2cXN4RVhhNTE5a2lwWXFnc21wNVMwejJwVklWbzdWTG1KZ0I5SkFuc1h0R0c5RmlyZ1Nsa05LanI5T3BPakNxSHVQNWc3UXR0UE9GcDNoQ3ZzZXB3c0dCM1h6b1lEQ1VtT1ZiOXdoQ1RoVjU2M0VEMlczVzUwTGZWZVJMdFpZYWpFMjU2bTZvSUpxZ1U5a01aTlZxbTEtdlV3R0RJek9jN0hQUGZibDFEanczNUZRaUpfeFU0TFZCM2FqMXZpbnFkQi0tZlFzZlJUZEZaTXk3SjZYNUc0Nnplb25JZnFkcUkzWjBwbEFhZkRVcDdCTFl5aEJTU1BiVkRnek1SU1RGMTlEdUt1dU9mUS1UeGtaMTlQWU5McDUxRldPMDNkXzU5VFdHU3ZHSW5QOG1DSnhEamdpd2MteUxoM21hRVBLQlMweTQ2TVVIbmZXajd0eVJBV28?oc=5"
+        },
+        {
+            "title": "全國普發一萬來了！現金改發消費券？行政院曝入帳時間/領取方式，6地區加碼最高每人10000元",
+            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9yeEpqRW9aQkQ2SGJqX1hiZDJ6Z0QyTnV4eDdIdG9NS25na2w2eUhsUHdVR2JoZVpaekVYT0NlaENYdFdWUldjLU84ZTlOa0x2?oc=5"
         }
     ]
 }
