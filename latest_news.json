@@ -1,46 +1,46 @@
 {
-    "updated_at": "2026-11-20 01:23",
-    "summary": "晚安，為您帶來今日晚間重點快報。\n\n政治焦點\n在政策爭議方面，台南市長黃偉哲針對烏山頭光電板核准案，改口坦承看錯公文。經濟部也澄清故宮並未規劃設置光電板，強調「文資」一律排除。台中市長盧秀燕則批評政府在普發議題上的「雙重標準」。選情方面，有曾自稱「知識藍」的民眾表態將轉投沈伯洋，並感嘆國民黨「回不去」。沈伯洋直播吸引逾七萬人同時在線，並預告週末「城市行動展」。葉元之因嘲笑手語引發爭議，而「撲馬」以高EQ回應。民進黨賴清德在輔選行程中，則遇到民眾哽咽陳情遭詐騙，凸顯社會問題。\n\n國際情勢\n中美俄「三巨頭」峰會已結束，會議針對烏克蘭、伊朗等議題發表和平宣言，並承諾將展開核對話。\n\n社會民生\n中央氣象署預告，首波冷氣團將於明日報到，未來兩天全台氣溫將明顯下降，週末低溫更可能下探攝氏十度，提醒民眾注意保暖。此外，備受關注的「長髮女」救護車爭議，當事人已到案說明，衛生局正調閱監視器追查真相。",
+    "updated_at": "2026-11-20 11:59",
+    "summary": "早安，為您帶來今日上午重點快報\n\n【財經動態】\n台股早盤開低走低，市場關注後續發展，分析師建議投資人資金先行觀望。\n\n【國際情勢】\n中美俄三巨頭峰會結束，針對烏克蘭、伊朗議題發表和平宣言，並承諾展開核對話。\n\n【社會民生】\n首波大陸冷氣團發威，全台氣溫驟降急凍，低溫恐將持續一整天，請民眾加強保暖。\n\n【政治焦點】\n普發兩萬元政策協商破局，白營堅持反對，選前恐難以三讀。故宮光電板爭議，經濟部澄清文資設施一律排除，籲勿扭曲事實。光電板議題持續延燒，陳亭妃提告中天記者，桃園張善政也表態拒設。柯文哲批司法不公，蔣萬安、李四川質疑雙標，呼籲公平對待。",
     "news": [
         {
-            "title": "烏山頭光電板馬政府核准？黃偉哲改口「看錯了」：和蔣萬安都要點眼藥水",
-            "link": "https://news.google.com/rss/articles/CBMiswNBVV95cUxQRUYtalNtUzJVQXp3aDZNWmpKUUNmMW1la095aEttaVRjdTZPNFlGWDZqTndZQTRYelRRRmdfNnZTQmtnY3hTRWFwVnFWLXU1U3dRWmI5MU5WdkVOaDRmY3gwaWNKbjRKNllBTHNvOVdrT1lYNWd5RFVrNmFmTXV6Nms5R240aDl4UFR4cGN0Ylc3N0NKTVlZTkR3T2FYczdOdmJZZnRKSkRMU1pMYlhfOEN5blM2SHZ0aTJ2MkVuMnpsSmZQRmI1U1pOZTg2QXRwUGhacHF4SWI1Q2Q2R25SVmRHTjA3MjRPZzlVQl9WWElvM1lROEUyZGhwbXRSR0VzS3lhZ19KV2pLUXVzX1ZRY3JYYWtmUG05MGlwcDVJOXZrQ0o5ZjY1aEFqQkFyM3ozQnppN0JudGdXakhZdnRXejczdE52RDBtUDkyX3VoRmZIWVU5TjlPdm1FZWl1SFJrRlJMdDlmbEZRYUczSzB1dkFxTWVNNjVmMk9Fel9SaGhqVW9GOWJLeGVjUzUtejVrU0NXWHNwU3Z1WG1FWVZJOE91YjdNVHBGS0E1UmVHZGppcUk?oc=5"
+            "title": "【Yahoo早盤】Anthropic上市也無用...台股挫2200點直逼3萬6 分析師張家豪勸：先抽資金回來",
+            "link": "https://news.google.com/rss/articles/CBMi3wNBVV95cUxPRW9KY2s0NVJxNVlvMmkzTHVzU2lzYldFdG4yQzVZTEFUV1ZkTGtPQ0xiYW9qQVU4cEk4T05uWkFaZVRLTV9qQmd3ZWMtN3cyWXloNGdtbXZsaWtvbjYwS1BDbDQwUEJHelJFaURCWEVNVmt6UzM2RnA3cTR5WmhQaWlwMmpQNzBNbFZIcTdGcnlIZGVmbVpBWFdqVHBTT0l1NHpPcjdXWmdBMnBBRGZVbHdHd3IyTFpiVFlXSFBna1NPaXBPSFRSX0s0bEstVjJ1YTZOZ2dldmRUNDM5d3VGSDhTUzBpN29LOW1oYS1hYlRBNjRQME5MMWJETWdYRTFCYkN2ZFlTOEpfTHFKdFVwUVlFUS1MSjdmSUNlWW9fN1B3WXRBb3d1NW9HZGhFZzNVdWxjRk5jLXpOal8zMWU4Qzl5cVlTeHJYOXloRXZyXzctOHlBRHBUQjFyMTRsMnZ6NktIVHNJNnlueFJsRkcwN0toRkMtdnRFOUtWM1ZPaHp4SzUzNWc3ZkttUXUybXZyc01OX25leUFxTnZ2MXYzSlZSOUppa3JiUENRYU5TaWFGQTB3QmQxSHFyTlN3ajZyYkxTc19TaFRvemUtQ0IxVWkwekhsbjNEUG9QVUxISQ?oc=5"
         },
         {
-            "title": "中美俄「三巨頭」峰會結束：涉及烏克蘭、伊朗議題，發表和平宣言承諾核對話",
-            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBkSDcxSS1fUlBjWGcwV2NKemtQMWNicjFLTkkwV1Z5R2VsdlNwRExqd0p6TmxUVWhmNVlmcmhObnBXV000b0V0blp0VUl0S3VOUVBCOW02azV1dlA5MnBBa2xGQ1FJTDDSAWxBVV95cUxPLXFkMmVFdG1RTUNMYm9qa0VydDhZQWhiMDg2dWxNZmNpMnpOOFQ4RnQ2ZE9uM2JhdXVkV3Z4dFBDUHlDME5hb1I1cERPVkhyclZyd2ZyMTNzRDBXcDdnVFZ0a1ZEV1I3Ymo0WXI?oc=5"
+            "title": "普發2萬協商破局 白憂違反財政紀律堅持反對 選前恐難三讀",
+            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE44OTZBZWhhRTFzRlBiRC1NTjZXWE4yYjFZS1hXcm11XzdReThYRUFlME1na2JaNUtnV1U1a2EtcVdfVmJCenV1U3VxZGhscUtv0gFWQVVfeXFMTmx3V0FaellZNXNha3VIUzFOdF81TmJjRWJ6TWdIVlc4c2VIX2o1Q2tjYS1BZEFlWmZNOS1KUmJ5SjRDaVZpVjNtYVRMbTRMbXdyU3BMQVE?oc=5"
         },
         {
             "title": "造謠故宮設光電板！經部還原普查公文：「文資」一律排除 籲蔡詩萍勿扭曲事實",
             "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1YNEJDWEZYel9yQklCVVhYQkx5QVRQMG5LaVpRMkNRdDlyMEJ1SUlVOTUwakFyUURkVzVpZnNNV2ctWEgxX2R4QTFBbzdGMWh6d1JDVU56SDFlR0wxOVVZ0gFkQVVfeXFMTW4za3E1RzVueUptY2xISGpaMnNfZEphbkhtWEJ0TjhjNkVWTTZab0c0N0g1ZlZhVDM5czBUQWFCSnVDTWQ1OVByTlNaaFRkalpMS3dQTnF1cUhMWW4tVEV1b0ZUcg?oc=5"
         },
         {
-            "title": "昔「知識藍」表態投沈伯洋！親揭轉變關鍵　嘆：國民黨再也回不去了",
-            "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBSNFp2SWRMWWotVVpaZG1Mc0lVaGtoMndEbm5JdkRKY1R0YTJDY202ZnJSMkRhWXVJaU5ZUE56ejFtQTVqM2M4RNIBTEFVX3lxTFBCZ1pxa3hnbjMwYWNYeTFkUWJpU0JsZTAyRmFyQUJvSEZJN0l6dDF2QkY3eXVzM0lvRGdyRXdfMDV0UDViQUJPY0lYbFo?oc=5"
+            "title": "首波大陸冷氣團發威全台急凍 專家：愈晚愈冷 低溫恐持續一整天",
+            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9yTlpfeGpoT2NqWjE0Rm5pWXdCTFVBTHlaWndRSHVNYk05aVlOWDRMaFEwcmNXWURjVDB0MXpvczA2dzVHRUxNQ2ZtQzRGMS1W0gFWQVVfeXFMTlpweTBMUzVHdHU5VWUxLUd3ZzJGSlVvMHk1SldhMUxJWU1jMnpYSWdLUmNnMDV3VjdTQlJSYjk1OWV1X1BPVm1JTGN0YzIwTzhhckp6U1E?oc=5"
         },
         {
-            "title": "明天天氣首波冷氣團報到 連2天冷颼颼 周末冷空氣強低溫下探10℃",
-            "link": "https://news.google.com/rss/articles/CBMingNBVV95cUxNMDRzbU5WX1BkdlRPOVdJS0NkalFuWlZHYWNPNXVGc1FRTVc2ZkdPRDlqM1Q3T3NmNUpNQ0k4VTl3bmtiY2VPblMycGdQSEdCaUJNNFItVElQbVkyTFJHYkpwV29pUDM1b0dlZjIxczBpbFh3N0hiQUNXTjRzTE52d1B1VUNGRzNadG5EN3VxWVFhSVk2UC0wdFVvcmFlcWgwZTBWV1ZpMEhtSzRETUViZ1U0VlBGbXQ0NzYwTlNpT2FHclJBWlRRZ3ZRaVZWajd4ZmFPRnRLenFWZndvR1FxM001a0E0Wk9CYlgxajlnSW5PSS1Ud2hHSnR6SlE4SEl4TDR2MkNsNmw0aGJYZjk2MS0xdC1IbWM3S0duWkYzSnhjb05RUGczR2k0OHNiekN1dUdiOC1oZms5b0lna283WFNjSHREMW5fRDY2YnFkVzFpZmF1cXp2Uk53NlUwTFhJQkZoazBZN1RsdFR1ZlNlb1NTc3RZV3Jub1kweWRjVFQ3S2xiLUxGcklXT0JFQV93a1gyYnlSN2tQdjloY3c?oc=5"
+            "title": "中美俄「三巨頭」峰會結束：涉及烏克蘭、伊朗議題，發表和平宣言承諾核對話",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBkSDcxSS1fUlBjWGcwV2NKemtQMWNicjFLTkkwV1Z5R2VsdlNwRExqd0p6TmxUVWhmNVlmcmhObnBXV000b0V0blp0VUl0S3VOUVBCOW02azV1dlA5MnBBa2xGQ1FJTDDSAWxBVV95cUxPLXFkMmVFdG1RTUNMYm9qa0VydDhZQWhiMDg2dWxNZmNpMnpOOFQ4RnQ2ZE9uM2JhdXVkV3Z4dFBDUHlDME5hb1I1cERPVkhyclZyd2ZyMTNzRDBXcDdnVFZ0a1ZEV1I3Ymo0WXI?oc=5"
         },
         {
-            "title": "長髮女到案了！遭爆「救護車鳴笛載上下班」　衛生局調電眼追查",
-            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE56eVlDaEk0VGpoZGlBa0RERlJXcW82Nm80STZzTUFWSXlWbjZGVkpFVFEzRUxNZUVNUjVCUkVKZ2VvYjRlbFJHcUxYeHdQbzFhX283ZE5OdGVkeE1JelHSAUtBVV95cUxPWW1kRDNIbnJOMnZfSTFwbDh1TVpkRHlfNk5OU2t4SW5xOWxvYkhKQWdSSnRCZTMzVTcwSkdid1Zlc2Z5TW9lbDBQUXM?oc=5"
+            "title": "秦慧珠為何開槓蔣萬安？沈富雄一句點評北市選情：她最好議員地盤要夠穩 | 李瑋萱 | 新聞",
+            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBacGlFY20zMVZtM0RKemtqWVVxRE1hWUxKU2FhWk4wOXZfVkJKcF96QXRtSjFzRUlid3VSWFJuQndFS1lnaEVybjhIUko5Zw?oc=5"
         },
         {
-            "title": "普發1萬不違憲、2萬卻違憲？盧秀燕批雙標：超徵稅收應與全民共享",
-            "link": "https://news.google.com/rss/articles/CBMikgNBVV95cUxNOHJzYmwyX05wcnN3YmRKbHdrajljV1pIOUNfU3BDQ1JVRWlrTXMxcUpFdkhUUDhRVFZXUEVuUEthaFZObnc2YnZhWm1QYzhLRmdOMi14VVZsOTUzMnBKV1BtZ2wwLXltZ1J3SzY3MXZIX0xBOTlkcjJGM1dEZmZwaTNpc1BfVVZMazMyaXhMbDBMMjJvSEd0QTBnLW40UWZmMWVTYXlhWXBJSU4xVGlibjM3YzQ0elZfMmx3azRYakpOWGhlUWE4eTRLZzByQVh1amhSaFlYSXdWZkVOVzN2a3NKR0NVY0FhZ0JENUViOEYtRFdLU1RQQi10WVlDN2hXTWx0QmRhZ2ZFUlA2Ty1YRVB4bHlvLTdzMUh3QmlzX3BoTWQ0MjNnUTgwS1RWbzZjNWRnMkNuaXpwTHVFTl9vcmNyWDhKbkk5c0RMYmUxbWFxTkNCOTFuTWE2ZlE4N3ZNRm16LUtkU2pqQVdIbVlteXJIT2djczZFbkhzZVM1U043T3RXSURSbkstdmxMQndjUGc?oc=5"
+            "title": "蔣萬安、李四川聯手強攻光電板 學者：一箭五雕",
+            "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxPQXVRNjJLNG1ieWUxZndEOWlfRzZjMkRfN3NyM2dxcHFGMHhWYmNZQkp6RlNIeGRmMmI0VDFvdjRZZXVBZzl3RWt3OF9GX25VUzJyWVpNRkJwbUF5T0N2ek5mSndRYS1iNEZkUWJqYjRUQkIxZGdJNjl1LXVkZ0J5LWIybDFaR0ZPQ3c2SFlkbzR3U0ktdWZaUEtfcFE2dkxsMldQRkxJVF9sNDdxdENIbURKdzBsbjhfUTNqRUpXeHl4TWVpSDMzNHZ5UWpkVVgyaGk4NkRlUkEteFFyeW9qUmFFWW13ZHdzX3dTSlhFSWVlNVoxX0ZSZmNHMjNGZUFGRHlwQ1ZMUkt6WFRnMGwtTUNWTTViM0NhZXg4UVhrbFIxWTB6OXJvcWVCZmh4TU0?oc=5"
         },
         {
-            "title": "7.5萬人同時在線！沈伯洋直播曝週日「城市行動展」彩蛋",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9kWlU5NkV1cFhRV0pycjN3X1BqMDZzWG4tRlZWQnJILUZCeXhOSHZ5LXFVcEpUWmt0ZzJOV21ma1ZnNUIyVjhOakJsVFJBOVNCRFB1c2RZaHE4OUhKLWh5TWtIZG5SbEVFVVHSAW9BVV95cUxPaVNLWk5IbkF6ejgzejZVX2JNTTBOVXNTNnFmRmdZQ3BQVkNqaUdEdTluZDExR295Vk9iVFlzc05NaFBMRzFQSkYwRDFLQXhzME91M1BaZlQ1eW5VRTJzcVVnSHozUlVZU3daUlNUQzQ?oc=5"
+            "title": "陳亭妃為光電板議題提告中天記者 檢警火速偵辦 謝龍介說重話了 | 張庭維 | 新聞",
+            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBNeDAyODFvZW5jVGFJaUt3M2Z0OTlsNVVsWmNoOGw1Ql9pUW5EYkxPSW9YOUhwRHE0SnFrbFF3dVJMYUpxb09SYnJURUdJQQ?oc=5"
         },
         {
-            "title": "葉元之嘲笑手語！被抓包再嗆「笑沈伯洋等於歧視聽障？」撲馬高EQ回應了| 政治",
-            "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBkdHdLSW41VjJsQUNvWm1fOUVrM0JLSkZCakM4a3ZrcHpGWkNaYTB6UGxEUFpQTHZ2NHpjYXVoLUU1Q0lyLVdUWg?oc=5"
+            "title": "張善政拒絕埤塘、石門水庫設光電 蘇俊賓示警：恐全民買單",
+            "link": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxNZG52b0FkTXE3N0lET2czZG42WUJlQzJhaTV5WGlDQXRmbDlrLXVFelczYmV0ZFh6VDZrQjA4YjZWZFZwSlkwYUJyUnp6ek9TREtnaXlDZkdzSk5zRjhhb1ctcV9jM1pXMi00OTJJWmdpMVUwb2toSENtSGpzVTVjSm04YVczWGpkM3Y1U2JfVkJmX0d6VUlGT0R3SlBlSzdaSmViSnVmRkNsNkdRUFMzN0NubGJzRGl5MW5ZZE9ZTkQ0eUZlNmMxT1hkZzVBN1dhX3V1Qkh3VVcyNWpQalpyVURRblp0V3V1WHJkNlVLN0lzQ19XYTNicFEtQUM2bmFqRzBxM25vdHFJN0pzTm1BV0pGRTZUQUd0dXhFYlVPTmZoNGs1ZTR1SGR3T1lNWHJMVHBFNDhaemdNRFhNRmtwd1loNmdraVJzb05LeDB3dTJfZ2lMTUNld0hsZkNPNlFpS1kzdEoxSEhKMnlHZ0tuR2xZcDRGUTQ?oc=5"
         },
         {
-            "title": "賴清德輔選「彰化阿信」陳素月 遇婦人哽咽陳情被詐270萬拿不回錢",
-            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1VX0VfM0hyRGxFZHcxdWFaamFKaHhPaWZfVG9UZTE4OS0yM0ZfOVYtejRBWVd4cmlpNjN0aWhzRzhWMWEyWmliQ0Y4cFN4TVJuX2s00gFYQVVfeXFMT1I2UVU2aGJWaDRZMFU1T0JvR3JXeVFpRlFqXzN3aHhvZWZ1UVp6U2hWZDZVem9XWVRHaWV6TlVjV1JkRmo2U0JfZUJGUmR2Q2dzSVJpaUxzcA?oc=5"
+            "title": "柯文哲敲電子手環批司法不公 李四川質疑雙標、蔣萬安籲公平對待",
+            "link": "https://news.google.com/rss/articles/CBMipgNBVV95cUxNN2tfaHk1Z19pVG9QZ2NWRTZqeWNDNEJFZWpVY1c3eS1GNmVxbnkwUFVFdThiYXVrSFhjbUw4S1ZmRWY3cVN1NlJFZFBCNjA2SkItNTJsVmQ4aldvS3lqSFV4U0dBWFJ0dTc4dENrcUxGUnRieklzeFJ6M1AzNElWeWRwclJOaS1DVVZfc2VGdDJRYnJKT2htZnUtZ0NZQnVOOWdzWHRwTldlb0I1RHN1cGVWT1pBOXVyTndOOExkTUFJYWRaRzZqeWxoSkVYU0xXbWJacjhjamtSa0k4cmhqZkJmQzFCY0k3Mk5OZVRMbTR3Y19VSzhCYXRfbUJPS1BTY25lOUo2bjFkeTJQbFZsdGpjWUdkRlY3Tkt0Y2g3RG9HQjFNT1R2V2JnRjFxUV9BdVhpbFdIQ2NhVGJuV3BDSUVnekc3Rkw1elY4MHJNbm5FSWtWMnJsM0pnN3ZpVUNvWktJMjZzWTlPR0VpT0hVUTdVal9PSXU1UjRnUzIyd2g4eGx5Si1CNzhldnI5T2pyN2NKbEJ6QnhKTlhsZGFpOU92cHNRUQ?oc=5"
         }
     ]
 }
