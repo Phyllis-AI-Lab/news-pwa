@@ -1,46 +1,46 @@
 {
-    "updated_at": "2026-11-22 00:09",
-    "summary": "晚安，為您帶來今日晚間重點快報。\n\n政治焦點\n2028總統大選未演先轟動，郭璽今日重磅表態將絕對參選。選戰方面，蔣萬安與柯文哲同台造勢，柯文哲籲投給善良正直。綠營蘇巧慧、沈伯洋三重造勢爆場逾兩萬人，賴清德現身力挺喊「雙北雙贏」。韓國瑜則第三度到高雄為柯志恩輔選，支持者熱情提早到場。此外，蔣萬安市長遇夏莉絲家長下跪陳情，引發「要跪才能被聽見」的批評論戰；高雄水庫光電案的責任歸屬，市府與議員也持續隔空交鋒。\n\n社會民生\n氣溫急凍，「個位數」低溫預計報到，請民眾務必留意保暖。",
+    "updated_at": "2026-11-22 11:11",
+    "summary": "早安，為您帶來今日上午重點快報。\n\n【政治焦點】\n\n選戰倒數六天，各陣營造勢激烈。蔣萬安陣營公布與宋楚瑜同框照，柯文哲也表態支持。綠營沈伯洋引泰戈爾詩句，賴清德喊雙北雙贏，並強調防範中國介選。此外，民進黨團因普發兩萬表決缺席引發爭議。\n\n【社會民生】\n\n國道三號清晨發生六車連環追撞，造成兩死一傷悲劇。天氣方面，今晨新竹低溫僅6.7度，吳德榮預告周二鋒面報到，北部、東北部將轉陰雨並降溫。夏莉絲家長下跪要求簽署承諾書，市府關鍵電話引發怒火。\n\n【生活娛樂】\n\n韓國偶像BTS柾國的高雄Vlog觀看次數突破三千萬，蔡英文總統及陳其邁市長皆留言互動，引發網友熱烈討論。",
     "news": [
         {
-            "title": "不只爭台北市長　郭璽政見會前重磅表態：絕對參加2028總統大選",
-            "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB5QS1zc2ZJSHFzZ2xBcE83RXNBbzdnR0duMXU0bEtiam5LWmwwVU1EOEprSjNZQ3N4NFRDWjRkSzhJelI2b2ZUSdIBTEFVX3lxTE9qUWhtcW5tWXBCSzRIejRsVENWX2xiTWFBSjUyWXVmemFSSU5vdWpwRkRLc2xXck5VZTA3eHp5cGVrcnlEdEsxak1QbU4?oc=5"
+            "title": "藍綠造勢對比！沈伯洋引泰戈爾詩句、蔣萬安場他卻罵人渣 他嘆：蔣完了",
+            "link": "https://news.google.com/rss/articles/CBMitANBVV95cUxOZWtBQngtNE4wYnFwNzJqMXBHR0RVdl9lSklWWlU2bHdKV0txS2JHQXZPUnZiNDhTTEFvTWh5c01vYXUxUE5mRDF1M0NOakxFckRkVVVJc3FPWmc4T1hFS0Y4eGZtUHRkWkRBZUh5SVZETlRjSGZPdXYwemc5Vjl5a185eXJ5dWlDRlkyMUtqOFVFX2tHcWQ5dDU4S183eEY4TG5aVVNiS3hRVm4yUk40S3JFd1V4Wkpacm9uQWtEV3hhOGFsSUVZbExKYzh0cnlzRFRrLWpiaFBya3pJTTItNDZZeklYZk8tN3BldEJHYU5uVlBLSWtyaEFSeTAwN1lFSzZWOHY5c1NYSmFhZVJPM2ZiNl9DWDY5TVFSWElzUGpLWFVmQ3lVd0loYVdRR2FJVzludnBNYWMzeUZ1YXRqN3lWam1iMnlWNXpmTHJGVm5makNKX0xaa0ZVbktyTU9YNTdra01CdmRuRElESHRUU21ySGJfWUkzWlhTa2M5dE1XOUszZmZpVndqWnlITXBMMEdGbUM0MzA3X0Utak5zT0RiUlcwcjlpV25JeTdCMUJRMzky?oc=5"
         },
         {
-            "title": "蔣萬安柯文哲同台藍白合！民眾黨大造勢 柯喊投給善良正直 不要認知作戰搞仇恨對立",
-            "link": "https://news.google.com/rss/articles/CBMikgRBVV95cUxOQ1Y3OFRyOVlhQ3J4MDhCU29GaHAySDhnWFlGYTZ5aElObXRQVEVoVkh6RWFPQlppY29Nc2FNaXhTZWxWdXZ5RURaajNXa1FwNkZHMHZnVkVqUFN6UkdOenRsSmQ0aU1GNm9hRHEyTGJLUGF6N1ZDRkwtd25LVnRDaUNsX3ZMOTVKZ1pZLTZlbUhpTmNoVzR1NXliSUR4cVNzX283N0ZvV2lyQThGUWVRTmFiM0pjRFpkNlBOS081VEdKU0ZxZDhZV3hMYmwybFItQkpiUV9rcHJnY3Z6cTctMDZRUnJuWXVqblZCUU5wbVNBbi1vMVJmUER2OHIzNnA0NjRDT2pCVmZMWHg5X1lpa3RYV2xGQnpoS2ptci1Tdi1BSExXMUhvRFdNMUZKc3pUVTU3VnhvcENZVVVidEpfZWtsNVcyZmNEdXE4OUFQeS14OWJpV2pEMjBpekdXT2tZQ3JNdi1aaEI2UGtXUmtONmFUd1lsM1NRemtVU0VLOFo2RFhkelMzNUlzZWR5SVJNV0FvZS1Oa245Qkh6bk9OMjJyOHJwMi13d0hIWVljOTV0RnhXRU1IMFphOGlJS01rZ1JJTTJ6TE5xemNPbjZvc1lTRUM0anY1SVl2WkEzRXl5MWJVWXMtZGhkSmxhQWVpYVBHV0hDRDlSd053VmgtWllRNmNIdjBVV2ZTSkd3V3hqUQ?oc=5"
+            "title": "冷！今晨新竹6.7度 吳德榮：周二鋒面報到北部、東北部轉陰雨降溫",
+            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE91RFBOcVhwUlFRRnlOVC1uNkVxZmd2M0hDNkh4MWoxRXBrb25xVjlad1J1NWNrVXBFa1ZfaTg0bzIzTmJZMkJnWGJfdUhHbmFQ?oc=5"
         },
         {
-            "title": "台中街頭感動片！ 95歲輪椅嬤、81歲阿伯冒雨力挺沈伯洋",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE85UzZfMEFlQ0VIUG5oYUh0dWNlM3N1TF9uenpWYW05SlJYOHFpME5WTWpvRldHbUROcmgtUTY1R3RiYm5waWRBR1lYT2JGSlJXQl9FektnSHFVZ1l3azBwV1JaNjRVWUt1UHfSAW9BVV95cUxOa2pua3dfUERJNTBfbFBqQm4yd2JtRGRqR1ZqMllLeGM2Y3ZfSGVONk93dnlhQTdydFdpTGMtRHJaQ2lRN3FkalVXU2pLY093WkVwOUNhMGU2SFJwZjVzTWRIUVZzUmtpWnlicW15YU0?oc=5"
+            "title": "慘況曝！國道嚴重事故6車追撞2死1傷「年輕男女喪命」人倒路邊蓋白布",
+            "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBpb0R5MktoYW5wc21qSmV1MXh1WmQ4anhhNm4xZHNfbF84bXRUMThHRElESGJXc25qQjhRUXpWYy1iX2NhM1czMdIBTEFVX3lxTE9PMDFjZXY0cWdFd2tNem0wazhWTU5IVEM3a1V2ejB2SmMxOC1ZbTBvRngySnVSVTlqWGllemJVbGFfSmlLV2lVMkZpV2Y?oc=5"
         },
         {
-            "title": "蘇巧慧沈伯洋三重造勢爆場逾2萬人 賴清德現身力挺喊「雙北雙贏」",
-            "link": "https://news.google.com/rss/articles/CBMisgNBVV95cUxPLTAxOC11d05pWEZQRzAtVmtPa3NJSWhYWTBubEYzZm5IYTlNUlowc2dKckROYTJKSk52ZWRkaUtkSk5yTHREM1FiU2I5eGxlZmdRaUtUeWJLNXlJbzRUWTV4NmdlUXAxY0RnNzFWanhsOU1WbHY1MmRKbXZ1Y28yVEVWMUFsZDYydFZWLUR2UjUyWUsxeGJrNkNmVVB0LU4xNmJLX3hoX19HTEJzNnptODg3QXQta1hPWmxwbWl4U3ZIRExKYmV4SmtGLU44dVVmSGdQTjZKM2huM0ZXTm5XMEVYZHJ4QjJtY0dBN001NTItSHpoc0Q4T1pVb1NCb0FkOXFqWENzUXBnc2VhYzNYcVNiMzQ2ZENKU1NSQks0Skc1eGJRTWpPTFB3QTBJcGh6SWJ1MUl6WXlKSEk2TU9BclZBZ21JX1RaNXVLaUpXUDRPdGdEX0dONWdWNVZxUjBrS3BaSGVyOTBWNU5oQ0c5aXhrMGZad2pxZnFQbnVKZ2d1Sm4xRkwtME1CcjRxUGc2Q1JSZi1VWEtqVklpM1JjTnphZnA5ZWgyS2JzeW04Vldidw?oc=5"
+            "title": "秦慧珠感恩之夜 李傅中武喊「我們都是黃復興、黃國樑出身」",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5UdFpfU0tocVAwSDdaNi1KaGNoRjdBTEdtS3BESVVZaE8zWFN0V3k2RExSY0l6MFhFS0JuejBleHBReHl1S1Uxc184eXBSRTdSUjZwZmpOX1VRb3l6OVR2WEpCN0VvdFBjR2fSAW9BVV95cUxPdVVLN1U0VTN0QW9Jdlo1WHVrc3Y5djRGRG9aQ2tCY0FJTExpYmpXb3VrdFpHVHMwcUUyeFNJbWFLcUJfMzcySTZxNF83T3BhUHpQVC1ZQ2JxSmRZQkhCMFhQb0dRcjVxZ24xZHRqZHM?oc=5"
         },
         {
-            "title": "韓國瑜今晚第三度到高雄挺柯志恩 支持者怕沒位子坐提早2小時到場",
-            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE53SXF2a0RtbzZTQ0djY21GNmZXbVpTcld0ZzNvTFE0bFcwdnI1YUs4QjhEM0xWb1NqclRtbHRLcVpFSjFiRkdBVXdnRHFNbWVqTnhj0gFYQVVfeXFMT3NBXzVCd0kwN2s3YnRRaVoySmxMdGhFT0RaQWU4VEtFYXlfWW5wZkVwYjFldFdFMnZaWVNKTThwaUJ5ZTVDUEVLckRVX1AzVm9hUGI0dmVRcw?oc=5"
+            "title": "選戰倒數6天！競總曝「蔣萬安、宋楚瑜同框照」：雙方相談甚歡",
+            "link": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxNTjJlVTI2WEZPNC1NNDgxdUpYOU9hTzZwejNGTFZjaWMwaHQ4Q1N0UXRXeTZUVWJoc2tFckNBMHVXT1I3M0h2TDRJWlNCN3lwVlVMS0xOR01xbGxEaDAySDYzWmJ4Und1VUpmTlZlNDBScTVJOElLOTR2alhaRmNZalp5N2cxVm12ZWZObXktRGZLSU9SelpnNHBiUV9LZ0U4b2NGaER5NWFrVl9FOEJ5NXJudGlMRFZfNml6TE5zUGllN2s3RjhtN2NBODZKRTd6b3h6dG1SVU9sUHZPTXBsN1k3RFAyeHlVb1pVTlZsdnFubHpnZTN6Y3NUd3BuWEljc2owS2N5bF9Zeld5anU5ZmIzc2NVRklSWHFCU3M3c1JsNC1sQjhHN0YtT0daaDlsYjQyUGRjUk9oNnNROHF3dXNTZXRnR1R0VExQanhJajdVWElnMDJJMHlLcnlib1NtM2E0T1A2Y1dKQ3p0Y1E?oc=5"
         },
         {
-            "title": "許甫爆父親黃復興背景！牽出蔣孝嚴兩代緣分",
-            "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxPTzBOcEdvMTc4c0FhOHliUVBsUFF1TFBSQXowQTRmdm1qajVScDNmc2VvcnA1VG81Y1NfTGdfN25Hb1hERG55NlBBeVd6NTM2MXkwOXpxb1BXdEVEX05wQjYtVkwxajloc21wNFp6ak45QVRsRk9rYV9fV0hmZXB6UXZtZ2x6Ym44Tmc0VnJMaWFFS1lXSC1FTDgxcjJwRDlKRnZGM0ZUa3pOVHUwWF9KcVRxMlJPcEg3Z2taLWJTeG1jZlJMMzAtZk5HSXp1bWg5X0pSaU9CaHkweXFNbmFSQTIxWTYzUUl2SnItLVhWYVdMREREekw4Wk9LN3QxZW1RRzg2cXFoanJBSHh1VzZDSXhYNlZfdFRhdDhtZnZDZHdISzYyMEtvaW1UR3Z4Z1lfWjVWaTl0azk?oc=5"
+            "title": "「洋流只是個幻象」柯文哲挺蔣萬安：市長要選正直善良會做事",
+            "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxQalNIYVNYV19jSkhtaTJCVE1DandjNk1OQ25VSWlTU1BDUHJRU2YyMW5kbGV6d0pBVlRVZGdZaWJsOEp4YTlUZjFlY3VSRDlfdG41NFdpSGx5WnNmUjZUZTRYZFNXZmZmWWY5cGphUVdHcDQyVE5RQ1VnU0tzbzJhWUlTVk1GcWxGbmlaeDloM3FUQzRuNmZ4cHFIUFI1Zks4QUVmM0pod1ozdXhXcUF4NXdPei1pZlg1YlNkTFRUMW5wUHY4STViOTVTTGk2cW84MGtRbHNxbTNCOUhrTzdHNUp3Q1kwS3Jfb0x0N0I4akc4OEhmUzhKMV83ZmVETTBMVktRMVFUUlFWcVRUZ3p0NHh1WUFuTXo2clBCNDFvUXVtdDlWelllaHBJdklEczlHam9uVWpZZnZjYlk?oc=5"
         },
         {
-            "title": "水庫光電誰准的？高市府稱關鍵程序均在韓國瑜任內 議員提資料反駁",
-            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1fclg2bGxkUThFMHlMVEU0Y0w3WHltaERxcktMM21kWFZDYzViS3dzNFk0ME5taXZzLUdRcTZVYnc1R2wzVHBEc29IYmZQaFpa0gFWQVVfeXFMTXpfMkhZY2dWd29IUUdQUTdPZUszS3FlWS1rNlFyaFF4ZG9jV2VVQk1ya01aWjlzbTVmMFFsYXJ6STNsaVhYYlNsemNYUmc4OF92RVFlOFE?oc=5"
+            "title": "夏莉絲家長下跪蔣萬安、要沈伯洋簽承諾書！她曝市府「關鍵電話」引怒火",
+            "link": "https://news.google.com/rss/articles/CBMitANBVV95cUxNQ09TSkVBLUJKNUMteG1PaUhoR082U1pLSWxVTkw5cnljUHFUQ055ZG5jUjhJV3JjTGZTX2x2QW5aQjA2dHdJanRWU01wYThya3IwQWwzbnFXOXNiekx1cjc2WDdpTnhuSWZlNkZRTXhzZ0ZZQU03VWg3LW83ZlhuVHIxU2RzdjVDbVFCWHNGZmFvc1FmNkhwc2E0Z3lBcjQzT19ncVVMVVZ3eWZaSGJVMFJPM2k2YUl5M3ltM1EtLUUyem1COWU1ZDFUQWNWUmlOeGtxWDdsYmRrTGFhUmRnNVNzT19LZ3R0RTMwUHdPMzh0S3VfUmhKU3JqSy1PY25zTFRleGVnbHRINHhwSlFiX0JwTnVKTGRRbXhaQkVnSW03cDdqaGZkQmZvbDM1bURybUZoRTZSUHFGekVmTTFnNWY1aEpUZ0M0YWU4MUp2dUoyMi01QjJINTFob2dxQUs2UHk0U1lsUWx6Uk1zcGp4bngzSkV6UnJlNGZnYUQxSDcyaUo3U19DN0FWVlVteG9nV3hsM25Hb0V2dzZyZDRmRDVpM0NsREV0MVJGUmZuZ3UzVk1n?oc=5"
         },
         {
-            "title": "蔣萬安遇夏莉絲家長下跪！詹凌瑀批「要跪才能被聽見」：光榮在哪？",
-            "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE84MGFWZjVvR2E0WTFYVWJ4RmtCMXlNN3NfOVh1RGZRcHFPdndZZFZ2N0o2Z01wTXB3OTVLSzhCYXVQUnNscUo5MdIBTEFVX3lxTFBpbjYzRjBXSms3ZTRBSEs4MkRnS2hUZ2dELUx2Qzd0T1pMZmE0aGROaGN0eF9IdFRIRTFRalpuMko5MWxxdjExVlozLU4?oc=5"
+            "title": "賴清德嗨喊台北新北雙贏！最後一哩路要防「中國介選」",
+            "link": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxPZGFkRVlXLXV0Q1ljS3k2YkVGWGl0LXdkN3dVWGEta2xkVi1nTk90bERvZ2ZxQy1SMHVfQ1h1Vmw2RnZjNi1BNm5IVFg0a3ZlYkFOUm10YjdUcE5saUV2OTUzQy1pSk94WF9DdkszQzh4QndKRjZZeUhuOHFSeUs2bWk1M2NRXzBTamdPTEp0T2VDV3Zsc0RYVndSSkJ0Vzl2SUF4SkpFSUlwX3plb3l1WEZuUDh0SThLYnNpN25wbUxra0x1SDFpb19UNXZVbXdrMGgzcm9odDFzMUt6YXU1UV9qYnJnUkN6eUVQbDlvbkh3bmdNblZpV1gtVHZnNVhBUjRCU0V6UGE3NXJpNjBIQjdveGRaZlJ6Y3BBTk5TRFF6YS16UkNxSG5FWVJPVUF3cGxjbmRUUlBTZHJ4SElicEozbWVMWXlNbm5NQ1l0a2tWSWM?oc=5"
         },
         {
-            "title": "「個位數」低溫報到！急凍時間點曝光",
-            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0wLVRmb0wxMmJGa05qTVpsSEhIRFFmdkNlaHpvOHRyT3A0QjdxcEptTGk0ZE5TZ1lnNTdKT0tEeUYwcmVfVzRERHVRUExsUkVZR1p2Rw?oc=5"
+            "title": "BTS柾國高雄Vlog破3千萬觀看！蔡英文、陳其邁留言　網喊夢幻聯動",
+            "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1SZ1dyemZSZVNmYm1TUzJ4QTdKRDIzYk54cEI2TEJ2aEs1bkVFN3UxbWUwRGpyb0RxRnN5MzhwQ0pqWXpQZVg1ZtIBTEFVX3lxTE82MGRGeWFEME1fcDR1NVdKWUM5YTFtalpkN29JZURabmctc0RLQW1TV28wM2c2bmdTNDJuaVBYZzk0NmIwWjRlcS1NNVE?oc=5"
         },
         {
-            "title": "黃珊珊送親筆簽名書「To Puma」 沈伯洋：當選後用人唯才、不分藍綠白| 政治",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1oaHZnVWZDZ3ZvdlctVEh5TTFqZWdzQmdZQTJrbGxrT2VXc2sxU1R0OTJzM3FUdFN6QkNPcHd1V0NyRlc2UU0tMldWWGNwckNUd1hnT2JSUmF3S0U?oc=5"
+            "title": "綠委缺席普發2萬表決挨批　民進黨團喊不公平：社會能理解",
+            "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9meVN2YTlVWFJqeXBLVlptYlFUMkJCT1RLbkZQM1VIUnVjV2owN1c2bmVPcnBQcWQ4aURsaHVkVzVwNVFNanRDcXNJaDnSAVJBVV95cUxOOTE5dDB6ci0yYmY0d250c05LeGtIMnZ6R05USElNNjBGcG9LWWV1ME1NdnJBLUNFYURqTjQyNFZ2M2FyZ0VuRHM4V1VQQmhpa1RR?oc=5"
         }
     ]
 }
