@@ -1,46 +1,46 @@
 {
-    "updated_at": "2026-11-24 04:13",
-    "summary": "晚安，為您帶來今日晚間重點快報。\n\n【社會民生】\n天氣方面，明起兩階段變天，雨彈將炸三天，週三低溫下探16度，投票日天氣也曝光。此外，為應對投票日交通，國道管制、高鐵台鐵疏運措施已公布。玉山排雲山莊則傳出降國旗掛洋流旗事件，玉管處證實。\n\n【政治焦點】\n九合一選舉進入倒數，沈伯洋選前之夜與蔣萬安開票活動都在信義區，25日起將有四階段交管。普發2萬恐不副署議題持續延燒，引發政治攻防。\n\n【國際情勢】\n國際焦點，COP31未能達成重大氣候協議，談判分歧嚴重。\n\n【財經動態】\n財經方面，輝達董事會宣布恢復黃仁勳職務，美國政府確認無國安風險。",
+    "updated_at": "2026-11-24 14:58",
+    "summary": "午安，為您帶來今日午間重點快報。\n\n【政治焦點】\n選前之夜氣氛熱烈，多位政治人物動態引發關注。國民黨蔣萬安市長掃街時與秦慧珠握手破冰，強調團結拚勝利。他對選前之夜神秘嘉賓賣關子，並幽默表示紅色戰袍穿了十一年也不用換。民眾黨柯文哲則送蔣萬安金剛經，希望他不要被洋流幻象嚇唬。另一方面，民進黨苗栗議員杜文卿因力挺鍾東錦，黨中央已展開處置。前立委徐欣瑩絕食送醫稱心跳過慢，但急診醫學專家對此提出生理矛盾質疑。此外，沈伯洋直播教數學，蔣萬安誤認微積分也引發網友熱議。\n\n【財經動態】\n備受關注的財經消息，國泰金總座李長庚透露，輝達執行長黃仁勳回鍋來台，讓台灣供應鏈業者傳訊給他，都鬆了一口氣。\n\n【民生氣象】\n天氣方面，鋒面及東北季風南下，北部與東北部將轉為有雨天氣，氣溫驟降至十三度。氣象專家吳德榮指出，投票日當天將是乾冷空氣報到。\n\n【交通資訊】\n為便利全國民眾返鄉投票，離島航線已再增開二十架次加班機。",
     "news": [
         {
-            "title": "明起2階段變天「雨彈炸3天」！週三低溫下探16度　投票日天氣曝光",
-            "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE82M0lEUXU1enhpWmJWMS1jeXc2MVVpUU1DbXBlTS0yNmVadE9oU3cyaWRwaVM4bmNnUlE5eGxNU1I0SjkzWnE2dtIBTEFVX3lxTFAySnF6THRWMndFMXdtSDJmU19NUjRsMExnb3lTM0RTVUMyTXRZQWV6Z09QSF83RF9QWmhqQ2lMRDZnQmt5cExERVVmT3I?oc=5"
+            "title": "黃仁勳回鍋 國泰金總座李長庚曝台灣供應鍊傳訊給他「鬆一口氣」",
+            "link": "https://news.google.com/rss/articles/CBMiuANBVV95cUxNMHg5Zng2NjRvUTR3b2cxaU9zU0VGa3BjVTI2SWl5SS1OVGhTckdsNXlWYy1fbGJHY3FnelU0Vkh4TllpUGNzaVFFeV9aZDYxS28zUXNZNmg1clMtRXJzcmdHdGNOcGU3YnhUZEhObFVIQmNhT3pzWVVIalAwLTFpaks5MndEMWtCdFVVeDFpTVJUUzZ3dWh2enk2MmhvNjR2RGltMGlBcGVzNWhaVGF2S2V1SjZ1bVJUeGtQV01VdTBrcThxV2NxRjZGbHRMeXVINWthbThqOUNDUVdvaW1xVjBCcXpDQUxmZUFEWC1WNE9tWWlEdkZqNkkwd21wUDZrQ2loUENfU21Vb21xQ1NVRnlzRW93ajBiUDVVT0JkNVFVS1RsLXEzRkdhMEpKcWppbHNPLUU2Ny12VVVoMHc2V3l0bUg2eTJndnZ3S1JRalZ3dm5wZm5BbU5ra1JCdHFpX3ZZQWk0VDlNQ2JnMXBMUVlQZW9FLVdCcm5jU2dSSmxlWTVaZnF0YmdQX2k3UlZLcThJUFNCcVFsTm9nNjdSTEJDN21Bekk0QjVWQUtSMjhuQzR2OWNJMA?oc=5"
         },
         {
-            "title": "九合一選舉投票日交通懶人包：國道管制、高鐵加班車、台鐵疏運措施一次看",
-            "link": "https://news.google.com/rss/articles/CBMi6wNBVV95cUxNbXBYOTV4NVZQVzlrbU1Ja1VReFQzeFZzckJDblp0Y2tlVzBXcE05a2hrRnU0Q0xzaHBiRUoxaklNVUIxUUhFSWFNYklFd1JEeWt2X1RkZGdzeGY0aVU1RXo0T3Y5YWFZY1FHNGppdUlBU3BlZGxQU2Fpa3VLWVl4TW9RR1c0SDJqUTBFMWtNZGxVYngzTGI2UUZLWmpWbGpSRHdqcGY5Q0xyTS1ZdDgzZG9nb2stU1dablpidFVrUFd5ZjRVcjF3N2ZpQzRQMzNhcW4tVzdIOGozQmJ2dzI3RFl2bVF5Ty1uWkpjN1c2VTVJcTlnLWVUanNvNDJac3VobThHMVRoNkt0N0RsVzI0Tm82b09Yb3JqSm5pN0x4cWdTLU91TkU4WjFzbm8tVURoRVdoWWxqM3NmejhsVXFMQmZoaUtHaFRidEhTVXVFMlBuV3F1REk3bVNuTUlXeWRiSlJ4NzJ1UEtCa2VoUzJfazVWTXVCUGk5d1puTHRaQTFiQXZIZzJmUjFISzlydjZTbW5IZTl0V28taEZSMmt6ZGlqMUE1WFprVmVvLTRLZFJYLWU3S2RBNXkyY1FMdlY5U0lvV2pNcnJfZ3VhYzVrU0RIdDBabWVwVGUyM2ZZc01nM3BoRm9FVno2QQ?oc=5"
+            "title": "鋒面東北季風南下北東轉雨低溫13度 吳德榮：投票日乾冷空氣報到",
+            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB1TmtsT0xsajBFcDZVZ2VpNzFuTGxYVkM5VWQ3NDBwRWdKZkdiejFzSWdrYzcxMkU4QzdZSzZ3UjFUbmFld01PRENWT2l0cVNI0gFWQVVfeXFMTlNSV2lXVlZaLTh2TllLTUtLLXpFVFNWbVJpSmk1SVYwYWxmWWttbmhvRlJOVkl1Zm4zV2VfMWRhRjF4TkZCN0xsTS13cS1sS0dYc19FU3c?oc=5"
         },
         {
-            "title": "蘇巧慧、賴瑞隆、徐欣瑩3人「司法處遇」大不同？法務部這樣說",
-            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1EeElFZ29vek5yRGVRc2w5RmF5Y0JaOEhsdHRoanpoRnBBMzBZQkVNaFdDMFFjLWFRYm55OTdJR2VkRURwQld3RnlZTVI3bWtMVXVB0gFYQVVfeXFMUHIxTFB6OEc3b3JZdk04ZDZEcWFrUk9sYmNJMEdFSTIzWGh1VUtVZ1V3Zl9ja1pYbHR4YUYxWFJRX1NFQnctaTdEWnQ3d1ZZMi1yM2RfTGhNSQ?oc=5"
+            "title": "沈伯洋直播教數學「蔣萬安誤認微積分」！聶永真狠酸1句　3.8萬人讚爆",
+            "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9tZGNFTjlUWDMxNVV5Rmk5NXhzMjE3YjdhaTNRYmlZekJfOFlwSTZtLW1IcU5LMjVobzdJcVo4bFdLSGtOV1M4QtIBTEFVX3lxTE1GVl9aSTBkd0JaeVdwTGJPX0N1SnpuZE9NX0JoWlRIN09ja0RqVlNNM0dxM0Vqc25FR1VGMDFsdjVNVXBScXVqeXRwVkw?oc=5"
         },
         {
-            "title": "COP31未能達成重大氣候協議，談判暴露出嚴重分歧",
-            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9UemE0N2RLbTQzU0I4N3JZRmUySjRCQ1QzdTdDVXE0RlplRmRaejY1LVZ1dTNnT3JwQ1R4QzgwMUlqcHRTZlo4Tk13N2hYc3kyVTJ1cEVYeUVveTNjOERReTJaNWs2OUXSAWxBVV95cUxOZGVraUlTaU1tWGdNY2cxaFFHYzBlMlVaaWkxMjVfUmNCTnB1QmhTWWJJQlNEemdJUUdZbG9RaUlrX21raExYLTllNG1mQVl4Z090Vm1yWVJVVHlyZHRxRThIRUNBZ01Pb2pJSm0?oc=5"
+            "title": "全國返鄉投票 離島再增20架次加班機",
+            "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1LMUk5VzE0WlV1eC10U3BZWFdoeGpoYWcyakppTEVfVmd6bGx2WXhCbmE4MWxnTE5RSDZCX1JtbEwxYjJEZG1GSy1kN3k3NmtTWW05LTJYZFl0V0pl?oc=5"
         },
         {
-            "title": "輝達董事會宣布恢復黃仁勳職務 美國政府確認無國安風險",
-            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE81QjlTSUFxTV9PTFhJOVloODRGOGF5b3JhTkRiWTlhQlBwbldXcE5EeFEtSHdNVTQ5eWd3TkM2SWQ2MDhuZTlqaFhkbnJjSUU?oc=5"
+            "title": "影／送蔣萬安金剛經 柯文哲說原因：不要被洋流幻象嚇唬到",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9KSWU2OXZyWkhfNmxVV0hfZExhbnN2RndKaXFOWVI5OG96dm9pR2lWVEJEQktXbDNDQUJkSDR5M2k5UzFrVTIwUXBtTmNOQU1wTk5V0gFYQVVfeXFMTUwwNDZaM1BVSUJuRVZEcE03SGlsejl1am9JNHZNSURZTUhtS2EwbVg3ZVM0blViRlJGRFJpT3RoVFNVYmZ5cURkU3VnSnQ1MGRKSFVMRTUwOQ?oc=5"
         },
         {
-            "title": "沈伯洋選前之夜、蔣萬安開票都在信義區25日起4階段交管| 地方",
-            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5pN2hVekljU1JzMVVaMGlhM1JUNE5scjdkbkpBTjV5OUVUTWJyMXZYQWppdmo5MF9wdlg4ZkdHX3hmWTNUX0pDNnQtbUg4RGVucWdUMVpwZUVIelRtbF80?oc=5"
+            "title": "徐欣瑩絕食送醫稱心跳剩49下 急診醫揪「生理矛盾」反問：劇本誰寫",
+            "link": "https://news.google.com/rss/articles/CBMikwNBVV95cUxPTFp4aGhxUG9kblVnZEVNQmdLNjIzNjRtR1NIUExaWmJ2aWRqNE1aOHpobzFxcml5UmJrMmlyNEEtWlp3eVFVQzdueFVyNWwyMjBkVWhYM2xjbmQzb0xCd0xjWFYtVVJBV1JtLTF4QnZDQk5CSFh5OGV6Qm1CYjdENDdCb2lhZ3RKdDM5OURsaEN1cFJFenAtVk1kbFdONThLQ0swT1NmR0FIMnBNdHlGTUdOQVRyT0s0dFpWb1lfSVczWldNT3pIVTg4bEt0SFg1ZGVCalFySHYxNDhGdnJwMUM1dDZWSVEwelIzenlHMENMeUdmZ3FyeVhwTkd4Q0ZEVVExVENRUmZ1NlhlVE1DRU16NWRlWG9sV05MRnRJWGV6SzhzSHBHZlVRQjE4eVVJNlNUUlVKS3J5czlqeU1PazZ4Rmx2YkYxWVBNRVB1dUFGQUNxQmVoSXlWMGpGMUN3S1lCSFV2VmpFaUlCWXVZTUFUSWxSVjc0ZlNieUk2Y0Y3XzNhaTBOdXhoVE1ZNjRnQ2R3?oc=5"
         },
         {
-            "title": "支持者熱情抱抱！石舫亘發明信片人龍蔓延數百公尺 人氣不輸蔣萬安",
-            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ya1I5YUh5cnh6YUg1UDBMSGtpWUIydEdjU1h5MjhxWVBMTlZBby03V1BhX0E3UlNGdXhKeWJ5bTdUWGRCa1Z6YzFHVHJrOF9nSFFR0gFYQVVfeXFMTndDMkQzY3R2QXBZdWZ3MkFxSkg4Q0V6ZWRqR0c0RXJLeGQwMi15TFRJTkRwSHpyQnpyVGZ0aVRWUGFOMFItdWpIaWl2M0U3V0tBNzZ1eng2eA?oc=5"
+            "title": "苗栗綠議員杜文卿挺鍾東錦！嗆「夠力就開除我」 民進黨真的出手了",
+            "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxNb3BHTTlFYjVDeWdBbml3aHZRNWFnYTlMSm4tNVpDM3plOFlpemw1MG9KN3UzNXVTM2FMZU9LejQ0Q0N1UUo5ZGlQSS00UU1JVVhBQ2hkQXhDejhHeVZuZm9oak9QVG1JcS1Ka0l3bkR0X0lEYnBCdElHUWpGc2FYVUlxbThxY1Vvenh6emtyckdLOHMyclR1SV9COE45MHRzY0tmZUNZb3NiR0dWZm0tTXNTS3A4R0lPNUs2VTA1d2N5RXV1dWJHSm1laGhJUzl6WEgyakpnOXA0cXA5eTNDQVZ6amhPUTlwbTY5eW9CYXFxWW1PQTNnV0dJQ0ZvUmxIMHJoNF9RWm1QdkVORjFNYnJPZnhiWUVLN2wxdkZId3dGRWFjb1hraWk0UFp4VHQ1R1paSnNKbTNEUXVyZEpfYVBBVS1ZazU0T0tpSXl2bmlVY1g3VlVQX0lxUDdaQQ?oc=5"
         },
         {
-            "title": "玉山排雲山莊有人想降國旗「掛洋流旗」玉管處證實了",
-            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ZR2REdmUtR3hFek9VUDRJaGd3NnlLNTdlWEhEMVFCYzV1VFg3Y1cyQ3U0ckt1S3ZycUhyVFItOExteTVaNkR1TDhnc3VLNXc5VWw0S0RWOVhaTlczX1hvd3ZLd1QxellqR2lmVzJn?oc=5"
+            "title": "選前大和解！秦慧珠蔣萬安大車掃前先握手破冰　蔣萬安喊話團結拚勝利",
+            "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5jUkhISHlfOFFWTk13V0NLY2lDMWZramszM3drUEY2U29PWU1HNTBTX3pEVWtsY1VTbS15YTd4ZFJKeWdaVklHddIBTEFVX3lxTFB5Wk5kR3lQTi16Z2F4Slhkb1Y2TkhqbUd2dmI1dllTYlZBTlNuV1FFeWFiTWM3aTJ0cjlFNDFWcGY3VWNieGZyNEpLYlQ?oc=5"
         },
         {
-            "title": "普發2萬恐不副署 李四川酸卓榮泰：給蘇家4000多萬很乾脆",
-            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBGWTdvaGRiVVJKZ2xxVGNoTmNJZDR0V1JZSHdta3ZlTDRZUlJmYkl5NzQyLVV2VEF6elB3QUMzcW5NNnZiSXhKTXdtQkFvWDNrX2Zv0gFYQVVfeXFMT0xaZUpPR2Y3UXVKZHVVSC1KX3R5WVJudHBlQURnSTZISlItUnV4RmRrd2hFb21TMW05bHhaMV9NVTFzVDN3R284dUwzYXNibk9DbHNoazdicA?oc=5"
+            "title": "選前之夜是否有神秘來賓？蔣萬安賣關子：讓我保密一下",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1MN0dLV0pXbHBLSXZZYm1lQ2ZkWDRRQlU4NmRDRDhhdVJNZ21oRjNjem1peS1xcHhKeVNPLU55cHF5N0NIMTBmR3NIalEzRnNNYnhN0gFYQVVfeXFMTzdoRmV6U0E2dkVoaGJaUmw1MXN1WjFMS0Q0SkJfeGRvRDE4SjlNQnQ2M1lkTW1vNmE4dks4LW4zQVQxSURoYVdlQVF1T003NkVUbng5ZFR5Sg?oc=5"
         },
         {
-            "title": "沈伯洋直播突爆「詭異意外」！本人秒變臉「霸氣反殺1句」網狂挺",
-            "link": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxQYV9EMU54a0g0TUJHRVo4R2dkdzNWSkdUSTl3RkVNMWFhaEF1dW5aS3pFQ1h1RmM5aXhUYzFYei0wc20wUHlVX3lhTVFoQkdtbjBuNWplZU1ZRnpLTzkzQU5jQmF4Y29DWXFHMzhMWl9rNmRocDFGVURxbWl2YjdyeURXN05BMS1TUy1uTm5lVWxjVHJEZDhrX1BWS1hRY2w4bWpna1QtUjVfbVU3SDctNXFIRU0zZzVKZzhmVGktNVkzTm5fRUlwQnlfd2R0VDI1M2NkNUFyQXlPVEdjWndCalJGeG1vQ3UzRW9WYVJoS3dGd01hUDNkbjFCcFBrOXZVLWtzcG1ab0FZei0wWTVqOGtUOGdrUURBM1RaRVFiSFExajcxRC1mMG5ycks5eWhSUzZjZjNzRnJJbVFWWW5rc3hkb1lVenhzT3pCVjZvWHJvaXFxMmNpdWhpSkQ1YmpWS2dtQmdrV0tyN3FmQ2Y5TVhHS3hUblZRY3c?oc=5"
+            "title": "紅戰袍穿11年耐穿又保暖 蔣萬安：不用換、就跟市長一樣",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBBTFVQeUM4TzhmcjB5MExYLUk0OHdQcWxaRnJ5S2dnY2xhZTdFOWpTaTh3QUd6UGZLYkhIN1BjV0FqRHVSdTdvbW9ESFk5MnZPM2040gFYQVVfeXFMTnJjWVVkN0NDVHRvUk9yQ25FVVZ6eThTWmktX0pkSllIcHhScG5uZHVjYXR4MDlET2syb1NqRXVObUo1bUd4NURLNEd0ZHJXa1llMGFNVVhHSA?oc=5"
         }
     ]
 }
